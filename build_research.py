@@ -83,7 +83,11 @@ def organization_key(value: str) -> str:
         (r"^(?:biat tunisie|banque internationale arabe de tunisie)$", "biat"),
         (r"^inetum(?: tunisie)?$", "inetum"),
         (r"^rhis (?:software|solutions)$", "rhis solutions"),
-        (r"^yonnov ia(?: sas)?$", "yonnov ia"),
+        (r"^yonnov ?ia(?: sas)?$", "yonnov ia"),
+        (r"^murex(?: s a s)?$", "murex"),
+        (r"^sosyo plus bilgi bil tekn dan hiz tic a s$", "insider"),
+        (r"^novino ?ai$", "novinopath"),
+        (r"^suez (?:eau|r v) france$", "suez france"),
         (r"^binit(?: nearshore service|ns)$", "binit nearshore service"),
         (r"^centre national (?:de l |d )informatique$", "centre national informatique"),
         (r"^orange(?: tunisie)?$", "orange tunisie"),
@@ -112,6 +116,16 @@ def organization_key(value: str) -> str:
         (r"^societe tunisienne de l electricite et du gaz(?: steg)?$", "steg"),
         (r"^groupe chimique tunisien(?: gct| sfax)?$", "groupe chimique tunisien"),
         (r"^centre informatique du ministere de la sante(?: cims)?$", "centre informatique du ministere de la sante"),
+        (r"^airbus(?: commercial)?$", "airbus"),
+        (r"^arhs group(?: part of accenture)?$", "arhs group"),
+        (r"^feat ?way$", "featway"),
+        (r"^ixias(?: srl)?(?: be 0767 498 939)?$", "ixias"),
+        (r"^onrtech$", "onertech"),
+        (r"^universite teluq(?: quebec)?$", "universite teluq"),
+        (r"^ecole de technologie superieure(?: ets)?(?: montreal)?$", "ecole de technologie superieure ets"),
+        (r"^universite du quebec en abitibi temiscamingue(?: uqat)?$", "universite du quebec en abitibi temiscamingue"),
+        (r"^universite du quebec a rimouski(?: campus de levis)?$", "universite du quebec a rimouski"),
+        (r"^universite du quebec a trois rivieres$", "universite du quebec a trois rivieres"),
     ]
     for pattern, canonical in alias_rules:
         if re.fullmatch(pattern, key):
@@ -220,9 +234,13 @@ def contains_term(text: str, term: str) -> bool:
 
 def classify_address(address: str) -> tuple[str, str, bool, str]:
     text = " " + ascii_norm(address) + " "
-    # An explicit Tunis/Ariana locality takes precedence over country names
-    # embedded in Tunisian street names (Rue de l'Égypte, Avenue de France,
-    # Avenue de Madrid, etc.).
+    # A named Tunisian city outside the accepted perimeter takes precedence
+    # over wording such as "Route de Tunis, Sfax". Without this ordering,
+    # the destination in a street name is mistaken for the actual city.
+    if any(contains_term(text, term) for term in OTHER_TUNISIA_TERMS):
+        return "Exclue — autre ville tunisienne", "Tunisie", False, "Adresse CSV hors Tunis et Ariana"
+    # An explicit Tunis/Ariana locality then takes precedence over foreign
+    # country names embedded in local street names (Avenue de France, etc.).
     if any(contains_term(text, term) for term in TUNIS_TERMS):
         return "Tunis", "Tunisie", True, "Adresse CSV dans le gouvernorat de Tunis"
     if any(contains_term(text, term) for term in ARIANA_TERMS):
@@ -230,9 +248,6 @@ def classify_address(address: str) -> tuple[str, str, bool, str]:
     for country, terms in FOREIGN_COUNTRY_TERMS.items():
         if any(contains_term(text, term.strip()) for term in terms):
             return "Étranger", country, True, "Adresse CSV située à l’étranger"
-    if any(contains_term(text, term) for term in OTHER_TUNISIA_TERMS):
-        return "Exclue — autre ville tunisienne", "Tunisie", False, "Adresse CSV hors Tunis et Ariana"
-
     # Foreign city and postal patterns are considered only after Tunisian
     # locations, preventing false positives caused by local street names.
     for country, terms in FOREIGN_TERMS.items():
@@ -407,6 +422,59 @@ def choose_location(rows: list[dict[str, str]]) -> tuple[str, str, bool, str]:
     return "Exclue — autre ville tunisienne", "Tunisie", False, "Toutes les adresses CSV sont hors Tunis et Ariana"
 
 
+TUNISIAN_ACADEMIC_PUBLIC_PATTERNS = (
+    r"\blaboratoire\b", r"\buniversity\b", r"\buniversite\b", r"\bfaculte\b",
+    r"\binstitut superieur\b", r"\becole nationale\b", r"\bcentre de recherche\b",
+    r"\bcentre national\b", r"\bministere\b", r"\bhopital\b", r"\bchu\b",
+    r"\bagence nationale\b", r"\boffice national\b", r"\bresearch center\b",
+    r"\binstitut national\b", r"\binstitution de la recherche\b",
+    r"\bcaisse nationale\b", r"\bagence fonciere industrielle\b",
+    r"\bcentre de formation et d appui a la decentralisation\b",
+    r"\bcentre africain de perfectionnement\b", r"\bmilitary research\b",
+    r"\blarodec\b", r"\blamsin\b", r"\blara enit\b", r"\blabo cristal\b",
+    r"^steg$", r"^tunisie telecom$", r"^telecom tunisie$", r"^telecom$",
+    r"^tunisair$",
+)
+
+
+def is_excluded_tunisian_public_academic(name: str, country: str) -> bool:
+    """Apply the user's exclusion of Tunisian academic/research/public bodies.
+
+    Commercial companies and banks remain in scope even when the state owns a
+    stake; the exclusion targets administrations, public agencies, hospitals,
+    faculties, universities and research laboratories.
+    """
+    if country != "Tunisie":
+        return False
+    normalized = ascii_norm(name)
+    return any(re.search(pattern, normalized) for pattern in TUNISIAN_ACADEMIC_PUBLIC_PATTERNS)
+
+
+FOREIGN_NON_COMPANY_PATTERNS = (
+    r"universite", r"\buniversity\b", r"\bfaculte\b", r"\blaboratoire\b",
+    r"\blaboratory\b", r"\bresearch lab\b", r"\bresearch institute\b",
+    r"\bdepartment of\b", r"\becole de technologie\b", r"\becole centrale\b",
+    r"\bpolytech\b", r"\btelecom sudparis\b", r"\bimt nord europe\b",
+    r"\bensta bretagne\b", r"\besigelec\b", r"\boniris\b",
+    r"\bcollege of canada\b", r"\binstitut de la francophonie\b",
+    r"\bministere\b", r"\bcommissariat a l energie atomique\b",
+    r"\bqatar computing research institute\b",
+    r"\bschool of engineering\b", r"\bhochschule\b", r"\bhelmholtz zentrum\b",
+    r"\binstitute of reliable embedded systems\b", r"\bmanipal institute\b",
+    r"^commissariat.*energie atomique", r"^inrae labo", r"^disp$",
+    r"^cooperathon canada$", r"^citadel$",
+    r"^jeremy panouillat$", r"^systeme de recommandation de nourriture pour cuisine robotisee$",
+)
+
+
+def is_excluded_foreign_non_company(name: str, country: str) -> bool:
+    """Keep the foreign deliverable focused on companies, not academia/public bodies."""
+    if country in ("", "Tunisie"):
+        return False
+    normalized = ascii_norm(name)
+    return any(re.search(pattern, normalized) for pattern in FOREIGN_NON_COMPANY_PATTERNS)
+
+
 def build_records(source_rows: list[dict[str, str]]) -> list[dict[str, str]]:
     grouped: dict[str, list[dict[str, str]]] = defaultdict(list)
     for row in source_rows:
@@ -500,6 +568,64 @@ def build_records(source_rows: list[dict[str, str]]) -> list[dict[str, str]]:
         for field, value in override.items():
             if field != "organization_key" and value.strip():
                 record[field] = value.strip()
+        if is_excluded_tunisian_public_academic(record["organization_name"], record["country"]):
+            record.update({
+                "eligible": "Non",
+                "location_status": "Exclue — organisme public/académique tunisien",
+                "location_reason": "Faculté, université, laboratoire/centre de recherche ou organisme public tunisien exclu à la demande de l’utilisateur",
+                "target_roles": "Non applicable",
+                "match_score_10": "0.0",
+                "match_reason": "Exclu par la règle de périmètre",
+                "junior_status": "Non applicable",
+                "junior_evidence": "Non applicable",
+                "active_jobs": "Non applicable",
+                "linkedin_contact_name": "Non applicable",
+                "linkedin_contact_role": "Non applicable",
+                "linkedin_profile": "Non applicable",
+                "contact_verification": "Non applicable",
+                "verified_email": "Non applicable",
+                "email_status": "Non applicable",
+                "application_channel": "Non applicable",
+                "recommended_cv": "Non applicable",
+                "potential_score_100": "0",
+                "priority": "Exclu",
+                "email_subject": "",
+                "email_body": "",
+                "linkedin_invitation": "",
+                "linkedin_followup": "",
+                "verification_status": "Exclu — organisme public/académique tunisien",
+                "notes": "Exclu à la demande de l’utilisateur.",
+            })
+        if is_excluded_foreign_non_company(record["organization_name"], record["country"]):
+            record.update({
+                "eligible": "Non",
+                "location_status": "Exclue — organisme étranger non commercial",
+                "location_reason": "Université, laboratoire, établissement d’enseignement, organisme public ou entrée ne correspondant pas à une société",
+                "target_roles": "Non applicable",
+                "match_score_10": "0.0",
+                "match_reason": "Exclu du livrable consacré aux sociétés étrangères",
+                "junior_status": "Non applicable",
+                "junior_evidence": "Non applicable",
+                "foreign_employee_status": "Non applicable",
+                "foreign_employee_evidence": "Non applicable",
+                "active_jobs": "Non applicable",
+                "linkedin_contact_name": "Non applicable",
+                "linkedin_contact_role": "Non applicable",
+                "linkedin_profile": "Non applicable",
+                "contact_verification": "Non applicable",
+                "verified_email": "Non applicable",
+                "email_status": "Non applicable",
+                "application_channel": "Non applicable",
+                "recommended_cv": "Non applicable",
+                "potential_score_100": "0",
+                "priority": "Exclu",
+                "email_subject": "",
+                "email_body": "",
+                "linkedin_invitation": "",
+                "linkedin_followup": "",
+                "verification_status": "Exclu — organisme étranger non commercial",
+                "notes": "Exclu afin de réserver le fichier étranger aux sociétés.",
+            })
         if record["eligible"] == "Oui":
             try:
                 record["priority"] = priority(int(float(record["potential_score_100"])))
@@ -548,7 +674,7 @@ def write_markdown(records: list[dict[str, str]], source_count: int) -> None:
     excluded = [row for row in records if row["eligible"] != "Oui"]
     counts = Counter(row["location_status"] for row in records)
     verified_count = sum(
-        row["verification_status"].startswith("Vérifié manuellement")
+        row["verification_status"].startswith("Vérifié")
         for row in eligible
     )
     pending_count = len(eligible) - verified_count
@@ -565,9 +691,9 @@ def write_markdown(records: list[dict[str, str]], source_count: int) -> None:
         for row in records
     )
     lines = [
-        "# Recherche d’entreprises et candidatures personnalisées",
+        "# Entreprises privées — Tunis et Ariana",
         "",
-        f"> Généré le **{TODAY}** à partir de **{source_count} lignes**. Les scores de potentiel sont des indicateurs de priorisation, pas des probabilités d’embauche.",
+        f"> Généré le **{TODAY}** à partir de **{source_count} lignes source**. Ce fichier contient uniquement les organismes admissibles de Tunis et Ariana après exclusion des établissements académiques et organismes publics tunisiens. Les scores de potentiel sont des indicateurs, pas des probabilités d’embauche.",
         "",
         "## État de la recherche",
         "",
@@ -764,15 +890,23 @@ def write_foreign_markdown(records: list[dict[str, str]]) -> None:
 def main() -> None:
     source_rows = load_source()
     records = build_records(source_rows)
-    write_csv(records)
-    write_markdown(records, len(source_rows))
-    foreign_records = [row for row in records if row["location_status"] == "Étranger"]
+    local_records = [
+        row for row in records
+        if row["eligible"] == "Oui" and row["location_status"] in {"Tunis", "Ariana"}
+    ]
+    write_csv(local_records)
+    write_markdown(local_records, len(source_rows))
+    foreign_records = [
+        row for row in records
+        if row["eligible"] == "Oui" and row["location_status"] == "Étranger"
+    ]
     write_csv_to(FOREIGN_OUTPUT_CSV, foreign_records)
     write_foreign_markdown(records)
-    eligible = sum(row["eligible"] == "Oui" for row in records)
+    eligible = len(local_records) + len(foreign_records)
     print(f"Source rows: {len(source_rows)}")
     print(f"Consolidated organizations: {len(records)}")
     print(f"Eligible organizations: {eligible}")
+    print(f"Local private organizations: {len(local_records)}")
     print(f"CSV: {OUTPUT_CSV}")
     print(f"README: {OUTPUT_MD}")
     print(f"Foreign organizations: {len(foreign_records)}")

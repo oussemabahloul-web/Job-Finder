@@ -1,6 +1,6 @@
 # Entreprises situées hors de Tunisie
 
-> Généré le **2026-09-25**. Ce document contient uniquement les **191 organismes étrangers** identifiés dans la base consolidée.
+> Généré le **2026-09-25**. Ce document contient uniquement les **100 organismes étrangers** identifiés dans la base consolidée.
 
 ## Règles de lecture
 
@@ -14,229 +14,585 @@
 
 | Pays | Organismes |
 |---|---:|
-| France | 82 |
-| Canada | 43 |
-| Allemagne | 15 |
-| Luxembourg | 6 |
+| France | 45 |
+| Allemagne | 12 |
+| Canada | 6 |
 | Royaume-Uni | 6 |
-| États-Unis | 5 |
+| Luxembourg | 4 |
 | Pays-Bas | 4 |
-| Algérie | 3 |
+| États-Unis | 4 |
 | Mauritanie | 3 |
 | Suisse | 3 |
-| Australie | 2 |
-| Belgique | 2 |
 | Jordanie | 2 |
-| Sénégal | 2 |
-| Turquie | 2 |
 | Émirats arabes unis | 2 |
+| Algérie | 1 |
 | Arabie saoudite | 1 |
-| Burkina Faso | 1 |
-| Inde | 1 |
+| Australie | 1 |
+| Belgique | 1 |
 | Maroc | 1 |
 | Portugal | 1 |
-| Qatar | 1 |
 | Serbie | 1 |
 | Singapour | 1 |
-| Égypte | 1 |
+| Turquie | 1 |
 
 ## Tableau de priorité
 
 | Organisme | Pays | Domaine | Match /10 | Potentiel /100 | Priorité | Juniors | Candidats étrangers | Vérification |
 |---|---|---|---:|---:|---|---|---|---|
+| NXP | France | Semiconductors, embedded software, edge AI and Agentic AI | 9.6 | 86 | A — Très prioritaire | Oui — offre New Graduate active | Non vérifiable — candidature internationale à tenter | Vérifié — offre Agentic AI New Graduate active et fortement ciblée |
+| SOCIETE GENERALE | France | Banking, investment banking, Data/AI, GenAI, LLM/RAG, APIs, Azure and CI/CD | 9.4 | 84 | A — Très prioritaire | Oui — offre jeune diplômé active | Non vérifiable | Vérifié — offre AI Engineer jeune diplômé publiée hier, mobilité internationale non précisée |
+| Murex S.A.S | France | Capital-markets FinTech software, trading, risk, post-trade, Java/C++, DevOps and AI research | 9.7 | 82 | A — Très prioritaire | Oui — official graduate careers | Non vérifiable | Vérifié — excellente cible FinTech et poste Java actif, sponsoring France non documenté |
+| Airbus Commercial SAS | France | Aerospace, software engineering, Data, AI/GenAI, cloud and digital transformation | 9.1 | 78 | A — Très prioritaire | Oui — offres entry-level actives | Non vérifiable — habilitation de sécurité à contrôler | Vérifié — deux offres IA entry-level actives, admissibilité internationale à confirmer |
+| PINGME | France | HealthTech, AI/ML, LLMs, NLP and software engineering | 9.1 | 73 | B — Prioritaire | Oui — diplômé ENSI récent actuellement dans l’équipe | Oui/partiel — recrutement récent d’un diplômé ENSI tunisien observé | Vérifié — screening manuel ciblé |
+| ProgressSoft Corporation | Jordanie | FinTech, payment systems, digital banking and enterprise software | 9.0 | 73 | B — Prioritaire | Oui — poste Associate et programmes de stage | Non vérifiable | Vérifié — forte cible FinTech et offre Associate récente; mobilité non documentée |
+| CRAB Traceability Systems | Luxembourg | Computer vision, edge AI, hardware and circular-economy software | 9.1 | 72 | B — Prioritaire | Oui — trois stagiaires figurent dans l’équipe officielle | Partiel — équipe internationale visible, sponsoring non documenté | Vérifié — screening manuel ciblé |
+| Scorechain SA | Luxembourg | FinTech/RegTech, blockchain analytics, AML compliance, Data and SaaS | 8.8 | 72 | B — Prioritaire | Oui/partiel — poste classé premier emploi mais 2–5 ans demandés | Non vérifiable — relocalisation acceptée sans sponsoring explicite | Vérifié — offre React active et très forte adéquation FinTech/blockchain |
+| Deep Learn Strategies Limited | Royaume-Uni | Applied AI, deep learning, computer vision, time series, Agentic AI and financial analytics | 9.5 | 70 | B — Prioritaire | Oui — stages/PFE récents avec jeunes ingénieurs marocains | Oui/partiel — collaboration à distance avec le Maroc observée | Vérifié — adéquation AI/FinTech remarquable, petite structure sans poste public |
+| Neofacto | Luxembourg | IT consulting, software engineering, Data/AI, cloud, DevOps and finance | 8.2 | 70 | B — Prioritaire | Oui — junior, stages et intégration de stagiaires en CDI | Non vérifiable | Vérifié — plusieurs offres actuelles et culture junior, mais visa non documenté |
 | BNP Paribas | France | Banque internationale, assurance, IT, Data et intelligence artificielle | 9.1 | 69 | B — Prioritaire | Oui | Non vérifiable | Vérifié — offre IA active, mobilité internationale non précisée |
+| BMW Group | Allemagne | Automotive software, AI/ML, embedded systems, cybersecurity, cloud and full-stack development | 8.5 | 68 | B — Prioritaire | Oui — programme international Trainee actif | Non vérifiable — allemand courant demandé | Vérifié — programme Trainee IT & AI actif, barrière linguistique importante |
+| Move2cloud SAS | France | Cloud, DevOps, FinOps, AI, cybersecurity and software engineering | 9.0 | 68 | B — Prioritaire | Oui — stages 2026 et accompagnement junior démontrés; CDI actuels expérimentés | Partiel — implantation à Tunis vérifiée; mobilité France non documentée | Vérifié — screening manuel ciblé |
+| AGIIR NETWORK | France | IT services, managed infrastructure, software maintenance, Big Data and cloud | 8.1 | 67 | B — Prioritaire | Oui — un diplômé ENSI récent travaille dans l’entreprise et une développeuse récemment diplômée y est présente | Partiel — recrutement de profils tunisiens observé; mission actuelle localisée en France | Vérifié — screening manuel ciblé |
+| AzertyUI | France | Software development, web/mobile, cloud, AI agents, automation and cybersecurity | 8.7 | 66 | B — Prioritaire | Oui/partiel — collaboration avec un ingénieur tunisien vérifiée; anciennes offres techniques visibles | Oui/partiel — collaboration France-Tunisie documentée, sans politique de visa publiée | Vérifié — screening manuel ciblé |
+| CEDE Labs | France | FinTech/Web3; CEX connectivity, trading infrastructure, APIs and digital-asset data | 8.8 | 66 | B — Prioritaire | Possible — open general application, but experience level is not specified | Oui — remote openness observed; visa sponsorship non vérifiable | Vérifié — excellente cible FinTech, candidature ouverte et remote observé |
+| Move Logic | France | Generative AI, AI agents, Data Engineering, BI and automation for SMEs | 9.2 | 66 | B — Prioritaire | Non vérifiable — équipe de 2 à 10 personnes, sans offre publiée | Non vérifiable | Vérifié — screening manuel ciblé |
+| Dassault Systèmes | France | Industrial software, 3DEXPERIENCE, virtual twins, AI, simulation and cloud | 8.2 | 65 | B — Prioritaire | Oui — official graduate and entry-level programs | Non vérifiable | Vérifié — programmes graduate officiels, aucune offre française exacte retenue aujourd’hui |
+| Mosofty | France | Software engineering, AI, cloud, DevOps and IT consulting | 8.8 | 65 | B — Prioritaire | Oui — stages/PFE et recrutements IT observés, poste actuel ciblé confirmé | Partiel — activité à Tunis, mais l’offre France impose la résidence locale | Vérifié — screening manuel ciblé |
+| Syslearn | France | IT engineering and consulting: C++, Java, full-stack, AI, Data, cybersecurity and DevOps | 8.2 | 64 | B — Prioritaire | Non vérifiable — dépôt de CV ouvert | Non vérifiable | Vérifié — trois postes affichés et dépôt de CV officiel, critères détaillés non publiés |
+| Yonnov'IA | France | AI solutions, AI-powered ERP, automation and decision support | 9.0 | 63 | B — Prioritaire | Oui — stage pré-embauche antérieur et équipe jeune; aucune offre technique actuelle | Partiel — plusieurs collaborateurs tunisiens visibles; statut contractuel/visa non vérifiable | Vérifié — screening manuel ciblé |
+| MedicusClinic | États-Unis | HealthTech, LLM-powered medical consultation, AI automation and web platform | 8.5 | 62 | B — Prioritaire | Oui — stage QA junior récent; rôle AI non confirmé junior | Non vérifiable — présence à Varsovie | Vérifié — très bon fit HealthTech/LLM, localisation et niveau à confirmer |
+| Sosyo Plus Bilgi Bil. Tekn. Dan. Hiz. Tic. A.Ş. | Turquie | AI-native B2B SaaS, customer data platform, marketing technology and large-scale software | 8.5 | 62 | B — Prioritaire | Oui — programmes fresh graduate, mais poste ciblé mid-level | Non vérifiable — remote limité à la Turquie | Vérifié — très bon fit Agentic AI, mais rôle actif mid-level et localisé Turquie |
+| CODOC | France | HealthTech; health-data warehouse, DataOps, NLP/LLM, secure data platforms and SaaS | 8.0 | 61 | B — Prioritaire | Yes — internships, apprenticeships and permanent roles are recruited throughout the year | Non vérifiable | Vérifié — offres DataOps et QA actives, culture junior démontrée, mobilité non documentée |
+| Orange Gardens | France | Telecommunications, AI/Data, cybersecurity, cloud, software development and digital services | 8.1 | 61 | B — Prioritaire | Oui — Orange Graduate Program | Non vérifiable | Vérifié — Graduate Program et filières IA/Data/Cloud officiels, sponsoring non documenté |
+| Shanon Technologies | France | Embedded software, digital signal processing, control systems and hardware | 8.2 | 61 | B — Prioritaire | Oui/partiel — équipe jeune et internationale, avec ingénieurs tunisiens | Oui/partiel — plusieurs profils tunisiens dans l’équipe; contrat et visa non documentés | Vérifié — screening manuel ciblé |
+| Knowlepsy Investment | France | HealthTech, predictive analytics, real-world health data and AI | 8.7 | 59 | B — Prioritaire | Non vérifiable — startup France-Tunisie, sans page carrières active trouvée | Partiel — structure France-Tunisie observée, modalités non publiées | Vérifié — screening manuel ciblé |
+| Synapse DX | Portugal | AI document processing, LLMs, inference engines, APIs and banking back-office automation | 9.1 | 59 | B — Prioritaire | Non vérifiable | Non vérifiable | Vérifié — fit excellent, mais aucune ouverture publique actuelle |
+| BMCI | Mauritanie | Banking, digital financial services and FinTech innovation | 8.8 | 58 | B — Prioritaire | Non vérifiable pour l’IT junior; la banque recrute publiquement mais l’offre repérée demandait 2 ans | Partiel — candidature régionale possible, conditions pour un Tunisien non publiées | Vérifié — screening manuel ciblé |
+| FEATWAY | France | HRIS consulting, HR analytics, BI, Data and digital transformation | 7.9 | 58 | B — Prioritaire | Non vérifiable — pages métiers accessibles sans indication claire d’expérience junior | Non vérifiable | Vérifié — screening manuel ciblé |
+| FinData, LtD | Mauritanie | Data infrastructure, analytics, BI, AI/ML and financial-sector modernization | 8.7 | 58 | B — Prioritaire | Oui — juniors mentionnés, mais aucune offre junior active | Non vérifiable | Vérifié — excellente cible Data/finance, candidature junior spontanée |
+| kshuttle | France | RegTech/FinTech SaaS; financial and ESG regulatory reporting, Data governance, APIs and AI | 9.0 | 58 | B — Prioritaire | Yes — young-talent hiring demonstrated | Non vérifiable | Vérifié — adéquation FinTech/Data exceptionnelle et culture jeunes talents, aucun poste actif confirmé |
+| CloudSquid | Allemagne | Agentic AI for enterprise finance, procurement, operations and compliance workflows | 9.3 | 57 | B — Prioritaire | No active role | Non vérifiable | Vérifié — correspondance exceptionnelle, mais aucun poste ouvert et mobilité non documentée |
+| NST Groupe | France | IT consulting, software engineering, banking systems and industrial automation | 7.9 | 57 | B — Prioritaire | Oui — PFE d’ingénieur documenté; postes actuels visibles confirmés | Partiel — liens Tunisie solides; missions France actuelles réservées aux résidents | Vérifié — screening manuel ciblé |
+| AIMIGO SAS | France | EdTech, adaptive AI, generative AI and language learning | 8.6 | 55 | B — Prioritaire | Non vérifiable — équipe internationale, sans offre junior actuelle | Non vérifiable | Vérifié — screening manuel ciblé |
+| Aicentive GmbH | Allemagne | AI-based industrial energy optimization, Data Science and energy management software (the current brand is encentive) | 8.3 | 54 | C — À tenter | Yes — internships and working-student roles are active, but no matching junior engineering vacancy | Non vérifiable | Vérifié — excellente adéquation IA/Data, candidature spontanée active, mobilité internationale non documentée |
+| ONRTECH | France | Web/mobile development, IoT, AI, finance and business intelligence | 8.4 | 53 | C — À tenter | Oui — accueil PFE documenté; premier CDI non vérifiable | Non vérifiable | Vérifié — screening manuel ciblé |
+| neusta inspire GmbH | Allemagne | Atlassian consulting, DevOps, cloud migration, application operations and software development | 7.2 | 52 | C — À tenter | Yes — official page explicitly welcomes IT newcomers | Non vérifiable | Vérifié — nouveaux entrants acceptés et candidature spontanée ouverte, mobilité non documentée |
+| Omnidata | Maroc | IT services, banking and telecom software, digital transformation, QA and enterprise systems | 7.4 | 52 | C — À tenter | Non confirmé dans les offres actuelles | Non vérifiable | Vérifié — bonne cible générale, mais postes actuels trop expérimentés |
+| SMARTOVATE LTD | Royaume-Uni | AI agents, cloud, DevOps, cybersecurity, Data and EdTech | 8.3 | 51 | C — À tenter | Oui — très ouverte aux stagiaires et jeunes diplômés | Oui — télétravail/stages internationaux observés | Vérifié — junior-friendly et Tunisie-friendly, mais offre actuelle limitée au PFE |
+| Amalytics | France | HealthTech; AI automation for clinical-trial data entry and eCRF workflows | 8.5 | 49 | C — À tenter | Non vérifiable | Non vérifiable | Vérifié — forte adéquation IA, mais aucune offre ni voie internationale confirmée |
 | Cyclope.ai | France | Intelligence artificielle, Computer Vision, Deep Learning et logiciels pour infrastructures routières | 8.2 | 49 | C — À tenter | Non vérifiable | Non vérifiable | Vérifié — candidature spontanée officielle, niveau junior et mobilité non documentés |
-| Laboratoire CNRS-IRIT(institut de recherche en informatique Toulouse) | France | Recherche publique en informatique, IA, Data, NLP, systèmes, réseaux et interaction humain-machine | 8.4 | 45 | C — À tenter | Oui, selon les projets | Non vérifiable | Vérifié — forte proximité scientifique, mais offre junior 2026 clôturée et mobilité non documentée |
+| Estarta Solutions | Jordanie | IT services, networking, customer support, software engineering, cloud and AI integration | 7.0 | 49 | C — À tenter | Oui — graduate jobs et formations observés | Non vérifiable | Vérifié — entreprise pertinente, mais aucune offre software junior active confirmée |
+| MFBF Technologies | Émirats arabes unis | Cloud, DevOps, FinOps, automation, AI-driven IT operations and application modernization | 8.2 | 48 | C — À tenter | Non vérifiable — aucune page carrières publique identifiée | Non vérifiable | Vérifié — screening manuel ciblé |
+| PlanBlue Gmbh | Allemagne | Marine technology, AI-driven imaging, computer vision, data science and embedded systems | 7.8 | 48 | C — À tenter | Historique d'étudiants/stages; aucune offre junior active confirmée | Oui/partiel — équipe internationale et relocation pour le poste senior | Vérifié — société très pertinente, mais aucun poste junior actuel |
+| ARHS GROUP - Part of Accenture | Luxembourg | IT consulting, software development, Data Science, ML, cloud, cybersecurity and public-sector systems; part of Accenture | 7.7 | 47 | C — À tenter | Junior hiring historically possible; no suitable junior vacancy confirmed | Non vérifiable | Vérifié — bonne adéquation technique, mais offres luxembourgeoises actuelles expérimentées |
+| NovinoAI | États-Unis | Digital pathology, cloud LIS/IMS, medical imaging AI and healthcare software | 7.7 | 47 | C — À tenter | Non vérifiable | Oui/partiel — entreprise remote-first | Vérifié — HealthTech IA pertinente et remote-first, aucune offre actuelle |
+| Fysali SAS | France | Digital Health, connected medical monitoring, signal processing and software | 7.4 | 46 | C — À tenter | Non vérifiable — aucune offre ni historique junior identifié | Non vérifiable | Vérifié — screening manuel ciblé |
+| Radix Engineering and Software | États-Unis | Ingénierie numérique industrielle, logiciels, automatisation, Data/IA, asset performance et supply chain | 8.2 | 46 | C — À tenter | Oui globalement — fresh graduates explicitement bienvenus | Non vérifiable | Vérifié — entreprise étrangère junior-friendly, aucune voie internationale adaptée confirmée |
+| AUTRIS | France | Automation, intelligent systems, robotics and AI | 8.0 | 45 | C — À tenter | Non vérifiable | Non vérifiable | Vérifié — screening manuel ciblé |
+| SNCF RESEAU | France | Rail infrastructure, software, Data/AI, cybersecurity, IoT and digital transformation | 7.5 | 45 | C — À tenter | Oui — nombreuses offres débutant, surtout stages/alternances | Non vérifiable | Vérifié — grand employeur junior-friendly, mais aucune offre CDI junior exacte aujourd'hui |
+| WSK Medical | Pays-Bas | Medical AI, computer vision, deep learning, video analysis and digital pathology | 7.8 | 45 | C — À tenter | Oui historiquement; aucune offre actuelle confirmée | Non vérifiable | Vérifié — société HealthTech IA pertinente, aucune offre actuelle |
+| Fourity | Serbie | Web/mobile product development, React, TypeScript, Node.js, AWS and serverless | 7.6 | 44 | C — À tenter | Non — aucune offre junior active confirmée | Non vérifiable | Vérifié — excellente stack, mais offre actuelle senior |
 | Assist you group bv | Pays-Bas | IA conversationnelle, voice agents, LLM, cloud et intégration de solutions pour entreprises | 8.6 | 43 | C — À tenter | Oui — début de carrière avec 1–2 ans demandés | Non — pour l'offre actuelle selon les critères linguistiques; visa non vérifiable | Vérifié — offre officielle accessible, inadéquation linguistique majeure et mobilité non documentée |
-| Laboratoire d'Informatique Signal et Image de la Côte d'Opale, Université Littorale de la Côte d'Opale | France | IA / Data / Logiciel | 8.5 | 42 | C — À tenter | Non trouvé/non vérifiable | Non vérifiable | Localisation vérifiée — recrutement à rechercher |
-| Ovidius AI B.V. | Pays-Bas | IA / Data / Logiciel | 8.5 | 42 | C — À tenter | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| Responsible Cyber | Singapour | IA / Data / Logiciel | 8.5 | 42 | C — À tenter | Non trouvé/non vérifiable | Non vérifiable | Localisation vérifiée — recrutement à rechercher |
-| Université Concordia — Department of Computer Science and Software Engineering (CSSE) | Canada | IA / Data / Logiciel | 8.5 | 42 | C — À tenter | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| Université Concordia — Department of Electrical and Computer Engineering (ECE) | Canada | IA / Data / Logiciel | 8.5 | 42 | C — À tenter | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| Warp Analytics | Égypte | IA / Data / Logiciel | 8.5 | 42 | C — À tenter | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| ACADIA University | Canada | Recherche / Enseignement | 7.5 | 40 | C — À tenter | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| Concordia University | Canada | Recherche / Enseignement | 7.5 | 40 | C — À tenter | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| Concordia University - Montréal | Canada | Recherche / Enseignement | 7.5 | 40 | C — À tenter | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| Dalhousie University | Canada | Recherche / Enseignement | 7.5 | 40 | C — À tenter | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| Ecole de technologie supérieurs (ETS) | Canada | Recherche / Enseignement | 7.5 | 40 | C — À tenter | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| Efrei Research Lab, Paris Panthéon-Assas Université | France | Recherche / Enseignement | 7.5 | 40 | C — À tenter | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| Institut de la Francophonie pour l’Education et la Formation (IFEF) | Sénégal | Recherche / Enseignement | 7.5 | 40 | C — À tenter | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| Institut de la Francophonie pour l’Éducation et la Formation (IFEF) - OIF | Sénégal | Recherche / Enseignement | 7.5 | 40 | C — À tenter | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| IOT Lab at Carleton University | Canada | Recherche / Enseignement | 7.5 | 40 | C — À tenter | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| L'ÉTS (École de technologie supérieure) de Montréal | Canada | Recherche / Enseignement | 7.5 | 40 | C — À tenter | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| Laboratoire de Technologies Innovantes (LTI), Université de Picardie Jules Verne | France | Recherche / Enseignement | 7.5 | 40 | C — À tenter | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| Laboratoire de Tribologie et Dynamique des Systèmes \| UMR 5513 \| Ecole Centrale de Lyon | France | Recherche / Enseignement | 7.5 | 40 | C — À tenter | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| Laboratoire DYNAFOR | France | Recherche / Enseignement | 7.5 | 40 | C — À tenter | Non trouvé/non vérifiable | Non vérifiable | Localisation vérifiée — recrutement à rechercher |
-| Laboratoire STILL, Ecole de technologie supérieurs (ETS) | Canada | Recherche / Enseignement | 7.5 | 40 | C — À tenter | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| LIMICS, Université Sorbonne Paris Nord | France | Recherche / Enseignement | 7.5 | 40 | C — À tenter | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| LS2N Laboratory | France | Recherche / Enseignement | 7.5 | 40 | C — À tenter | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| Oakland University | États-Unis | Recherche / Enseignement | 7.5 | 40 | C — À tenter | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| Ontario Tech University | Canada | Recherche / Enseignement | 7.5 | 40 | C — À tenter | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| Qatar Computing Research Institute | Qatar | Recherche / Enseignement | 7.5 | 40 | C — À tenter | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| Simon Fraser University | Canada | Recherche / Enseignement | 7.5 | 40 | C — À tenter | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| TÉLUQ University | Canada | Recherche / Enseignement | 7.5 | 40 | C — À tenter | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| Unité de Catalyse et Chimie du Solide, Université d’Artois, Faculté des Sciences Jean Perrin | France | Recherche / Enseignement | 7.5 | 40 | C — À tenter | Non trouvé/non vérifiable | Non vérifiable | Localisation vérifiée — recrutement à rechercher |
-| UNIVERSITE DU LITTORAL COTE D’OPALE - ULCO | France | Recherche / Enseignement | 7.5 | 40 | C — À tenter | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| Université de Chicoutimi | Canada | Recherche / Enseignement | 7.5 | 40 | C — À tenter | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| Université de Limoges | France | Recherche / Enseignement | 7.5 | 40 | C — À tenter | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| Université de Moncton | Canada | Recherche / Enseignement | 7.5 | 40 | C — À tenter | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| Université de Reims Champagne-Ardenne, laboratoire CReSTIC Reims | France | Recherche / Enseignement | 7.5 | 40 | C — À tenter | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| Université de Sherbrooke | Canada | Recherche / Enseignement | 7.5 | 40 | C — À tenter | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| Université du Luxembourg | Luxembourg | Recherche / Enseignement | 7.5 | 40 | C — À tenter | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| Université du Québec en Abitibi-Témiscamingue | Canada | Recherche / Enseignement | 7.5 | 40 | C — À tenter | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| Université du Québec en Abitibi-Témiscamingue, UQAT | Canada | Recherche / Enseignement | 7.5 | 40 | C — À tenter | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| Université du Québec à Chicoutimi | Canada | Recherche / Enseignement | 7.5 | 40 | C — À tenter | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| Université du Québec à Rimouski | Canada | Recherche / Enseignement | 7.5 | 40 | C — À tenter | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| Université du Québec à Rimouski - Campus de Lévis | Canada | Recherche / Enseignement | 7.5 | 40 | C — À tenter | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| Université du Québec à Trois-Rivières | Canada | Recherche / Enseignement | 7.5 | 40 | C — À tenter | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| Université du Québec à Trois‐Rivières | Canada | Recherche / Enseignement | 7.5 | 40 | C — À tenter | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| Université Laval | Canada | Recherche / Enseignement | 7.5 | 40 | C — À tenter | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| Université Laval unité de recherche CIRRELT | Canada | Recherche / Enseignement | 7.5 | 40 | C — À tenter | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| Université Paris-Est Créteil (UPEC) | France | Recherche / Enseignement | 7.5 | 40 | C — À tenter | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| Université Polytechnique Montréal | Canada | Recherche / Enseignement | 7.5 | 40 | C — À tenter | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| Université Sorbonne Paris Nord | France | Recherche / Enseignement | 7.5 | 40 | C — À tenter | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| Université TÉLUQ | Canada | Recherche / Enseignement | 7.5 | 40 | C — À tenter | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| Université TÉLUQ - Québec | Canada | Recherche / Enseignement | 7.5 | 40 | C — À tenter | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| UTTOP (Université de Technologie de Tarbes) | France | Recherche / Enseignement | 7.5 | 40 | C — À tenter | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| Wilfrid Laurier University | Canada | Recherche / Enseignement | 7.5 | 40 | C — À tenter | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| Winnipeg university | Canada | Recherche / Enseignement | 7.5 | 40 | C — À tenter | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| École de Technologie Supérieure (ÉTS) | Canada | Recherche / Enseignement | 7.5 | 40 | C — À tenter | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| École de technologie supérieure - ÉTS Montréal | Canada | Recherche / Enseignement | 7.5 | 40 | C — À tenter | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| Nour Energie | Algérie | Télécom / Électronique / Industrie | 7.0 | 39 | C — À tenter | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| TELECOM SudParis | France | Télécom / Électronique / Industrie | 7.0 | 39 | C — À tenter | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| Télécom SudParis (Évry/Palaiseau, France), SAMOVAR Lab | France | Télécom / Électronique / Industrie | 7.0 | 39 | C — À tenter | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
+| Memoways | Suisse | No-code software, digital transformation and applied open-source LLM experimentation | 7.8 | 43 | C — À tenter | Non — aucune preuve récente d’embauche junior | Non vérifiable | Vérifié — screening manuel ciblé |
+| SOWISO BV | Pays-Bas | EdTech SaaS, adaptive STEM learning, assessment and educational software | 7.0 | 42 | C — À tenter | Non vérifiable | Non vérifiable | Vérifié — cible EdTech pertinente, aucune offre technique actuelle |
+| JAWAKER | Émirats arabes unis | Mobile gaming, backend services, product engineering and data | 6.9 | 39 | C — À tenter | Non vérifiable | Non vérifiable | Vérifié — entreprise produit pertinente, aucune ouverture junior confirmée |
+| Ovidius AI B.V. | Pays-Bas | Conseil et réalisation de systèmes GenAI, agents IA, RAG, automatisation n8n et intégration d'IA en environnements réglementés | 9.1 | 39 | C — À tenter | Non — pas pour les besoins publics consultés | Non pour l'offre actuelle | Vérifié — excellente adéquation technique, mais besoins expérimentés et implantation US obligatoire |
+| SUEZ R&V France | France | Environmental services, water/waste operations, Data/AI and digital solutions | 6.8 | 39 | C — À tenter | Oui — relations écoles et jeunes diplômés; aucune offre cible confirmée | Non vérifiable | Vérifié — Data/IA présente, aucune offre junior IT exacte confirmée |
 | Apate.ai | Australie | FinTech, lutte contre la fraude, agents conversationnels et intelligence artificielle agentique | 8.8 | 38 | C — À tenter | Partiel — junior observé hors technique | Non vérifiable | Vérifié — excellente adéquation métier, aucune ouverture technique junior et mobilité non documentée |
-| Macquarie University Cyber Security Hub | Australie | Recherche universitaire en cybersécurité, confidentialité, IA, NLP et détection de menaces | 8.0 | 37 | C — À tenter | Oui, ponctuellement par stages et postes d'assistant de recherche | Oui, sous conditions et selon le poste | Vérifié — bon alignement scientifique, aucune ouverture junior actuelle |
-| Ministère de la justice français | France | Secteur public / Institution | 5.5 | 36 | C — À tenter | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| WSK Medical | Pays-Bas | Santé | 5.5 | 36 | C — À tenter | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
+| Meddevo | Allemagne | MedTech regulatory-documentation software, APIs and digital workflows | 6.9 | 38 | C — À tenter | Spontaneous applications accepted; no matching junior vacancy confirmed | Non | Vérifié — candidature spontanée ouverte, mais travail limité à l’Allemagne et exigence linguistique défavorable |
+| Meta | Royaume-Uni | Large-scale software, AI/ML, infrastructure, AR/VR and product engineering | 7.2 | 37 | C — À tenter | Oui historiquement; aucune offre graduate London confirmée | Non vérifiable | Vérifié — employeur possible mais aucune offre graduate London confirmée |
+| Responsible Cyber | Singapour | Cybersécurité, gouvernance des risques tiers, conformité et plateforme IA IMMUNE X-TPRM | 7.6 | 37 | C — À tenter | Oui historiquement, situation actuelle non vérifiable | Non vérifiable | Vérifié — bonne piste cyber/risque, recrutement et mobilité non vérifiables |
+| Ixias  (BE 0767.498.939) | Belgique | Micro IT consultancy focused on Java software, design and testing | 6.8 | 35 | C — À tenter | Non vérifiable | Non vérifiable | Vérifié — micro-entreprise active, potentiel de recrutement faible |
+| Azertysoft | Canada | IT services and software consulting | 6.5 | 34 | D — Faible priorité | Non vérifiable | Non vérifiable | Vérifié — screening manuel ciblé |
 | Kauz GmbH | Allemagne | Plateforme GenAI, CompanyGPT, chatbots, agents IA, RAG, workflows et NLP | 8.8 | 34 | D — Faible priorité | Oui, mais ouverture actuelle hors profil | Non vérifiable | Vérifié — forte adéquation technique, mais aucune offre technique junior et mobilité non documentée |
-| Adias | Mauritanie | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| Advensia GmbH | Allemagne | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | Localisation vérifiée — recrutement à rechercher |
-| AGIIR NETWORK | France | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | Localisation vérifiée — recrutement à rechercher |
-| Aicentive GmbH | Allemagne | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| AIMIGO SAS | France | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| Airbus | France | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| Airbus Commercial SAS | France | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| Alta Via Consulting GmbH | Allemagne | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| Amalytics | France | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| ARHS Group | Luxembourg | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| ARHS GROUP - Part of Accenture | Luxembourg | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| AUTRIS | France | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| Azertysoft | Canada | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| AzertyUI | France | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| BA-CONSULTING | France | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| BMCI | Mauritanie | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| BMW Group | Allemagne | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| calgra group | Royaume-Uni | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| CEDE Labs | France | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| CITADEL | Burkina Faso | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| CloudSquid | Allemagne | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| CODOC | France | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| Commissariat à l’énergie atomique et aux énergies alternatives-CEA | France | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| Coopérathon Canada | Canada | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| cordya | Canada | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| Cosider canalisation pôle H31 | Algérie | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| CRAB Traceability Systems | Luxembourg | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| Dassault Systèmes | France | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| Deep Learn Strategies Limited | Royaume-Uni | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| DISP | France | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| ENSTA Bretagne | France | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | Localisation vérifiée — recrutement à rechercher |
-| Envite Consulting GmbH | Allemagne | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| ESIGELEC | France | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | Localisation vérifiée — recrutement à rechercher |
-| ESS-Mondial GmbH | Allemagne | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | Localisation vérifiée — recrutement à rechercher |
-| Estarta Solutions | Jordanie | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | Localisation vérifiée — recrutement à rechercher |
-| Eurocom | France | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| EUROPEA CONSULTING | France | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| Feat Way | France | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| FEATWAY | France | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| FinData, LtD | Mauritanie | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| Fourity | Serbie | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | Localisation vérifiée — recrutement à rechercher |
-| Fysali SAS | France | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| GetBrandee | France | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| Groupe ELAN | Suisse | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| Helmholtz-Zentrum Hereon | Allemagne | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| Hendrik Thurau Enterprises | Suisse | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| Hochschule Offenburg | Allemagne | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | Localisation vérifiée — recrutement à rechercher |
-| IMT Nord Europe | France | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| INRAE-Labo DYNAFOR | France | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| Insider | Turquie | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| Institute of Reliable Embedded Systems and Communication Electronics (ivESK) | Allemagne | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | Localisation vérifiée — recrutement à rechercher |
-| INTELLIGENT CONEPTS | France | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| ITGate | Algérie | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| Ixias  (BE 0767.498.939) | Belgique | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| Ixias SRL | Belgique | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| JAWAKER | Émirats arabes unis | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | Localisation vérifiée — recrutement à rechercher |
-| Jeremy Panouillat | France | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| Jérémy Panouillot | France | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| Karwisoft inc. | Canada | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| Knowlepsy Investment | France | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| kshuttle | France | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| LeadAi | France | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| Les solutions de vente XSALE | Canada | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| L’Université du Québec en Abitibi-Témiscamingue | Canada | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| M-TECH | France | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| Manipal Institute of Technology (MIT), MAHE | Inde | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| Meddevo | Allemagne | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | Localisation vérifiée — recrutement à rechercher |
-| MedicusClinic | États-Unis | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| Memoways | Suisse | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| Meta | Royaume-Uni | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| MFBF Technologies | Émirats arabes unis | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| Mosofty | France | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| Move Logic | France | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| Move2cloud SAS | France | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| Murex S.A.S | France | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| Neofacto | Luxembourg | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| neusta inspire GmbH | Allemagne | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | Localisation vérifiée — recrutement à rechercher |
-| NEXUS TARGET SASU | France | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| NODX-PARTNER | France | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| NovinoAI | États-Unis | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| NovinoPath | États-Unis | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| Novobit Group GmbH | Allemagne | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| NST Groupe | France | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| NXP | France | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| Olab Dynamics | France | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| OliveSoft | France | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| Omnidata | Maroc | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| Onertech | France | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| Oniris | France | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| ONRTECH | France | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| Orange Gardens | France | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| Papritech Ltd | Royaume-Uni | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| PIGE INU LTD | Royaume-Uni | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| PINGME | France | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| PlanBlue Gmbh | Allemagne | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | Localisation vérifiée — recrutement à rechercher |
-| PLATANA | France | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| Polytech Annecy-Chambéry | France | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| PPR Technologies inc. | Canada | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| ProgressSoft Corporation | Jordanie | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | Localisation vérifiée — recrutement à rechercher |
-| Royal Military College of Canada | Canada | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| SAS ARKIANE | France | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| Saudi Naval Support Co. (SNS) | Arabie saoudite | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| SB CONSTRUCTIONS | France | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| Scorechain SA | Luxembourg | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| Shanon Technologies | France | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| SMARTOVATE LTD | Royaume-Uni | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| SNCF RESEAU | France | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| SOCIETE GENERALE | France | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| Sosyo Plus Bilgi Bil. Tekn. Dan. Hiz. Tic. A.Ş. | Turquie | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| SOWISO BV | Pays-Bas | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| STARTEC | France | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| SUEZ Eau France | France | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| SUEZ R&V France | France | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| Synapse DX | Portugal | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| Syslearn | France | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| Système de recommandation de nourriture pour cuisine robotisée | Canada | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| Tabreed Thermal Control Ltd | Canada | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| Viaflex Inc | États-Unis | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| Vilmorin-Mikado, LIMAGRAIN Group | France | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| Vocomed | France | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| Yonnov'IA | France | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| YONNOV’IA SAS | France | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non trouvé/non vérifiable | Non vérifiable | À rechercher |
-| LISTIC - Laboratoire d'Informatique, Systèmes, Traitement de l'Information et de la Connaissance | France | Recherche en machine learning, fusion d'information, IA distribuée, systèmes, réseaux et traitement des connaissances | 8.0 | 32 | D — Faible priorité | Oui, par stages et doctorats | Non vérifiable | Vérifié — sujets IA pertinents, mais stages expirés et postdoctorat hors niveau |
-| LGIPM : Laboratoire de Génie Informatique, de Production et de Maintenance : université de lorraine france | France | Recherche en génie industriel, IA, optimisation, Data Science, systèmes de production et maintenance | 7.6 | 31 | D — Faible priorité | Oui, principalement stages et doctorats | Non vérifiable | Vérifié — accueil de profils internationaux en stage, aucune ouverture d'ingénieur junior confirmée |
-| Gina Cody School of Engineering and Computer Science | Canada | Université, recherche et enseignement en informatique, génie logiciel, cybersécurité et IA | 5.8 | 24 | D — Faible priorité | Oui, principalement pour ses propres étudiants | Oui, sous conditions strictes | Vérifié — aucune ouverture junior professionnelle adaptée; restrictions académiques et permis documentées |
+| Vilmorin-Mikado, LIMAGRAIN Group | France | AgriTech, seed research, industrial operations, Data, cybersecurity and digital transformation | 5.9 | 34 | D — Faible priorité | Oui — stages et alternances réguliers | Non vérifiable | Vérifié — junior-friendly, aucune cible IT exacte aujourd'hui |
+| Adias | Mauritanie | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non vérifiable | Non vérifiable | Recherche publique effectuée — candidature spontanée; canal/contact à confirmer avant envoi |
+| Advensia GmbH | Allemagne | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non vérifiable | Non vérifiable | Recherche publique effectuée — candidature spontanée; canal/contact à confirmer avant envoi |
+| Alta Via Consulting GmbH | Allemagne | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non vérifiable | Non vérifiable | Recherche publique effectuée — candidature spontanée; canal/contact à confirmer avant envoi |
+| BA-CONSULTING | France | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non vérifiable | Non vérifiable | Recherche publique effectuée — candidature spontanée; canal/contact à confirmer avant envoi |
+| calgra group | Royaume-Uni | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non vérifiable | Non vérifiable | Recherche publique effectuée — candidature spontanée; canal/contact à confirmer avant envoi |
+| cordya | Canada | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non vérifiable | Non vérifiable | Recherche publique effectuée — candidature spontanée; canal/contact à confirmer avant envoi |
+| Cosider canalisation pôle H31 | Algérie | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non vérifiable | Non vérifiable | Recherche publique effectuée — candidature spontanée; canal/contact à confirmer avant envoi |
+| Envite Consulting GmbH | Allemagne | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non vérifiable | Non vérifiable | Recherche publique effectuée — candidature spontanée; canal/contact à confirmer avant envoi |
+| ESS-Mondial GmbH | Allemagne | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non vérifiable | Non vérifiable | Recherche publique effectuée — candidature spontanée; canal/contact à confirmer avant envoi |
+| Eurocom | France | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non vérifiable | Non vérifiable | Recherche publique effectuée — candidature spontanée; canal/contact à confirmer avant envoi |
+| EUROPEA CONSULTING | France | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non vérifiable | Non vérifiable | Recherche publique effectuée — candidature spontanée; canal/contact à confirmer avant envoi |
+| GetBrandee | France | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non vérifiable | Non vérifiable | Recherche publique effectuée — candidature spontanée; canal/contact à confirmer avant envoi |
+| Groupe ELAN | Suisse | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non vérifiable | Non vérifiable | Recherche publique effectuée — candidature spontanée; canal/contact à confirmer avant envoi |
+| Hendrik Thurau Enterprises | Suisse | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non vérifiable | Non vérifiable | Recherche publique effectuée — candidature spontanée; canal/contact à confirmer avant envoi |
+| INTELLIGENT CONEPTS | France | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non vérifiable | Non vérifiable | Recherche publique effectuée — candidature spontanée; canal/contact à confirmer avant envoi |
+| Karwisoft inc. | Canada | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non vérifiable | Non vérifiable | Recherche publique effectuée — candidature spontanée; canal/contact à confirmer avant envoi |
+| LeadAi | France | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non vérifiable | Non vérifiable | Recherche publique effectuée — candidature spontanée; canal/contact à confirmer avant envoi |
+| Les solutions de vente XSALE | Canada | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non vérifiable | Non vérifiable | Recherche publique effectuée — candidature spontanée; canal/contact à confirmer avant envoi |
+| NEXUS TARGET SASU | France | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non vérifiable | Non vérifiable | Recherche publique effectuée — candidature spontanée; canal/contact à confirmer avant envoi |
+| NODX-PARTNER | France | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non vérifiable | Non vérifiable | Recherche publique effectuée — candidature spontanée; canal/contact à confirmer avant envoi |
+| Novobit Group GmbH | Allemagne | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non vérifiable | Non vérifiable | Recherche publique effectuée — candidature spontanée; canal/contact à confirmer avant envoi |
+| Olab Dynamics | France | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non vérifiable | Non vérifiable | Recherche publique effectuée — candidature spontanée; canal/contact à confirmer avant envoi |
+| Papritech Ltd | Royaume-Uni | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non vérifiable | Non vérifiable | Recherche publique effectuée — candidature spontanée; canal/contact à confirmer avant envoi |
+| PIGE INU LTD | Royaume-Uni | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non vérifiable | Non vérifiable | Recherche publique effectuée — candidature spontanée; canal/contact à confirmer avant envoi |
+| PPR Technologies inc. | Canada | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non vérifiable | Non vérifiable | Recherche publique effectuée — candidature spontanée; canal/contact à confirmer avant envoi |
+| SAS ARKIANE | France | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non vérifiable | Non vérifiable | Recherche publique effectuée — candidature spontanée; canal/contact à confirmer avant envoi |
+| Saudi Naval Support Co. (SNS) | Arabie saoudite | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non vérifiable | Non vérifiable | Recherche publique effectuée — candidature spontanée; canal/contact à confirmer avant envoi |
+| SB CONSTRUCTIONS | France | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non vérifiable | Non vérifiable | Recherche publique effectuée — candidature spontanée; canal/contact à confirmer avant envoi |
+| STARTEC | France | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non vérifiable | Non vérifiable | Recherche publique effectuée — candidature spontanée; canal/contact à confirmer avant envoi |
+| Tabreed Thermal Control Ltd | Canada | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non vérifiable | Non vérifiable | Recherche publique effectuée — candidature spontanée; canal/contact à confirmer avant envoi |
+| Viaflex Inc | États-Unis | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non vérifiable | Non vérifiable | Recherche publique effectuée — candidature spontanée; canal/contact à confirmer avant envoi |
+| Vocomed | France | Autre / à vérifier | 4.0 | 33 | D — Faible priorité | Non vérifiable | Non vérifiable | Recherche publique effectuée — candidature spontanée; canal/contact à confirmer avant envoi |
+| M-TECH | France | Computer programming | 4.8 | 15 | D — Faible priorité | Non — aucune preuve d’embauche et unité non employeuse | Non — aucun effectif déclaré ni voie de recrutement | Vérifié — screening manuel ciblé |
 
 ## Fiches de candidature
+
+### NXP
+
+- **Pays :** France
+- **Adresse(s) source :** 45 All. des Ormes Bâtiment D, 06250 Mougins, France | E-Space Park 45 alles des Ormes 06250 Mougins
+- **Domaine :** Semiconductors, embedded software, edge AI and Agentic AI
+- **Correspondance :** 9.6/10 — L'offre active vise explicitement un New Graduate et reprend presque exactement le PFE : agents IA, raisonnement, planification, outils, mémoire, Python et pratiques de génie logiciel.
+- **Potentiel :** 86/100 — A — Très prioritaire
+- **Métiers ciblés :** Junior Agentic AI Software Engineer; Graduate AI/ML Engineer; Junior Python/C++ Software Engineer
+- **Ouverture aux juniors :** Oui — offre New Graduate active — L'annonce officielle NXP indique 'Junior Agentic AI Software Engineer' et 'New Graduate'. L'équipe France recrute aussi étudiants, diplômés et expérimentés.
+- **Candidats étrangers/visa/relocation :** Non vérifiable — candidature internationale à tenter — NXP recrute dans un environnement international, mais l'annonce française ne promet pas de sponsoring. L'autorisation de travail doit être confirmée par le recrutement.
+- **Offres actives :** Junior Agentic AI Software Engineer — Sophia Antipolis/Valbonne — New Graduate — https://nxp.wd3.myworkdayjobs.com/careers/job/Sophia-Antipolis-Valbonne/Junior-Agentic-AI-Software-Engineer_R-10063084
+- **Contact :** Fabien Escribe — Senior Talent Acquisition Business Partner — NXP Semiconductors France
+- **LinkedIn :** https://fr.linkedin.com/in/fabienescrive/fr
+- **Email :** Aucun email public vérifié (Candidature via le portail officiel uniquement)
+- **Canal officiel :** https://nxp.wd3.myworkdayjobs.com/careers/job/Sophia-Antipolis-Valbonne/Junior-Agentic-AI-Software-Engineer_R-10063084
+- **CV conseillé :** `CV_ATS_EN.pdf`
+- **Sources :** https://nxp.wd3.myworkdayjobs.com/careers/job/Sophia-Antipolis-Valbonne/Junior-Agentic-AI-Software-Engineer_R-10063084 | https://fr.linkedin.com/in/fabienescrive/fr | https://fr.linkedin.com/jobs/view/apprenti-e-charg%C3%A9-e-de-recrutement-et-relations-ecoles-at-nxp-semiconductors-4431125819
+- **Vérifié le :** 2026-09-25 — Vérifié — offre Agentic AI New Graduate active et fortement ciblée
+
+**Objet :** Application – Junior Agentic AI Software Engineer – R-10063084
+
+**Email prêt à envoyer**
+
+Dear NXP Recruitment Team,
+
+I am applying for the Junior Agentic AI Software Engineer position in Sophia Antipolis. I recently graduated as a Computer Engineer from ENSI, and my final-year project at Linedata focused on modernizing a financial software product through AI agents.
+
+This project gave me hands-on experience with agent reasoning, tool use, LLM integration, APIs and the integration of AI capabilities into an existing product. I also bring strong foundations in Python, Java, C++, databases, full-stack development, testing, Git and CI/CD.
+
+What attracts me most to this role is the opportunity to develop agent-based systems under the guidance of experienced engineers while contributing to robust, scalable software. I am based in Tunisia and fully prepared to relocate to France, subject to work-authorization feasibility.
+
+Thank you for considering my application.
+
+Kind regards,
+Mohamed Oussema Bahloul
+
+**Invitation LinkedIn**
+
+Bonjour M. Escribe, jeune diplômé ENSI, mon PFE chez Linedata portait sur des agents IA intégrés à un produit financier. L'offre NXP Junior Agentic AI Software Engineer à Valbonne correspond précisément à mon profil. Ravi d'échanger.
+
+**Message après acceptation**
+
+Bonjour M. Escribe, merci pour la connexion. Je candidate à l'offre R-10063084. Mon expérience couvre agents IA, Python, APIs et intégration produit. Pourriez-vous me confirmer si un jeune diplômé tunisien ouvert à la mobilité peut être étudié ?
+
+---
+
+### SOCIETE GENERALE
+
+- **Pays :** France
+- **Adresse(s) source :** 189 rue d'Aubervilliers 75886 Paris Cedex 18
+- **Domaine :** Banking, investment banking, Data/AI, GenAI, LLM/RAG, APIs, Azure and CI/CD
+- **Correspondance :** 9.4/10 — The live AI Engineer role explicitly targets a Bac+5 young graduate with internship experience, Python, software development, APIs, GenAI/RAG and CI/CD — a direct match.
+- **Potentiel :** 84/100 — A — Très prioritaire
+- **Métiers ciblés :** AI Engineer junior; Data/ML Engineer junior; Software Engineer; IT/FinTech analyst
+- **Ouverture aux juniors :** Oui — offre jeune diplômé active — The official AI Engineer posting published 24 September 2026 explicitly says 'jeune diplômé' with internship/apprenticeship experience.
+- **Candidats étrangers/visa/relocation :** Non vérifiable — Aucun engagement public de sponsoring de visa trouvé pour le poste ciblé.
+- **Offres actives :** AI Engineer — CDI — La Défense — published 24/09/2026 — https://careers.societegenerale.com/offres-d-emploi/ai-engineer-26000FBD-fr
+- **Contact :** Rosaëlle Ferendo — Current HR professional — Société Générale
+- **LinkedIn :** https://fr.linkedin.com/in/rosa%C3%ABlle-ferendo
+- **Email :** Aucun email public vérifié (Candidature via le portail officiel uniquement)
+- **Canal officiel :** https://careers.societegenerale.com/offres-d-emploi/ai-engineer-26000FBD-fr
+- **CV conseillé :** `CV_ATS_Fintech.pdf`
+- **Sources :** https://careers.societegenerale.com/offres-d-emploi/ai-engineer-26000FBD-fr | https://fr.linkedin.com/in/rosa%C3%ABlle-ferendo
+- **Vérifié le :** 2026-09-25 — Vérifié — offre AI Engineer jeune diplômé publiée hier, mobilité internationale non précisée
+
+**Objet :** Candidature – AI Engineer – Réf. 26000FBD
+
+**Email prêt à envoyer**
+
+Bonjour,
+
+Je vous présente ma candidature au poste d’AI Engineer, référence 26000FBD. Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, j’ai réalisé mon PFE chez Linedata sur la modernisation d’un produit financier à l’aide d’agents IA.
+
+Cette expérience m’a permis de travailler avec Python, les LLM, les APIs et les données tout en intégrant la solution dans un produit métier existant. Je maîtrise également Java, C++, SQL, le développement full-stack, Git et les principes de CI/CD. Je souhaite désormais approfondir l’industrialisation de solutions de machine learning et d’IA générative dans un environnement bancaire exigeant.
+
+La collaboration annoncée entre Data Scientists, équipes IT et métiers correspond précisément à mon double parcours informatique-finance. Basé en Tunisie, je suis disponible pour une mobilité en France, sous réserve des démarches d’autorisation de travail.
+
+Je vous remercie pour l’attention portée à ma candidature.
+
+Bien cordialement,
+Mohamed Oussema Bahloul
+
+**Invitation LinkedIn**
+
+Bonjour Mme Ferendo, jeune diplômé ingénieur ENSI spécialisé en ingénierie financière, mon PFE Linedata concernait l’intégration d’agents IA dans un produit financier. Je candidate au poste AI Engineer 26000FBD publié par Société Générale. Ravi d’échanger.
+
+**Message après acceptation**
+
+Bonjour Mme Ferendo, merci pour la connexion. J’ai ciblé le poste AI Engineer 26000FBD, explicitement ouvert aux jeunes diplômés. Mon profil réunit Python, IA générative, APIs, CI/CD et ingénierie financière. Pourriez-vous m’indiquer si une candidature depuis la Tunisie est recevable ?
+
+---
+
+### Murex S.A.S
+
+- **Pays :** France
+- **Adresse(s) source :** 15-25 boulevard de l’Amiral Bruix – 75116 Paris
+- **Domaine :** Capital-markets FinTech software, trading, risk, post-trade, Java/C++, DevOps and AI research
+- **Correspondance :** 9.7/10 — Near-perfect match between computer engineering, financial engineering, Java/C++, software development and the Linedata financial-product PFE.
+- **Potentiel :** 82/100 — A — Très prioritaire
+- **Métiers ciblés :** Graduate Software Engineer; Java Developer; FinTech Consultant; QA/Testing Engineer; AI/Data junior
+- **Ouverture aux juniors :** Oui — official graduate careers — Murex explicitly recruits fresh graduates, assigns mentors and offers early-career tracks in software, QA, support and consulting.
+- **Candidats étrangers/visa/relocation :** Non vérifiable — Murex has 65+ nationalities and global graduate careers, but the Paris portal does not promise French visa sponsorship. Its VIE route is limited to EEA citizens and therefore does not apply to a Tunisian candidate.
+- **Offres actives :** Software Engineer Java — Paris — posted 13 days ago — https://murex.wd3.myworkdayjobs.com/en-US/MurexCareerPage1/job/Software-Engineer-Java_JR103089 ; Students & Graduates route — https://www.murex.com/en/careers/students-graduates
+- **Contact :** Amal Bacha — Current Murex professional connected to Recruitment & Mobility Europe activity
+- **LinkedIn :** https://fr.linkedin.com/in/amal-bacha
+- **Email :** Aucun email public vérifié (Candidature via le portail officiel uniquement)
+- **Canal officiel :** https://murex.wd3.myworkdayjobs.com/MurexCareerPage1
+- **CV conseillé :** `CV_ATS_Fintech_EN.pdf`
+- **Sources :** https://murex.wd3.myworkdayjobs.com/en-US/MurexCareerPage1/job/Software-Engineer-Java_JR103089 | https://www.murex.com/en/careers/students-graduates | https://www.murex.com/en/careers/our-teams | https://fr.linkedin.com/in/amal-bacha
+- **Vérifié le :** 2026-09-25 — Vérifié — excellente cible FinTech et poste Java actif, sponsoring France non documenté
+
+**Objet :** Application – Graduate Java Software Engineer
+
+**Email prêt à envoyer**
+
+Dear Murex Recruitment Team,
+
+I am applying for the Software Engineer Java opportunity in Paris. I recently graduated as a Computer Engineer from ENSI with a specialization in Financial Engineering, a combination that directly reflects Murex's position at the intersection of technology and capital markets.
+
+My final-year project at Linedata focused on modernizing a financial product with AI agents. Beyond AI, I developed practical experience in Java, Python, C++, APIs, databases, full-stack development, testing and Git-based workflows. Working on an established financial product taught me to understand business constraints while building maintainable software.
+
+Murex particularly attracts me because graduates can develop both strong engineering foundations and genuine capital-markets expertise. I am based in Tunisia and open to relocating to Paris, subject to work-authorization feasibility.
+
+Thank you for considering my application.
+
+Kind regards,
+Mohamed Oussema Bahloul
+
+**Invitation LinkedIn**
+
+Bonjour Mme Bacha, diplômé ingénieur ENSI spécialisé en ingénierie financière, j’ai réalisé mon PFE chez Linedata sur la modernisation d’un produit financier avec des agents IA. Le poste Software Engineer Java chez Murex correspond très fortement à mon profil. Ravi d’échanger.
+
+**Message après acceptation**
+
+Bonjour Mme Bacha, merci pour la connexion. Je vais candidater au poste Software Engineer Java à Paris. Mon profil combine Java/C++/Python, développement produit et ingénierie financière. Savez-vous si un jeune diplômé basé en Tunisie peut être considéré pour cette offre ?
+
+---
+
+### Airbus Commercial SAS
+
+- **Pays :** France
+- **Adresse(s) source :** 2 Rond Point EMILE DEWOITINE – 31707 BLAGNAC | 316 Route de Bayonne 31060 Toulouse France
+- **Domaine :** Aerospace, software engineering, Data, AI/GenAI, cloud and digital transformation
+- **Correspondance :** 9.1/10 — Two current entry-level roles match Python, Java, C++, AI agents, APIs, cloud and CI/CD. The security-clearance condition may restrict eligibility.
+- **Potentiel :** 78/100 — A — Très prioritaire
+- **Métiers ciblés :** Junior Data Analyst & AI Specialist; Entry-level AI Software Developer; Junior Software/AI Engineer
+- **Ouverture aux juniors :** Oui — offres entry-level actives — The official Workday postings label Junior Data Analyst and AI Specialist and AI Software Developer as Entry Level.
+- **Candidats étrangers/visa/relocation :** Non vérifiable — habilitation de sécurité à contrôler — The France roles do not state visa sponsorship and require eligibility for security clearance. A separate UK graduate role explicitly refuses Skilled Worker sponsorship, but that restriction cannot automatically be generalized to France.
+- **Offres actives :** Junior Data Analyst and AI Specialist — Toulouse — Entry Level — https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Toulouse-Area/Junior-Data-Analyst-and-AI-Specialist--h-f-_JR10405135-1 ; AI Software Developer — Toulouse — Entry Level — https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/AI-Software-Developer--M-F-_JR10432748-1
+- **Contact :** Carmélina Panico — Talent Acquisition Partner — Airbus
+- **LinkedIn :** https://fr.linkedin.com/in/carm%C3%A9lina-panico-b5a500a9
+- **Email :** Aucun email public vérifié (Candidature via le portail officiel uniquement)
+- **Canal officiel :** https://ag.wd3.myworkdayjobs.com/Airbus
+- **CV conseillé :** `CV_ATS_EN.pdf`
+- **Sources :** https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Toulouse-Area/Junior-Data-Analyst-and-AI-Specialist--h-f-_JR10405135-1 | https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/AI-Software-Developer--M-F-_JR10432748-1 | https://fr.linkedin.com/in/carm%C3%A9lina-panico-b5a500a9
+- **Vérifié le :** 2026-09-25 — Vérifié — deux offres IA entry-level actives, admissibilité internationale à confirmer
+
+**Objet :** Application – Junior Data Analyst and AI Specialist
+
+**Email prêt à envoyer**
+
+Dear Airbus Recruitment Team,
+
+I am applying for the Junior Data Analyst and AI Specialist position in Toulouse. I recently graduated as a Computer Engineer from ENSI, with a specialization in Financial Engineering, and my final-year project at Linedata focused on modernizing a financial product through AI agents.
+
+This experience allowed me to connect business needs with Python-based AI, data processing, APIs and integration into an existing product. I also have experience with Java, C++, full-stack development, SQL, Git and CI/CD. The position's combination of data management, analytical solutions, AI agents and operational digital excellence strongly matches the direction in which I want to build my career.
+
+I am based in Tunisia and fully open to relocating to Toulouse. I understand that work authorization and security-clearance eligibility must be assessed, and I am ready to provide any required information.
+
+Thank you for considering my application.
+
+Kind regards,
+Mohamed Oussema Bahloul
+
+**Invitation LinkedIn**
+
+Bonjour Mme Panico, jeune diplômé ingénieur ENSI, mon PFE Linedata portait sur des agents IA intégrés à un produit financier. Les offres Airbus Junior Data Analyst & AI Specialist et AI Software Developer correspondent fortement à mon profil. Ravi d’échanger.
+
+**Message après acceptation**
+
+Bonjour Mme Panico, merci pour la connexion. Je souhaite candidater à l’offre Junior Data Analyst and AI Specialist à Toulouse. Étant basé en Tunisie, pourriez-vous m’indiquer si l’autorisation de travail et l’habilitation peuvent être étudiées pour ce poste entry-level ?
+
+---
+
+### PINGME
+
+- **Pays :** France
+- **Adresse(s) source :** 4 rue Aspasie Jules Caron, 94110 Arcueil, France
+- **Domaine :** HealthTech, AI/ML, LLMs, NLP and software engineering
+- **Correspondance :** 9.1/10 — Un diplômé ENSI 2025 spécialisé ML, NLP et LLM travaille actuellement chez PingMe, ce qui constitue un signal junior et école particulièrement fort.
+- **Potentiel :** 73/100 — B — Prioritaire
+- **Métiers ciblés :** Junior AI/ML Engineer; LLM/NLP Engineer; Python Developer
+- **Ouverture aux juniors :** Oui — diplômé ENSI récent actuellement dans l’équipe — Aucune offre publique active confirmée; approche réseau auprès de l’ancien ENSI recommandée.
+- **Candidats étrangers/visa/relocation :** Oui/partiel — recrutement récent d’un diplômé ENSI tunisien observé — Le statut international est limité aux éléments explicitement visibles; aucun visa n’est supposé.
+- **Offres actives :** Aucune offre publique active confirmée; approche réseau auprès de l’ancien ENSI recommandée.
+- **Contact :** Ecil Haoues — Contact actuel pertinent
+- **LinkedIn :** https://fr.linkedin.com/in/ecilehaoues
+- **Email :** Aucun email public vérifié (Aucun email public vérifié)
+- **Canal officiel :** https://fr.linkedin.com/in/ecilehaoues
+- **CV conseillé :** `CV_ATS_EN.pdf`
+- **Sources :** https://fr.linkedin.com/in/ecilehaoues
+- **Vérifié le :** 2026-09-25 — Vérifié — screening manuel ciblé
+
+**Objet :** Candidature spontanée — Junior AI/ML Engineer junior
+
+**Email prêt à envoyer**
+
+Bonjour,
+
+Récemment diplômé ingénieur en informatique de l’ENSI, spécialisé en ingénierie financière, je souhaite proposer ma candidature à PingMe — AI4Cure pour une première opportunité en junior ai/ml engineer; llm/nlp engineer; python developer.
+
+Mon PFE chez Linedata portait sur la modernisation d’un produit financier grâce à des agents IA. Je maîtrise Python, Java, C++, le développement full-stack, les bases de données, les API, le machine learning, Git et les principes CI/CD.
+
+Un diplômé ENSI 2025 spécialisé ML, NLP et LLM travaille actuellement chez PingMe, ce qui constitue un signal junior et école particulièrement fort. Je suis basé en Tunisie et ouvert au travail à distance ou à la mobilité si le cadre le permet.
+
+Je joins mon CV et serais ravi d’échanger sur un besoin junior actuel ou futur.
+
+Bien cordialement,
+Mohamed Oussema Bahloul
+
+**Invitation LinkedIn**
+
+Bonjour, jeune diplômé ingénieur ENSI, mon PFE chez Linedata combinait agents IA et logiciel financier. L’activité de PingMe — AI4Cure correspond à mon profil Python, IA/Data et développement. Ravi d’échanger sur vos besoins juniors.
+
+**Message après acceptation**
+
+Merci pour la connexion. Je souhaite proposer mon profil junior à PingMe — AI4Cure. Pourriez-vous m’orienter vers l’équipe qui suit les besoins IA, Data ou développement logiciel ?
+
+---
+
+### ProgressSoft Corporation
+
+- **Pays :** Jordanie
+- **Adresse(s) source :** 51 Saad Bin Abi Waqqas St، Amman, Jordan
+- **Domaine :** FinTech, payment systems, digital banking and enterprise software
+- **Correspondance :** 9.0/10 — Très forte convergence entre ingénierie informatique, spécialisation financière, Java/Python et PFE sur un produit financier. Un poste Associate Support Engineers – Induction vient d'être publié.
+- **Potentiel :** 73/100 — B — Prioritaire
+- **Métiers ciblés :** Associate Support Engineer; Junior Java Developer; Software Engineer; AI Engineer; FinTech implementation engineer
+- **Ouverture aux juniors :** Oui — poste Associate et programmes de stage — Le portail officiel accueille les profils programmation/recherche et propose des stages; une offre Associate Support Engineers – Induction est apparue le 24 septembre 2026.
+- **Candidats étrangers/visa/relocation :** Non vérifiable — ProgressSoft possède plusieurs implantations régionales, mais aucune preuve de sponsoring ou de relocation pour un candidat tunisien n'a été trouvée.
+- **Offres actives :** Associate Support Engineers – Induction — Amman — publié le 24/09/2026 — https://www.linkedin.com/company/progresssoftcorp/jobs/ ; Recruitment System — https://apply.workable.com/progresssoft/
+- **Contact :** ProgressSoft Corporation Talent Team — Canal officiel de l'entreprise et de ses recrutements
+- **LinkedIn :** https://www.linkedin.com/company/progresssoftcorp
+- **Email :** Aucun email public vérifié (Candidature via le portail officiel uniquement)
+- **Canal officiel :** https://apply.workable.com/progresssoft/
+- **CV conseillé :** `CV_ATS_Fintech_EN.pdf`
+- **Sources :** https://www.progressoft.com/careers | https://apply.workable.com/progresssoft/ | https://www.linkedin.com/company/progresssoftcorp
+- **Vérifié le :** 2026-09-25 — Vérifié — forte cible FinTech et offre Associate récente; mobilité non documentée
+
+**Objet :** Application – Associate Software / Support Engineering Opportunity
+
+**Email prêt à envoyer**
+
+Dear ProgressSoft Recruitment Team,
+
+I am a recent Computer Engineering graduate from ENSI, specialized in Financial Engineering, and I am interested in the Associate Support Engineers induction opportunity and other entry-level software roles at ProgressSoft.
+
+My final-year project at Linedata focused on modernizing a financial product with AI agents. It strengthened my ability to understand financial workflows and translate them into reliable software solutions. I also bring skills in Java, Python, C++, APIs, SQL, full-stack development, testing and Git.
+
+ProgressSoft's focus on payment infrastructure and digital banking is an especially strong match for my combined technology and finance profile. I am based in Tunisia and willing to relocate to Amman if international recruitment is possible.
+
+Kind regards,
+Mohamed Oussema Bahloul
+
+**Invitation LinkedIn**
+
+Hello, I am a recent ENSI Computer Engineering graduate specialized in Financial Engineering. My Linedata PFE combined financial software and AI agents. ProgressSoft's payments technology and current associate opportunities strongly match my profile.
+
+**Message après acceptation**
+
+Thank you for connecting. I am interested in the Associate Support Engineers induction role and junior software opportunities. Could you advise whether ProgressSoft considers Tunisian graduates who are willing to relocate to Amman?
+
+---
+
+### CRAB Traceability Systems
+
+- **Pays :** Luxembourg
+- **Adresse(s) source :** 6A, avenue des hauts-fourneaux, L-4362 Esch-sur-Alzette / en ligne | : 6A, avenue des hauts-fourneaux, L-4362 Esch-sur-Alzette / en ligne
+- **Domaine :** Computer vision, edge AI, hardware and circular-economy software
+- **Correspondance :** 9.1/10 — Très forte adéquation IA/vision/logiciel et petite équipe en croissance. Le site montre trois stagiaires et accepte explicitement les candidatures spontanées.
+- **Potentiel :** 72/100 — B — Prioritaire
+- **Métiers ciblés :** Junior AI/Computer Vision Engineer; Python Engineer; Systems Engineer
+- **Ouverture aux juniors :** Oui — trois stagiaires figurent dans l’équipe officielle — Senior Hardware Engineer affiché; aucune offre junior exacte, mais candidatures spontanées explicitement acceptées.
+- **Candidats étrangers/visa/relocation :** Partiel — équipe internationale visible, sponsoring non documenté — L’équipe officielle est internationale et accueille des stagiaires; aucun visa ou dispositif de relocation n’est publié.
+- **Offres actives :** Senior Hardware Engineer affiché; aucune offre junior exacte, mais candidatures spontanées explicitement acceptées.
+- **Contact :** Dr. Jeff Mangers — CEO & Co-founder
+- **LinkedIn :** https://www.linkedin.com/in/jeff-mangers/
+- **Email :** info@crab-ts.com (Adresse publiée dans une source officielle/récente)
+- **Canal officiel :** mailto:info@crab-ts.com
+- **CV conseillé :** `CV_ATS_EN.pdf`
+- **Sources :** https://crab-ts.com/landing/about | https://www.linkedin.com/company/crab-traceability-systems | https://www.uni.lu/en/news/crab-circular-economy-ai-startup-track-waste/
+- **Vérifié le :** 2026-09-25 — Vérifié — screening manuel ciblé
+
+**Objet :** Candidature spontanée — Ingénieur junior Junior AI/Computer Vision Engineer
+
+**Email prêt à envoyer**
+
+Bonjour Dr. Jeff Mangers,
+
+Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je souhaite proposer ma candidature à CRAB Traceability Systems pour une première opportunité en junior ai/computer vision engineer; python engineer; systems engineer.
+
+Mon PFE chez Linedata portait sur la modernisation d’un produit financier grâce à des agents IA. Il m’a permis de relier IA appliquée, développement logiciel et compréhension métier. Je maîtrise également Python, Java, C++, le développement full-stack, les API, les bases de données, Git et les principes CI/CD.
+
+Très forte adéquation IA/vision/logiciel et petite équipe en croissance. Le site montre trois stagiaires et accepte explicitement les candidatures spontanées. Je suis basé en Tunisie et ouvert à une collaboration à distance ou à une mobilité lorsque les conditions le permettent.
+
+Je joins mon CV et serais heureux d’échanger sur un besoin junior actuel ou futur.
+
+Bien cordialement,
+Mohamed Oussema Bahloul
+
+**Invitation LinkedIn**
+
+Bonjour, jeune diplômé ingénieur ENSI, j’ai réalisé chez Linedata un PFE combinant agents IA et logiciel financier. L’activité de CRAB Traceability Systems correspond fortement à mon projet professionnel. Ravi d’échanger sur vos futurs besoins juniors.
+
+**Message après acceptation**
+
+Merci pour la connexion. J’ai transmis ma candidature à info@crab-ts.com. Mon profil combine IA appliquée, développement logiciel et ingénierie financière. Je serais reconnaissant pour toute orientation vers un besoin junior chez CRAB Traceability Systems.
+
+---
+
+### Scorechain SA
+
+- **Pays :** Luxembourg
+- **Adresse(s) source :** 11 Bd du Jazz, Esch-Belval Belvaux Sanem, Luxembourg
+- **Domaine :** FinTech/RegTech, blockchain analytics, AML compliance, Data and SaaS
+- **Correspondance :** 8.8/10 — Très forte adéquation FinTech, blockchain, React/full-stack, Python/Data et IA. L'offre frontend est active mais demande 2–5 ans; le niveau LinkedIn est néanmoins 'Premier emploi'.
+- **Potentiel :** 72/100 — B — Prioritaire
+- **Métiers ciblés :** Frontend React Developer; Junior Full-stack Engineer; Data & Blockchain Analyst; FinTech Software Engineer
+- **Ouverture aux juniors :** Oui/partiel — poste classé premier emploi mais 2–5 ans demandés — L'offre Frontend Developer actuelle est classée Premier emploi. Scorechain a aussi publié stages et rôles Data accessibles avec des bases Python, mais les anciennes offres fermées ne sont pas présentées comme actives.
+- **Candidats étrangers/visa/relocation :** Non vérifiable — relocalisation acceptée sans sponsoring explicite — L'annonce accepte les personnes basées au Luxembourg ou disposées à s'y installer, mais ne promet pas de visa ni de prise en charge de la relocation.
+- **Offres actives :** Frontend React Developer — Belval, Luxembourg — React/TypeScript, 2–5 ans — https://lu.linkedin.com/jobs/view/frontend-developer-at-scorechain-4464996193
+- **Contact :** Lobna Sellami — Scorechain professional active on Data & Blockchain hiring
+- **LinkedIn :** https://lu.linkedin.com/in/sellami-lobna-996a961a7
+- **Email :** jobs@scorechain.com (Adresse de recrutement publiée dans plusieurs annonces Scorechain; postuler d'abord via l'annonce active)
+- **Canal officiel :** https://lu.linkedin.com/jobs/view/frontend-developer-at-scorechain-4464996193
+- **CV conseillé :** `CV_ATS_Fintech_EN.pdf`
+- **Sources :** https://lu.linkedin.com/jobs/view/frontend-developer-at-scorechain-4464996193 | https://lu.linkedin.com/in/sellami-lobna-996a961a7 | https://lu.linkedin.com/jobs/view/data-research-analyst-at-scorechain-4335989173
+- **Vérifié le :** 2026-09-25 — Vérifié — offre React active et très forte adéquation FinTech/blockchain
+
+**Objet :** Application – Frontend React Developer – Scorechain
+
+**Email prêt à envoyer**
+
+Dear Scorechain Hiring Team,
+
+I am applying for the Frontend React Developer position in Belval. I recently graduated as a Computer Engineer from ENSI, specialized in Financial Engineering, and my final-year project at Linedata focused on integrating AI agents into a financial software product.
+
+My background includes React and full-stack development, REST APIs, databases, Python, Java, C++, testing, Git and CI/CD. I have also worked with blockchain concepts and I am particularly motivated by the opportunity to build a real compliance product at the intersection of software, digital assets and financial risk.
+
+Although I am at the beginning of my professional career, I can demonstrate complete engineering projects and I am ready to grow quickly in React and TypeScript. I am based in Tunisia and willing to relocate to Luxembourg, subject to work-authorization feasibility.
+
+Kind regards,
+Mohamed Oussema Bahloul
+
+**Invitation LinkedIn**
+
+Bonjour Mme Sellami, jeune diplômé ENSI spécialisé en ingénierie financière, mon PFE Linedata combinait produit financier et agents IA. Mon profil React/full-stack, Python et blockchain correspond fortement à Scorechain. Ravi d'échanger.
+
+**Message après acceptation**
+
+Bonjour Mme Sellami, merci pour la connexion. Je candidate au poste Frontend React Developer. Mon profil combine logiciel, IA, blockchain et finance. Savez-vous si Scorechain peut étudier un junior tunisien disposé à s'installer au Luxembourg ?
+
+---
+
+### Deep Learn Strategies Limited
+
+- **Pays :** Royaume-Uni
+- **Adresse(s) source :** Ground Floor, 2 Woodberry Grove, London, England, N12 0DR
+- **Domaine :** Applied AI, deep learning, computer vision, time series, Agentic AI and financial analytics
+- **Correspondance :** 9.5/10 — Correspondance exceptionnelle : la société encadre des PFE en systèmes multi-agents, analyse financière et optimisation de portefeuille, très proches du PFE Linedata et de la spécialisation financière.
+- **Potentiel :** 70/100 — B — Prioritaire
+- **Métiers ciblés :** Junior AI/ML Engineer; Agentic AI Engineer; Data Scientist; FinTech AI Engineer
+- **Ouverture aux juniors :** Oui — stages/PFE récents avec jeunes ingénieurs marocains — Deux profils diplômés en 2025 décrivent un PFE DLS sur un système multi-agent d'analyse financière, CrewAI, prévision et optimisation, ensuite publié à IEEE WINCOM 2025.
+- **Candidats étrangers/visa/relocation :** Oui/partiel — collaboration à distance avec le Maroc observée — Des étudiants marocains ont réalisé leur PFE avec DLS; cela prouve une collaboration internationale, mais pas un sponsoring de visa ni un CDI au Royaume-Uni.
+- **Offres actives :** Aucune offre salariée active confirmée — candidature spontanée auprès de la petite équipe
+- **Contact :** Imtiaz Adam — Founder — Deep Learn Strategies; AI/FinTech leader
+- **LinkedIn :** https://uk.linkedin.com/in/imtiaz-adam-7467528
+- **Email :** info@dls.ltd (Adresse générale sur le domaine officiel; aucune adresse RH distincte)
+- **Canal officiel :** mailto:info@dls.ltd
+- **CV conseillé :** `CV_ATS_Fintech_EN.pdf`
+- **Sources :** https://uk.linkedin.com/company/deep-learn-strategies | https://find-and-update.company-information.service.gov.uk/company/10379706 | https://ma.linkedin.com/in/youssra-farissi-a7840321b | https://uk.linkedin.com/in/imtiaz-adam-7467528
+- **Vérifié le :** 2026-09-25 — Vérifié — adéquation AI/FinTech remarquable, petite structure sans poste public
+
+**Objet :** Spontaneous Application – Junior Agentic AI / FinTech Engineer
+
+**Email prêt à envoyer**
+
+Dear Mr Adam,
+
+I am a recent Computer Engineering graduate from ENSI, specialized in Financial Engineering, and I would like to submit a spontaneous application to Deep Learn Strategies.
+
+My final-year project at Linedata focused on modernizing a financial software product through AI agents. I worked on agent workflows, LLM integration, APIs and the integration of the solution into an existing business product. I also bring skills in Python, machine learning, Java, C++, databases and full-stack development.
+
+DLS's recent work with graduates on multi-agent financial analysis, time-series forecasting and portfolio optimization is remarkably close to my own academic and professional direction. I am based in Tunisia and open to remote collaboration or relocation where feasible.
+
+Kind regards,
+Mohamed Oussema Bahloul
+
+**Invitation LinkedIn**
+
+Hello Mr Adam, I am a recent ENSI Computer Engineering graduate specialized in Financial Engineering. My Linedata PFE used AI agents in a financial product. DLS's multi-agent finance and portfolio work is remarkably close to my profile. Glad to connect.
+
+**Message après acceptation**
+
+Thank you for connecting. I sent a spontaneous application to info@dls.ltd. My profile combines Agentic AI, software engineering and finance. I would be grateful to discuss any junior project or role, remotely or with relocation.
+
+---
+
+### Neofacto
+
+- **Pays :** Luxembourg
+- **Adresse(s) source :** 12 avenu du Rockn'roll Luxembourg
+- **Domaine :** IT consulting, software engineering, Data/AI, cloud, DevOps and finance
+- **Correspondance :** 8.2/10 — Plusieurs rôles actuels couvrent full-stack, Python, Data/AI et finance. L'offre .NET est classée premier emploi mais demande 2–5 ans et C#, ce qui constitue un écart réel.
+- **Potentiel :** 70/100 — B — Prioritaire
+- **Métiers ciblés :** Junior .NET/Full-stack Developer; AI/ML Engineer; Python Backend Developer; IT Business Analyst Finance
+- **Ouverture aux juniors :** Oui — junior, stages et intégration de stagiaires en CDI — Offre Développeur .NET Junior active, trois stages techniques publiés récemment et témoignage officiel d'un stagiaire recruté ensuite comme Software Engineer.
+- **Candidats étrangers/visa/relocation :** Non vérifiable — L'entreprise travaille au Luxembourg et exige une présence locale/hybride; aucune promesse de visa ou relocation n'est publiée.
+- **Offres actives :** Développeur .NET Junior — Luxembourg — 2 à 5 ans — https://lu.linkedin.com/jobs/view/d%C3%A9veloppeur-net-junior-at-neofacto-4455716802 ; AI/ML Engineer Internship — Luxembourg — https://lu.linkedin.com/jobs/neofacto-emplois ; Back-end Python Developer — https://www.neofacto.com/careers/
+- **Contact :** Florian Sey — CTO — NEOFACTO
+- **LinkedIn :** https://lu.linkedin.com/in/floriansey/en
+- **Email :** Aucun email public vérifié (Candidature via le portail officiel uniquement)
+- **Canal officiel :** https://www.neofacto.com/careers/
+- **CV conseillé :** `CV_ATS_EN.pdf`
+- **Sources :** https://www.neofacto.com/careers/ | https://lu.linkedin.com/jobs/view/d%C3%A9veloppeur-net-junior-at-neofacto-4455716802 | https://lu.linkedin.com/jobs/neofacto-emplois | https://lu.linkedin.com/in/floriansey/en
+- **Vérifié le :** 2026-09-25 — Vérifié — plusieurs offres actuelles et culture junior, mais visa non documenté
+
+**Objet :** Application – Junior Software / AI Engineer
+
+**Email prêt à envoyer**
+
+Dear NEOFACTO Recruitment Team,
+
+I am a recent Computer Engineering graduate from ENSI seeking a junior software or AI engineering opportunity in Luxembourg. My final-year project at Linedata focused on modernizing a financial software product through AI agents.
+
+I bring hands-on skills in Python, Java, C++, REST APIs, SQL, full-stack development, machine learning, Git and CI/CD. My specialization in Financial Engineering also enables me to understand projects in banking, insurance and digital transformation.
+
+NEOFACTO particularly interests me because of its mix of product development, Data/AI and financial-sector assignments, as well as its visible support for emerging technical talent. I am based in Tunisia and ready to relocate if work-authorization support is feasible.
+
+Kind regards,
+Mohamed Oussema Bahloul
+
+**Invitation LinkedIn**
+
+Bonjour M. Sey, jeune diplômé ingénieur ENSI, mon PFE Linedata portait sur des agents IA intégrés à un produit financier. Mon profil Python/Java/C++/full-stack et ingénierie financière correspond aux activités de NEOFACTO. Ravi d'échanger.
+
+**Message après acceptation**
+
+Bonjour M. Sey, merci pour la connexion. Je cible vos opportunités junior en logiciel, Python et IA/ML. Pourriez-vous m'indiquer si NEOFACTO peut étudier un jeune diplômé tunisien nécessitant une mobilité vers le Luxembourg ?
+
+---
 
 ### BNP Paribas
 
@@ -281,6 +637,1362 @@ Bonjour Madame Crouin, jeune ingénieur ENSI spécialisé en ingénierie financi
 **Message après acceptation**
 
 Bonjour Madame Crouin, merci pour la connexion. J'ai candidaté via le portail au poste Applied AI Engineer. Mon PFE chez Linedata concernait l'IA agentique appliquée à la modernisation d'un produit financier. Étant candidat tunisien mobile pour la France, pourriez-vous m'indiquer si ce poste peut étudier un dossier nécessitant une autorisation de travail ?
+
+---
+
+### BMW Group
+
+- **Pays :** Allemagne
+- **Adresse(s) source :** Knorrstraße 147 Munich 80937
+- **Domaine :** Automotive software, AI/ML, embedded systems, cybersecurity, cloud and full-stack development
+- **Correspondance :** 8.5/10 — Le programme couvre AI/ML, cloud, full-stack et C/C++/Python/Java. Le candidat possède le diplôme et l'expérience pratique, mais l'allemand courant et quatre mois d'expérience internationale réduisent l'adéquation.
+- **Potentiel :** 68/100 — B — Prioritaire
+- **Métiers ciblés :** Trainee IT & Artificial Intelligence; Graduate AI/Software Engineer; Agentic AI Engineer
+- **Ouverture aux juniors :** Oui — programme international Trainee actif — L'offre AcceleratiON est un programme de début de carrière de 18 mois débouchant sur un CDI et publié le 13 septembre 2026.
+- **Candidats étrangers/visa/relocation :** Non vérifiable — allemand courant demandé — Le programme est international, mais l'annonce exige anglais et allemand courants et ne précise pas le sponsoring. BMW indique ailleurs que les non-UE doivent disposer d'un titre de séjour/travail valide.
+- **Offres actives :** Trainee IT & Artificial Intelligence — Munich — CDI, début 01/04/2027 — https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.194966.html
+- **Contact :** Tamara Vuckovic — BMW Group professional sharing the AcceleratiON trainee programme
+- **LinkedIn :** https://de.linkedin.com/in/tamara-vuckovic-0329a4219
+- **Email :** Aucun email public vérifié (Candidature via le portail officiel uniquement)
+- **Canal officiel :** https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.194966.html
+- **CV conseillé :** `CV_ATS_EN.pdf`
+- **Sources :** https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.194966.html | https://de.linkedin.com/in/tamara-vuckovic-0329a4219
+- **Vérifié le :** 2026-09-25 — Vérifié — programme Trainee IT & AI actif, barrière linguistique importante
+
+**Objet :** Application – Trainee IT & Artificial Intelligence – Job ID 194966
+
+**Email prêt à envoyer**
+
+Dear BMW Group Recruitment Team,
+
+I am applying for the AcceleratiON Trainee position in IT and Artificial Intelligence. I recently graduated as a Computer Engineer from ENSI, with a specialization in Financial Engineering, and completed my final-year project at Linedata on AI agents for the modernization of a financial software product.
+
+My background combines Python, Java, C++, AI/ML, APIs, databases, full-stack development and Git-based delivery. I am particularly attracted by the programme's rotations across AI, software, cloud and cybersecurity, as well as its international and long-term development path.
+
+I am based in Tunisia and open to relocating to Munich. I understand that fluent German and work authorization are important selection criteria and I would be pleased to clarify my eligibility during the process.
+
+Kind regards,
+Mohamed Oussema Bahloul
+
+**Invitation LinkedIn**
+
+Hello Ms Vuckovic, I am a recent ENSI Computer Engineering graduate with an AI-agent PFE at Linedata and skills in Python, Java/C++ and full-stack development. The BMW AcceleratiON IT & AI programme strongly interests me. Glad to connect.
+
+**Message après acceptation**
+
+Thank you for connecting. I am considering the Trainee IT & AI role 194966. Could you please confirm whether a Tunisian graduate requiring German work authorization may apply, and how strictly fluent German is assessed?
+
+---
+
+### Move2cloud SAS
+
+- **Pays :** France
+- **Adresse(s) source :** Paris, Region - Ile de France
+- **Domaine :** Cloud, DevOps, FinOps, AI, cybersecurity and software engineering
+- **Correspondance :** 9.0/10 — Excellent croisement Python, IA, logiciel, CI/CD et cloud; l’entreprise possède aussi une adresse à Tunis. Les 12 CDI actuels demandent néanmoins 3 à 7 ans.
+- **Potentiel :** 68/100 — B — Prioritaire
+- **Métiers ciblés :** Junior Cloud/DevOps Engineer; Junior AI Engineer; Software Engineer
+- **Ouverture aux juniors :** Oui — stages 2026 et accompagnement junior démontrés; CDI actuels expérimentés — 12 offres actives sur le portail, dont Ingénieur IA/ML (+3 ans), Test automatisation (+3 ans), Full-stack (+3 ans); stages 2026 IA/LLM et Cloud publiés récemment.
+- **Candidats étrangers/visa/relocation :** Partiel — implantation à Tunis vérifiée; mobilité France non documentée — Le site officiel affiche une adresse à Montplaisir, Tunis. Aucun sponsoring France n’est annoncé.
+- **Offres actives :** 12 offres actives sur le portail, dont Ingénieur IA/ML (+3 ans), Test automatisation (+3 ans), Full-stack (+3 ans); stages 2026 IA/LLM et Cloud publiés récemment.
+- **Contact :** Move2Cloud FR — Canal officiel de recrutement
+- **LinkedIn :** https://fr.linkedin.com/company/movetocloud
+- **Email :** recrutement@move2cloud.fr (Adresse publiée dans une source officielle/récente)
+- **Canal officiel :** https://move2cloud.fr/carriers
+- **CV conseillé :** `CV_ATS_EN.pdf`
+- **Sources :** https://move2cloud.fr/carriers | https://fr.linkedin.com/company/movetocloud
+- **Vérifié le :** 2026-09-25 — Vérifié — screening manuel ciblé
+
+**Objet :** Candidature spontanée — Ingénieur junior Junior Cloud/DevOps Engineer
+
+**Email prêt à envoyer**
+
+Bonjour Move2Cloud FR,
+
+Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je souhaite proposer ma candidature à Move2Cloud pour une première opportunité en junior cloud/devops engineer; junior ai engineer; software engineer.
+
+Mon PFE chez Linedata portait sur la modernisation d’un produit financier grâce à des agents IA. Il m’a permis de relier IA appliquée, développement logiciel et compréhension métier. Je maîtrise également Python, Java, C++, le développement full-stack, les API, les bases de données, Git et les principes CI/CD.
+
+Excellent croisement Python, IA, logiciel, CI/CD et cloud; l’entreprise possède aussi une adresse à Tunis. Les 12 CDI actuels demandent néanmoins 3 à 7 ans. Je suis basé en Tunisie et ouvert à une collaboration à distance ou à une mobilité lorsque les conditions le permettent.
+
+Je joins mon CV et serais heureux d’échanger sur un besoin junior actuel ou futur.
+
+Bien cordialement,
+Mohamed Oussema Bahloul
+
+**Invitation LinkedIn**
+
+Bonjour, jeune diplômé ingénieur ENSI, j’ai réalisé chez Linedata un PFE combinant agents IA et logiciel financier. L’activité de Move2Cloud correspond fortement à mon projet professionnel. Ravi d’échanger sur vos futurs besoins juniors.
+
+**Message après acceptation**
+
+Merci pour la connexion. J’ai transmis ma candidature à recrutement@move2cloud.fr. Mon profil combine IA appliquée, développement logiciel et ingénierie financière. Je serais reconnaissant pour toute orientation vers un besoin junior chez Move2Cloud.
+
+---
+
+### AGIIR NETWORK
+
+- **Pays :** France
+- **Adresse(s) source :** 22 allée du lieutenant vagneron 42153 riorges | 27, rue Lucien Langenieux - 42300 ROANNE
+- **Domaine :** IT services, managed infrastructure, software maintenance, Big Data and cloud
+- **Correspondance :** 8.1/10 — La mission Data actuelle utilise Python, Pandas, PySpark, SQL, Kafka, cloud et CI/CD. Elle demande toutefois une forte autonomie et vise un freelance en France.
+- **Potentiel :** 67/100 — B — Prioritaire
+- **Métiers ciblés :** Junior Data Engineer; Python Engineer; Software Engineer
+- **Ouverture aux juniors :** Oui — un diplômé ENSI récent travaille dans l’entreprise et une développeuse récemment diplômée y est présente — Consultant freelance Data Engineer Big Data — publication récente — hybride France — niveau solide/autonome requis
+- **Candidats étrangers/visa/relocation :** Partiel — recrutement de profils tunisiens observé; mission actuelle localisée en France — Aucun visa sponsorisé confirmé; la présence ou collaboration tunisienne est indiquée lorsqu’elle est sourcée.
+- **Offres actives :** Consultant freelance Data Engineer Big Data — publication récente — hybride France — niveau solide/autonome requis
+- **Contact :** Yassine Boujebha — Software Engineer AGIIR et ancien ENSI
+- **LinkedIn :** https://fr.linkedin.com/in/yassine-boujebha-44a742205
+- **Email :** g.felix@agiir.com (Adresse de recrutement/contact publiée)
+- **Canal officiel :** mailto:g.felix@agiir.com
+- **CV conseillé :** `CV_ATS_EN.pdf`
+- **Sources :** https://www.linkedin.com/company/agiir-network | https://agiir-network.com/ | https://fr.linkedin.com/in/yassine-boujebha-44a742205
+- **Vérifié le :** 2026-09-25 — Vérifié — screening manuel ciblé
+
+**Objet :** Candidature — Junior Data Engineer junior
+
+**Email prêt à envoyer**
+
+Bonjour,
+
+Récemment diplômé ingénieur en informatique de l’ENSI, spécialisé en ingénierie financière, je souhaite proposer ma candidature à AGIIR Network pour une première opportunité en junior data engineer; python engineer; software engineer.
+
+Mon PFE chez Linedata portait sur la modernisation d’un produit financier à l’aide d’agents IA. Je maîtrise Python, Java, C++, le développement full-stack, les API, les bases de données, le machine learning, Git et les principes CI/CD.
+
+La mission Data actuelle utilise Python, Pandas, PySpark, SQL, Kafka, cloud et CI/CD. Elle demande toutefois une forte autonomie et vise un freelance en France. Basé en Tunisie, je suis ouvert au télétravail ou à une mobilité réalisable.
+
+Je serais ravi d’échanger et joins mon CV à cette candidature.
+
+Bien cordialement,
+Mohamed Oussema Bahloul
+
+**Invitation LinkedIn**
+
+Bonjour, diplômé ingénieur ENSI, mon PFE Linedata combinait agents IA et logiciel financier. AGIIR Network correspond à mes compétences en Python, Data/IA et développement. Ravi d’échanger sur vos besoins juniors.
+
+**Message après acceptation**
+
+Merci pour la connexion. Je viens de proposer mon profil junior à AGIIR Network. Pourriez-vous m’orienter vers la personne qui suit les besoins Data, IA ou développement logiciel ?
+
+---
+
+### AzertyUI
+
+- **Pays :** France
+- **Adresse(s) source :** 29 Rue des écoles, 26120 Mallisard
+- **Domaine :** Software development, web/mobile, cloud, AI agents, automation and cybersecurity
+- **Correspondance :** 8.7/10 — Les agents IA, workflows n8n, web/mobile et cloud recoupent précisément le profil; l’entreprise collabore publiquement avec un ingénieur mobile basé en Tunisie.
+- **Potentiel :** 66/100 — B — Prioritaire
+- **Métiers ciblés :** Junior AI/Automation Engineer; Full-stack Developer; Mobile Developer
+- **Ouverture aux juniors :** Oui/partiel — collaboration avec un ingénieur tunisien vérifiée; anciennes offres techniques visibles — Aucune offre technique active récente confirmée; ancienne offre Web Architect et offre commerciale, candidature spontanée conseillée.
+- **Candidats étrangers/visa/relocation :** Oui/partiel — collaboration France-Tunisie documentée, sans politique de visa publiée — Aucun visa sponsorisé confirmé; la présence ou collaboration tunisienne est indiquée lorsqu’elle est sourcée.
+- **Offres actives :** Aucune offre technique active récente confirmée; ancienne offre Web Architect et offre commerciale, candidature spontanée conseillée.
+- **Contact :** Ghaith Mefteh — Mobile Engineer chez AzertyUI, basé en Tunisie
+- **LinkedIn :** https://tn.linkedin.com/in/ghaith-mefteh-995a18157
+- **Email :** sales@azertyui.fr (Adresse de recrutement/contact publiée)
+- **Canal officiel :** mailto:sales@azertyui.fr
+- **CV conseillé :** `CV_ATS_EN.pdf`
+- **Sources :** https://fr.linkedin.com/company/azertyui-software | https://azertyui.fr/ | https://pe.linkedin.com/posts/azertyui-software_delighted-to-have-met-ghaith-mefteh-at-the-activity-7285203822774222848-UotI
+- **Vérifié le :** 2026-09-25 — Vérifié — screening manuel ciblé
+
+**Objet :** Candidature — Junior AI/Automation Engineer junior
+
+**Email prêt à envoyer**
+
+Bonjour,
+
+Récemment diplômé ingénieur en informatique de l’ENSI, spécialisé en ingénierie financière, je souhaite proposer ma candidature à AzertyUI pour une première opportunité en junior ai/automation engineer; full-stack developer; mobile developer.
+
+Mon PFE chez Linedata portait sur la modernisation d’un produit financier à l’aide d’agents IA. Je maîtrise Python, Java, C++, le développement full-stack, les API, les bases de données, le machine learning, Git et les principes CI/CD.
+
+Les agents IA, workflows n8n, web/mobile et cloud recoupent précisément le profil; l’entreprise collabore publiquement avec un ingénieur mobile basé en Tunisie. Basé en Tunisie, je suis ouvert au télétravail ou à une mobilité réalisable.
+
+Je serais ravi d’échanger et joins mon CV à cette candidature.
+
+Bien cordialement,
+Mohamed Oussema Bahloul
+
+**Invitation LinkedIn**
+
+Bonjour, diplômé ingénieur ENSI, mon PFE Linedata combinait agents IA et logiciel financier. AzertyUI correspond à mes compétences en Python, Data/IA et développement. Ravi d’échanger sur vos besoins juniors.
+
+**Message après acceptation**
+
+Merci pour la connexion. Je viens de proposer mon profil junior à AzertyUI. Pourriez-vous m’orienter vers la personne qui suit les besoins Data, IA ou développement logiciel ?
+
+---
+
+### CEDE Labs
+
+- **Pays :** France
+- **Adresse(s) source :** 229 rue Saint-Honoré, 75001, France
+- **Domaine :** FinTech/Web3; CEX connectivity, trading infrastructure, APIs and digital-asset data
+- **Correspondance :** 8.8/10 — Excellent FinTech and software fit: APIs, full-stack, data and financial-engineering background. Direct crypto/Web3 production experience is the main gap.
+- **Potentiel :** 66/100 — B — Prioritaire
+- **Métiers ciblés :** Junior Full-stack Engineer; Backend/API Engineer; Data Scientist; FinTech Software Engineer
+- **Ouverture aux juniors :** Possible — open general application, but experience level is not specified — The official application form is live and accepts applications by role and contract type. Recent leadership posts show active hiring, but no explicit junior label.
+- **Candidats étrangers/visa/relocation :** Oui — remote openness observed; visa sponsorship non vérifiable — A founder's public post states that the team is based at Station F and remote work is not a problem. This supports remote openness, not visa sponsorship or employment from every country.
+- **Offres actives :** Open application form — https://join.cedelabs.io/ ; a recent careers post lists Fullstack Software Engineer, but the linked detailed vacancy must be rechecked at application time.
+- **Contact :** Nikita Terekhov — Co-founder / technical leader — Cede Hub (formerly Cede Labs)
+- **LinkedIn :** https://fr.linkedin.com/in/nikita-terekhov
+- **Email :** hello@cedelabs.io (Published on the official CEDE Labs website and GitHub; general company address, while the application form is preferred.)
+- **Canal officiel :** https://join.cedelabs.io/
+- **CV conseillé :** `CV_ATS_Fintech_EN.pdf`
+- **Sources :** https://join.cedelabs.io/ | https://cede-labs-landing.webflow.io/ | https://github.com/cedelabs | https://fr.linkedin.com/in/nikita-terekhov | https://www.linkedin.com/posts/pierre-ni_cede-labs-cedelabs-twitter-activity-6980130290694266881-9M-b
+- **Vérifié le :** 2026-09-25 — Vérifié — excellente cible FinTech, candidature ouverte et remote observé
+
+**Objet :** Application – Junior Full-Stack / FinTech Software Engineer
+
+**Email prêt à envoyer**
+
+Dear Cede Team,
+
+I am a recent Computer Engineering graduate from ENSI, specialized in Financial Engineering, and I would like to apply for a junior full-stack, backend or data-oriented engineering opportunity.
+
+My final-year project at Linedata focused on modernizing a financial product with AI agents. It gave me experience connecting financial workflows with software implementation, APIs, data processing and an existing product environment. I also work with Python, Java, C++, JavaScript, databases and full-stack technologies.
+
+Cede's combination of financial infrastructure, exchange connectivity and product engineering is especially relevant to my dual background. While I am still at the beginning of my career, I bring strong learning ability, ownership and genuine interest in building reliable financial technology.
+
+I am based in Tunisia and open to remote collaboration or relocation. My CV is attached for your consideration.
+
+Kind regards,
+Mohamed Oussema Bahloul
+
+**Invitation LinkedIn**
+
+Hello Mr Terekhov, I’m an ENSI Computer Engineering graduate specialized in Financial Engineering. My Linedata PFE combined AI agents, APIs and a financial product. Cede’s exchange infrastructure strongly fits my profile; I’d be glad to connect.
+
+**Message après acceptation**
+
+Hello Mr Terekhov, thank you for connecting. I have submitted/plan to submit my profile through Cede’s form for a junior full-stack, backend or data role. My combination of software engineering, AI and financial engineering could fit your product. May I share my CV here?
+
+---
+
+### Move Logic
+
+- **Pays :** France
+- **Adresse(s) source :** 26 RUE BOSQUET 75007 PARIS
+- **Domaine :** Generative AI, AI agents, Data Engineering, BI and automation for SMEs
+- **Correspondance :** 9.2/10 — Le positionnement GenAI sur mesure, agents d’automatisation et intégration data est extrêmement proche du PFE Linedata. La société est cependant une micro-équipe sans offre publique.
+- **Potentiel :** 66/100 — B — Prioritaire
+- **Métiers ciblés :** Junior AI/GenAI Engineer; Data Engineer; Python Developer
+- **Ouverture aux juniors :** Non vérifiable — équipe de 2 à 10 personnes, sans offre publiée — Aucune offre active confirmée; candidature directe aux cofondateurs.
+- **Candidats étrangers/visa/relocation :** Non vérifiable — Le statut international est limité aux éléments explicitement visibles; aucun visa n’est supposé.
+- **Offres actives :** Aucune offre active confirmée; candidature directe aux cofondateurs.
+- **Contact :** Meriem Djefel — Contact actuel pertinent
+- **LinkedIn :** https://www.linkedin.com/in/meriem-djefel/
+- **Email :** Aucun email public vérifié (Aucun email public vérifié)
+- **Canal officiel :** https://www.move-logic.com/
+- **CV conseillé :** `CV_ATS_EN.pdf`
+- **Sources :** https://fr.linkedin.com/company/movelogic | https://www.linkedin.com/posts/movelogic_we-built-move-logic-around-a-simple-belief-activity-7412744945050243072-ujuY
+- **Vérifié le :** 2026-09-25 — Vérifié — screening manuel ciblé
+
+**Objet :** Candidature spontanée — Junior AI/GenAI Engineer junior
+
+**Email prêt à envoyer**
+
+Bonjour,
+
+Récemment diplômé ingénieur en informatique de l’ENSI, spécialisé en ingénierie financière, je souhaite proposer ma candidature à Move Logic pour une première opportunité en junior ai/genai engineer; data engineer; python developer.
+
+Mon PFE chez Linedata portait sur la modernisation d’un produit financier grâce à des agents IA. Je maîtrise Python, Java, C++, le développement full-stack, les bases de données, les API, le machine learning, Git et les principes CI/CD.
+
+Le positionnement GenAI sur mesure, agents d’automatisation et intégration data est extrêmement proche du PFE Linedata. La société est cependant une micro-équipe sans offre publique. Je suis basé en Tunisie et ouvert au travail à distance ou à la mobilité si le cadre le permet.
+
+Je joins mon CV et serais ravi d’échanger sur un besoin junior actuel ou futur.
+
+Bien cordialement,
+Mohamed Oussema Bahloul
+
+**Invitation LinkedIn**
+
+Bonjour, jeune diplômé ingénieur ENSI, mon PFE chez Linedata combinait agents IA et logiciel financier. L’activité de Move Logic correspond à mon profil Python, IA/Data et développement. Ravi d’échanger sur vos besoins juniors.
+
+**Message après acceptation**
+
+Merci pour la connexion. Je souhaite proposer mon profil junior à Move Logic. Pourriez-vous m’orienter vers l’équipe qui suit les besoins IA, Data ou développement logiciel ?
+
+---
+
+### Dassault Systèmes
+
+- **Pays :** France
+- **Adresse(s) source :** 10, rue Marcel Dassault —78140 VELIZY VILLACOUBLAY CEDEX France | 1O rue marcel dassault Vélizy Villacoublay France
+- **Domaine :** Industrial software, 3DEXPERIENCE, virtual twins, AI, simulation and cloud
+- **Correspondance :** 8.2/10 — Strong software/AI/C++ fit and formal graduate programs. No exact current France vacancy was isolated in the search result.
+- **Potentiel :** 65/100 — B — Prioritaire
+- **Métiers ciblés :** Graduate Software Engineer; Junior AI/ML Engineer; Python/C++ Developer; Data Engineer
+- **Ouverture aux juniors :** Oui — official graduate and entry-level programs — Dassault Systèmes officially offers graduate programs for recent graduates and lists 672 opportunities globally.
+- **Candidats étrangers/visa/relocation :** Non vérifiable — The VIE program requires EEA citizenship and is not available to the candidate. Regular French roles may still be possible, but sponsorship is not documented.
+- **Offres actives :** Graduate/entry-level search portal — https://www.3ds.com/fr/careers/jobs ; 672 global results at verification time; no exact suitable France role confirmed.
+- **Contact :** Diane Bartmann — Talent Acquisition Partner — Dassault Systèmes
+- **LinkedIn :** https://fr.linkedin.com/in/dianebartmann
+- **Email :** Aucun email public vérifié (Candidature via le portail officiel uniquement)
+- **Canal officiel :** https://www.3ds.com/fr/careers/jobs
+- **CV conseillé :** `CV_ATS_EN.pdf`
+- **Sources :** https://www.3ds.com/fr/careers/students-graduates | https://www.3ds.com/fr/careers/jobs | https://fr.linkedin.com/in/dianebartmann
+- **Vérifié le :** 2026-09-25 — Vérifié — programmes graduate officiels, aucune offre française exacte retenue aujourd’hui
+
+**Objet :** Application – Graduate Software / AI Engineer
+
+**Email prêt à envoyer**
+
+Dear Dassault Systèmes Recruitment Team,
+
+I am a recent Computer Engineering graduate from ENSI seeking an entry-level software or AI engineering opportunity. My final-year project at Linedata involved modernizing a financial product with AI agents, from understanding the business need to integrating the solution into an existing application.
+
+My background includes Python, Java, C++, machine learning, APIs, databases, full-stack development, Git and CI/CD. I am particularly interested in Dassault Systèmes because virtual twins and AI connect rigorous software engineering with real industrial impact.
+
+I am based in Tunisia and open to relocation to France. I would be grateful to be considered for a suitable graduate or junior role through your official career portal.
+
+Kind regards,
+Mohamed Oussema Bahloul
+
+**Invitation LinkedIn**
+
+Bonjour Mme Bartmann, jeune diplômé ingénieur ENSI, mon PFE chez Linedata portait sur l’intégration d’agents IA dans un produit existant. Je recherche un poste graduate en logiciel/IA et l’environnement 3DEXPERIENCE m’intéresse beaucoup. Ravi d’échanger.
+
+**Message après acceptation**
+
+Bonjour Mme Bartmann, merci pour la connexion. Mon profil combine Python, Java, C++, IA et développement produit. Pourriez-vous me conseiller sur les opportunités graduate/junior françaises adaptées à un candidat tunisien ouvert à la mobilité ?
+
+---
+
+### Mosofty
+
+- **Pays :** France
+- **Adresse(s) source :** 37 avenue de colmar, 92500 Reuil Malmaison, France
+- **Domaine :** Software engineering, AI, cloud, DevOps and IT consulting
+- **Correspondance :** 8.8/10 — L’entreprise recrute sur l’IA, Java/Spring, Angular, Cloud et DevOps et possède une activité à Tunis; l’offre Full-stack IA repérée demande toutefois un profil confirmé résidant en France.
+- **Potentiel :** 65/100 — B — Prioritaire
+- **Métiers ciblés :** Junior AI/ML Engineer; Full-stack Engineer; Software Engineer
+- **Ouverture aux juniors :** Oui — stages/PFE et recrutements IT observés, poste actuel ciblé confirmé — Développeur Full-stack IA confirmé — France — publié en 2026; aucune offre technique junior active exacte confirmée.
+- **Candidats étrangers/visa/relocation :** Partiel — activité à Tunis, mais l’offre France impose la résidence locale — Mosofty a une activité de recrutement en Tunisie; l’annonce France indique explicitement un candidat résidant en France.
+- **Offres actives :** Développeur Full-stack IA confirmé — France — publié en 2026; aucune offre technique junior active exacte confirmée.
+- **Contact :** Rania Zouaoui — Contact Mosofty publiant les recrutements
+- **LinkedIn :** https://fr.linkedin.com/in/raniazouaoui
+- **Email :** rh@mosofty.com (Adresse publiée dans une source officielle/récente)
+- **Canal officiel :** mailto:rh@mosofty.com
+- **CV conseillé :** `CV_ATS_EN.pdf`
+- **Sources :** https://www.linkedin.com/company/mosofty/ | https://fr.linkedin.com/in/raniazouaoui | https://fr.linkedin.com/posts/abir-kefi_recrutement-ia-développementfullstack-activity-7425474988352229376-HXuM
+- **Vérifié le :** 2026-09-25 — Vérifié — screening manuel ciblé
+
+**Objet :** Candidature spontanée — Ingénieur junior Junior AI/ML Engineer
+
+**Email prêt à envoyer**
+
+Bonjour Rania Zouaoui,
+
+Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je souhaite proposer ma candidature à Mosofty pour une première opportunité en junior ai/ml engineer; full-stack engineer; software engineer.
+
+Mon PFE chez Linedata portait sur la modernisation d’un produit financier grâce à des agents IA. Il m’a permis de relier IA appliquée, développement logiciel et compréhension métier. Je maîtrise également Python, Java, C++, le développement full-stack, les API, les bases de données, Git et les principes CI/CD.
+
+L’entreprise recrute sur l’IA, Java/Spring, Angular, Cloud et DevOps et possède une activité à Tunis; l’offre Full-stack IA repérée demande toutefois un profil confirmé résidant en France. Je suis basé en Tunisie et ouvert à une collaboration à distance ou à une mobilité lorsque les conditions le permettent.
+
+Je joins mon CV et serais heureux d’échanger sur un besoin junior actuel ou futur.
+
+Bien cordialement,
+Mohamed Oussema Bahloul
+
+**Invitation LinkedIn**
+
+Bonjour, jeune diplômé ingénieur ENSI, j’ai réalisé chez Linedata un PFE combinant agents IA et logiciel financier. L’activité de Mosofty correspond fortement à mon projet professionnel. Ravi d’échanger sur vos futurs besoins juniors.
+
+**Message après acceptation**
+
+Merci pour la connexion. J’ai transmis ma candidature à rh@mosofty.com. Mon profil combine IA appliquée, développement logiciel et ingénierie financière. Je serais reconnaissant pour toute orientation vers un besoin junior chez Mosofty.
+
+---
+
+### Syslearn
+
+- **Pays :** France
+- **Adresse(s) source :** 2 esplanade Ferdinand Magellan, 93160 Noisy-le-Grand,�France
+- **Domaine :** IT engineering and consulting: C++, Java, full-stack, AI, Data, cybersecurity and DevOps
+- **Correspondance :** 8.2/10 — Les postes C++ et full-stack et les pôles IA/Data correspondent directement au profil. Les fiches publiques ne précisent toutefois pas le niveau d'expérience ni le sponsoring.
+- **Potentiel :** 64/100 — B — Prioritaire
+- **Métiers ciblés :** Junior C++ Engineer; Full-stack Developer; AI/Data Engineer; IT Consultant
+- **Ouverture aux juniors :** Non vérifiable — dépôt de CV ouvert — Le site officiel invite les candidats à déposer leur CV et affiche actuellement Consultant informatique, Ingénieur écosystème C++ et Développeur full-stack.
+- **Candidats étrangers/visa/relocation :** Non vérifiable — Aucune mention publique de visa, relocation ou recrutement hors UE sur la page consultée.
+- **Offres actives :** Ingénieur écosystème C++ — France — https://www.syslearn-group.com/carrieres/recrutement ; Développeur full-stack — moteur de matching IA — même portail ; Consultant informatique — même portail
+- **Contact :** Syslearn Group — Canal officiel de recrutement
+- **LinkedIn :** https://www.linkedin.com/company/syslearn/
+- **Email :** Aucun email public vérifié (Candidature via le portail officiel uniquement)
+- **Canal officiel :** https://www.syslearn-group.com/carrieres/recrutement
+- **CV conseillé :** `CV_ATS_EN.pdf`
+- **Sources :** https://www.syslearn-group.com/carrieres/recrutement | https://syslearn.fr/recrutement/
+- **Vérifié le :** 2026-09-25 — Vérifié — trois postes affichés et dépôt de CV officiel, critères détaillés non publiés
+
+**Objet :** Candidature — Ingénieur C++ / Full-stack junior
+
+**Email prêt à envoyer**
+
+Bonjour,
+
+Récemment diplômé ingénieur en informatique de l'ENSI, je souhaite vous proposer ma candidature pour vos opportunités en développement C++, full-stack, Data ou intelligence artificielle.
+
+Mon PFE chez Linedata a porté sur la modernisation d'un produit financier à l'aide d'agents IA. Cette expérience m'a permis de combiner compréhension métier, développement logiciel et intégration de solutions d'IA. Je maîtrise notamment C++, Java, Python, les APIs, SQL, le développement full-stack, Git et les principes de CI/CD.
+
+La diversité des pôles de Syslearn et votre volonté de faire progresser les consultants vers une expertise réelle correspondent à ce que je recherche pour ma première expérience. Basé en Tunisie, je suis ouvert à une mobilité en France si les démarches d'autorisation de travail sont envisageables.
+
+Bien cordialement,
+Mohamed Oussema Bahloul
+
+**Invitation LinkedIn**
+
+Bonjour, jeune diplômé ingénieur ENSI, mon PFE Linedata combinait produit financier et agents IA. Je maîtrise C++, Java, Python et le full-stack. Vos postes C++ et full-stack ainsi que vos pôles IA/Data correspondent à mon profil. Ravi d'échanger.
+
+**Message après acceptation**
+
+Bonjour, merci pour la connexion. Je vais déposer ma candidature via votre portail pour les opportunités C++/full-stack. Savez-vous si Syslearn peut considérer un jeune diplômé tunisien nécessitant une mobilité vers la France ?
+
+---
+
+### Yonnov'IA
+
+- **Pays :** France
+- **Adresse(s) source :** 37 Rue Guibal, Marseille Innovation, CS 20038, Marseille, Box No.7 France | 37 Rue Guibal, Pôle Media Belle de mai, Bureau N°7, 13356 Marseille Cedex 03, France | Marseille Cedex 03 | Marseille Innovation Pôle Media Belle de Mai 37 Rue Guibal Bureau No. 07 13003 Marseille France | Marseille Innovation, Pôle Media Belle de mai | Bureau N°7  37 Rue Guibal, 13003 Marseille, France | Marseille, France  37 Rue Guibal, Pôle Média, office No.7, Marseille Innovation – 13003
+- **Domaine :** AI solutions, AI-powered ERP, automation and decision support
+- **Correspondance :** 9.0/10 — La startup conçoit des solutions IA intégrées aux outils métiers et des modules ERP prédictifs; elle emploie plusieurs profils tunisiens, mais aucune offre technique actuelle n’est visible.
+- **Potentiel :** 63/100 — B — Prioritaire
+- **Métiers ciblés :** Junior AI Engineer; Python/ERP Developer; Data/ML Engineer
+- **Ouverture aux juniors :** Oui — stage pré-embauche antérieur et équipe jeune; aucune offre technique actuelle — Aucune offre technique active; ancien stage marketing pré-embauche publié pour janvier 2026.
+- **Candidats étrangers/visa/relocation :** Partiel — plusieurs collaborateurs tunisiens visibles; statut contractuel/visa non vérifiable — La page LinkedIn liste plusieurs collaborateurs basés en Tunisie, sans préciser leur contrat ni une politique de mobilité.
+- **Offres actives :** Aucune offre technique active; ancien stage marketing pré-embauche publié pour janvier 2026.
+- **Contact :** Mohamed Arafet Khadraoui — Membre actuel de Yonnov’IA
+- **LinkedIn :** https://fr.linkedin.com/in/khadraouiarafet
+- **Email :** contact@yonnovia.fr (Adresse publiée dans une source officielle/récente)
+- **Canal officiel :** mailto:contact@yonnovia.fr
+- **CV conseillé :** `CV_ATS_EN.pdf`
+- **Sources :** https://www.linkedin.com/company/yonnovia.fr | https://fr.linkedin.com/in/khadraouiarafet | https://www.yonnovia.fr/
+- **Vérifié le :** 2026-09-25 — Vérifié — screening manuel ciblé
+
+**Objet :** Candidature spontanée — Ingénieur junior Junior AI Engineer
+
+**Email prêt à envoyer**
+
+Bonjour Mohamed Arafet Khadraoui,
+
+Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je souhaite proposer ma candidature à Yonnov’IA pour une première opportunité en junior ai engineer; python/erp developer; data/ml engineer.
+
+Mon PFE chez Linedata portait sur la modernisation d’un produit financier grâce à des agents IA. Il m’a permis de relier IA appliquée, développement logiciel et compréhension métier. Je maîtrise également Python, Java, C++, le développement full-stack, les API, les bases de données, Git et les principes CI/CD.
+
+La startup conçoit des solutions IA intégrées aux outils métiers et des modules ERP prédictifs; elle emploie plusieurs profils tunisiens, mais aucune offre technique actuelle n’est visible. Je suis basé en Tunisie et ouvert à une collaboration à distance ou à une mobilité lorsque les conditions le permettent.
+
+Je joins mon CV et serais heureux d’échanger sur un besoin junior actuel ou futur.
+
+Bien cordialement,
+Mohamed Oussema Bahloul
+
+**Invitation LinkedIn**
+
+Bonjour, jeune diplômé ingénieur ENSI, j’ai réalisé chez Linedata un PFE combinant agents IA et logiciel financier. L’activité de Yonnov’IA correspond fortement à mon projet professionnel. Ravi d’échanger sur vos futurs besoins juniors.
+
+**Message après acceptation**
+
+Merci pour la connexion. J’ai transmis ma candidature à contact@yonnovia.fr. Mon profil combine IA appliquée, développement logiciel et ingénierie financière. Je serais reconnaissant pour toute orientation vers un besoin junior chez Yonnov’IA.
+
+---
+
+### MedicusClinic
+
+- **Pays :** États-Unis
+- **Adresse(s) source :** 651N St Broad, Suite 206, Middletown, Delaware. Postcode 19709, USA | 651N St Broad, suite 206 Middletown Delaware, CP19709, USA | 651N St Broad, suite 206 Middletown Delaware. Zip Code 19709, USA
+- **Domaine :** HealthTech, LLM-powered medical consultation, AI automation and web platform
+- **Correspondance :** 8.5/10 — L'offre Automation AI Platform Engineer et la plateforme LLM correspondent aux agents, APIs, automatisation et logiciel; le niveau d'expérience exact n'est pas visible dans l'extrait.
+- **Potentiel :** 62/100 — B — Prioritaire
+- **Métiers ciblés :** Junior AI/LLM Engineer; Automation AI Platform Engineer; Python/Full-stack Engineer; QA Automation
+- **Ouverture aux juniors :** Oui — stage QA junior récent; rôle AI non confirmé junior — Doctorina a publié un stage Junior QA à Varsovie et recrute activement. L'offre AI Platform Engineer a été publiée il y a quatre mois.
+- **Candidats étrangers/visa/relocation :** Non vérifiable — présence à Varsovie — Les publications récentes indiquent des postes en présentiel à Varsovie; aucune option Tunisie/remote internationale ni visa n'est annoncée.
+- **Offres actives :** Automation AI Platform Engineer — publication encore accessible, actualité à confirmer — https://www.linkedin.com/posts/kseniyapavlova_job-automation-ai-activity-7437175238167093248-a1PM ; autres recrutements récents à Varsovie
+- **Contact :** Ksu Paulava — Recruiting/People contact — Doctorina
+- **LinkedIn :** https://pl.linkedin.com/in/kseniyapavlova
+- **Email :** work@doctorina.com (Adresse de candidature publiée dans plusieurs offres Doctorina récentes)
+- **Canal officiel :** mailto:work@doctorina.com
+- **CV conseillé :** `CV_ATS_EN.pdf`
+- **Sources :** https://pl.linkedin.com/in/kseniyapavlova | https://www.linkedin.com/posts/kseniyapavlova_job-automation-ai-activity-7437175238167093248-a1PM
+- **Vérifié le :** 2026-09-25 — Vérifié — très bon fit HealthTech/LLM, localisation et niveau à confirmer
+
+**Objet :** Application – Junior AI / Automation Platform Engineer
+
+**Email prêt à envoyer**
+
+Dear Ms Paulava,
+
+I am a recent Computer Engineering graduate from ENSI interested in Doctorina's AI and automation engineering work. My final-year project at Linedata focused on integrating AI agents into an existing financial product, including tool use, APIs and application integration.
+
+I bring skills in Python, LLM applications, Java, C++, databases, full-stack development, testing, Git and CI/CD. Doctorina's mission to turn LLM capabilities into a reliable healthcare product is exactly the type of practical, high-impact AI work I want to pursue.
+
+I am based in Tunisia and open to relocating to Warsaw if work-authorization support is possible. I would also welcome consideration for a junior engineering or QA-automation route.
+
+Kind regards,
+Mohamed Oussema Bahloul
+
+**Invitation LinkedIn**
+
+Hello Ms Paulava, I am a recent ENSI Computer Engineering graduate with an AI-agent PFE at Linedata and skills in Python, LLMs, APIs and full-stack development. Doctorina's LLM-powered healthcare mission strongly interests me. Glad to connect.
+
+**Message après acceptation**
+
+Thank you for connecting. I am interested in Doctorina's AI automation work and sent my CV to work@doctorina.com. Could a junior Tunisian engineer willing to relocate to Warsaw be considered for a suitable technical role?
+
+---
+
+### Sosyo Plus Bilgi Bil. Tekn. Dan. Hiz. Tic. A.Ş.
+
+- **Pays :** Turquie
+- **Adresse(s) source :** Insider, Libadiye Sok. No:3, 34415 Kâğıthane/İstanbul, Türkiye | Istanbul, Turkey
+- **Domaine :** AI-native B2B SaaS, customer data platform, marketing technology and large-scale software
+- **Correspondance :** 8.5/10 — Le poste actif correspond très bien à l'usage quotidien d'agents pour planifier, coder, tester et documenter. Il est toutefois de niveau mid et limité à la Turquie malgré le libellé remote.
+- **Potentiel :** 62/100 — B — Prioritaire
+- **Métiers ciblés :** AI-Native Software Engineer; Graduate Software Developer; Junior QA/Support Engineer; AI platform engineer
+- **Ouverture aux juniors :** Oui — programmes fresh graduate, mais poste ciblé mid-level — Insider One possède le programme F.I.R.E. pour étudiants/fresh grads et publie des rôles fresh grad/junior. L'offre AI-Native active est cependant décrite comme mid-level par les agrégateurs.
+- **Candidats étrangers/visa/relocation :** Non vérifiable — remote limité à la Turquie — L'offre est remote mais localisée Turkey; elle ne constitue pas une autorisation de télétravail depuis la Tunisie et ne mentionne pas de sponsoring.
+- **Offres actives :** Software Engineer – AI Native — Turkey, remote within Turkey — https://jobs.lever.co/insiderone/ee932b8c-0e12-45c1-8c1a-1ec95c4e623c ; Career Revolution: Hi-Tech — Istanbul — https://jobs.lever.co/insiderone
+- **Contact :** Ece Cosgun — Recruitment Booster — Insider One
+- **LinkedIn :** https://tr.linkedin.com/in/ece-cosgun
+- **Email :** Aucun email public vérifié (Candidature via le portail officiel uniquement)
+- **Canal officiel :** https://jobs.lever.co/insiderone/ee932b8c-0e12-45c1-8c1a-1ec95c4e623c
+- **CV conseillé :** `CV_ATS_EN.pdf`
+- **Sources :** https://jobs.lever.co/insiderone/ee932b8c-0e12-45c1-8c1a-1ec95c4e623c | https://jobs.lever.co/insiderone | https://tr.linkedin.com/in/ece-cosgun
+- **Vérifié le :** 2026-09-25 — Vérifié — très bon fit Agentic AI, mais rôle actif mid-level et localisé Turquie
+
+**Objet :** Application – AI-Native Software Engineer
+
+**Email prêt à envoyer**
+
+Dear Insider One Recruitment Team,
+
+I am applying for the AI-Native Software Engineer position. I recently graduated as a Computer Engineer from ENSI, and my final-year project at Linedata focused on using AI agents to modernize an existing financial product.
+
+This experience taught me to use agents across analysis, tool calling, implementation and validation while remaining responsible for the quality of the final software. I also bring strong foundations in Python, Java, C++, APIs, databases, full-stack development, testing, Git and CI/CD.
+
+I recognize that the role expects more production experience than a typical graduate position. I am nevertheless applying because its AI-native engineering philosophy closely matches the way I have built my most significant project. I am based in Tunisia and open to relocation to Istanbul or another workable arrangement.
+
+Kind regards,
+Mohamed Oussema Bahloul
+
+**Invitation LinkedIn**
+
+Hello Ms Cosgun, I am a recent ENSI Computer Engineering graduate whose Linedata PFE used AI agents across a real product workflow. Insider One's AI-native engineering approach and graduate culture strongly resonate with me. Glad to connect.
+
+**Message après acceptation**
+
+Thank you for connecting. I am interested in the AI-Native Software Engineer role, while recognizing it may be above graduate level. Could you advise whether Insider One has a junior route and can consider a Tunisian candidate for Turkey or relocation?
+
+---
+
+### CODOC
+
+- **Pays :** France
+- **Adresse(s) source :** 16 rue du caire 75002 paris
+- **Domaine :** HealthTech; health-data warehouse, DataOps, NLP/LLM, secure data platforms and SaaS
+- **Correspondance :** 8.0/10 — Python, ML, data, APIs and product-integration skills fit codoc's health-data platform. The candidate lacks healthcare-data experience, but the current DataOps and QA roles are relevant.
+- **Potentiel :** 61/100 — B — Prioritaire
+- **Métiers ciblés :** Junior Data Engineer; Junior AI/ML Engineer; Python Backend Engineer; QA/Support Engineer
+- **Ouverture aux juniors :** Yes — internships, apprenticeships and permanent roles are recruited throughout the year — codoc's recruiting post explicitly mentions internship, permanent and apprenticeship hiring; the live careers page also accepts spontaneous applications.
+- **Candidats étrangers/visa/relocation :** Non vérifiable — Current roles are Paris-based with frequent remote work, but no visa sponsorship or relocation statement was found.
+- **Offres actives :** Data Engineer – Run DataOps (CDI, Paris, frequent remote); QA / Support Engineer (CDI, Paris, frequent remote); spontaneous application — https://www.welcometothejungle.com/fr/companies/codoc/jobs
+- **Contact :** Arthur Delapalme — Co-founder — codoc
+- **LinkedIn :** https://fr.linkedin.com/in/arthur-delapalme-codoc-healthtech
+- **Email :** Aucun email public vérifié (Aucun email public de recrutement vérifié)
+- **Canal officiel :** https://www.welcometothejungle.com/fr/companies/codoc/jobs
+- **CV conseillé :** `CV_ATS.pdf`
+- **Sources :** https://www.welcometothejungle.com/fr/companies/codoc/jobs | https://www.linkedin.com/company/codoc-healthdata/ | https://fr.linkedin.com/in/arthur-delapalme-codoc-healthtech
+- **Vérifié le :** 2026-09-25 — Vérifié — offres DataOps et QA actives, culture junior démontrée, mobilité non documentée
+
+**Objet :** Candidature – Data Engineer / Ingénieur IA junior
+
+**Email prêt à envoyer**
+
+Bonjour Monsieur Delapalme,
+
+Récemment diplômé ingénieur en informatique de l’ENSI, je souhaite proposer ma candidature pour une opportunité junior en Data Engineering, IA ou développement Python chez codoc.
+
+Mon PFE chez Linedata a porté sur la modernisation d’un produit financier à l’aide d’agents IA. J’ai ainsi travaillé sur l’intégration d’une solution intelligente dans un produit existant, avec Python, les APIs, les bases de données et le développement logiciel. Cette expérience m’a également sensibilisé aux exigences de fiabilité et de gouvernance propres aux données métier sensibles.
+
+La mission de codoc, qui consiste à rendre les données de santé réellement exploitables pour améliorer la recherche et les soins, donne une finalité concrète à la Data et à l’IA. Je serais particulièrement intéressé par vos besoins en DataOps, backend Python ou IA.
+
+Je suis actuellement basé en Tunisie et disponible pour une mobilité en France si les conditions administratives le permettent. Je joins mon CV et reste disponible pour échanger.
+
+Bien cordialement,
+Mohamed Oussema Bahloul
+
+**Invitation LinkedIn**
+
+Bonjour M. Delapalme, jeune diplômé ingénieur ENSI, mon PFE Linedata portait sur l’intégration d’agents IA dans un produit financier. Les projets Data/IA de codoc au service de la santé m’intéressent particulièrement. Ravi d’échanger avec vous.
+
+**Message après acceptation**
+
+Bonjour M. Delapalme, merci pour la connexion. Les postes Data Engineer/QA actuellement publiés chez codoc ont retenu mon attention. Mon profil combine Python, Data, IA, APIs et intégration produit. Accepteriez-vous que je vous transmette mon CV avant de postuler via le portail ?
+
+---
+
+### Orange Gardens
+
+- **Pays :** France
+- **Adresse(s) source :** 46 Av. de la République, 92320 Châtillon, France
+- **Domaine :** Telecommunications, AI/Data, cybersecurity, cloud, software development and digital services
+- **Correspondance :** 8.1/10 — Orange's AI/data, development, cloud and cybersecurity tracks match the profile; the Graduate Program targets recent Master graduates.
+- **Potentiel :** 61/100 — B — Prioritaire
+- **Métiers ciblés :** Graduate AI/Data Engineer; Junior Software Engineer; Cloud/Cybersecurity junior
+- **Ouverture aux juniors :** Oui — Orange Graduate Program — The official France page lists the Orange Graduate Program for candidates graduating in 2026 or holding a Master obtained in the last three years.
+- **Candidats étrangers/visa/relocation :** Non vérifiable — The program includes international rotations but the public eligibility page does not confirm French visa sponsorship for non-EU candidates.
+- **Offres actives :** Orange Graduate Program — recent graduates — https://orange.jobs/fr/fr/etudiant/orange-graduate-program ; general France tech vacancies — https://orange.jobs/fr/fr/europe/france
+- **Contact :** Orange Talent Acquisition France — Official recruitment channel
+- **LinkedIn :** https://www.linkedin.com/company/orange/jobs/
+- **Email :** Aucun email public vérifié (Candidature via le portail officiel uniquement)
+- **Canal officiel :** https://orange.jobs/fr/fr/europe/france
+- **CV conseillé :** `CV_ATS.pdf`
+- **Sources :** https://orange.jobs/fr/fr/europe/france | https://orange.jobs/fr/fr/etudiant/orange-graduate-program
+- **Vérifié le :** 2026-09-25 — Vérifié — Graduate Program et filières IA/Data/Cloud officiels, sponsoring non documenté
+
+**Objet :** Candidature – Orange Graduate Program / Ingénieur IA-Data junior
+
+**Email prêt à envoyer**
+
+Bonjour,
+
+Récemment diplômé ingénieur en informatique de l’ENSI, je souhaite rejoindre Orange dans le cadre d’une opportunité graduate ou junior en IA, Data, développement logiciel ou cloud.
+
+Mon PFE chez Linedata a porté sur la modernisation d’un produit financier à l’aide d’agents IA. J’ai travaillé avec Python, les LLM, les APIs, les bases de données et une application existante. Je maîtrise également Java, C++, le développement full-stack, Git et les principes de CI/CD.
+
+La diversité des activités technologiques d’Orange et la possibilité de contribuer à des projets ayant un impact à grande échelle correspondent à mon projet professionnel. Basé en Tunisie, je suis ouvert à une mobilité en France et à un parcours international adapté.
+
+Je vous remercie pour l’attention portée à ma candidature.
+
+Bien cordialement,
+Mohamed Oussema Bahloul
+
+**Invitation LinkedIn**
+
+Bonjour, jeune diplômé ingénieur ENSI, mon PFE Linedata portait sur des agents IA intégrés à un produit financier. Je recherche une première opportunité en IA, Data, logiciel ou cloud et le Graduate Program Orange m’intéresse particulièrement. Ravi de rejoindre votre réseau.
+
+**Message après acceptation**
+
+Bonjour, merci pour la connexion. Mon profil combine Python, Java/C++, IA, APIs et développement full-stack. Pourriez-vous m’orienter vers les postes graduate/junior Orange accessibles à un candidat tunisien ouvert à la mobilité en France ?
+
+---
+
+### Shanon Technologies
+
+- **Pays :** France
+- **Adresse(s) source :** Woodrow Wilson 6 Place du Président Thomas Wilson, Toulouse, Nanterre 78600, FR
+- **Domaine :** Embedded software, digital signal processing, control systems and hardware
+- **Correspondance :** 8.2/10 — Le logiciel embarqué, le DSP et les systèmes de contrôle exploitent directement C++/Python et la résolution de problèmes. Plusieurs membres tunisiens figurent dans la petite équipe, mais aucune offre n’est affichée.
+- **Potentiel :** 61/100 — B — Prioritaire
+- **Métiers ciblés :** Junior Embedded Software Engineer; Python/C++ Engineer; AI Engineer
+- **Ouverture aux juniors :** Oui/partiel — équipe jeune et internationale, avec ingénieurs tunisiens — Aucune offre active confirmée; candidature spontanée auprès de l’équipe technique.
+- **Candidats étrangers/visa/relocation :** Oui/partiel — plusieurs profils tunisiens dans l’équipe; contrat et visa non documentés — Le statut international est limité aux éléments explicitement visibles; aucun visa n’est supposé.
+- **Offres actives :** Aucune offre active confirmée; candidature spontanée auprès de l’équipe technique.
+- **Contact :** Amira Zbidi — Contact actuel pertinent
+- **LinkedIn :** https://de.linkedin.com/in/amira-zbidi-443ba2213
+- **Email :** Aucun email public vérifié (Aucun email public vérifié)
+- **Canal officiel :** https://www.linkedin.com/company/shanon-technologies/
+- **CV conseillé :** `CV_ATS_EN.pdf`
+- **Sources :** https://www.linkedin.com/company/shanon-technologies/ | https://de.linkedin.com/in/amira-zbidi-443ba2213
+- **Vérifié le :** 2026-09-25 — Vérifié — screening manuel ciblé
+
+**Objet :** Candidature spontanée — Junior Embedded Software Engineer junior
+
+**Email prêt à envoyer**
+
+Bonjour,
+
+Récemment diplômé ingénieur en informatique de l’ENSI, spécialisé en ingénierie financière, je souhaite proposer ma candidature à Shanon Technologies pour une première opportunité en junior embedded software engineer; python/c++ engineer; ai engineer.
+
+Mon PFE chez Linedata portait sur la modernisation d’un produit financier grâce à des agents IA. Je maîtrise Python, Java, C++, le développement full-stack, les bases de données, les API, le machine learning, Git et les principes CI/CD.
+
+Le logiciel embarqué, le DSP et les systèmes de contrôle exploitent directement C++/Python et la résolution de problèmes. Plusieurs membres tunisiens figurent dans la petite équipe, mais aucune offre n’est affichée. Je suis basé en Tunisie et ouvert au travail à distance ou à la mobilité si le cadre le permet.
+
+Je joins mon CV et serais ravi d’échanger sur un besoin junior actuel ou futur.
+
+Bien cordialement,
+Mohamed Oussema Bahloul
+
+**Invitation LinkedIn**
+
+Bonjour, jeune diplômé ingénieur ENSI, mon PFE chez Linedata combinait agents IA et logiciel financier. L’activité de Shanon Technologies correspond à mon profil Python, IA/Data et développement. Ravi d’échanger sur vos besoins juniors.
+
+**Message après acceptation**
+
+Merci pour la connexion. Je souhaite proposer mon profil junior à Shanon Technologies. Pourriez-vous m’orienter vers l’équipe qui suit les besoins IA, Data ou développement logiciel ?
+
+---
+
+### Knowlepsy Investment
+
+- **Pays :** France
+- **Adresse(s) source :** 96 rue Paradis 13006 Marseille | 96 rue paradis | Knowlepsy Investment, 96 rue paradis 13006 Marseille, France
+- **Domaine :** HealthTech, predictive analytics, real-world health data and AI
+- **Correspondance :** 8.7/10 — L’analyse prédictive de données de santé correspond fortement au profil IA/data; la marque Knowlepsy est devenue Clarrio.ai et aucune ouverture technique active n’a été confirmée.
+- **Potentiel :** 59/100 — B — Prioritaire
+- **Métiers ciblés :** Junior Data/AI Engineer; Machine Learning Engineer; Full-stack Engineer
+- **Ouverture aux juniors :** Non vérifiable — startup France-Tunisie, sans page carrières active trouvée — Aucune offre active confirmée; candidature spontanée auprès de l’équipe dirigeante.
+- **Candidats étrangers/visa/relocation :** Partiel — structure France-Tunisie observée, modalités non publiées — Aucun sponsoring de visa ni dispositif de relocation confirmé.
+- **Offres actives :** Aucune offre active confirmée; candidature spontanée auprès de l’équipe dirigeante.
+- **Contact :** Rym Jaziri — Dirigeante/équipe Knowlepsy Investment
+- **LinkedIn :** https://www.linkedin.com/in/rym-jaziri-142ba815/fr
+- **Email :** Aucun email public vérifié (Aucun email public vérifié)
+- **Canal officiel :** https://www.linkedin.com/company/clarrio-ai/
+- **CV conseillé :** `CV_ATS_EN.pdf`
+- **Sources :** https://www.linkedin.com/in/rym-jaziri-142ba815/fr | https://www.linkedin.com/posts/firas-rhaiem-546378108_healthtech-digitalhealth-ai-activity-7376244050473164800-betc
+- **Vérifié le :** 2026-09-25 — Vérifié — screening manuel ciblé
+
+**Objet :** Candidature spontanée — Junior Data/AI Engineer junior
+
+**Email prêt à envoyer**
+
+Bonjour Rym Jaziri,
+
+Récemment diplômé ingénieur en informatique de l’ENSI, spécialisé en ingénierie financière, je souhaite proposer ma candidature à Clarrio.ai (ex-Knowlepsy) pour une première opportunité en junior data/ai engineer; machine learning engineer; full-stack engineer.
+
+Mon PFE chez Linedata a consisté à moderniser un produit financier grâce à des agents IA. Cette expérience m’a appris à transformer un besoin métier en solution intégrée, tout en mobilisant Python, le machine learning, les API, les bases de données et le développement full-stack. Je maîtrise également Java et C++.
+
+L’analyse prédictive de données de santé correspond fortement au profil IA/data; la marque Knowlepsy est devenue Clarrio.ai et aucune ouverture technique active n’a été confirmée. Je suis basé en Tunisie et ouvert au télétravail international ou à la mobilité lorsque cela est possible.
+
+Je joins mon CV et serais ravi d’échanger sur vos besoins actuels ou futurs.
+
+Bien cordialement,
+Mohamed Oussema Bahloul
+
+**Invitation LinkedIn**
+
+Bonjour, diplômé ingénieur ENSI, mon PFE Linedata combinait agents IA et logiciel financier. Les travaux de Clarrio.ai (ex-Knowlepsy) sont proches de mon projet en IA appliquée et développement. Ravi d’échanger sur un futur besoin junior.
+
+**Message après acceptation**
+
+Merci pour la connexion. Je souhaite proposer mon profil junior à Clarrio.ai (ex-Knowlepsy), à l’intersection de l’IA appliquée, du développement logiciel et de la compréhension métier. Je serais reconnaissant pour toute orientation vers un besoin adapté.
+
+---
+
+### Synapse DX
+
+- **Pays :** Portugal
+- **Adresse(s) source :** Alameda Conde Oeiras, 2780-193 Oeiras, Portugal
+- **Domaine :** AI document processing, LLMs, inference engines, APIs and banking back-office automation
+- **Correspondance :** 9.1/10 — Excellente convergence LLM, intégration produit, APIs et finance; petite équipe sans poste public actuel.
+- **Potentiel :** 59/100 — B — Prioritaire
+- **Métiers ciblés :** Junior AI/LLM Engineer; Python Backend Engineer; Full-stack Developer; AI Product Engineer
+- **Ouverture aux juniors :** Non vérifiable — Startup de 2–10 personnes fondée en 2024; aucune page carrière ni offre junior active n'a été trouvée.
+- **Candidats étrangers/visa/relocation :** Non vérifiable — Aucun engagement public de sponsoring de visa trouvé.
+- **Offres actives :** Aucune offre active confirmée — candidature spontanée via le contact officiel ou LinkedIn
+- **Contact :** Emna Miled — CPO — SynapseDX
+- **LinkedIn :** https://pt.linkedin.com/company/synapsedx
+- **Email :** Aucun email public vérifié (Portail ou LinkedIn officiel privilégié)
+- **Canal officiel :** https://synapsedx.com/about.html
+- **CV conseillé :** `CV_ATS_EN.pdf`
+- **Sources :** https://synapsedx.com/about.html | https://pt.linkedin.com/company/synapsedx
+- **Vérifié le :** 2026-09-25 — Vérifié — fit excellent, mais aucune ouverture publique actuelle
+
+**Objet :** Spontaneous Application – Junior AI / Software Engineer – SynapseDX
+
+**Email prêt à envoyer**
+
+Dear SynapseDX Team,
+
+I am a recent Computer Engineering graduate from ENSI seeking a junior AI or software engineering opportunity. My final-year project at Linedata focused on modernizing a financial software product through AI agents, from business analysis to integration into an existing application.
+
+I bring skills in Python, Java, C++, machine learning, APIs, databases, full-stack development, Git and CI/CD. Your origin in banking software and your work on reliable LLM-based document automation make SynapseDX an unusually strong match for my combined software, AI and financial-engineering background.
+
+I am based in Tunisia and open to relocation, subject to work-authorization feasibility. I would be grateful to be considered for a suitable graduate or junior opportunity.
+
+Kind regards,
+Mohamed Oussema Bahloul
+
+**Invitation LinkedIn**
+
+Bonjour Mme Miled, jeune diplômé ENSI spécialisé en ingénierie financière, mon PFE Linedata portait sur des agents IA intégrés à un produit financier. L'ADN banking+LLM de SynapseDX correspond remarquablement à mon profil. Ravi d'échanger.
+
+**Message après acceptation**
+
+Bonjour Mme Miled, merci pour la connexion. Je souhaiterais proposer ma candidature spontanée pour un futur poste junior IA/logiciel. Mon profil combine LLM/agents, APIs, full-stack et compréhension des produits financiers. Puis-je vous transmettre mon CV ?
+
+---
+
+### BMCI
+
+- **Pays :** Mauritanie
+- **Adresse(s) source :** Avenue Gamal Abdel Nasser BP 622, Nouakchott, Mauritanie.
+- **Domaine :** Banking, digital financial services and FinTech innovation
+- **Correspondance :** 8.8/10 — La banque et ses initiatives FinTech correspondent à la spécialisation financière et à l’IA appliquée. La dernière offre trouvée était commerciale, exigeait deux ans et a expiré en mai 2025.
+- **Potentiel :** 58/100 — B — Prioritaire
+- **Métiers ciblés :** Junior IT/AI Engineer; Data Analyst; Digital Transformation Analyst
+- **Ouverture aux juniors :** Non vérifiable pour l’IT junior; la banque recrute publiquement mais l’offre repérée demandait 2 ans — Aucune offre IT/IA active confirmée; ancienne offre Chargé d’Affaires expirée le 19/05/2025.
+- **Candidats étrangers/visa/relocation :** Partiel — candidature régionale possible, conditions pour un Tunisien non publiées — Le statut international est limité aux éléments explicitement visibles; aucun visa n’est supposé.
+- **Offres actives :** Aucune offre IT/IA active confirmée; ancienne offre Chargé d’Affaires expirée le 19/05/2025.
+- **Contact :** BMCI Mauritanie — Contact actuel pertinent
+- **LinkedIn :** https://www.linkedin.com/company/banque-mauritanienne-pour-le-commerce-international
+- **Email :** Aucun email public vérifié (Aucun email public vérifié)
+- **Canal officiel :** http://www.bmci.mr/
+- **CV conseillé :** `CV_ATS_Fintech_EN.pdf`
+- **Sources :** https://www.linkedin.com/company/banque-mauritanienne-pour-le-commerce-international | https://fr.linkedin.com/posts/banque-mauritanienne-pour-le-commerce-international_recrutement-offreemploi-banque-activity-7327709206495596545-f2in
+- **Vérifié le :** 2026-09-25 — Vérifié — screening manuel ciblé
+
+**Objet :** Candidature spontanée — Junior IT/AI Engineer junior
+
+**Email prêt à envoyer**
+
+Bonjour,
+
+Récemment diplômé ingénieur en informatique de l’ENSI, spécialisé en ingénierie financière, je souhaite proposer ma candidature à BMCI Mauritanie pour une première opportunité en junior it/ai engineer; data analyst; digital transformation analyst.
+
+Mon PFE chez Linedata portait sur la modernisation d’un produit financier grâce à des agents IA. Je maîtrise Python, Java, C++, le développement full-stack, les bases de données, les API, le machine learning, Git et les principes CI/CD.
+
+La banque et ses initiatives FinTech correspondent à la spécialisation financière et à l’IA appliquée. La dernière offre trouvée était commerciale, exigeait deux ans et a expiré en mai 2025. Je suis basé en Tunisie et ouvert au travail à distance ou à la mobilité si le cadre le permet.
+
+Je joins mon CV et serais ravi d’échanger sur un besoin junior actuel ou futur.
+
+Bien cordialement,
+Mohamed Oussema Bahloul
+
+**Invitation LinkedIn**
+
+Bonjour, jeune diplômé ingénieur ENSI, mon PFE chez Linedata combinait agents IA et logiciel financier. L’activité de BMCI Mauritanie correspond à mon profil Python, IA/Data et développement. Ravi d’échanger sur vos besoins juniors.
+
+**Message après acceptation**
+
+Merci pour la connexion. Je souhaite proposer mon profil junior à BMCI Mauritanie. Pourriez-vous m’orienter vers l’équipe qui suit les besoins IA, Data ou développement logiciel ?
+
+---
+
+### FEATWAY
+
+- **Pays :** France
+- **Adresse(s) source :** TOUR CB 21, 16 PLACE DE L IRIS, 92400 COURBEVOIE
+- **Domaine :** HRIS consulting, HR analytics, BI, Data and digital transformation
+- **Correspondance :** 7.9/10 — Les offres permanentes Data Engineer et Full-stack correspondent au profil logiciel/data, mais leur date de publication n’est pas affichée et doit être reconfirmée avant de les citer comme ouvertes.
+- **Potentiel :** 58/100 — B — Prioritaire
+- **Métiers ciblés :** Junior Data Engineer; Full-stack Developer; Junior SIRH/BI Consultant
+- **Ouverture aux juniors :** Non vérifiable — pages métiers accessibles sans indication claire d’expérience junior — Pages Carrières accessibles: Consultant Data Engineer, Développeur Web Full-stack, Consultant SIRH-AMOA; actualité à confirmer.
+- **Candidats étrangers/visa/relocation :** Non vérifiable — Aucun sponsoring de visa ni dispositif de relocation confirmé.
+- **Offres actives :** Pages Carrières accessibles: Consultant Data Engineer, Développeur Web Full-stack, Consultant SIRH-AMOA; actualité à confirmer.
+- **Contact :** Mohamed Fekher Ferci — Contact Featway actuel
+- **LinkedIn :** https://fr.linkedin.com/in/mohamed-fekher-ferci-736aba67
+- **Email :** contact@www.featway.fr (Adresse publique vérifiée)
+- **Canal officiel :** https://www.featway.fr/carrieres/
+- **CV conseillé :** `CV_ATS_EN.pdf`
+- **Sources :** https://www.featway.fr/carrieres/ | https://www.featway.fr/ | https://fr.linkedin.com/in/mohamed-fekher-ferci-736aba67
+- **Vérifié le :** 2026-09-25 — Vérifié — screening manuel ciblé
+
+**Objet :** Candidature spontanée — Junior Data Engineer junior
+
+**Email prêt à envoyer**
+
+Bonjour Mohamed Fekher Ferci,
+
+Récemment diplômé ingénieur en informatique de l’ENSI, spécialisé en ingénierie financière, je souhaite proposer ma candidature à Featway pour une première opportunité en junior data engineer; full-stack developer; junior sirh/bi consultant.
+
+Mon PFE chez Linedata a consisté à moderniser un produit financier grâce à des agents IA. Cette expérience m’a appris à transformer un besoin métier en solution intégrée, tout en mobilisant Python, le machine learning, les API, les bases de données et le développement full-stack. Je maîtrise également Java et C++.
+
+Les offres permanentes Data Engineer et Full-stack correspondent au profil logiciel/data, mais leur date de publication n’est pas affichée et doit être reconfirmée avant de les citer comme ouvertes. Je suis basé en Tunisie et ouvert au télétravail international ou à la mobilité lorsque cela est possible.
+
+Je joins mon CV et serais ravi d’échanger sur vos besoins actuels ou futurs.
+
+Bien cordialement,
+Mohamed Oussema Bahloul
+
+**Invitation LinkedIn**
+
+Bonjour, diplômé ingénieur ENSI, mon PFE Linedata combinait agents IA et logiciel financier. Les travaux de Featway sont proches de mon projet en IA appliquée et développement. Ravi d’échanger sur un futur besoin junior.
+
+**Message après acceptation**
+
+Merci pour la connexion. Je souhaite proposer mon profil junior à Featway, à l’intersection de l’IA appliquée, du développement logiciel et de la compréhension métier. Je serais reconnaissant pour toute orientation vers un besoin adapté.
+
+---
+
+### FinData, LtD
+
+- **Pays :** Mauritanie
+- **Adresse(s) source :** Immeuble Prime Market, 5eme, Avenue Nelson Mandela, Tafragh Zeyna, Nouakchott
+- **Domaine :** Data infrastructure, analytics, BI, AI/ML and financial-sector modernization
+- **Correspondance :** 8.7/10 — Très bon fit Python, SQL, ML, BI et finance; l'unique offre trouvée est Lead Data Scientist et n'accepte plus les candidatures.
+- **Potentiel :** 58/100 — B — Prioritaire
+- **Métiers ciblés :** Junior Data Scientist; Data Engineer; BI/Power BI Analyst; Python Engineer
+- **Ouverture aux juniors :** Oui — juniors mentionnés, mais aucune offre junior active — L'annonce Lead Data Scientist indique un encadrement de junior data scientists et un environnement jeune; aucun poste junior actif n'est publié.
+- **Candidats étrangers/visa/relocation :** Non vérifiable — Aucun engagement public de sponsoring de visa trouvé.
+- **Offres actives :** Aucune offre junior active confirmée; l'offre Lead Data Scientist est fermée
+- **Contact :** FinData — Page officielle de l'entreprise
+- **LinkedIn :** https://www.linkedin.com/company/findatarim
+- **Email :** careers@findata.work (Adresse de recrutement publiée dans l'annonce officielle FinData)
+- **Canal officiel :** mailto:careers@findata.work
+- **CV conseillé :** `CV_ATS_Fintech_EN.pdf`
+- **Sources :** https://www.linkedin.com/company/findatarim | https://mr.linkedin.com/jobs/view/lead-data-scientist-at-findata-4347351645
+- **Vérifié le :** 2026-09-25 — Vérifié — excellente cible Data/finance, candidature junior spontanée
+
+**Objet :** Spontaneous Application – Junior Data / AI Engineer
+
+**Email prêt à envoyer**
+
+Dear FinData Team,
+
+I am a recent Computer Engineering graduate from ENSI seeking a junior AI or software engineering opportunity. My final-year project at Linedata focused on modernizing a financial software product through AI agents, from business analysis to integration into an existing application.
+
+I bring skills in Python, Java, C++, machine learning, APIs, databases, full-stack development, Git and CI/CD. FinData's work on data infrastructure and decision modernization for financial institutions directly matches my Data/AI and financial-engineering profile.
+
+I am based in Tunisia and open to relocation, subject to work-authorization feasibility. I would be grateful to be considered for a suitable graduate or junior opportunity.
+
+Kind regards,
+Mohamed Oussema Bahloul
+
+**Invitation LinkedIn**
+
+Hello, I am a recent ENSI Computer Engineering graduate specialized in Financial Engineering, with a Linedata PFE on AI agents for financial software. FinData's Data/BI work for financial institutions strongly matches my profile.
+
+**Message après acceptation**
+
+Thank you for connecting. I saw that the Lead Data Scientist role is closed, but it mentions junior data scientists. May I submit a spontaneous application for a junior Data, BI or AI role in Nouakchott?
+
+---
+
+### kshuttle
+
+- **Pays :** France
+- **Adresse(s) source :** 3 Rue Jules Guesde 92300 Levallois-Perret | 3 Rue Jules Guesde, 92300 Levallois-Perret, France | 3 Rue jules guesde - 92300 levallois perret
+- **Domaine :** RegTech/FinTech SaaS; financial and ESG regulatory reporting, Data governance, APIs and AI
+- **Correspondance :** 9.0/10 — Exceptional fit between software/data/AI, financial engineering and regulated reporting. No live technical vacancy or public international-mobility policy was found.
+- **Potentiel :** 58/100 — B — Prioritaire
+- **Métiers ciblés :** Junior Software Engineer; Data/BI Engineer; AI Engineer; Technical Consultant; Business Analyst junior
+- **Ouverture aux juniors :** Yes — young-talent hiring demonstrated — The company's current CSR report says it recruited 49 people including seven apprentices in 2024 and trains junior project managers; it sets a 2026 objective around young-talent recruitment and retention.
+- **Candidats étrangers/visa/relocation :** Non vérifiable — Aucune politique publique de visa/relocation trouvée.
+- **Offres actives :** No current public vacancy page or suitable live role found on the official site on 2026-09-25.
+- **Contact :** kShuttle Talent/HR team — Company recruiting team — no current individual recruiter identified unambiguously
+- **LinkedIn :** https://www.linkedin.com/company/kshuttle
+- **Email :** Aucun email public vérifié (rh@kshuttle.io figure dans le CSV, mais aucune publication officielle actuelle retrouvée; ne pas envoyer automatiquement.)
+- **Canal officiel :** https://www.linkedin.com/company/kshuttle
+- **CV conseillé :** `CV_ATS_Fintech_EN.pdf`
+- **Sources :** https://kshuttle.io/entreprise/ | https://kshuttle.io/wp-content/uploads/2026/02/Rapport-RSE_31102025.pdf | https://www.linkedin.com/company/kshuttle
+- **Vérifié le :** 2026-09-25 — Vérifié — adéquation FinTech/Data exceptionnelle et culture jeunes talents, aucun poste actif confirmé
+
+**Objet :** Candidature spontanée – Ingénieur Data / IA / logiciel junior
+
+**Email prêt à envoyer**
+
+Bonjour,
+
+Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je souhaite proposer ma candidature pour une première opportunité en Data, IA, développement logiciel ou conseil technique chez kShuttle.
+
+Mon PFE chez Linedata a porté sur la modernisation d’un produit financier à l’aide d’agents IA. J’y ai relié compréhension du métier, traitement de données et intégration logicielle dans un produit existant. Je maîtrise notamment Python, Java, C++, les APIs, SQL, les bases de données et le développement full-stack.
+
+kShuttle correspond particulièrement à mon double profil : vos solutions associent données réglementaires, finance, technologie et nouveaux usages de l’IA. Je serais motivé par une mission junior me permettant de contribuer à cette évolution tout en développant ma compréhension des enjeux de reporting et de conformité.
+
+Je suis basé en Tunisie et ouvert à une mobilité en France ou à un dispositif international adapté. Je joins mon CV et reste disponible pour un échange.
+
+Bien cordialement,
+Mohamed Oussema Bahloul
+
+**Invitation LinkedIn**
+
+Bonjour, jeune diplômé ingénieur ENSI spécialisé en ingénierie financière, j’ai réalisé chez Linedata un PFE mêlant produit financier et agents IA. L’approche Data, réglementation et IA de kShuttle correspond fortement à mon profil. Ravi de rejoindre votre réseau.
+
+**Message après acceptation**
+
+Bonjour, merci pour la connexion. Je recherche une première opportunité en Data, IA, logiciel ou conseil technique. Mon double parcours informatique/finance et mon PFE Linedata correspondent particulièrement aux activités de kShuttle. Puis-je vous transmettre mon CV ?
+
+---
+
+### CloudSquid
+
+- **Pays :** Allemagne
+- **Adresse(s) source :** Berlin, Germany
+- **Domaine :** Agentic AI for enterprise finance, procurement, operations and compliance workflows
+- **Correspondance :** 9.3/10 — This is one of the closest matches: AI agents applied to document-heavy finance workflows closely mirrors Mohamed's Linedata PFE and Financial Engineering specialization.
+- **Potentiel :** 57/100 — B — Prioritaire
+- **Métiers ciblés :** Junior AI Engineer; Agentic AI Engineer; Python/Full-stack Engineer; Data Engineer
+- **Ouverture aux juniors :** No active role — The official JOIN career page states that there are no available jobs as of 2026-09-25.
+- **Candidats étrangers/visa/relocation :** Non vérifiable — The company is Berlin-based. No public visa-sponsorship, relocation or international-remote policy was found.
+- **Offres actives :** No available jobs — https://join.com/companies/cloudsquid
+- **Contact :** Sangwoo Bae — Founder & CTO — cloudsquid
+- **LinkedIn :** https://de.linkedin.com/in/sangwoo-bae
+- **Email :** Aucun email public vérifié (Aucun email public vérifié)
+- **Canal officiel :** https://join.com/companies/cloudsquid
+- **CV conseillé :** `CV_ATS_EN.pdf`
+- **Sources :** https://www.cloudsquid.io/de-de/ | https://join.com/companies/cloudsquid | https://www.linkedin.com/company/cloudsquid/ | https://de.linkedin.com/in/sangwoo-bae
+- **Vérifié le :** 2026-09-25 — Vérifié — correspondance exceptionnelle, mais aucun poste ouvert et mobilité non documentée
+
+**Objet :** Future Junior AI Engineering Opportunities at cloudsquid
+
+**Email prêt à envoyer**
+
+Dear cloudsquid Team,
+
+I am a recent Computer Engineering graduate from ENSI with a specialization in Financial Engineering. My final-year project at Linedata focused on modernizing a financial product with AI agents, which makes cloudsquid's work on agentic automation for finance and operations particularly relevant to my background.
+
+I have practical experience with Python, AI and machine learning, APIs, databases, full-stack development, and the integration of AI capabilities into an existing business product. I am looking for a first full-time role where I can keep developing these skills while contributing to a real product.
+
+I noticed that your official career page currently has no open positions, so I am writing only to express interest in a future junior AI or software-engineering opportunity. I am based in Tunisia and open to relocation.
+
+Kind regards,
+Mohamed Oussema Bahloul
+
+**Invitation LinkedIn**
+
+Hello Mr Bae, my ENSI engineering PFE at Linedata involved AI agents for a financial product. cloudsquid’s agentic automation for Finance & Ops is an unusually close match to my background. I’d be glad to connect and follow future engineering opportunities.
+
+**Message après acceptation**
+
+Hello Mr Bae, thank you for connecting. I saw that cloudsquid currently has no vacancies, but its combination of AI agents and finance workflows closely matches my Linedata PFE and Financial Engineering specialization. May I share my CV for a future junior engineering need?
+
+---
+
+### NST Groupe
+
+- **Pays :** France
+- **Adresse(s) source :** 13 avenue du general leclerc, 92340 bourg la reine , FRANCE
+- **Domaine :** IT consulting, software engineering, banking systems and industrial automation
+- **Correspondance :** 7.9/10 — L’entreprise emploie une équipe d’ingénieurs et a accueilli des PFE tunisiens. Les offres récentes visibles demandent cinq ans et, pour la France, des candidats déjà résidents.
+- **Potentiel :** 57/100 — B — Prioritaire
+- **Métiers ciblés :** Junior Software Engineer; Full-stack Developer; QA/Automation Engineer
+- **Ouverture aux juniors :** Oui — PFE d’ingénieur documenté; postes actuels visibles confirmés — Développeur C# finance de marché — 5 ans — Paris/résidents France; profils industriels DeltaV — 5 ans; aucune offre junior actuelle.
+- **Candidats étrangers/visa/relocation :** Partiel — liens Tunisie solides; missions France actuelles réservées aux résidents — Le statut international est limité aux éléments explicitement visibles; aucun visa n’est supposé.
+- **Offres actives :** Développeur C# finance de marché — 5 ans — Paris/résidents France; profils industriels DeltaV — 5 ans; aucune offre junior actuelle.
+- **Contact :** Houssem Jemal — Contact actuel pertinent
+- **LinkedIn :** https://tn.linkedin.com/in/houssem-jemal-98758348
+- **Email :** contact@nstgroupe.com (Adresse publiée et vérifiée)
+- **Canal officiel :** mailto:contact@nstgroupe.com
+- **CV conseillé :** `CV_ATS_EN.pdf`
+- **Sources :** https://www.linkedin.com/company/nst-groupe | https://tn.linkedin.com/in/houssem-jemal-98758348 | https://www.linkedin.com/posts/féryel-belhassen-b68575195_engineer-informatique-grateful-activity-7074755554128097280-A5Ev
+- **Vérifié le :** 2026-09-25 — Vérifié — screening manuel ciblé
+
+**Objet :** Candidature spontanée — Junior Software Engineer junior
+
+**Email prêt à envoyer**
+
+Bonjour,
+
+Récemment diplômé ingénieur en informatique de l’ENSI, spécialisé en ingénierie financière, je souhaite proposer ma candidature à NST Groupe pour une première opportunité en junior software engineer; full-stack developer; qa/automation engineer.
+
+Mon PFE chez Linedata portait sur la modernisation d’un produit financier grâce à des agents IA. Je maîtrise Python, Java, C++, le développement full-stack, les bases de données, les API, le machine learning, Git et les principes CI/CD.
+
+L’entreprise emploie une équipe d’ingénieurs et a accueilli des PFE tunisiens. Les offres récentes visibles demandent cinq ans et, pour la France, des candidats déjà résidents. Je suis basé en Tunisie et ouvert au travail à distance ou à la mobilité si le cadre le permet.
+
+Je joins mon CV et serais ravi d’échanger sur un besoin junior actuel ou futur.
+
+Bien cordialement,
+Mohamed Oussema Bahloul
+
+**Invitation LinkedIn**
+
+Bonjour, jeune diplômé ingénieur ENSI, mon PFE chez Linedata combinait agents IA et logiciel financier. L’activité de NST Groupe correspond à mon profil Python, IA/Data et développement. Ravi d’échanger sur vos besoins juniors.
+
+**Message après acceptation**
+
+Merci pour la connexion. Je souhaite proposer mon profil junior à NST Groupe. Pourriez-vous m’orienter vers l’équipe qui suit les besoins IA, Data ou développement logiciel ?
+
+---
+
+### AIMIGO SAS
+
+- **Pays :** France
+- **Adresse(s) source :** 65 rue de Reuilly, 75012 Paris
+- **Domaine :** EdTech, adaptive AI, generative AI and language learning
+- **Correspondance :** 8.6/10 — Le moteur d’apprentissage adaptatif et le coach génératif correspondent à l’IA appliquée et au développement produit; aucune ouverture technique junior n’a toutefois été confirmée.
+- **Potentiel :** 55/100 — B — Prioritaire
+- **Métiers ciblés :** Junior AI Engineer; Python/Full-stack Engineer; Data/ML Engineer
+- **Ouverture aux juniors :** Non vérifiable — équipe internationale, sans offre junior actuelle — Aucune offre technique junior active confirmée; candidature spontanée via la page entreprise.
+- **Candidats étrangers/visa/relocation :** Non vérifiable — Aucun sponsoring de visa confirmé.
+- **Offres actives :** Aucune offre technique junior active confirmée; candidature spontanée via la page entreprise.
+- **Contact :** Aimigo — Page entreprise et équipe
+- **LinkedIn :** https://fr.linkedin.com/company/gymglish-aimigo
+- **Email :** Aucun email public vérifié (Aucun email public vérifié)
+- **Canal officiel :** https://www.aimigo.coach/
+- **CV conseillé :** `CV_ATS_EN.pdf`
+- **Sources :** https://fr.linkedin.com/company/gymglish-aimigo | https://www.aimigo.coach/
+- **Vérifié le :** 2026-09-25 — Vérifié — screening manuel ciblé
+
+**Objet :** Candidature spontanée — Ingénieur junior Junior AI Engineer
+
+**Email prêt à envoyer**
+
+Bonjour ,
+
+Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je souhaite proposer ma candidature à Aimigo pour une première opportunité en junior ai engineer; python/full-stack engineer; data/ml engineer.
+
+Mon PFE chez Linedata portait sur la modernisation d’un produit financier grâce à des agents IA. Il m’a permis de relier IA appliquée, développement logiciel et compréhension métier. Je maîtrise également Python, Java, C++, le développement full-stack, les API, les bases de données, Git et les principes CI/CD.
+
+Le moteur d’apprentissage adaptatif et le coach génératif correspondent à l’IA appliquée et au développement produit; aucune ouverture technique junior n’a toutefois été confirmée. Je suis basé en Tunisie et ouvert à une collaboration à distance ou à une mobilité lorsque les conditions le permettent.
+
+Je joins mon CV et serais heureux d’échanger sur un besoin junior actuel ou futur.
+
+Bien cordialement,
+Mohamed Oussema Bahloul
+
+**Invitation LinkedIn**
+
+Bonjour, jeune diplômé ingénieur ENSI, j’ai réalisé chez Linedata un PFE combinant agents IA et logiciel financier. L’activité de Aimigo correspond fortement à mon projet professionnel. Ravi d’échanger sur vos futurs besoins juniors.
+
+**Message après acceptation**
+
+Merci pour la connexion. J’ai transmis ma candidature à votre équipe. Mon profil combine IA appliquée, développement logiciel et ingénierie financière. Je serais reconnaissant pour toute orientation vers un besoin junior chez Aimigo.
+
+---
+
+### Aicentive GmbH
+
+- **Pays :** Allemagne
+- **Adresse(s) source :** Berliner Strasse 7, Germany
+- **Domaine :** AI-based industrial energy optimization, Data Science and energy management software (the current brand is encentive)
+- **Correspondance :** 8.3/10 — The company combines AI, industrial data and optimization. Mohamed's Python, ML and software-engineering background is relevant, although he lacks direct energy-sector experience and German proficiency is not documented.
+- **Potentiel :** 54/100 — C — À tenter
+- **Métiers ciblés :** Junior AI/ML Engineer; Data Scientist; Python Software Engineer; Data/Optimization Engineer
+- **Ouverture aux juniors :** Yes — internships and working-student roles are active, but no matching junior engineering vacancy — The official career page states that responsibility is given from interns to founders. The live portal lists three internship/working-student roles and an unsolicited permanent application.
+- **Candidats étrangers/visa/relocation :** Non vérifiable — The team advertises nine languages, but the public pages do not promise visa sponsorship or relocation. Current roles are in Berlin/Hamburg and student roles normally require German enrolment.
+- **Offres actives :** Unsolicited Application — Berlin/Hamburg/Hybrid/Remote — https://encentive.jobs.personio.de/job/2134556 ; current student roles are business-facing rather than AI engineering.
+- **Contact :** Daniel Ehnes — Co-founder / Managing Director — encentive
+- **LinkedIn :** https://de.linkedin.com/in/ehnes
+- **Email :** Aucun email public vérifié (Aucun email public vérifié)
+- **Canal officiel :** https://encentive.jobs.personio.de/
+- **CV conseillé :** `CV_ATS_EN.pdf`
+- **Sources :** https://www.encentive.de/karriere | https://encentive.jobs.personio.de/ | https://de.linkedin.com/in/ehnes
+- **Vérifié le :** 2026-09-25 — Vérifié — excellente adéquation IA/Data, candidature spontanée active, mobilité internationale non documentée
+
+**Objet :** Spontaneous Application – Junior AI / Data Engineer
+
+**Email prêt à envoyer**
+
+Dear encentive Team,
+
+I am a recent Computer Engineering graduate from ENSI, specialized in Financial Engineering, and I would like to express my interest in a junior AI, data, or software-engineering opportunity at encentive.
+
+During my final-year project at Linedata, I contributed to modernizing a financial product through AI agents, connecting business needs with the implementation of a usable software solution. My background includes Python, machine learning, data processing, APIs, databases, and full-stack development.
+
+encentive particularly interests me because it applies AI and optimization to a concrete industrial challenge with measurable economic and environmental value. I would be motivated to grow within this product-focused environment and contribute wherever my software and analytical profile can be useful.
+
+I am currently based in Tunisia and open to relocation. I understand that work-authorisation support is not stated publicly, and I would be grateful to know whether an international junior application could be considered.
+
+Kind regards,
+Mohamed Oussema Bahloul
+
+**Invitation LinkedIn**
+
+Hello Mr Ehnes, I’m an ENSI Computer Engineering graduate with a Financial Engineering background and an AI-agent PFE at Linedata. encentive’s use of AI for measurable industrial impact strongly interests me. I’d be glad to connect.
+
+**Message après acceptation**
+
+Hello Mr Ehnes, thank you for connecting. I am seeking a first role in AI, data or software engineering and am open to relocating from Tunisia. Would encentive consider an international junior profile through its unsolicited-application route? I would be happy to share my CV.
+
+---
+
+### ONRTECH
+
+- **Pays :** France
+- **Adresse(s) source :** 2, rue des perroquets, 94350, villiers sur marne, France | 2,rue des perroquets, 94350, villiers sur marne, France | 32, Rue De Perroquets 94350  Villiers Sur Marne, France | 32, Rue de Perroquets 94350 Villiers sur marne, France
+- **Domaine :** Web/mobile development, IoT, AI, finance and business intelligence
+- **Correspondance :** 8.4/10 — Les domaines web, mobile, IA, finance et BI correspondent directement au profil; une collaboration PFE en développement, automatisation et IA est documentée, sans poste salarié actif confirmé.
+- **Potentiel :** 53/100 — C — À tenter
+- **Métiers ciblés :** Junior Software Engineer; AI Engineer; Full-stack Developer
+- **Ouverture aux juniors :** Oui — accueil PFE documenté; premier CDI non vérifiable — Aucune offre active confirmée; PFE récent en développement web, automatisation de données et IA.
+- **Candidats étrangers/visa/relocation :** Non vérifiable — Aucun sponsoring de visa confirmé.
+- **Offres actives :** Aucune offre active confirmée; PFE récent en développement web, automatisation de données et IA.
+- **Contact :** Marwen R. — Contact technique ONRTECH
+- **LinkedIn :** https://fr.linkedin.com/in/marwen-r-7212b912
+- **Email :** Aucun email public vérifié (Aucun email public vérifié)
+- **Canal officiel :** https://onrtech.fr/
+- **CV conseillé :** `CV_ATS_EN.pdf`
+- **Sources :** https://www.linkedin.com/company/onrtech | https://tn.linkedin.com/in/eya-aouichi-658096267 | https://onrtech.fr/
+- **Vérifié le :** 2026-09-25 — Vérifié — screening manuel ciblé
+
+**Objet :** Candidature spontanée — Ingénieur junior Junior Software Engineer
+
+**Email prêt à envoyer**
+
+Bonjour Marwen R.,
+
+Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je souhaite proposer ma candidature à ONRTECH pour une première opportunité en junior software engineer; ai engineer; full-stack developer.
+
+Mon PFE chez Linedata portait sur la modernisation d’un produit financier grâce à des agents IA. Il m’a permis de relier IA appliquée, développement logiciel et compréhension métier. Je maîtrise également Python, Java, C++, le développement full-stack, les API, les bases de données, Git et les principes CI/CD.
+
+Les domaines web, mobile, IA, finance et BI correspondent directement au profil; une collaboration PFE en développement, automatisation et IA est documentée, sans poste salarié actif confirmé. Je suis basé en Tunisie et ouvert à une collaboration à distance ou à une mobilité lorsque les conditions le permettent.
+
+Je joins mon CV et serais heureux d’échanger sur un besoin junior actuel ou futur.
+
+Bien cordialement,
+Mohamed Oussema Bahloul
+
+**Invitation LinkedIn**
+
+Bonjour, jeune diplômé ingénieur ENSI, j’ai réalisé chez Linedata un PFE combinant agents IA et logiciel financier. L’activité de ONRTECH correspond fortement à mon projet professionnel. Ravi d’échanger sur vos futurs besoins juniors.
+
+**Message après acceptation**
+
+Merci pour la connexion. J’ai transmis ma candidature à votre équipe. Mon profil combine IA appliquée, développement logiciel et ingénierie financière. Je serais reconnaissant pour toute orientation vers un besoin junior chez ONRTECH.
+
+---
+
+### neusta inspire GmbH
+
+- **Pays :** Allemagne
+- **Adresse(s) source :** Konsul-Smidt-Straße 24 28217 Bremen
+- **Domaine :** Atlassian consulting, DevOps, cloud migration, application operations and software development
+- **Correspondance :** 7.2/10 — The software, APIs, full-stack, Git and CI/CD background fits software and DevOps work. The main gaps are German-market experience and likely German-language requirements.
+- **Potentiel :** 52/100 — C — À tenter
+- **Métiers ciblés :** Junior Software Developer; Full-stack Developer; DevOps/Cloud Junior; Application Operations Engineer
+- **Ouverture aux juniors :** Yes — official page explicitly welcomes IT newcomers — The current official career page says it seeks both experienced colleagues and newcomers to IT and explicitly invites spontaneous applications.
+- **Candidats étrangers/visa/relocation :** Non vérifiable — Jobs and offices are Germany-based. Home office is offered, but no visa sponsorship, relocation or international remote arrangement is documented.
+- **Offres actives :** Softwareentwickler:in Full Stack — Berlin — https://www.team-neusta.de/karriere/offene-stellen?company=neustainspire&field=all&level=all&location=all&type=all ; spontaneous applications are explicitly welcomed.
+- **Contact :** Martin S. Fredrich — Founder/shareholder and official contact for personnel questions — neusta inspire
+- **LinkedIn :** https://de.linkedin.com/in/martin-fredrich-b69380173
+- **Email :** Aucun email public vérifié (Aucun email public vérifié)
+- **Canal officiel :** https://www.team-neusta.de/karriere/offene-stellen?company=neustainspire&field=all&level=all&location=all&type=all
+- **CV conseillé :** `CV_ATS_EN.pdf`
+- **Sources :** https://www.neusta-inspire.de/karriere/ | https://www.team-neusta.de/karriere/offene-stellen?company=neustainspire&field=all&level=all&location=all&type=all | https://de.linkedin.com/in/martin-fredrich-b69380173
+- **Vérifié le :** 2026-09-25 — Vérifié — nouveaux entrants acceptés et candidature spontanée ouverte, mobilité non documentée
+
+**Objet :** Spontaneous Application – Junior Software / DevOps Engineer
+
+**Email prêt à envoyer**
+
+Dear Mr Fredrich,
+
+I am a recent Computer Engineering graduate from ENSI and would like to express my interest in a junior software-development, application-operations or DevOps opportunity at neusta inspire.
+
+My final-year project at Linedata focused on modernizing a financial product with AI agents. I also developed skills in Python, Java, C++, full-stack development, APIs, databases, Git, testing and CI/CD. I am particularly attracted by environments where junior engineers can learn through real product and customer challenges.
+
+Your explicit openness to IT newcomers encouraged me to contact you. I am currently based in Tunisia and open to relocation; as international mobility support is not described publicly, I would be grateful to know whether my profile could be considered.
+
+Kind regards,
+Mohamed Oussema Bahloul
+
+**Invitation LinkedIn**
+
+Hello Mr Fredrich, your career page’s openness to IT newcomers caught my attention. I’m a recent ENSI Computer Engineering graduate with software, API, AI and CI/CD experience, notably through my Linedata PFE. I’d be glad to connect.
+
+**Message après acceptation**
+
+Hello Mr Fredrich, thank you for connecting. I am looking for a first software/DevOps opportunity and am open to relocating from Tunisia. Would neusta inspire consider an international junior profile through its spontaneous-application route? I would be glad to send my CV.
+
+---
+
+### Omnidata
+
+- **Pays :** Maroc
+- **Adresse(s) source :** 74 Bd Abdelmoumen, Casablanca 20100
+- **Domaine :** IT services, banking and telecom software, digital transformation, QA and enterprise systems
+- **Correspondance :** 7.4/10 — Secteurs et développement pertinents, mais les offres actuelles trouvées demandent 3 à 8 ans et des stacks spécifiques .NET/BSCS.
+- **Potentiel :** 52/100 — C — À tenter
+- **Métiers ciblés :** Junior Java/Python Developer; Software Engineer; QA Automation Engineer; Junior Business Analyst
+- **Ouverture aux juniors :** Non confirmé dans les offres actuelles — L'offre .NET du 1er septembre 2026 exige au moins 3 ans; les recrutements publiés par la chargée de recrutement sont expérimentés.
+- **Candidats étrangers/visa/relocation :** Non vérifiable — Aucune indication de prise en charge d'un candidat tunisien pour un poste au Maroc.
+- **Offres actives :** Développeur .NET — Casablanca — 3 ans minimum — valable jusqu'au 31/10/2026 — https://betterjob.online/offre/developpeur-net-casablanca-2026-09 ; autres missions actuelles expérimentées
+- **Contact :** Imane Nayssa — Recruitment / opportunities — Omnishore Groupe Medtech
+- **LinkedIn :** https://ma.linkedin.com/in/imane-nayssa-78174a155
+- **Email :** Aucun email public vérifié (Portail ou LinkedIn officiel privilégié)
+- **Canal officiel :** https://ma.linkedin.com/company/omnishore/
+- **CV conseillé :** `CV_ATS_Fintech.pdf`
+- **Sources :** https://betterjob.online/offre/developpeur-net-casablanca-2026-09 | https://ma.linkedin.com/in/imane-nayssa-78174a155
+- **Vérifié le :** 2026-09-25 — Vérifié — bonne cible générale, mais postes actuels trop expérimentés
+
+**Objet :** Candidature spontanée — Ingénieur logiciel / Data junior
+
+**Email prêt à envoyer**
+
+Bonjour,
+
+Récemment diplômé ingénieur en informatique de l'ENSI, avec une spécialisation en ingénierie financière, je vous propose ma candidature pour une future opportunité junior en développement logiciel, Data, QA/automatisation ou transformation digitale.
+
+Mon PFE chez Linedata a porté sur la modernisation d'un produit financier à l'aide d'agents IA. Je maîtrise Python, Java, C++, les APIs, SQL, le développement full-stack, le machine learning, Git et les principes de CI/CD. Les projets banque et télécom d'Omnidata/Omnishore correspondent ainsi à mon double profil technique et métier.
+
+Je suis basé en Tunisie et ouvert à une mobilité au Maroc si cela est envisageable.
+
+Bien cordialement,
+Mohamed Oussema Bahloul
+
+**Invitation LinkedIn**
+
+Bonjour Mme Nayssa, jeune diplômé ingénieur ENSI spécialisé en ingénierie financière, mon PFE Linedata combinait produit financier et agents IA. Je recherche un poste junior logiciel/Data/QA et les projets Omnishore m'intéressent. Ravi d'échanger.
+
+**Message après acceptation**
+
+Bonjour Mme Nayssa, merci pour la connexion. Les offres actuelles semblent demander plusieurs années d'expérience; pourriez-vous garder mon CV pour un futur besoin junior en logiciel, Data, QA ou transformation digitale ?
+
+---
+
+### SMARTOVATE LTD
+
+- **Pays :** Royaume-Uni
+- **Adresse(s) source :** 71-75 Shelton Street, Covent Garden, London, UK (WC2H 9JQ) | 71-75 Shelton Street, Covent Garden, London, United Kingdom, WC2H 9JQ
+- **Domaine :** AI agents, cloud, DevOps, cybersecurity, Data and EdTech
+- **Correspondance :** 8.3/10 — Très bonne adéquation agents IA, cloud et full-stack, et l'entreprise cible clairement les Tunisiens. Les recrutements actuels vérifiés concernent cependant des stages PFE, pas un emploi diplômé.
+- **Potentiel :** 51/100 — C — À tenter
+- **Métiers ciblés :** Junior AI/Agent Engineer; Junior Cloud/DevOps Engineer; Full-stack Developer
+- **Ouverture aux juniors :** Oui — très ouverte aux stagiaires et jeunes diplômés — Publications récentes destinées aux étudiants et jeunes diplômés tunisiens; campagne PFE active en AI Agents, DevOps, cybersécurité et Data/IA.
+- **Candidats étrangers/visa/relocation :** Oui — télétravail/stages internationaux observés — L'entreprise recrute explicitement des Tunisiens et propose des expériences remote. Cela ne constitue pas une preuve d'emploi salarié au Royaume-Uni ni de visa.
+- **Offres actives :** Stage PFE 4–6 mois — AI Agent, DevOps, cybersécurité, Data & IA — publication active — candidature à careers@smartovate.com; aucune offre CDI junior confirmée
+- **Contact :** Abdelkhalek Bakkari — Founder — Smartovate
+- **LinkedIn :** https://uk.linkedin.com/in/abdelkhalekbakkari
+- **Email :** careers@smartovate.com (Adresse de candidature publiée dans une campagne officielle récente)
+- **Canal officiel :** mailto:careers@smartovate.com
+- **CV conseillé :** `CV_ATS_EN.pdf`
+- **Sources :** https://uk.linkedin.com/in/abdelkhalekbakkari | https://www.linkedin.com/company/smartovate/ | https://www.smartovateai.com/company-info/
+- **Vérifié le :** 2026-09-25 — Vérifié — junior-friendly et Tunisie-friendly, mais offre actuelle limitée au PFE
+
+**Objet :** Spontaneous Application – Junior AI / Agentic AI Engineer
+
+**Email prêt à envoyer**
+
+Dear Mr Bakkari,
+
+I am a recent Computer Engineering graduate from ENSI and would like to submit a spontaneous application for a junior AI, Agentic AI or software engineering opportunity at Smartovate.
+
+My final-year project at Linedata focused on modernizing a financial software product through AI agents. I worked on translating a real business need into an integrated solution involving LLMs, tools, APIs and application components. I also bring skills in Python, Java, C++, full-stack development, databases, machine learning, Git and CI/CD.
+
+Smartovate's focus on AI agents, cloud and practical projects for young Tunisian talent strongly resonates with my background. As I have already completed my PFE, I am seeking a graduate employment opportunity rather than another internship.
+
+Kind regards,
+Mohamed Oussema Bahloul
+
+**Invitation LinkedIn**
+
+Bonjour M. Bakkari, jeune diplômé ENSI, mon PFE chez Linedata portait sur des agents IA intégrés à un produit financier. Je recherche désormais un premier emploi en IA agentique/logiciel, et non un PFE. L'écosystème Smartovate m'intéresse beaucoup.
+
+**Message après acceptation**
+
+Bonjour M. Bakkari, merci pour la connexion. J'ai envoyé une candidature spontanée à careers@smartovate.com pour un poste junior en IA agentique/logiciel. Étant déjà diplômé, je recherche un emploi plutôt qu'un stage PFE. Je reste disponible pour échanger.
+
+---
+
+### Amalytics
+
+- **Pays :** France
+- **Adresse(s) source :** AMALYTICS, 61 RUE DE LYON 75012 PARIS
+- **Domaine :** HealthTech; AI automation for clinical-trial data entry and eCRF workflows
+- **Correspondance :** 8.5/10 — Strong AI-automation and product fit. Mohamed's Linedata AI-agent work shows relevant product integration, but he has no clinical-research domain experience.
+- **Potentiel :** 49/100 — C — À tenter
+- **Métiers ciblés :** Junior AI Engineer; ML Engineer; Python/Full-stack Engineer; Data/Automation Engineer
+- **Ouverture aux juniors :** Non vérifiable — The current public footprint shows a 2–10 person startup and no careers page or current vacancy.
+- **Candidats étrangers/visa/relocation :** Non vérifiable — Aucune politique publique de visa/relocation trouvée.
+- **Offres actives :** No current job opening found. The company page has been inactive for about eleven months.
+- **Contact :** Tahira Ghafoor — Only publicly listed Amalytics team member / startup contact
+- **LinkedIn :** https://www.linkedin.com/company/amalytics
+- **Email :** Aucun email public vérifié (Aucun email public de recrutement vérifié)
+- **Canal officiel :** https://www.linkedin.com/company/amalytics
+- **CV conseillé :** `CV_ATS_EN.pdf`
+- **Sources :** https://www.linkedin.com/company/amalytics | https://amalytics.net/
+- **Vérifié le :** 2026-09-25 — Vérifié — forte adéquation IA, mais aucune offre ni voie internationale confirmée
+
+**Objet :** Future Junior AI Engineering Opportunities at Amalytics
+
+**Email prêt à envoyer**
+
+Dear Amalytics Team,
+
+I am a recent Computer Engineering graduate from ENSI with a specialization in Financial Engineering. During my final-year project at Linedata, I helped modernize a business product through AI agents, from understanding the operational need to integrating the solution into an existing application.
+
+Amalytics' use of AI to reduce repetitive work in clinical trials strongly appeals to me because it connects intelligent automation with measurable human impact. My background includes Python, machine learning, APIs, databases and full-stack development.
+
+I found no current vacancy, but I would be glad to be considered for a future junior AI, data or software-engineering need. I am based in Tunisia and open to relocation or an eligible international arrangement.
+
+Kind regards,
+Mohamed Oussema Bahloul
+
+**Invitation LinkedIn**
+
+Hello, I’m a recent ENSI Computer Engineering graduate whose Linedata PFE used AI agents to modernize a business product. Amalytics’ practical AI automation for clinical trials strongly interests me. I’d be glad to connect and follow future engineering needs.
+
+**Message après acceptation**
+
+Thank you for connecting. I found no current vacancy, but Amalytics’ AI automation mission closely matches my software and AI background. May I share my CV for a future junior engineering opportunity? I am based in Tunisia and open to relocation.
 
 ---
 
@@ -330,49 +2042,493 @@ Bonjour Monsieur Keddous, merci pour la connexion. J'ai déposé une candidature
 
 ---
 
-### Laboratoire CNRS-IRIT(institut de recherche en informatique Toulouse)
+### Estarta Solutions
 
-- **Pays :** France
-- **Adresse(s) source :** IUT Blagnac Bat. recherche Dpt RT   1, place Georges Brassens   BP 60073   31703 Blagnac cedex FRANCE
-- **Domaine :** Recherche publique en informatique, IA, Data, NLP, systèmes, réseaux et interaction humain-machine
-- **Correspondance :** 8.4/10 — L'IA agentique, Python, le logiciel et les LLM correspondent à plusieurs équipes IRIT. Une offre 2026 en IA éducative recherchait même un ingénieur 0–3 ans avec Python, web, clustering et chatbot. Le principal écart est l'orientation recherche académique et l'absence d'ouverture encore active.
-- **Potentiel :** 45/100 — C — À tenter
-- **Métiers ciblés :** Ingénieur de recherche junior en IA/Data; Research Software Engineer; ingénieur NLP/LLM; doctorant contractuel; stage de recherche Master 2
-- **Ouverture aux juniors :** Oui, selon les projets — L'offre CYSRev 2026 acceptait explicitement un ingénieur de recherche ayant 0 à 3 ans d'expérience avec un Master 2; l'IRIT publie également des stages Master 2 et contrats doctoraux.
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Les offres consultées ne promettent ni visa ni relocation. Un recrutement contractuel en France peut nécessiter une autorisation de travail; aucun engagement propre à l'IRIT n'est publié. Les stages exigent généralement une convention et un statut étudiant.
-- **Offres actives :** Aucune offre d'ingénieur junior IRIT encore ouverte confirmée le 2026-09-25. L'offre CYSRev — ingénieur de recherche IA éducative/Data, 0–3 ans — avait une fenêtre du 1er juin au 1er septembre 2026 et est donc traitée comme clôturée — https://lairdil.utoulouse.fr/offre-de-recrutement-ingenieur-e-de-recherche-postdoctorant-e. Un stage 2026/2027 IRIT existe, mais exige le statut Master 2 — https://midoc.univ-toulouse.fr/offres-demploi/.
-- **Contact :** Azzeddine Benabbou — Responsable scientifique IRIT, équipe TALENT — contact de l'offre CYSRev
-- **LinkedIn :** Aucun profil LinkedIn personnel suffisamment fiable trouvé; utiliser la page IRIT https://www.linkedin.com/company/irit/
-- **Email :** azzeddine.benabbou@irit.fr (Adresse publiée dans l'offre officielle CYSRev. À utiliser pour une demande ciblée concernant l'équipe TALENT, pas comme boîte RH générale. val@irit.fr du CSV n'est pas retenue faute de contexte de recrutement actuel.)
-- **Canal officiel :** https://www.irit.fr/emplois-stages/ | mailto:azzeddine.benabbou@irit.fr
+- **Pays :** Jordanie
+- **Adresse(s) source :** Queen Rania Street ,Amman Jordan
+- **Domaine :** IT services, networking, customer support, software engineering, cloud and AI integration
+- **Correspondance :** 7.0/10 — Bonne base logiciel, APIs, full-stack et Python. Les postes Estarta sont souvent orientés réseau/Cisco, et l'offre AI full-stack retrouvée n'accepte plus de candidatures.
+- **Potentiel :** 49/100 — C — À tenter
+- **Métiers ciblés :** Graduate Software Engineer; Technical Support Engineer; Full-stack/Backend Engineer; Python automation engineer
+- **Ouverture aux juniors :** Oui — graduate jobs et formations observés — Le portail officiel est actif; des témoignages et annonces récentes mentionnent des parcours graduate/support, mais aucune offre logicielle junior active n'a été confirmée aujourd'hui.
+- **Candidats étrangers/visa/relocation :** Non vérifiable — Présence internationale, mais aucun engagement public de relocation pour les postes d'Amman.
+- **Offres actives :** Aucune offre software junior active confirmée; portail officiel — https://estarta-solutions.talentlyft.com/
+- **Contact :** Estarta Solutions — Canal officiel carrières
+- **LinkedIn :** https://www.linkedin.com/company/estarta-solutions/
+- **Email :** Aucun email public vérifié (Candidature via le portail officiel uniquement)
+- **Canal officiel :** https://estarta-solutions.talentlyft.com/
 - **CV conseillé :** `CV_ATS_EN.pdf`
-- **Sources :** https://lairdil.utoulouse.fr/offre-de-recrutement-ingenieur-e-de-recherche-postdoctorant-e | https://midoc.univ-toulouse.fr/offres-demploi/ | https://aniti.univ-toulouse.fr/fr_fr/internship-positions/ | https://www.linkedin.com/company/irit/
-- **Vérifié le :** 2026-09-25 — Vérifié — forte proximité scientifique, mais offre junior 2026 clôturée et mobilité non documentée
+- **Sources :** https://estarta-solutions.talentlyft.com/ | https://www.estarta.com/contact/ | https://jo.linkedin.com/jobs/view/software-engineer-full-stack-or-backend-at-estarta-solutions-4405542427
+- **Vérifié le :** 2026-09-25 — Vérifié — entreprise pertinente, mais aucune offre software junior active confirmée
 
-**Objet :** Intérêt pour un futur poste d'ingénieur de recherche junior en IA
+**Objet :** Open Application – Graduate Software / AI Engineer
 
 **Email prêt à envoyer**
 
-Bonjour Monsieur Benabbou,
+Dear Estarta Recruitment Team,
 
-Récemment diplômé ingénieur en informatique de l'ENSI en Tunisie, je me permets de vous contacter au sujet de futurs besoins d'ingénieur de recherche junior au sein de l'équipe TALENT de l'IRIT.
+I am a recent Computer Engineering graduate from ENSI seeking an entry-level software, AI integration or technical engineering opportunity. My final-year project at Linedata focused on integrating AI agents into an existing financial software product.
 
-Mon PFE chez Linedata a porté sur la modernisation d'un produit financier à l'aide d'agents IA. J'ai travaillé sur la compréhension du besoin, la conception de workflows intelligents et leur intégration logicielle. Mon profil réunit Python, machine learning, LLM/RAG, développement web, APIs, bases de données, Java et C++.
+I bring experience with Python, Java, C++, REST APIs, SQL, full-stack development, machine learning, Git and CI/CD. I am particularly interested in roles where software engineering, automation and customer-facing problem solving come together.
 
-J'ai pris connaissance de l'offre CYSRev sur l'IA éducative, l'analyse de données et le chatbot. Je comprends que sa période de candidature est terminée et je ne souhaite pas présenter une ancienne offre comme encore ouverte. Son contenu correspond néanmoins fortement à mon profil et à mon souhait de contribuer à une recherche appliquée produisant un système réellement utilisable.
+I am based in Tunisia and open to relocating to Amman or another Estarta location if a suitable graduate opportunity and work-authorization route are available.
 
-Pourriez-vous m'indiquer si votre équipe prévoit prochainement un contrat similaire ouvert aux ingénieurs 0–3 ans et si un diplômé tunisien nécessitant une autorisation de travail peut être étudié ? Je joins mon CV à titre de présentation.
+Kind regards,
+Mohamed Oussema Bahloul
+
+**Invitation LinkedIn**
+
+Hello, I am a recent ENSI Computer Engineering graduate with Python, Java/C++, APIs, full-stack and AI-agent experience from my Linedata PFE. I would be glad to follow Estarta's future graduate software and technical opportunities.
+
+**Message après acceptation**
+
+Thank you for connecting. I found that the recent AI full-stack role is closed. Could you advise whether Estarta expects graduate software, AI integration or technical-support openings that may consider a Tunisian candidate?
+
+---
+
+### MFBF Technologies
+
+- **Pays :** Émirats arabes unis
+- **Adresse(s) source :** Dubai, UAE
+- **Domaine :** Cloud, DevOps, FinOps, automation, AI-driven IT operations and application modernization
+- **Correspondance :** 8.2/10 — L’automatisation IT, FinOps, cloud et modernisation applicative recoupent bien Python, IA et CI/CD; aucun recrutement junior ou canal RH n’a été trouvé.
+- **Potentiel :** 48/100 — C — À tenter
+- **Métiers ciblés :** Junior Cloud/DevOps Engineer; AI Automation Engineer; Software Engineer
+- **Ouverture aux juniors :** Non vérifiable — aucune page carrières publique identifiée — Aucune offre active confirmée; prise de contact générale uniquement.
+- **Candidats étrangers/visa/relocation :** Non vérifiable — Aucun sponsoring de visa ni dispositif de relocation confirmé.
+- **Offres actives :** Aucune offre active confirmée; prise de contact générale uniquement.
+- **Contact :** MFBF Technologies — Page entreprise/site officiel
+- **LinkedIn :** https://www.linkedin.com/company/mfbf-technologies/
+- **Email :** Aucun email public vérifié (Aucun email public vérifié)
+- **Canal officiel :** https://www.mfbf-technologies.com/
+- **CV conseillé :** `CV_ATS_EN.pdf`
+- **Sources :** https://www.mfbf-technologies.com/ | https://www.linkedin.com/company/mfbf-technologies/
+- **Vérifié le :** 2026-09-25 — Vérifié — screening manuel ciblé
+
+**Objet :** Candidature spontanée — Junior Cloud/DevOps Engineer junior
+
+**Email prêt à envoyer**
+
+Bonjour,
+
+Récemment diplômé ingénieur en informatique de l’ENSI, spécialisé en ingénierie financière, je souhaite proposer ma candidature à MFBF Technologies pour une première opportunité en junior cloud/devops engineer; ai automation engineer; software engineer.
+
+Mon PFE chez Linedata a consisté à moderniser un produit financier grâce à des agents IA. Cette expérience m’a appris à transformer un besoin métier en solution intégrée, tout en mobilisant Python, le machine learning, les API, les bases de données et le développement full-stack. Je maîtrise également Java et C++.
+
+L’automatisation IT, FinOps, cloud et modernisation applicative recoupent bien Python, IA et CI/CD; aucun recrutement junior ou canal RH n’a été trouvé. Je suis basé en Tunisie et ouvert au télétravail international ou à la mobilité lorsque cela est possible.
+
+Je joins mon CV et serais ravi d’échanger sur vos besoins actuels ou futurs.
 
 Bien cordialement,
 Mohamed Oussema Bahloul
 
 **Invitation LinkedIn**
 
-Bonjour, jeune diplômé ingénieur ENSI, mon PFE portait sur des agents IA intégrés à un produit. Les travaux de l'IRIT en IA/Data/NLP et l'ancien projet CYSRev correspondent fortement à mon profil Python/LLM/web. Je serais ravi de suivre vos futures opportunités de recherche junior.
+Bonjour, diplômé ingénieur ENSI, mon PFE Linedata combinait agents IA et logiciel financier. Les travaux de MFBF Technologies sont proches de mon projet en IA appliquée et développement. Ravi d’échanger sur un futur besoin junior.
 
 **Message après acceptation**
 
-Bonjour, merci pour la connexion. L'offre CYSRev étant clôturée, je ne candidate pas à tort. J'ai écrit à M. Benabbou pour demander si un futur contrat d'ingénieur de recherche IA 0–3 ans pourrait accueillir un diplômé tunisien. Mon CV associe Python, LLM/RAG, logiciel et capacité à relier recherche et produit.
+Merci pour la connexion. Je souhaite proposer mon profil junior à MFBF Technologies, à l’intersection de l’IA appliquée, du développement logiciel et de la compréhension métier. Je serais reconnaissant pour toute orientation vers un besoin adapté.
+
+---
+
+### PlanBlue Gmbh
+
+- **Pays :** Allemagne
+- **Adresse(s) source :** BITZ Bremen Innovation and Technology Center
+- **Domaine :** Marine technology, AI-driven imaging, computer vision, data science and embedded systems
+- **Correspondance :** 7.8/10 — Bonne adéquation IA, imagerie, Python et logiciel, mais l'unique poste actuel confirmé est Engineering Manager senior.
+- **Potentiel :** 48/100 — C — À tenter
+- **Métiers ciblés :** Junior AI/Computer Vision Engineer; Software Engineer; Data Scientist; Python Engineer
+- **Ouverture aux juniors :** Historique d'étudiants/stages; aucune offre junior active confirmée — L'entreprise a déjà recruté des étudiants/assistants AWS et présente une équipe internationale, mais le portail actuel ne confirme qu'un rôle de management expérimenté.
+- **Candidats étrangers/visa/relocation :** Oui/partiel — équipe internationale et relocation pour le poste senior — L'annonce Engineering Manager demande une présence à Brême et accepte explicitement une relocation; aucune aide de visa n'est promise.
+- **Offres actives :** Engineering Manager — Brême — senior — https://jobs.planblue.com/engineering-manager/en ; aucune offre junior active confirmée
+- **Contact :** Jannet A. — People Operations — PlanBlue
+- **LinkedIn :** https://de.linkedin.com/in/jannetallani
+- **Email :** Aucun email public vérifié (Portail ou LinkedIn officiel privilégié)
+- **Canal officiel :** https://jobs.planblue.com/
+- **CV conseillé :** `CV_ATS_EN.pdf`
+- **Sources :** https://jobs.planblue.com/engineering-manager/en | https://www.planblue.com/articles/story | https://de.linkedin.com/in/jannetallani
+- **Vérifié le :** 2026-09-25 — Vérifié — société très pertinente, mais aucun poste junior actuel
+
+**Objet :** Spontaneous Application – Junior AI / Software Engineer – PlanBlue
+
+**Email prêt à envoyer**
+
+Dear PlanBlue Team,
+
+I am a recent Computer Engineering graduate from ENSI seeking a junior AI or software engineering opportunity. My final-year project at Linedata focused on modernizing a financial software product through AI agents, from business analysis to integration into an existing application.
+
+I bring skills in Python, Java, C++, machine learning, APIs, databases, full-stack development, Git and CI/CD. PlanBlue's combination of AI-driven imaging, data science and environmental impact is exactly the kind of multidisciplinary product environment in which I want to grow.
+
+I am based in Tunisia and open to relocation, subject to work-authorization feasibility. I would be grateful to be considered for a suitable graduate or junior opportunity.
+
+Kind regards,
+Mohamed Oussema Bahloul
+
+**Invitation LinkedIn**
+
+Hello Jannet, I am a recent ENSI Computer Engineering graduate with an AI-agent PFE at Linedata and skills in Python, ML and software. PlanBlue's AI-driven ocean-imaging mission strongly interests me. Glad to connect.
+
+**Message après acceptation**
+
+Thank you for connecting. I saw that the current role is for an Engineering Manager. Would PlanBlue consider a spontaneous application for a future junior AI, computer-vision or software position from a Tunisian graduate open to Bremen?
+
+---
+
+### ARHS GROUP - Part of Accenture
+
+- **Pays :** Luxembourg
+- **Adresse(s) source :** 13 Bd du Jazz, 4370 Esch-Belval Esch-sur-Alzette, Luxembourg
+- **Domaine :** IT consulting, software development, Data Science, ML, cloud, cybersecurity and public-sector systems; part of Accenture
+- **Correspondance :** 7.7/10 — Java, SQL, REST, full-stack, Data/AI and CI/CD fit the company's stack. Current Luxembourg vacancies found are mid-level/senior and often onsite in regulated EU institutions.
+- **Potentiel :** 47/100 — C — À tenter
+- **Métiers ciblés :** Junior Java/Full-stack Engineer; Data/AI Engineer; Cloud/DevOps junior
+- **Ouverture aux juniors :** Junior hiring historically possible; no suitable junior vacancy confirmed — The live portal contains many technical roles, but the reviewed Luxembourg Java roles require solid experience, 3 years or 7 years.
+- **Candidats étrangers/visa/relocation :** Non vérifiable — No visa sponsorship found. Onsite work for European institutional clients and background checks may create additional eligibility constraints.
+- **Offres actives :** Mid-level Fullstack Java Developer — Luxembourg — minimum 3 years — https://jobs.smartrecruiters.com/ARHS/744000127172599 ; other current Java roles are experienced.
+- **Contact :** ARHS Group / Accenture Careers — Official careers channel
+- **LinkedIn :** https://www.linkedin.com/company/arhs-group/
+- **Email :** Aucun email public vérifié (Candidature via le portail officiel uniquement)
+- **Canal officiel :** https://jobs.smartrecruiters.com/ARHS
+- **CV conseillé :** `CV_ATS_EN.pdf`
+- **Sources :** https://jobs.smartrecruiters.com/ARHS/744000127172599 | https://jobs.smartrecruiters.com/ARHS/744000017668871-java-jee-developer
+- **Vérifié le :** 2026-09-25 — Vérifié — bonne adéquation technique, mais offres luxembourgeoises actuelles expérimentées
+
+**Objet :** Future Junior Software / Data Engineering Opportunities
+
+**Email prêt à envoyer**
+
+Dear ARHS Recruitment Team,
+
+I am a recent Computer Engineering graduate from ENSI with skills in Java, Python, C++, REST APIs, SQL, full-stack development, Data/AI, Git and CI/CD. My final-year project at Linedata focused on modernizing a financial product through AI agents.
+
+ARHS's work across enterprise software, data, cloud and secure public-sector systems is relevant to my profile. I noticed that the current Luxembourg Java vacancies require several years of experience, so I am not presenting myself for those roles. I would instead be interested in a future graduate or junior engineering opportunity.
+
+I am based in Tunisia and open to relocation if work-authorization support is possible.
+
+Kind regards,
+Mohamed Oussema Bahloul
+
+**Invitation LinkedIn**
+
+Hello, I’m a recent ENSI Computer Engineering graduate with Java, Python, REST, SQL, full-stack and AI experience. ARHS/Accenture’s software, Data and cloud projects interest me. I’d be glad to follow future junior opportunities in Luxembourg.
+
+**Message après acceptation**
+
+Thank you for connecting. I saw that current Luxembourg Java roles are mid-level or senior. Could you advise whether ARHS expects any graduate/junior software, Data or cloud openings that could consider a Tunisian candidate requiring mobility support?
+
+---
+
+### NovinoAI
+
+- **Pays :** États-Unis
+- **Adresse(s) source :** 1443 NE 4th Ave  Fort Lauderdale, FL 33304
+- **Domaine :** Digital pathology, cloud LIS/IMS, medical imaging AI and healthcare software
+- **Correspondance :** 7.7/10 — Bonne adéquation IA, cloud et produit logiciel, mais l'équipe recherche une expérience healthcare/FDA et aucune offre technique active n'a été confirmée.
+- **Potentiel :** 47/100 — C — À tenter
+- **Métiers ciblés :** Junior AI/ML Engineer; Healthcare Software Engineer; Python/Cloud Developer
+- **Ouverture aux juniors :** Non vérifiable — Le site mentionne une culture ouverte aux interns et la progression interne, mais ne publie pas actuellement de rôle junior correspondant.
+- **Candidats étrangers/visa/relocation :** Oui/partiel — entreprise remote-first — Le site indique une équipe distribuée et 'hires for talent, not zip code'; les pays autorisés, le contrat international et le sponsoring restent non précisés.
+- **Offres actives :** Aucune offre technique active confirmée — consulter les open roles depuis https://www.novopath.com/about-us/
+- **Contact :** NovinoAI / NovoPath — Canal officiel
+- **LinkedIn :** https://www.linkedin.com/company/novopath
+- **Email :** Aucun email public vérifié (Portail officiel ou LinkedIn privilégié)
+- **Canal officiel :** https://www.novopath.com/about-us/
+- **CV conseillé :** `CV_ATS_EN.pdf`
+- **Sources :** https://www.novinoai.com/ | https://www.novinoai.com/about.html | https://www.novopath.com/about-us/
+- **Vérifié le :** 2026-09-25 — Vérifié — HealthTech IA pertinente et remote-first, aucune offre actuelle
+
+**Objet :** Spontaneous Application – Junior AI / Healthcare Software Engineer
+
+**Email prêt à envoyer**
+
+Dear NovinoAI / NovoPath Team,
+
+I am a recent Computer Engineering graduate from ENSI seeking a junior AI or software engineering opportunity. My final-year project at Linedata focused on integrating AI agents into an existing financial product, giving me practical experience with Python, LLM applications, APIs, databases and product integration.
+
+I also bring Java, C++, full-stack development, machine learning, testing, Git and CI/CD. I am particularly interested in your work because it turns AI and cloud software into a dependable clinical workflow rather than a standalone demonstration.
+
+I am based in Tunisia and would welcome a remote international arrangement or relocation where feasible.
+
+Kind regards,
+Mohamed Oussema Bahloul
+
+**Invitation LinkedIn**
+
+Hello, I am a recent ENSI Computer Engineering graduate with AI-agent, Python and full-stack experience. NovinoAI's cloud-native digital pathology platform is the kind of high-impact product I want to help build. Glad to connect.
+
+**Message après acceptation**
+
+Thank you for connecting. Does your remote-first team accept spontaneous applications from international junior AI/software engineers? I would be glad to share my CV and project portfolio.
+
+---
+
+### Fysali SAS
+
+- **Pays :** France
+- **Adresse(s) source :** 70 rue du Docteur Yersin Bio-Incubateur | 70 rue du Docteur Yersin, Bio-incubateur 59120 Loos | 70 rue du Docteur Yersin, Bio-incubateur 59120 loos | 70 rue du docteur Yersin, Bio-incubateur 59120 Loos
+- **Domaine :** Digital Health, connected medical monitoring, signal processing and software
+- **Correspondance :** 7.4/10 — La solution de suivi médical comporte un produit logiciel et des données; une levée récente peut créer des besoins, mais l’équipe publique reste minuscule et aucune offre n’est annoncée.
+- **Potentiel :** 46/100 — C — À tenter
+- **Métiers ciblés :** Junior Software Engineer; Data/AI Engineer; Full-stack Developer
+- **Ouverture aux juniors :** Non vérifiable — aucune offre ni historique junior identifié — Aucune offre active; formulaire officiel invite explicitement à contacter l’équipe pour rejoindre Fysali.
+- **Candidats étrangers/visa/relocation :** Non vérifiable — Aucun sponsoring de visa ni dispositif de relocation confirmé.
+- **Offres actives :** Aucune offre active; formulaire officiel invite explicitement à contacter l’équipe pour rejoindre Fysali.
+- **Contact :** Omar Hassan — Founder and CEO
+- **LinkedIn :** https://www.linkedin.com/in/omar-hassan-fysali/
+- **Email :** Aucun email public vérifié (Aucun email public vérifié)
+- **Canal officiel :** https://www.fysali.com/
+- **CV conseillé :** `CV_ATS_EN.pdf`
+- **Sources :** https://www.fysali.com/ | https://tn.linkedin.com/company/fysali | https://www.linkedin.com/posts/eurasanté-uk_%F0%9D%90%80-%F0%9D%90%A5%F0%9D%90%A8%F0%9D%90%A8%F0%9D%90%A4-%F0%9D%90%9B%F0%9D%90%9A%F0%9D%90%9C%F0%9D%90%A4-%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%AD%F0%9D%90%B0%F0%9D%90%A8-%F0%9D%90%A2%F0%9D%90%A6%F0%9D%90%A9%F0%9D%90%AB-activity-7488581183467847681-14hR
+- **Vérifié le :** 2026-09-25 — Vérifié — screening manuel ciblé
+
+**Objet :** Candidature spontanée — Junior Software Engineer junior
+
+**Email prêt à envoyer**
+
+Bonjour Omar Hassan,
+
+Récemment diplômé ingénieur en informatique de l’ENSI, spécialisé en ingénierie financière, je souhaite proposer ma candidature à Fysali pour une première opportunité en junior software engineer; data/ai engineer; full-stack developer.
+
+Mon PFE chez Linedata a consisté à moderniser un produit financier grâce à des agents IA. Cette expérience m’a appris à transformer un besoin métier en solution intégrée, tout en mobilisant Python, le machine learning, les API, les bases de données et le développement full-stack. Je maîtrise également Java et C++.
+
+La solution de suivi médical comporte un produit logiciel et des données; une levée récente peut créer des besoins, mais l’équipe publique reste minuscule et aucune offre n’est annoncée. Je suis basé en Tunisie et ouvert au télétravail international ou à la mobilité lorsque cela est possible.
+
+Je joins mon CV et serais ravi d’échanger sur vos besoins actuels ou futurs.
+
+Bien cordialement,
+Mohamed Oussema Bahloul
+
+**Invitation LinkedIn**
+
+Bonjour, diplômé ingénieur ENSI, mon PFE Linedata combinait agents IA et logiciel financier. Les travaux de Fysali sont proches de mon projet en IA appliquée et développement. Ravi d’échanger sur un futur besoin junior.
+
+**Message après acceptation**
+
+Merci pour la connexion. Je souhaite proposer mon profil junior à Fysali, à l’intersection de l’IA appliquée, du développement logiciel et de la compréhension métier. Je serais reconnaissant pour toute orientation vers un besoin adapté.
+
+---
+
+### Radix Engineering and Software
+
+- **Pays :** États-Unis
+- **Adresse(s) source :** 580 Westlake Park Blvd, Ste 110, Houston, TX 77079, USA - Tunis à distance | 820 Gessner Rd, Suite 875, Houston, TX 77024, United States
+- **Domaine :** Ingénierie numérique industrielle, logiciels, automatisation, Data/IA, asset performance et supply chain
+- **Correspondance :** 8.2/10 — Python/C++, Data/IA, logiciel et analyse métier sont pertinents pour Radix. L’absence d’expérience industrielle et les postes visibles plutôt expérimentés réduisent le potentiel immédiat.
+- **Potentiel :** 46/100 — C — À tenter
+- **Métiers ciblés :** Junior Software Engineer; Data Engineer; AI/ML Engineer; Digital Solutions Analyst; Python/C++ Developer
+- **Ouverture aux juniors :** Oui globalement — fresh graduates explicitement bienvenus — La page Careers indique que les candidats sortant de l’université sont bienvenus et met en avant formation et développement. Les postes techniques visibles ne sont pas adaptés.
+- **Candidats étrangers/visa/relocation :** Non vérifiable — Diversité internationale et modèle online/hybrid sont mentionnés, mais aucune offre adaptée ne confirme visa, relocation ou recrutement depuis la Tunisie. Les rôles US sont localisés aux États-Unis.
+- **Offres actives :** Des offres sont actives, mais aucune adaptée et internationalement accessible: Solutions Expert Supply Chain demande 5–8 ans; Program Manager exige expérience industrie/vente. Portail: https://radix.inhire.app/.
+- **Contact :** Ana Mastrangelo — People & Management Coordinator — Radix North America
+- **LinkedIn :** https://www.linkedin.com/in/ana-mastrangelo-574298100
+- **Email :** contact@radixeng.com (Adresse générale publiée sur la page Careers pour les questions; ce n’est pas une adresse de candidature. Utiliser le portail.)
+- **Canal officiel :** https://radix.inhire.app/ | https://www.radixeng.com/careers
+- **CV conseillé :** `CV_ATS_EN.pdf`
+- **Sources :** https://www.radixeng.com/careers | https://radix.inhire.app/ | https://www.linkedin.com/company/radixeng/jobs | https://www.linkedin.com/in/ana-mastrangelo-574298100 | https://www.linkedin.com/jobs/view/solutions-expert-supply-chain-at-radix-4398495079
+- **Vérifié le :** 2026-09-25 — Vérifié — entreprise étrangère junior-friendly, aucune voie internationale adaptée confirmée
+
+**Objet :** Future Junior Software / AI Opportunities — International Candidate
+
+**Email prêt à envoyer**
+
+Dear Radix People & Management Team,
+
+I am a recent Computer Engineering graduate from ENSI in Tunisia, specialised in Financial Engineering, and I am interested in future junior software, data or AI opportunities at Radix.
+
+My final-year project at Linedata modernised a financial product with AI agents, connecting business needs with software integration. My background includes Python, C++, Java, APIs, databases, full-stack development, machine learning and LLM/RAG applications.
+
+Radix appeals to me because it turns engineering, operational data and digital technology into measurable industrial value. I have not found a junior opening confirming international eligibility, so I am not applying to an unsuitable role. Could you advise whether Radix may consider a Tunisia-based candidate in the future and which location I should monitor?
+
+Kind regards,
+Mohamed Oussema Bahloul
+
+**Invitation LinkedIn**
+
+Hello Ana, I’m a recent ENSI Computer Engineering graduate from Tunisia. My Linedata project used AI agents to modernise a business product. Radix’s blend of engineering, software and industrial data is compelling. May I follow future junior roles open internationally?
+
+**Message après acceptation**
+
+Thank you for connecting, Ana. I found no suitable junior role with confirmed international eligibility, so I have not applied to an unrelated opening. Could you advise whether a future software/data/AI role might consider a Tunisia-based graduate, or which Radix location I should monitor?
+
+---
+
+### AUTRIS
+
+- **Pays :** France
+- **Adresse(s) source :** RUE DE SILLY 92100 BOULOGNE-BILLANCOURT
+- **Domaine :** Automation, intelligent systems, robotics and AI
+- **Correspondance :** 8.0/10 — L’automatisation, les systèmes intelligents et la robotique correspondent à Python/C++ et l’IA, mais aucune offre, page carrières ou procédure internationale n’est publiée.
+- **Potentiel :** 45/100 — C — À tenter
+- **Métiers ciblés :** Junior AI/Automation Engineer; Robotics Software Engineer; Python/C++ Developer
+- **Ouverture aux juniors :** Non vérifiable — Aucune offre active confirmée; candidature spontanée LinkedIn uniquement.
+- **Candidats étrangers/visa/relocation :** Non vérifiable — Aucun visa sponsorisé confirmé; la présence ou collaboration tunisienne est indiquée lorsqu’elle est sourcée.
+- **Offres actives :** Aucune offre active confirmée; candidature spontanée LinkedIn uniquement.
+- **Contact :** Celine Gilbert — Membre actuelle AUTRIS — Automation & Intelligent Systems
+- **LinkedIn :** https://fr.linkedin.com/in/celine-gilbert-412838310
+- **Email :** Aucun email public vérifié (Aucun email public vérifié)
+- **Canal officiel :** https://fr.linkedin.com/in/celine-gilbert-412838310
+- **CV conseillé :** `CV_ATS_EN.pdf`
+- **Sources :** https://fr.linkedin.com/in/celine-gilbert-412838310
+- **Vérifié le :** 2026-09-25 — Vérifié — screening manuel ciblé
+
+**Objet :** Candidature — Junior AI/Automation Engineer junior
+
+**Email prêt à envoyer**
+
+Bonjour,
+
+Récemment diplômé ingénieur en informatique de l’ENSI, spécialisé en ingénierie financière, je souhaite proposer ma candidature à AUTRIS pour une première opportunité en junior ai/automation engineer; robotics software engineer; python/c++ developer.
+
+Mon PFE chez Linedata portait sur la modernisation d’un produit financier à l’aide d’agents IA. Je maîtrise Python, Java, C++, le développement full-stack, les API, les bases de données, le machine learning, Git et les principes CI/CD.
+
+L’automatisation, les systèmes intelligents et la robotique correspondent à Python/C++ et l’IA, mais aucune offre, page carrières ou procédure internationale n’est publiée. Basé en Tunisie, je suis ouvert au télétravail ou à une mobilité réalisable.
+
+Je serais ravi d’échanger et joins mon CV à cette candidature.
+
+Bien cordialement,
+Mohamed Oussema Bahloul
+
+**Invitation LinkedIn**
+
+Bonjour, diplômé ingénieur ENSI, mon PFE Linedata combinait agents IA et logiciel financier. AUTRIS correspond à mes compétences en Python, Data/IA et développement. Ravi d’échanger sur vos besoins juniors.
+
+**Message après acceptation**
+
+Merci pour la connexion. Je viens de proposer mon profil junior à AUTRIS. Pourriez-vous m’orienter vers la personne qui suit les besoins Data, IA ou développement logiciel ?
+
+---
+
+### SNCF RESEAU
+
+- **Pays :** France
+- **Adresse(s) source :** 6  Av François Mitterrand  93574 LA PLAINE ST DENIS CEDEX
+- **Domaine :** Rail infrastructure, software, Data/AI, cybersecurity, IoT and digital transformation
+- **Correspondance :** 7.5/10 — Les métiers SI/Data correspondent bien, mais les offres débutantes actuelles identifiées sont stages/alternances réservés aux étudiants; le CDI IA actuel demande 6–10 ans.
+- **Potentiel :** 45/100 — C — À tenter
+- **Métiers ciblés :** Junior Software Engineer; Data/AI Engineer; QA Automation Engineer; Cybersecurity Engineer
+- **Ouverture aux juniors :** Oui — nombreuses offres débutant, surtout stages/alternances — Le portail SNCF affiche des offres SI/Data débutant et un stage ingénieur test publié le 24/09/2026, mais le candidat est déjà diplômé.
+- **Candidats étrangers/visa/relocation :** Non vérifiable — Aucun sponsoring de visa confirmé pour une offre junior correspondante.
+- **Offres actives :** Tech Lead IA — Saint-Denis — 6 à 10 ans — https://emploi.sncf.com/nos-offres/834267 ; Stage Ingénieur Test — publié 24/09/2026 — réservé étudiant — https://emploi.sncf.com/nos-offres/798355 ; aucune offre CDI junior exacte retenue
+- **Contact :** SNCF Recrutement — Canal officiel carrières
+- **LinkedIn :** https://www.linkedin.com/company/sncf/jobs/
+- **Email :** Aucun email public vérifié (Candidature via le portail officiel uniquement)
+- **Canal officiel :** https://emploi.sncf.com/nos-metiers/si-data
+- **CV conseillé :** `CV_ATS_EN.pdf`
+- **Sources :** https://emploi.sncf.com/nos-metiers/si-data | https://emploi.sncf.com/nos-offres/834267 | https://emploi.sncf.com/nos-offres/798355
+- **Vérifié le :** 2026-09-25 — Vérifié — grand employeur junior-friendly, mais aucune offre CDI junior exacte aujourd'hui
+
+**Objet :** Candidature spontanée — Ingénieur SI / Data / IA junior
+
+**Email prêt à envoyer**
+
+Bonjour,
+
+Récemment diplômé ingénieur en informatique de l'ENSI, je souhaite rejoindre SNCF Réseau dans une fonction junior en développement logiciel, Data/IA, automatisation des tests ou cybersécurité.
+
+Mon PFE chez Linedata a porté sur la modernisation d'un produit financier à l'aide d'agents IA. Je maîtrise Python, Java, C++, les APIs, SQL, le développement full-stack, Git et les principes de CI/CD. Je souhaite mettre ces compétences au service de systèmes numériques à grande échelle et d'une mobilité plus fiable.
+
+Basé en Tunisie, je suis ouvert à une mobilité en France si les démarches d'autorisation de travail sont envisageables.
+
+Bien cordialement,
+Mohamed Oussema Bahloul
+
+**Invitation LinkedIn**
+
+Bonjour, jeune diplômé ingénieur ENSI, mon PFE Linedata portait sur des agents IA intégrés à un produit existant. Je recherche un CDI junior en logiciel, Data/IA ou QA et souhaite suivre les opportunités SI & Data de SNCF Réseau.
+
+**Message après acceptation**
+
+Bonjour, merci pour la connexion. Les offres débutantes repérées sont surtout des stages/alternances. Pourriez-vous m'orienter vers les futurs CDI junior SI/Data accessibles à un diplômé tunisien ouvert à la mobilité ?
+
+---
+
+### WSK Medical
+
+- **Pays :** Pays-Bas
+- **Adresse(s) source :** Science Park 608 unit K09, 1098 XH Amsterdam
+- **Domaine :** Medical AI, computer vision, deep learning, video analysis and digital pathology
+- **Correspondance :** 7.8/10 — Bonne adéquation IA/ML et développement; expérience santé, vision et réglementation non démontrée, aucune offre active trouvée.
+- **Potentiel :** 45/100 — C — À tenter
+- **Métiers ciblés :** Junior AI/ML Engineer; Computer Vision Engineer; Python Software Engineer
+- **Ouverture aux juniors :** Oui historiquement; aucune offre actuelle confirmée — WSK Medical a publiquement intégré une diplômée dans son équipe AI après un travail à temps partiel, mais aucun recrutement junior actuel n'est visible.
+- **Candidats étrangers/visa/relocation :** Non vérifiable — Aucun engagement public de sponsoring de visa trouvé.
+- **Offres actives :** Aucune offre active confirmée — surveiller https://www.wskmedical.ai/ et la page LinkedIn
+- **Contact :** WSK Medical — Canal officiel de l'entreprise
+- **LinkedIn :** https://www.linkedin.com/company/wsk-medical
+- **Email :** Aucun email public vérifié (Portail ou LinkedIn officiel privilégié)
+- **Canal officiel :** https://www.wskmedical.ai/
+- **CV conseillé :** `CV_ATS_EN.pdf`
+- **Sources :** https://www.linkedin.com/company/wsk-medical | https://www.wskmedical.ai/
+- **Vérifié le :** 2026-09-25 — Vérifié — société HealthTech IA pertinente, aucune offre actuelle
+
+**Objet :** Spontaneous Application – Junior AI / Software Engineer – WSK Medical
+
+**Email prêt à envoyer**
+
+Dear WSK Medical Team,
+
+I am a recent Computer Engineering graduate from ENSI seeking a junior AI or software engineering opportunity. My final-year project at Linedata focused on modernizing a financial software product through AI agents, from business analysis to integration into an existing application.
+
+I bring skills in Python, Java, C++, machine learning, APIs, databases, full-stack development, Git and CI/CD. I am particularly interested in applying reliable AI and software engineering to a regulated healthcare product such as Zeno AI.
+
+I am based in Tunisia and open to relocation, subject to work-authorization feasibility. I would be grateful to be considered for a suitable graduate or junior opportunity.
+
+Kind regards,
+Mohamed Oussema Bahloul
+
+**Invitation LinkedIn**
+
+Hello, I am a recent ENSI Computer Engineering graduate with an AI-agent PFE at Linedata and skills in Python and ML. WSK Medical's work on production medical AI is highly relevant to my goals. I would be glad to follow future junior opportunities.
+
+**Message après acceptation**
+
+Thank you for connecting. Could you advise whether WSK Medical accepts spontaneous applications for junior AI/ML or Python engineering roles from international graduates willing to relocate?
+
+---
+
+### Fourity
+
+- **Pays :** Serbie
+- **Adresse(s) source :** Narodnog fronta 21c, Novi Sad 21000
+- **Domaine :** Web/mobile product development, React, TypeScript, Node.js, AWS and serverless
+- **Correspondance :** 7.6/10 — Stack MERN/React/Node/AWS fortement pertinente, mais l'unique poste actuel demande au moins six ans.
+- **Potentiel :** 44/100 — C — À tenter
+- **Métiers ciblés :** Junior Full-stack Developer; React/Node.js Engineer; Software Engineer
+- **Ouverture aux juniors :** Non — aucune offre junior active confirmée — Le portail actuel ne présente qu'un Senior Software Engineer avec six ans minimum; l'entreprise continue néanmoins d'élargir son équipe.
+- **Candidats étrangers/visa/relocation :** Non vérifiable — Aucun engagement public de sponsoring de visa trouvé.
+- **Offres actives :** Senior Software Engineer — Novi Sad — 6+ ans — https://www.fourity.com/careers/
+- **Contact :** Fourity — Canal officiel
+- **LinkedIn :** https://www.linkedin.com/company/fourity
+- **Email :** office@fourity.com (Adresse de candidature publiée sur la page Careers officielle)
+- **Canal officiel :** mailto:office@fourity.com
+- **CV conseillé :** `CV_ATS_EN.pdf`
+- **Sources :** https://www.fourity.com/careers/ | https://www.linkedin.com/company/fourity
+- **Vérifié le :** 2026-09-25 — Vérifié — excellente stack, mais offre actuelle senior
+
+**Objet :** Spontaneous Application – Junior Full-stack Software Engineer
+
+**Email prêt à envoyer**
+
+Dear Fourity Team,
+
+I am a recent Computer Engineering graduate from ENSI seeking a junior full-stack software engineering opportunity. I have experience with React, Node.js, APIs, databases, JavaScript/TypeScript, Python, Java, C++, Git and CI/CD. My final-year project at Linedata also involved integrating AI agents into an existing financial product.
+
+Your current opening is clearly senior, so I am not presenting myself for that position. I would instead be grateful to be considered for a future junior role where I can contribute to React/Node.js products and grow within your collaborative engineering culture.
+
+I am based in Tunisia and open to relocation to Novi Sad if feasible.
+
+Kind regards,
+Mohamed Oussema Bahloul
+
+**Invitation LinkedIn**
+
+Hello, I am a recent ENSI Computer Engineering graduate with React, Node.js, APIs and AI-agent project experience. Fourity's product-development stack strongly matches mine. I would be glad to follow future junior opportunities in Novi Sad.
+
+**Message après acceptation**
+
+Thank you for connecting. I saw that the current Software Engineer role requires 6+ years. Could Fourity keep my profile for a future junior React/Node.js or full-stack opportunity open to relocation?
 
 ---
 
@@ -422,51 +2578,137 @@ Hi Bram, thank you for connecting. I found your Software Developer role and sent
 
 ---
 
-### Laboratoire d'Informatique Signal et Image de la Côte d'Opale, Université Littorale de la Côte d'Opale
+### Memoways
 
-- **Pays :** France
-- **Adresse(s) source :** Maison de la recherche Blaise Pascal - BP 719, 50 rue Ferdinand Buisson, 62228 Calais
-- **Domaine :** IA / Data / Logiciel
-- **Correspondance :** 8.5/10 — Forte correspondance avec Python, Java, C++, IA, RAG et développement full-stack
-- **Potentiel :** 42/100 — C — À tenter
-- **Métiers ciblés :** AI Engineer, Data/ML Engineer, développeur logiciel, full-stack ou Business Analyst technique
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** https://lisic-prod.univ-littoral.fr/
-- **Vérifié le :** 2026-09-25 — Localisation vérifiée — recrutement à rechercher
+- **Pays :** Suisse
+- **Adresse(s) source :** Rue de Montbrillant 24, 1201 Genève, Suisse
+- **Domaine :** No-code software, digital transformation and applied open-source LLM experimentation
+- **Correspondance :** 7.8/10 — Les expérimentations LLM open source et la transformation numérique sont pertinentes, mais l’agence ne compte que quelques personnes et ne publie aucune offre.
+- **Potentiel :** 43/100 — C — À tenter
+- **Métiers ciblés :** Junior AI/LLM Developer; Software Developer; Automation Engineer
+- **Ouverture aux juniors :** Non — aucune preuve récente d’embauche junior — Aucune offre active; petite équipe de quatre personnes.
+- **Candidats étrangers/visa/relocation :** Non vérifiable — Aucun sponsoring de visa ni dispositif de relocation confirmé.
+- **Offres actives :** Aucune offre active; petite équipe de quatre personnes.
+- **Contact :** Dan Wechsler — Membre/fondateur de l’équipe
+- **LinkedIn :** https://www.linkedin.com/in/danwechsler/
+- **Email :** Aucun email public vérifié (Aucun email public vérifié)
+- **Canal officiel :** http://memoways.com/
+- **CV conseillé :** `CV_ATS_EN.pdf`
+- **Sources :** https://www.linkedin.com/company/memoways | http://memoways.com/
+- **Vérifié le :** 2026-09-25 — Vérifié — screening manuel ciblé
 
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
+**Objet :** Candidature spontanée — Junior AI/LLM Developer junior
 
 **Email prêt à envoyer**
 
-Bonjour,
+Bonjour Dan Wechsler,
 
-Je souhaite proposer ma candidature à Laboratoire d'Informatique Signal et Image de la Côte d'Opale, Université Littorale de la Côte d'Opale pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de AI Engineer, Data/ML Engineer, développeur logiciel, full-stack ou Business Analyst technique.
+Récemment diplômé ingénieur en informatique de l’ENSI, spécialisé en ingénierie financière, je souhaite proposer ma candidature à Memoways pour une première opportunité en junior ai/llm developer; software developer; automation engineer.
 
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
+Mon PFE chez Linedata a consisté à moderniser un produit financier grâce à des agents IA. Cette expérience m’a appris à transformer un besoin métier en solution intégrée, tout en mobilisant Python, le machine learning, les API, les bases de données et le développement full-stack. Je maîtrise également Java et C++.
 
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
+Les expérimentations LLM open source et la transformation numérique sont pertinentes, mais l’agence ne compte que quelques personnes et ne publie aucune offre. Je suis basé en Tunisie et ouvert au télétravail international ou à la mobilité lorsque cela est possible.
 
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
+Je joins mon CV et serais ravi d’échanger sur vos besoins actuels ou futurs.
 
 Bien cordialement,
 Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
 
 **Invitation LinkedIn**
 
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez Laboratoire d'Informatique Signal et Image de la Côte d'Opale, Université Littorale de la Côte d'Opale. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
+Bonjour, diplômé ingénieur ENSI, mon PFE Linedata combinait agents IA et logiciel financier. Les travaux de Memoways sont proches de mon projet en IA appliquée et développement. Ravi d’échanger sur un futur besoin junior.
 
 **Message après acceptation**
 
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez Laboratoire d'Informatique Signal et Image de la Côte d'Opale, Université Littorale de la Côte d'Opale autour de AI Engineer, Data/ML Engineer, développeur logiciel, full-stack ou Business Analyst technique. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
+Merci pour la connexion. Je souhaite proposer mon profil junior à Memoways, à l’intersection de l’IA appliquée, du développement logiciel et de la compréhension métier. Je serais reconnaissant pour toute orientation vers un besoin adapté.
+
+---
+
+### SOWISO BV
+
+- **Pays :** Pays-Bas
+- **Adresse(s) source :** Science Park 301,1098 XH, Amsterdam
+- **Domaine :** EdTech SaaS, adaptive STEM learning, assessment and educational software
+- **Correspondance :** 7.0/10 — Développement logiciel et IA applicative pertinents, mais aucune offre technique actuelle confirmée; SOWISO est désormais intégré au groupe Paragin.
+- **Potentiel :** 42/100 — C — À tenter
+- **Métiers ciblés :** Junior Full-stack Developer; Software Engineer; AI/EdTech Engineer
+- **Ouverture aux juniors :** Non vérifiable — L'entreprise a recruté des développeurs auparavant, mais les publications actuelles trouvées concernent surtout Customer Support et des rôles groupe.
+- **Candidats étrangers/visa/relocation :** Non vérifiable — Aucun engagement public de sponsoring de visa trouvé.
+- **Offres actives :** Aucune offre technique active confirmée — surveiller https://www.sowiso.com/ et les postes Paragin Group
+- **Contact :** Andrea Sovilj — Current SOWISO professional
+- **LinkedIn :** https://nl.linkedin.com/in/andrea-sovilj-3a8b0710a
+- **Email :** Aucun email public vérifié (Portail ou LinkedIn officiel privilégié)
+- **Canal officiel :** https://www.sowiso.com/
+- **CV conseillé :** `CV_ATS_EN.pdf`
+- **Sources :** https://www.sowiso.com/ | https://nl.linkedin.com/in/andrea-sovilj-3a8b0710a
+- **Vérifié le :** 2026-09-25 — Vérifié — cible EdTech pertinente, aucune offre technique actuelle
+
+**Objet :** Spontaneous Application – Junior AI / Software Engineer – SOWISO
+
+**Email prêt à envoyer**
+
+Dear SOWISO Team,
+
+I am a recent Computer Engineering graduate from ENSI seeking a junior AI or software engineering opportunity. My final-year project at Linedata focused on modernizing a financial software product through AI agents, from business analysis to integration into an existing application.
+
+I bring skills in Python, Java, C++, machine learning, APIs, databases, full-stack development, Git and CI/CD. SOWISO's adaptive STEM-learning product would allow me to combine software, AI and a direct impact on how students learn technical subjects.
+
+I am based in Tunisia and open to relocation, subject to work-authorization feasibility. I would be grateful to be considered for a suitable graduate or junior opportunity.
+
+Kind regards,
+Mohamed Oussema Bahloul
+
+**Invitation LinkedIn**
+
+Hello Andrea, I am a recent ENSI Computer Engineering graduate with software, AI and full-stack experience. SOWISO's adaptive STEM-learning platform interests me greatly. I would be glad to follow future junior engineering opportunities.
+
+**Message après acceptation**
+
+Thank you for connecting. Could you advise whether SOWISO or Paragin Group expects any junior software or AI-oriented openings in Amsterdam that could consider an international graduate?
+
+---
+
+### JAWAKER
+
+- **Pays :** Émirats arabes unis
+- **Adresse(s) source :** , Sweifieh Amman Jordan
+- **Domaine :** Mobile gaming, backend services, product engineering and data
+- **Correspondance :** 6.9/10 — Développement produit pertinent, mais les dernières offres techniques identifiées sont anciennes et senior; aucune offre junior actuelle confirmée.
+- **Potentiel :** 39/100 — C — À tenter
+- **Métiers ciblés :** Junior Software Engineer; Backend Developer; QA Engineer; Data/AI Engineer
+- **Ouverture aux juniors :** Non vérifiable — Jawaker possède un portail carrière, mais les offres Senior/Principal retrouvées datent de 2024–2025.
+- **Candidats étrangers/visa/relocation :** Non vérifiable — Aucun engagement public de sponsoring de visa trouvé.
+- **Offres actives :** Aucune offre junior active confirmée; vérifier le portail officiel https://careers.jawaker.com/
+- **Contact :** Jawaker — Canal officiel carrières
+- **LinkedIn :** https://www.linkedin.com/company/jawaker
+- **Email :** Aucun email public vérifié (Portail officiel ou LinkedIn privilégié)
+- **Canal officiel :** https://careers.jawaker.com/
+- **CV conseillé :** `CV_ATS_EN.pdf`
+- **Sources :** https://careers.jawaker.com/ | https://www.linkedin.com/company/jawaker
+- **Vérifié le :** 2026-09-25 — Vérifié — entreprise produit pertinente, aucune ouverture junior confirmée
+
+**Objet :** Spontaneous Application – Junior Software Engineer
+
+**Email prêt à envoyer**
+
+Dear Jawaker Team,
+
+I am a recent Computer Engineering graduate from ENSI seeking a junior software engineering opportunity. My background includes Java, Python, C++, full-stack development, APIs, databases, testing, Git and CI/CD. At Linedata, my final-year project focused on integrating AI agents into an existing financial software product.
+
+I am attracted by Jawaker's large-scale consumer product and the engineering challenges behind reliable mobile-game services. I noticed that the technical openings available in public search results are senior, so I would like to be considered for a future graduate or junior software, QA or data role.
+
+I am based in Tunisia and willing to relocate to the UAE or Jordan if feasible.
+
+Kind regards,
+Mohamed Oussema Bahloul
+
+**Invitation LinkedIn**
+
+Hello, I am a recent ENSI Computer Engineering graduate with Java/Python/C++, full-stack and AI-agent experience. Jawaker's large-scale gaming product interests me, and I would be glad to follow future junior software, QA or data opportunities.
+
+**Message après acceptation**
+
+Thank you for connecting. I found only older senior engineering openings. Could you advise whether Jawaker expects any junior software, QA or data roles that could consider a Tunisian graduate open to relocation?
 
 ---
 
@@ -474,2687 +2716,89 @@ Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opp
 
 - **Pays :** Pays-Bas
 - **Adresse(s) source :** Hakkelerkampstraat 99, 7101 VG, Winterswijk, NL
-- **Domaine :** IA / Data / Logiciel
-- **Correspondance :** 8.5/10 — Forte correspondance avec Python, Java, C++, IA, RAG et développement full-stack
-- **Potentiel :** 42/100 — C — À tenter
-- **Métiers ciblés :** AI Engineer, Data/ML Engineer, développeur logiciel, full-stack ou Business Analyst technique
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS_EN.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Junior AI, Data & Software Engineering Application – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Dear Hiring Team,
-
-I would like to apply to Ovidius AI B.V. for an entry-level opportunity aligned with my computer engineering background, particularly in AI Engineer, Data/ML Engineer, développeur logiciel, full-stack ou Business Analyst technique.
-
-I recently graduated as a Computer Engineer from ENSI, specializing in Financial Engineering. My background includes Python, Java, C++, full-stack development, databases, machine learning, and generative AI. During my final-year project at Linedata, I built an agentic AI solution to modernize a complex software product, combining business analysis, development, and automation.
-
-I am looking for a first full-time opportunity where I can learn quickly, take ownership, and turn real business needs into useful solutions. I am open to roles consistent with my degree and would welcome a conversation about your current or upcoming needs. I am based in Tunisia and open to relocation or an international remote arrangement where available.
-
-My CV is attached for your consideration. Thank you for your time.
-
-Kind regards,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Hello, I am an ENSI Computer Engineering graduate interested in junior opportunities at Ovidius AI B.V.. I would be glad to connect and learn which profiles your team is currently seeking.
-
-**Message après acceptation**
-
-Hello, thank you for accepting my invitation. I am seeking an entry-level opportunity at Ovidius AI B.V. in AI Engineer, Data/ML Engineer, développeur logiciel, full-stack ou Business Analyst technique. My final-year project at Linedata focused on modernizing a financial product with AI agents. May I share my CV or ask who the right contact would be?
-
----
-
-### Responsible Cyber
-
-- **Pays :** Singapour
-- **Adresse(s) source :** Singapore, 56A Boat Quay, 049845
-- **Domaine :** IA / Data / Logiciel
-- **Correspondance :** 8.5/10 — Forte correspondance avec Python, Java, C++, IA, RAG et développement full-stack
-- **Potentiel :** 42/100 — C — À tenter
-- **Métiers ciblés :** AI Engineer, Data/ML Engineer, développeur logiciel, full-stack ou Business Analyst technique
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS_EN.pdf`
-- **Sources :** https://tig.cybersg.sg/wp-content/uploads/2024/05/Responsible-Cyber-Pte.-Ltd.pdf.pdf
-- **Vérifié le :** 2026-09-25 — Localisation vérifiée — recrutement à rechercher
-
-**Objet :** Junior AI, Data & Software Engineering Application – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Dear Hiring Team,
-
-I would like to apply to Responsible Cyber for an entry-level opportunity aligned with my computer engineering background, particularly in AI Engineer, Data/ML Engineer, développeur logiciel, full-stack ou Business Analyst technique.
-
-I recently graduated as a Computer Engineer from ENSI, specializing in Financial Engineering. My background includes Python, Java, C++, full-stack development, databases, machine learning, and generative AI. During my final-year project at Linedata, I built an agentic AI solution to modernize a complex software product, combining business analysis, development, and automation.
-
-I am looking for a first full-time opportunity where I can learn quickly, take ownership, and turn real business needs into useful solutions. I am open to roles consistent with my degree and would welcome a conversation about your current or upcoming needs. I am based in Tunisia and open to relocation or an international remote arrangement where available.
-
-My CV is attached for your consideration. Thank you for your time.
-
-Kind regards,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Hello, I am an ENSI Computer Engineering graduate interested in junior opportunities at Responsible Cyber. I would be glad to connect and learn which profiles your team is currently seeking.
-
-**Message après acceptation**
-
-Hello, thank you for accepting my invitation. I am seeking an entry-level opportunity at Responsible Cyber in AI Engineer, Data/ML Engineer, développeur logiciel, full-stack ou Business Analyst technique. My final-year project at Linedata focused on modernizing a financial product with AI agents. May I share my CV or ask who the right contact would be?
-
----
-
-### Université Concordia — Department of Computer Science and Software Engineering (CSSE)
-
-- **Pays :** Canada
-- **Adresse(s) source :** 1455 de Maisonneuve Boulevard West, Montréal, QC H3G 1M8, Canada
-- **Domaine :** IA / Data / Logiciel
-- **Correspondance :** 8.5/10 — Forte correspondance avec Python, Java, C++, IA, RAG et développement full-stack
-- **Potentiel :** 42/100 — C — À tenter
-- **Métiers ciblés :** AI Engineer, Data/ML Engineer, développeur logiciel, full-stack ou Business Analyst technique
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Bonjour,
-
-Je souhaite proposer ma candidature à Université Concordia — Department of Computer Science and Software Engineering (CSSE) pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de AI Engineer, Data/ML Engineer, développeur logiciel, full-stack ou Business Analyst technique.
-
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
-
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
-
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
-
-Bien cordialement,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez Université Concordia — Department of Computer Science and Software Engineering (CSSE). Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
-
-**Message après acceptation**
-
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez Université Concordia — Department of Computer Science and Software Engineering (CSSE) autour de AI Engineer, Data/ML Engineer, développeur logiciel, full-stack ou Business Analyst technique. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
-
----
-
-### Université Concordia — Department of Electrical and Computer Engineering (ECE)
-
-- **Pays :** Canada
-- **Adresse(s) source :** 1455 de Maisonneuve Boulevard West, Montréal, QC H3G 1M8, Canada
-- **Domaine :** IA / Data / Logiciel
-- **Correspondance :** 8.5/10 — Forte correspondance avec Python, Java, C++, IA, RAG et développement full-stack
-- **Potentiel :** 42/100 — C — À tenter
-- **Métiers ciblés :** AI Engineer, Data/ML Engineer, développeur logiciel, full-stack ou Business Analyst technique
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Bonjour,
-
-Je souhaite proposer ma candidature à Université Concordia — Department of Electrical and Computer Engineering (ECE) pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de AI Engineer, Data/ML Engineer, développeur logiciel, full-stack ou Business Analyst technique.
-
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
-
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
-
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
-
-Bien cordialement,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez Université Concordia — Department of Electrical and Computer Engineering (ECE). Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
-
-**Message après acceptation**
-
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez Université Concordia — Department of Electrical and Computer Engineering (ECE) autour de AI Engineer, Data/ML Engineer, développeur logiciel, full-stack ou Business Analyst technique. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
-
----
-
-### Warp Analytics
-
-- **Pays :** Égypte
-- **Adresse(s) source :** Rue d'Egypte, Korba 8070, Nabeul
-- **Domaine :** IA / Data / Logiciel
-- **Correspondance :** 8.5/10 — Forte correspondance avec Python, Java, C++, IA, RAG et développement full-stack
-- **Potentiel :** 42/100 — C — À tenter
-- **Métiers ciblés :** AI Engineer, Data/ML Engineer, développeur logiciel, full-stack ou Business Analyst technique
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS_EN.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Junior AI, Data & Software Engineering Application – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Dear Hiring Team,
-
-I would like to apply to Warp Analytics for an entry-level opportunity aligned with my computer engineering background, particularly in AI Engineer, Data/ML Engineer, développeur logiciel, full-stack ou Business Analyst technique.
-
-I recently graduated as a Computer Engineer from ENSI, specializing in Financial Engineering. My background includes Python, Java, C++, full-stack development, databases, machine learning, and generative AI. During my final-year project at Linedata, I built an agentic AI solution to modernize a complex software product, combining business analysis, development, and automation.
-
-I am looking for a first full-time opportunity where I can learn quickly, take ownership, and turn real business needs into useful solutions. I am open to roles consistent with my degree and would welcome a conversation about your current or upcoming needs. I am based in Tunisia and open to relocation or an international remote arrangement where available.
-
-My CV is attached for your consideration. Thank you for your time.
-
-Kind regards,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Hello, I am an ENSI Computer Engineering graduate interested in junior opportunities at Warp Analytics. I would be glad to connect and learn which profiles your team is currently seeking.
-
-**Message après acceptation**
-
-Hello, thank you for accepting my invitation. I am seeking an entry-level opportunity at Warp Analytics in AI Engineer, Data/ML Engineer, développeur logiciel, full-stack ou Business Analyst technique. My final-year project at Linedata focused on modernizing a financial product with AI agents. May I share my CV or ask who the right contact would be?
-
----
-
-### ACADIA University
-
-- **Pays :** Canada
-- **Adresse(s) source :** 27 University Avenue, Wolfville, Nova Scotia, B4P 2R6
-- **Domaine :** Recherche / Enseignement
-- **Correspondance :** 7.5/10 — Bon alignement avec les projets IA et le parcours ENSI
-- **Potentiel :** 40/100 — C — À tenter
-- **Métiers ciblés :** ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Bonjour,
-
-Je souhaite proposer ma candidature à ACADIA University pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche.
-
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
-
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
-
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
-
-Bien cordialement,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez ACADIA University. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
-
-**Message après acceptation**
-
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez ACADIA University autour de ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
-
----
-
-### Concordia University
-
-- **Pays :** Canada
-- **Adresse(s) source :** 1455 Blvd. De Maisonneuve Ouest, Montreal, Quebec H3G 1M8, Canada
-- **Domaine :** Recherche / Enseignement
-- **Correspondance :** 7.5/10 — Bon alignement avec les projets IA et le parcours ENSI
-- **Potentiel :** 40/100 — C — À tenter
-- **Métiers ciblés :** ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Bonjour,
-
-Je souhaite proposer ma candidature à Concordia University pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche.
-
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
-
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
-
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
-
-Bien cordialement,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez Concordia University. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
-
-**Message après acceptation**
-
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez Concordia University autour de ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
-
----
-
-### Concordia University - Montréal
-
-- **Pays :** Canada
-- **Adresse(s) source :** 1455 Blvd. De Maisonneuve Ouest, Montreal, QC H3G 1M8, Canada
-- **Domaine :** Recherche / Enseignement
-- **Correspondance :** 7.5/10 — Bon alignement avec les projets IA et le parcours ENSI
-- **Potentiel :** 40/100 — C — À tenter
-- **Métiers ciblés :** ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Bonjour,
-
-Je souhaite proposer ma candidature à Concordia University - Montréal pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche.
-
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
-
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
-
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
-
-Bien cordialement,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez Concordia University - Montréal. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
-
-**Message après acceptation**
-
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez Concordia University - Montréal autour de ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
-
----
-
-### Dalhousie University
-
-- **Pays :** Canada
-- **Adresse(s) source :** Mona Campbell Building, Dalhousie University, 1459 LeMarchant Street, Halifax, NS B3H 4R2, Canada
-- **Domaine :** Recherche / Enseignement
-- **Correspondance :** 7.5/10 — Bon alignement avec les projets IA et le parcours ENSI
-- **Potentiel :** 40/100 — C — À tenter
-- **Métiers ciblés :** ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Bonjour,
-
-Je souhaite proposer ma candidature à Dalhousie University pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche.
-
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
-
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
-
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
-
-Bien cordialement,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez Dalhousie University. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
-
-**Message après acceptation**
-
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez Dalhousie University autour de ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
-
----
-
-### Ecole de technologie supérieurs (ETS)
-
-- **Pays :** Canada
-- **Adresse(s) source :** 1100 R. Notre Dame O, Montréal, QC H3C 1K3, Canada
-- **Domaine :** Recherche / Enseignement
-- **Correspondance :** 7.5/10 — Bon alignement avec les projets IA et le parcours ENSI
-- **Potentiel :** 40/100 — C — À tenter
-- **Métiers ciblés :** ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Bonjour,
-
-Je souhaite proposer ma candidature à Ecole de technologie supérieurs (ETS) pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche.
-
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
-
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
-
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
-
-Bien cordialement,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez Ecole de technologie supérieurs (ETS). Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
-
-**Message après acceptation**
-
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez Ecole de technologie supérieurs (ETS) autour de ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
-
----
-
-### Efrei Research Lab, Paris Panthéon-Assas Université
-
-- **Pays :** France
-- **Adresse(s) source :** 30-32 Av. de la République, 94800 Villejuif, France | 30-32 avenue de la République, 94 800 Villejuif (Mode de travail - Télétravail)
-- **Domaine :** Recherche / Enseignement
-- **Correspondance :** 7.5/10 — Bon alignement avec les projets IA et le parcours ENSI
-- **Potentiel :** 40/100 — C — À tenter
-- **Métiers ciblés :** ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Bonjour,
-
-Je souhaite proposer ma candidature à Efrei Research Lab, Paris Panthéon-Assas Université pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche.
-
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
-
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
-
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
-
-Bien cordialement,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez Efrei Research Lab, Paris Panthéon-Assas Université. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
-
-**Message après acceptation**
-
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez Efrei Research Lab, Paris Panthéon-Assas Université autour de ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
-
----
-
-### Institut de la Francophonie pour l’Education et la Formation (IFEF)
-
-- **Pays :** Sénégal
-- **Adresse(s) source :** CP 12000, Dakar - Senegal
-- **Domaine :** Recherche / Enseignement
-- **Correspondance :** 7.5/10 — Bon alignement avec les projets IA et le parcours ENSI
-- **Potentiel :** 40/100 — C — À tenter
-- **Métiers ciblés :** ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Bonjour,
-
-Je souhaite proposer ma candidature à Institut de la Francophonie pour l’Education et la Formation (IFEF) pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche.
-
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
-
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
-
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
-
-Bien cordialement,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez Institut de la Francophonie pour l’Education et la Formation (IFEF). Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
-
-**Message après acceptation**
-
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez Institut de la Francophonie pour l’Education et la Formation (IFEF) autour de ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
-
----
-
-### Institut de la Francophonie pour l’Éducation et la Formation (IFEF) - OIF
-
-- **Pays :** Sénégal
-- **Adresse(s) source :** Pointe des Almadies, B.P. 29437 Dakar-Yoff, CP 12 000 - Dakar, Sénégal
-- **Domaine :** Recherche / Enseignement
-- **Correspondance :** 7.5/10 — Bon alignement avec les projets IA et le parcours ENSI
-- **Potentiel :** 40/100 — C — À tenter
-- **Métiers ciblés :** ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Bonjour,
-
-Je souhaite proposer ma candidature à Institut de la Francophonie pour l’Éducation et la Formation (IFEF) - OIF pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche.
-
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
-
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
-
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
-
-Bien cordialement,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez Institut de la Francophonie pour l’Éducation et la Formation (IFEF) - OIF. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
-
-**Message après acceptation**
-
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez Institut de la Francophonie pour l’Éducation et la Formation (IFEF) - OIF autour de ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
-
----
-
-### IOT Lab at Carleton University
-
-- **Pays :** Canada
-- **Adresse(s) source :** 2455 MACKENZIE CARLETON UNIVERSITY 1125 COLONEL BY DRIVE OTTAWA, ON, K1S 5B6
-- **Domaine :** Recherche / Enseignement
-- **Correspondance :** 7.5/10 — Bon alignement avec les projets IA et le parcours ENSI
-- **Potentiel :** 40/100 — C — À tenter
-- **Métiers ciblés :** ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Bonjour,
-
-Je souhaite proposer ma candidature à IOT Lab at Carleton University pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche.
-
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
-
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
-
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
-
-Bien cordialement,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez IOT Lab at Carleton University. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
-
-**Message après acceptation**
-
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez IOT Lab at Carleton University autour de ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
-
----
-
-### L'ÉTS (École de technologie supérieure) de Montréal
-
-- **Pays :** Canada
-- **Adresse(s) source :** 1100, rue Notre-Dame Ouest, Montréal (Qc) H3C 1K3
-- **Domaine :** Recherche / Enseignement
-- **Correspondance :** 7.5/10 — Bon alignement avec les projets IA et le parcours ENSI
-- **Potentiel :** 40/100 — C — À tenter
-- **Métiers ciblés :** ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Bonjour,
-
-Je souhaite proposer ma candidature à L'ÉTS (École de technologie supérieure) de Montréal pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche.
-
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
-
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
-
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
-
-Bien cordialement,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez L'ÉTS (École de technologie supérieure) de Montréal. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
-
-**Message après acceptation**
-
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez L'ÉTS (École de technologie supérieure) de Montréal autour de ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
-
----
-
-### Laboratoire de Technologies Innovantes (LTI), Université de Picardie Jules Verne
-
-- **Pays :** France
-- **Adresse(s) source :** 48 Rue d'Ostende, 02100 Saint Quentin, France.
-- **Domaine :** Recherche / Enseignement
-- **Correspondance :** 7.5/10 — Bon alignement avec les projets IA et le parcours ENSI
-- **Potentiel :** 40/100 — C — À tenter
-- **Métiers ciblés :** ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Bonjour,
-
-Je souhaite proposer ma candidature à Laboratoire de Technologies Innovantes (LTI), Université de Picardie Jules Verne pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche.
-
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
-
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
-
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
-
-Bien cordialement,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez Laboratoire de Technologies Innovantes (LTI), Université de Picardie Jules Verne. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
-
-**Message après acceptation**
-
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez Laboratoire de Technologies Innovantes (LTI), Université de Picardie Jules Verne autour de ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
-
----
-
-### Laboratoire de Tribologie et Dynamique des Systèmes | UMR 5513 | Ecole Centrale de Lyon
-
-- **Pays :** France
-- **Adresse(s) source :** LTDS, École Centrale de Lyon in Ecully , Lyon , France
-- **Domaine :** Recherche / Enseignement
-- **Correspondance :** 7.5/10 — Bon alignement avec les projets IA et le parcours ENSI
-- **Potentiel :** 40/100 — C — À tenter
-- **Métiers ciblés :** ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Bonjour,
-
-Je souhaite proposer ma candidature à Laboratoire de Tribologie et Dynamique des Systèmes | UMR 5513 | Ecole Centrale de Lyon pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche.
-
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
-
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
-
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
-
-Bien cordialement,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez Laboratoire de Tribologie et Dynamique des Systèmes | UMR 5513 | Ecole Centrale de Lyon. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
-
-**Message après acceptation**
-
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez Laboratoire de Tribologie et Dynamique des Systèmes | UMR 5513 | Ecole Centrale de Lyon autour de ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
-
----
-
-### Laboratoire DYNAFOR
-
-- **Pays :** France
-- **Adresse(s) source :** *
-- **Domaine :** Recherche / Enseignement
-- **Correspondance :** 7.5/10 — Bon alignement avec les projets IA et le parcours ENSI
-- **Potentiel :** 40/100 — C — À tenter
-- **Métiers ciblés :** ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** https://annuaire.inrae.fr/structure/1201
-- **Vérifié le :** 2026-09-25 — Localisation vérifiée — recrutement à rechercher
-
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Bonjour,
-
-Je souhaite proposer ma candidature à Laboratoire DYNAFOR pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche.
-
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
-
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
-
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
-
-Bien cordialement,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez Laboratoire DYNAFOR. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
-
-**Message après acceptation**
-
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez Laboratoire DYNAFOR autour de ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
-
----
-
-### Laboratoire STILL, Ecole de technologie supérieurs (ETS)
-
-- **Pays :** Canada
-- **Adresse(s) source :** 1100 rue Notre-Dame Ouest, Montreal, Quebec H3C 1K3, Canada
-- **Domaine :** Recherche / Enseignement
-- **Correspondance :** 7.5/10 — Bon alignement avec les projets IA et le parcours ENSI
-- **Potentiel :** 40/100 — C — À tenter
-- **Métiers ciblés :** ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Bonjour,
-
-Je souhaite proposer ma candidature à Laboratoire STILL, Ecole de technologie supérieurs (ETS) pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche.
-
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
-
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
-
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
-
-Bien cordialement,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez Laboratoire STILL, Ecole de technologie supérieurs (ETS). Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
-
-**Message après acceptation**
-
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez Laboratoire STILL, Ecole de technologie supérieurs (ETS) autour de ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
-
----
-
-### LIMICS, Université Sorbonne Paris Nord
-
-- **Pays :** France
-- **Adresse(s) source :** 1, rue de Chablis 93017 Bobigny Cedex
-- **Domaine :** Recherche / Enseignement
-- **Correspondance :** 7.5/10 — Bon alignement avec les projets IA et le parcours ENSI
-- **Potentiel :** 40/100 — C — À tenter
-- **Métiers ciblés :** ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Bonjour,
-
-Je souhaite proposer ma candidature à LIMICS, Université Sorbonne Paris Nord pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche.
-
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
-
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
-
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
-
-Bien cordialement,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez LIMICS, Université Sorbonne Paris Nord. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
-
-**Message après acceptation**
-
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez LIMICS, Université Sorbonne Paris Nord autour de ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
-
----
-
-### LS2N Laboratory
-
-- **Pays :** France
-- **Adresse(s) source :** LS2N - UMR6004, Faculté des Sciences et des Techniques, 2 rue de la Houssinière - Bât. 34,44322 Nantes Cedex 03
-- **Domaine :** Recherche / Enseignement
-- **Correspondance :** 7.5/10 — Bon alignement avec les projets IA et le parcours ENSI
-- **Potentiel :** 40/100 — C — À tenter
-- **Métiers ciblés :** ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Bonjour,
-
-Je souhaite proposer ma candidature à LS2N Laboratory pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche.
-
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
-
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
-
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
-
-Bien cordialement,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez LS2N Laboratory. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
-
-**Message après acceptation**
-
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez LS2N Laboratory autour de ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
-
----
-
-### Oakland University
-
-- **Pays :** États-Unis
-- **Adresse(s) source :** 318 Meadow Brook Rd, Rochester, MI 48309, United States
-- **Domaine :** Recherche / Enseignement
-- **Correspondance :** 7.5/10 — Bon alignement avec les projets IA et le parcours ENSI
-- **Potentiel :** 40/100 — C — À tenter
-- **Métiers ciblés :** ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS_EN.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Junior AI, Data & Software Engineering Application – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Dear Hiring Team,
-
-I would like to apply to Oakland University for an entry-level opportunity aligned with my computer engineering background, particularly in ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche.
-
-I recently graduated as a Computer Engineer from ENSI, specializing in Financial Engineering. My background includes Python, Java, C++, full-stack development, databases, machine learning, and generative AI. During my final-year project at Linedata, I built an agentic AI solution to modernize a complex software product, combining business analysis, development, and automation.
-
-I am looking for a first full-time opportunity where I can learn quickly, take ownership, and turn real business needs into useful solutions. I am open to roles consistent with my degree and would welcome a conversation about your current or upcoming needs. I am based in Tunisia and open to relocation or an international remote arrangement where available.
-
-My CV is attached for your consideration. Thank you for your time.
-
-Kind regards,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Hello, I am an ENSI Computer Engineering graduate interested in junior opportunities at Oakland University. I would be glad to connect and learn which profiles your team is currently seeking.
-
-**Message après acceptation**
-
-Hello, thank you for accepting my invitation. I am seeking an entry-level opportunity at Oakland University in ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche. My final-year project at Linedata focused on modernizing a financial product with AI agents. May I share my CV or ask who the right contact would be?
-
----
-
-### Ontario Tech University
-
-- **Pays :** Canada
-- **Adresse(s) source :** 2000 Simcoe St N, Oshawa, ON L1G 0C5, Canada
-- **Domaine :** Recherche / Enseignement
-- **Correspondance :** 7.5/10 — Bon alignement avec les projets IA et le parcours ENSI
-- **Potentiel :** 40/100 — C — À tenter
-- **Métiers ciblés :** ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Bonjour,
-
-Je souhaite proposer ma candidature à Ontario Tech University pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche.
-
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
-
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
-
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
-
-Bien cordialement,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez Ontario Tech University. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
-
-**Message après acceptation**
-
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez Ontario Tech University autour de ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
-
----
-
-### Qatar Computing Research Institute
-
-- **Pays :** Qatar
-- **Adresse(s) source :** 8CCG+J8J, Ar-Rayyan, Qatar | P.O Box 5825 Doha, Qatar
-- **Domaine :** Recherche / Enseignement
-- **Correspondance :** 7.5/10 — Bon alignement avec les projets IA et le parcours ENSI
-- **Potentiel :** 40/100 — C — À tenter
-- **Métiers ciblés :** ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS_EN.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Junior AI, Data & Software Engineering Application – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Dear Hiring Team,
-
-I would like to apply to Qatar Computing Research Institute for an entry-level opportunity aligned with my computer engineering background, particularly in ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche.
-
-I recently graduated as a Computer Engineer from ENSI, specializing in Financial Engineering. My background includes Python, Java, C++, full-stack development, databases, machine learning, and generative AI. During my final-year project at Linedata, I built an agentic AI solution to modernize a complex software product, combining business analysis, development, and automation.
-
-I am looking for a first full-time opportunity where I can learn quickly, take ownership, and turn real business needs into useful solutions. I am open to roles consistent with my degree and would welcome a conversation about your current or upcoming needs. I am based in Tunisia and open to relocation or an international remote arrangement where available.
-
-My CV is attached for your consideration. Thank you for your time.
-
-Kind regards,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Hello, I am an ENSI Computer Engineering graduate interested in junior opportunities at Qatar Computing Research Institute. I would be glad to connect and learn which profiles your team is currently seeking.
-
-**Message après acceptation**
-
-Hello, thank you for accepting my invitation. I am seeking an entry-level opportunity at Qatar Computing Research Institute in ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche. My final-year project at Linedata focused on modernizing a financial product with AI agents. May I share my CV or ask who the right contact would be?
-
----
-
-### Simon Fraser University
-
-- **Pays :** Canada
-- **Adresse(s) source :** 8888 University Dr W, Burnaby, BC V5A 1S6, Canada
-- **Domaine :** Recherche / Enseignement
-- **Correspondance :** 7.5/10 — Bon alignement avec les projets IA et le parcours ENSI
-- **Potentiel :** 40/100 — C — À tenter
-- **Métiers ciblés :** ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Bonjour,
-
-Je souhaite proposer ma candidature à Simon Fraser University pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche.
-
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
-
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
-
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
-
-Bien cordialement,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez Simon Fraser University. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
-
-**Message après acceptation**
-
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez Simon Fraser University autour de ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
-
----
-
-### TÉLUQ University
-
-- **Pays :** Canada
-- **Adresse(s) source :** 455 Rue du Parvis, Québec, QC G1K 9H6, Canada
-- **Domaine :** Recherche / Enseignement
-- **Correspondance :** 7.5/10 — Bon alignement avec les projets IA et le parcours ENSI
-- **Potentiel :** 40/100 — C — À tenter
-- **Métiers ciblés :** ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Bonjour,
-
-Je souhaite proposer ma candidature à TÉLUQ University pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche.
-
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
-
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
-
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
-
-Bien cordialement,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez TÉLUQ University. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
-
-**Message après acceptation**
-
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez TÉLUQ University autour de ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
-
----
-
-### Unité de Catalyse et Chimie du Solide, Université d’Artois, Faculté des Sciences Jean Perrin
-
-- **Pays :** France
-- **Adresse(s) source :** Rue Jean Souvraz - SP18  62307 LENS Cedex
-- **Domaine :** Recherche / Enseignement
-- **Correspondance :** 7.5/10 — Bon alignement avec les projets IA et le parcours ENSI
-- **Potentiel :** 40/100 — C — À tenter
-- **Métiers ciblés :** ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** https://uccs-old.univ-lille.fr/index.php/fr/vie-a-l-uccs/infos-pratiques/venir-a-l-uccs-lens
-- **Vérifié le :** 2026-09-25 — Localisation vérifiée — recrutement à rechercher
-
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Bonjour,
-
-Je souhaite proposer ma candidature à Unité de Catalyse et Chimie du Solide, Université d’Artois, Faculté des Sciences Jean Perrin pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche.
-
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
-
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
-
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
-
-Bien cordialement,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez Unité de Catalyse et Chimie du Solide, Université d’Artois, Faculté des Sciences Jean Perrin. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
-
-**Message après acceptation**
-
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez Unité de Catalyse et Chimie du Solide, Université d’Artois, Faculté des Sciences Jean Perrin autour de ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
-
----
-
-### UNIVERSITE DU LITTORAL COTE D’OPALE - ULCO
-
-- **Pays :** France
-- **Adresse(s) source :** 1, place de l'Yser | BP 71 022 | 59 375 Dunkerque Cedex 1 – France
-- **Domaine :** Recherche / Enseignement
-- **Correspondance :** 7.5/10 — Bon alignement avec les projets IA et le parcours ENSI
-- **Potentiel :** 40/100 — C — À tenter
-- **Métiers ciblés :** ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Bonjour,
-
-Je souhaite proposer ma candidature à UNIVERSITE DU LITTORAL COTE D’OPALE - ULCO pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche.
-
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
-
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
-
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
-
-Bien cordialement,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez UNIVERSITE DU LITTORAL COTE D’OPALE - ULCO. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
-
-**Message après acceptation**
-
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez UNIVERSITE DU LITTORAL COTE D’OPALE - ULCO autour de ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
-
----
-
-### Université de Chicoutimi
-
-- **Pays :** Canada
-- **Adresse(s) source :** Université du Québec à Chicoutimi 555 Bd de l'Université, Chicoutimi, QC G7H 2B1
-- **Domaine :** Recherche / Enseignement
-- **Correspondance :** 7.5/10 — Bon alignement avec les projets IA et le parcours ENSI
-- **Potentiel :** 40/100 — C — À tenter
-- **Métiers ciblés :** ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Bonjour,
-
-Je souhaite proposer ma candidature à Université de Chicoutimi pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche.
-
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
-
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
-
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
-
-Bien cordialement,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez Université de Chicoutimi. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
-
-**Message après acceptation**
-
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez Université de Chicoutimi autour de ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
-
----
-
-### Université de Limoges
-
-- **Pays :** France
-- **Adresse(s) source :** Laboratoire XLIM 123 avenue Albert Thomas  –  87000 IMOGES
-- **Domaine :** Recherche / Enseignement
-- **Correspondance :** 7.5/10 — Bon alignement avec les projets IA et le parcours ENSI
-- **Potentiel :** 40/100 — C — À tenter
-- **Métiers ciblés :** ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Bonjour,
-
-Je souhaite proposer ma candidature à Université de Limoges pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche.
-
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
-
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
-
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
-
-Bien cordialement,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez Université de Limoges. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
-
-**Message après acceptation**
-
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez Université de Limoges autour de ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
-
----
-
-### Université de Moncton
-
-- **Pays :** Canada
-- **Adresse(s) source :** 8 Av Antonine-Maillet, Moncton, NB E1A 3E9
-- **Domaine :** Recherche / Enseignement
-- **Correspondance :** 7.5/10 — Bon alignement avec les projets IA et le parcours ENSI
-- **Potentiel :** 40/100 — C — À tenter
-- **Métiers ciblés :** ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Bonjour,
-
-Je souhaite proposer ma candidature à Université de Moncton pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche.
-
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
-
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
-
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
-
-Bien cordialement,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez Université de Moncton. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
-
-**Message après acceptation**
-
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez Université de Moncton autour de ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
-
----
-
-### Université de Reims Champagne-Ardenne, laboratoire CReSTIC Reims
-
-- **Pays :** France
-- **Adresse(s) source :** Moulin de la Housse, 51097 Reims
-- **Domaine :** Recherche / Enseignement
-- **Correspondance :** 7.5/10 — Bon alignement avec les projets IA et le parcours ENSI
-- **Potentiel :** 40/100 — C — À tenter
-- **Métiers ciblés :** ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Bonjour,
-
-Je souhaite proposer ma candidature à Université de Reims Champagne-Ardenne, laboratoire CReSTIC Reims pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche.
-
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
-
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
-
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
-
-Bien cordialement,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez Université de Reims Champagne-Ardenne, laboratoire CReSTIC Reims. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
-
-**Message après acceptation**
-
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez Université de Reims Champagne-Ardenne, laboratoire CReSTIC Reims autour de ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
-
----
-
-### Université de Sherbrooke
-
-- **Pays :** Canada
-- **Adresse(s) source :** 150 Pl. Charles-Le Moyne, Longueuil, QC J4K 0A8, Canada
-- **Domaine :** Recherche / Enseignement
-- **Correspondance :** 7.5/10 — Bon alignement avec les projets IA et le parcours ENSI
-- **Potentiel :** 40/100 — C — À tenter
-- **Métiers ciblés :** ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Bonjour,
-
-Je souhaite proposer ma candidature à Université de Sherbrooke pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche.
-
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
-
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
-
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
-
-Bien cordialement,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez Université de Sherbrooke. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
-
-**Message après acceptation**
-
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez Université de Sherbrooke autour de ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
-
----
-
-### Université du Luxembourg
-
-- **Pays :** Luxembourg
-- **Adresse(s) source :** 29, Avenue J.F Kennedy 1855 Luxembourg
-- **Domaine :** Recherche / Enseignement
-- **Correspondance :** 7.5/10 — Bon alignement avec les projets IA et le parcours ENSI
-- **Potentiel :** 40/100 — C — À tenter
-- **Métiers ciblés :** ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Bonjour,
-
-Je souhaite proposer ma candidature à Université du Luxembourg pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche.
-
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
-
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
-
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
-
-Bien cordialement,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez Université du Luxembourg. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
-
-**Message après acceptation**
-
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez Université du Luxembourg autour de ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
-
----
-
-### Université du Québec en Abitibi-Témiscamingue
-
-- **Pays :** Canada
-- **Adresse(s) source :** 445 Bd de l'Université, Rouyn-Noranda, QC J9X 5E4, Canada
-- **Domaine :** Recherche / Enseignement
-- **Correspondance :** 7.5/10 — Bon alignement avec les projets IA et le parcours ENSI
-- **Potentiel :** 40/100 — C — À tenter
-- **Métiers ciblés :** ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Bonjour,
-
-Je souhaite proposer ma candidature à Université du Québec en Abitibi-Témiscamingue pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche.
-
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
-
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
-
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
-
-Bien cordialement,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez Université du Québec en Abitibi-Témiscamingue. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
-
-**Message après acceptation**
-
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez Université du Québec en Abitibi-Témiscamingue autour de ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
-
----
-
-### Université du Québec en Abitibi-Témiscamingue, UQAT
-
-- **Pays :** Canada
-- **Adresse(s) source :** Québec, Canada
-- **Domaine :** Recherche / Enseignement
-- **Correspondance :** 7.5/10 — Bon alignement avec les projets IA et le parcours ENSI
-- **Potentiel :** 40/100 — C — À tenter
-- **Métiers ciblés :** ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Bonjour,
-
-Je souhaite proposer ma candidature à Université du Québec en Abitibi-Témiscamingue, UQAT pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche.
-
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
-
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
-
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
-
-Bien cordialement,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez Université du Québec en Abitibi-Témiscamingue, UQAT. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
-
-**Message après acceptation**
-
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez Université du Québec en Abitibi-Témiscamingue, UQAT autour de ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
-
----
-
-### Université du Québec à Chicoutimi
-
-- **Pays :** Canada
-- **Adresse(s) source :** 555 Bd de l'Université, Chicoutimi, QC G7H 2B1, Canada
-- **Domaine :** Recherche / Enseignement
-- **Correspondance :** 7.5/10 — Bon alignement avec les projets IA et le parcours ENSI
-- **Potentiel :** 40/100 — C — À tenter
-- **Métiers ciblés :** ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Bonjour,
-
-Je souhaite proposer ma candidature à Université du Québec à Chicoutimi pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche.
-
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
-
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
-
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
-
-Bien cordialement,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez Université du Québec à Chicoutimi. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
-
-**Message après acceptation**
-
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez Université du Québec à Chicoutimi autour de ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
-
----
-
-### Université du Québec à Rimouski
-
-- **Pays :** Canada
-- **Adresse(s) source :** 300, allée des Ursulines, C.P. 3300, succ. A, 300 All. des Ursulines, Rimouski, QC G5L 3A1, Canada
-- **Domaine :** Recherche / Enseignement
-- **Correspondance :** 7.5/10 — Bon alignement avec les projets IA et le parcours ENSI
-- **Potentiel :** 40/100 — C — À tenter
-- **Métiers ciblés :** ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Bonjour,
-
-Je souhaite proposer ma candidature à Université du Québec à Rimouski pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche.
-
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
-
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
-
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
-
-Bien cordialement,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez Université du Québec à Rimouski. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
-
-**Message après acceptation**
-
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez Université du Québec à Rimouski autour de ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
-
----
-
-### Université du Québec à Rimouski - Campus de Lévis
-
-- **Pays :** Canada
-- **Adresse(s) source :** Campus de Lévis 1595, boulevard Alphonse-Desjardins Lévis (Québec)  G6V 0A6 CANADA
-- **Domaine :** Recherche / Enseignement
-- **Correspondance :** 7.5/10 — Bon alignement avec les projets IA et le parcours ENSI
-- **Potentiel :** 40/100 — C — À tenter
-- **Métiers ciblés :** ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Bonjour,
-
-Je souhaite proposer ma candidature à Université du Québec à Rimouski - Campus de Lévis pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche.
-
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
-
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
-
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
-
-Bien cordialement,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez Université du Québec à Rimouski - Campus de Lévis. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
-
-**Message après acceptation**
-
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez Université du Québec à Rimouski - Campus de Lévis autour de ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
-
----
-
-### Université du Québec à Trois-Rivières
-
-- **Pays :** Canada
-- **Adresse(s) source :** 3351, boulevard des Forges Trois‐Rivières, C.P. 500, Québec (Canada) G9A 5H7
-- **Domaine :** Recherche / Enseignement
-- **Correspondance :** 7.5/10 — Bon alignement avec les projets IA et le parcours ENSI
-- **Potentiel :** 40/100 — C — À tenter
-- **Métiers ciblés :** ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Bonjour,
-
-Je souhaite proposer ma candidature à Université du Québec à Trois-Rivières pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche.
-
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
-
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
-
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
-
-Bien cordialement,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez Université du Québec à Trois-Rivières. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
-
-**Message après acceptation**
-
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez Université du Québec à Trois-Rivières autour de ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
-
----
-
-### Université du Québec à Trois‐Rivières
-
-- **Pays :** Canada
-- **Adresse(s) source :** 3351, boulevard des Forges Trois‐Rivières, C.P. 500, Québec (Canada) G9A 5H7
-- **Domaine :** Recherche / Enseignement
-- **Correspondance :** 7.5/10 — Bon alignement avec les projets IA et le parcours ENSI
-- **Potentiel :** 40/100 — C — À tenter
-- **Métiers ciblés :** ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Bonjour,
-
-Je souhaite proposer ma candidature à Université du Québec à Trois‐Rivières pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche.
-
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
-
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
-
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
-
-Bien cordialement,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez Université du Québec à Trois‐Rivières. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
-
-**Message après acceptation**
-
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez Université du Québec à Trois‐Rivières autour de ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
-
----
-
-### Université Laval
-
-- **Pays :** Canada
-- **Adresse(s) source :** 1050, avenue de la Médecine, Québec (Québec) Canada, G1V0A6 | 2325 Rue de l'Université, Québec, QC G1V 0A6, Canada
-- **Domaine :** Recherche / Enseignement
-- **Correspondance :** 7.5/10 — Bon alignement avec les projets IA et le parcours ENSI
-- **Potentiel :** 40/100 — C — À tenter
-- **Métiers ciblés :** ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Bonjour,
-
-Je souhaite proposer ma candidature à Université Laval pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche.
-
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
-
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
-
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
-
-Bien cordialement,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez Université Laval. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
-
-**Message après acceptation**
-
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez Université Laval autour de ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
-
----
-
-### Université Laval unité de recherche CIRRELT
-
-- **Pays :** Canada
-- **Adresse(s) source :** 2325 rue de la terrase Québec G1V0A6 QC Canada
-- **Domaine :** Recherche / Enseignement
-- **Correspondance :** 7.5/10 — Bon alignement avec les projets IA et le parcours ENSI
-- **Potentiel :** 40/100 — C — À tenter
-- **Métiers ciblés :** ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Bonjour,
-
-Je souhaite proposer ma candidature à Université Laval unité de recherche CIRRELT pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche.
-
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
-
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
-
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
-
-Bien cordialement,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez Université Laval unité de recherche CIRRELT. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
-
-**Message après acceptation**
-
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez Université Laval unité de recherche CIRRELT autour de ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
-
----
-
-### Université Paris-Est Créteil (UPEC)
-
-- **Pays :** France
-- **Adresse(s) source :** 122 rue Paul Armangot, 94400 Vitry sur Seine
-- **Domaine :** Recherche / Enseignement
-- **Correspondance :** 7.5/10 — Bon alignement avec les projets IA et le parcours ENSI
-- **Potentiel :** 40/100 — C — À tenter
-- **Métiers ciblés :** ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Bonjour,
-
-Je souhaite proposer ma candidature à Université Paris-Est Créteil (UPEC) pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche.
-
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
-
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
-
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
-
-Bien cordialement,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez Université Paris-Est Créteil (UPEC). Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
-
-**Message après acceptation**
-
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez Université Paris-Est Créteil (UPEC) autour de ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
-
----
-
-### Université Polytechnique Montréal
-
-- **Pays :** Canada
-- **Adresse(s) source :** 2500 Chem de Polytechnique, Montréal QC H3T 1J4 , Canada
-- **Domaine :** Recherche / Enseignement
-- **Correspondance :** 7.5/10 — Bon alignement avec les projets IA et le parcours ENSI
-- **Potentiel :** 40/100 — C — À tenter
-- **Métiers ciblés :** ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Bonjour,
-
-Je souhaite proposer ma candidature à Université Polytechnique Montréal pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche.
-
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
-
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
-
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
-
-Bien cordialement,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez Université Polytechnique Montréal. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
-
-**Message après acceptation**
-
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez Université Polytechnique Montréal autour de ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
-
----
-
-### Université Sorbonne Paris Nord
-
-- **Pays :** France
-- **Adresse(s) source :** U1142 - LIMICS - USPN  Université Sorbonne Paris-Nord - Campus de Bobigny 74 Rue Marcel Cachin 93017 Bobigny
-- **Domaine :** Recherche / Enseignement
-- **Correspondance :** 7.5/10 — Bon alignement avec les projets IA et le parcours ENSI
-- **Potentiel :** 40/100 — C — À tenter
-- **Métiers ciblés :** ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Bonjour,
-
-Je souhaite proposer ma candidature à Université Sorbonne Paris Nord pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche.
-
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
-
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
-
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
-
-Bien cordialement,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez Université Sorbonne Paris Nord. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
-
-**Message après acceptation**
-
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez Université Sorbonne Paris Nord autour de ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
-
----
-
-### Université TÉLUQ
-
-- **Pays :** Canada
-- **Adresse(s) source :** 455 rue du Parvis Québec, QC G1K 9H6, Canada
-- **Domaine :** Recherche / Enseignement
-- **Correspondance :** 7.5/10 — Bon alignement avec les projets IA et le parcours ENSI
-- **Potentiel :** 40/100 — C — À tenter
-- **Métiers ciblés :** ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Bonjour,
-
-Je souhaite proposer ma candidature à Université TÉLUQ pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche.
-
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
-
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
-
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
-
-Bien cordialement,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez Université TÉLUQ. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
-
-**Message après acceptation**
-
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez Université TÉLUQ autour de ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
-
----
-
-### Université TÉLUQ - Québec
-
-- **Pays :** Canada
-- **Adresse(s) source :** 455 Rue du Parvis, Québec, QC G1K 9H6, Canada
-- **Domaine :** Recherche / Enseignement
-- **Correspondance :** 7.5/10 — Bon alignement avec les projets IA et le parcours ENSI
-- **Potentiel :** 40/100 — C — À tenter
-- **Métiers ciblés :** ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Bonjour,
-
-Je souhaite proposer ma candidature à Université TÉLUQ - Québec pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche.
-
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
-
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
-
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
-
-Bien cordialement,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez Université TÉLUQ - Québec. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
-
-**Message après acceptation**
-
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez Université TÉLUQ - Québec autour de ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
-
----
-
-### UTTOP (Université de Technologie de Tarbes)
-
-- **Pays :** France
-- **Adresse(s) source :** 47 avenue d'Azereix BP 1629 65016 Tarbes
-- **Domaine :** Recherche / Enseignement
-- **Correspondance :** 7.5/10 — Bon alignement avec les projets IA et le parcours ENSI
-- **Potentiel :** 40/100 — C — À tenter
-- **Métiers ciblés :** ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Bonjour,
-
-Je souhaite proposer ma candidature à UTTOP (Université de Technologie de Tarbes) pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche.
-
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
-
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
-
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
-
-Bien cordialement,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez UTTOP (Université de Technologie de Tarbes). Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
-
-**Message après acceptation**
-
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez UTTOP (Université de Technologie de Tarbes) autour de ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
-
----
-
-### Wilfrid Laurier University
-
-- **Pays :** Canada
-- **Adresse(s) source :** 75 University Ave W, Waterloo, ON N2L 3C5, Canada
-- **Domaine :** Recherche / Enseignement
-- **Correspondance :** 7.5/10 — Bon alignement avec les projets IA et le parcours ENSI
-- **Potentiel :** 40/100 — C — À tenter
-- **Métiers ciblés :** ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Bonjour,
-
-Je souhaite proposer ma candidature à Wilfrid Laurier University pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche.
-
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
-
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
-
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
-
-Bien cordialement,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez Wilfrid Laurier University. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
-
-**Message après acceptation**
-
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez Wilfrid Laurier University autour de ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
-
----
-
-### Winnipeg university
-
-- **Pays :** Canada
-- **Adresse(s) source :** 515 Portage Avenue Winnipeg, Manitoba, Canada R3B 2E9
-- **Domaine :** Recherche / Enseignement
-- **Correspondance :** 7.5/10 — Bon alignement avec les projets IA et le parcours ENSI
-- **Potentiel :** 40/100 — C — À tenter
-- **Métiers ciblés :** ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Bonjour,
-
-Je souhaite proposer ma candidature à Winnipeg university pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche.
-
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
-
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
-
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
-
-Bien cordialement,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez Winnipeg university. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
-
-**Message après acceptation**
-
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez Winnipeg university autour de ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
-
----
-
-### École de Technologie Supérieure (ÉTS)
-
-- **Pays :** Canada
-- **Adresse(s) source :** 1100 R. Notre Dame O, Montréal, QC H3C | Montréal, Québec, Canada
-- **Domaine :** Recherche / Enseignement
-- **Correspondance :** 7.5/10 — Bon alignement avec les projets IA et le parcours ENSI
-- **Potentiel :** 40/100 — C — À tenter
-- **Métiers ciblés :** ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Bonjour,
-
-Je souhaite proposer ma candidature à École de Technologie Supérieure (ÉTS) pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche.
-
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
-
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
-
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
-
-Bien cordialement,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez École de Technologie Supérieure (ÉTS). Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
-
-**Message après acceptation**
-
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez École de Technologie Supérieure (ÉTS) autour de ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
-
----
-
-### École de technologie supérieure - ÉTS Montréal
-
-- **Pays :** Canada
-- **Adresse(s) source :** 1100 R. Notre Dame O, Montréal, QC H3C 1K3, Canada
-- **Domaine :** Recherche / Enseignement
-- **Correspondance :** 7.5/10 — Bon alignement avec les projets IA et le parcours ENSI
-- **Potentiel :** 40/100 — C — À tenter
-- **Métiers ciblés :** ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Bonjour,
-
-Je souhaite proposer ma candidature à École de technologie supérieure - ÉTS Montréal pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche.
-
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
-
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
-
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
-
-Bien cordialement,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez École de technologie supérieure - ÉTS Montréal. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
-
-**Message après acceptation**
-
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez École de technologie supérieure - ÉTS Montréal autour de ingénieur IA/Data, ingénieur de recherche, développeur ou assistant de recherche. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
-
----
-
-### Nour Energie
-
-- **Pays :** Algérie
-- **Adresse(s) source :** Avenu d'algerie Immeuble Abid 1ere etage, 3000 Sfax
-- **Domaine :** Télécom / Électronique / Industrie
-- **Correspondance :** 7.0/10 — Correspondance technique réelle, à confirmer selon les besoins logiciels
+- **Domaine :** Conseil et réalisation de systèmes GenAI, agents IA, RAG, automatisation n8n et intégration d'IA en environnements réglementés
+- **Correspondance :** 9.1/10 — L'IA agentique, les LLM/RAG, les APIs, Python et l'expérience Linedata en environnement financier réglementé sont très proches des projets d'Ovidius. L'obstacle majeur est que les besoins publics récents sont orientés profils expérimentés et désormais basés aux États-Unis.
 - **Potentiel :** 39/100 — C — À tenter
-- **Métiers ciblés :** développement logiciel, IA/Data, automatisation, systèmes ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
+- **Métiers ciblés :** Junior AI Engineer; Agentic AI Developer; LLM/RAG Engineer; Python/API Developer; AI Automation Engineer
+- **Ouverture aux juniors :** Non — pas pour les besoins publics consultés — L'ancienne offre Multi-Agent Developer demandait 5+ ans de développement. L'offre actuelle de Project Manager exige une expérience réelle en environnements réglementés et une présence aux États-Unis, malgré l'étiquette LinkedIn entry level.
+- **Candidats étrangers/visa/relocation :** Non pour l'offre actuelle — L'offre Project Manager indique explicitement que le candidat doit être basé aux États-Unis, sans exception. Le fondateur précise que les opérations ont déménagé aux États-Unis; aucune politique internationale n'est publiée pour un futur poste d'ingénieur.
+- **Offres actives :** Project Manager (Regulated Environments), contrat/fractional, États-Unis uniquement — https://www.linkedin.com/jobs/view/project-manager-regulated-environments-%40-ovidius-ai-at-ovidius-ai-b-v-4434213311. Offre active mais non adaptée: rôle de delivery expérimenté et « US-based is a must ». Aucun poste AI Engineer junior ouvert confirmé.
+- **Contact :** Owen Boesveld — Founder & CEO — Ovidius AI
+- **LinkedIn :** https://www.linkedin.com/in/owenboesveld
+- **Email :** Aucun email public de recrutement vérifié (info@ovidiusmarketing.com du CSV appartient à l'ancienne identité/domaine et n'est pas retenu. Le site actuel propose un formulaire commercial, pas une candidature carrière.)
+- **Canal officiel :** https://www.linkedin.com/company/ovidius-ai-b-v/ | contact direct avec le fondateur uniquement pour demander une future ouverture internationale
+- **CV conseillé :** `CV_ATS_Fintech_EN.pdf`
+- **Sources :** https://www.ovidius.ai/ | https://www.linkedin.com/in/owenboesveld | https://www.linkedin.com/jobs/view/project-manager-regulated-environments-%40-ovidius-ai-at-ovidius-ai-b-v-4434213311 | https://pl.linkedin.com/jobs/view/ai-multi-agent-developer-at-ovidius-marketing-b-v-4065507304
+- **Vérifié le :** 2026-09-25 — Vérifié — excellente adéquation technique, mais besoins expérimentés et implantation US obligatoire
 
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
+**Objet :** Future Junior AI Engineer Opportunities — Agentic AI & Regulated Finance
 
 **Email prêt à envoyer**
 
-Bonjour,
+Dear Mr Boesveld,
 
-Je souhaite proposer ma candidature à Nour Energie pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de développement logiciel, IA/Data, automatisation, systèmes ou transformation digitale.
+I am a recent Computer Engineering graduate from ENSI in Tunisia, specialised in Financial Engineering, and I am interested in future junior AI engineering opportunities at Ovidius AI.
 
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
+My final-year project at Linedata focused on modernising a financial product with AI agents. I worked from the business need through agent workflows and their integration into an existing application. My background includes Python, LLM/RAG systems, APIs, databases, full-stack development and machine learning.
 
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
+Ovidius stands out to me because you deploy agentic systems in regulated environments where governance, documentation and business value matter as much as the model. This is closely aligned with my financial-software experience.
 
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
+I understand that the current Project Manager role is US-based and requires experience I do not yet claim, and that the former Multi-Agent Developer posting was senior. I am therefore not applying to either role. I would simply be glad to stay informed about a future junior or internationally remote AI Engineer opening.
 
-Bien cordialement,
+Kind regards,
 Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
 
 **Invitation LinkedIn**
 
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez Nour Energie. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
+Hello Owen, I’m a recent ENSI Computer Engineering graduate specialised in Financial Engineering. My Linedata project used AI agents to modernise a regulated financial product. Ovidius’ focus on production agents, RAG and compliance strongly matches my profile. Glad to follow future junior roles.
 
 **Message après acceptation**
 
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez Nour Energie autour de développement logiciel, IA/Data, automatisation, systèmes ou transformation digitale. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
+Thank you for connecting. I understand your current PM role is US-only and experienced, so I am not applying to it. My interest is in a future junior AI Engineer role combining agents, RAG, APIs and regulated business workflows. If Ovidius later considers international remote talent, I would be grateful to be kept in mind.
 
 ---
 
-### TELECOM SudParis
+### SUEZ R&V France
 
 - **Pays :** France
-- **Adresse(s) source :** 9 rue Charles Fourier - 91011 EVRY Cedex - FRANCE | CEA Saclay - Nano Innov PC 176 - Bât 861 91191 Gif sur Yvette Cedex France
-- **Domaine :** Télécom / Électronique / Industrie
-- **Correspondance :** 7.0/10 — Correspondance technique réelle, à confirmer selon les besoins logiciels
+- **Adresse(s) source :** Tour CB21,16 Place De L'Iris  92040 Paris La Défense, France
+- **Domaine :** Environmental services, water/waste operations, Data/AI and digital solutions
+- **Correspondance :** 6.8/10 — SUEZ possède des activités Data/IA et Digital Solutions, mais aucune offre junior IT exacte n'a été confirmée dans le screening actuel.
 - **Potentiel :** 39/100 — C — À tenter
-- **Métiers ciblés :** développement logiciel, IA/Data, automatisation, systèmes ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
+- **Métiers ciblés :** Junior Data/AI Engineer; Software Engineer; Digital Transformation Analyst; Data Analyst
+- **Ouverture aux juniors :** Oui — relations écoles et jeunes diplômés; aucune offre cible confirmée — SUEZ participe à des Career Days de futurs diplômés et met en avant des profils Data/IA; les résultats actuels ne donnent pas de rôle junior logiciel/IA précis.
+- **Candidats étrangers/visa/relocation :** Non vérifiable — Aucun sponsoring de visa confirmé pour une offre junior correspondante.
+- **Offres actives :** Aucune offre junior IT correspondant au profil confirmée — portail groupe à surveiller
+- **Contact :** Alrick Barreau — Talent Acquisition — SUEZ
+- **LinkedIn :** https://fr.linkedin.com/in/alrick-barreau-098b6293
+- **Email :** Aucun email public vérifié (Candidature via le portail officiel uniquement)
+- **Canal officiel :** https://www.suez.com/fr/carrieres
+- **CV conseillé :** `CV_ATS_EN.pdf`
+- **Sources :** https://fr.linkedin.com/in/alrick-barreau-098b6293 | https://fr.linkedin.com/in/laure-meunier | https://www.suez.com/fr/carrieres
+- **Vérifié le :** 2026-09-25 — Vérifié — Data/IA présente, aucune offre junior IT exacte confirmée
 
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
+**Objet :** Candidature spontanée — Ingénieur Data / IA junior
 
 **Email prêt à envoyer**
 
 Bonjour,
 
-Je souhaite proposer ma candidature à TELECOM SudParis pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de développement logiciel, IA/Data, automatisation, systèmes ou transformation digitale.
+Récemment diplômé ingénieur en informatique de l'ENSI, je souhaite proposer ma candidature pour une future opportunité junior en Data, intelligence artificielle, développement logiciel ou transformation digitale chez SUEZ.
 
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
+Mon PFE chez Linedata a porté sur l'intégration d'agents IA dans un produit financier existant. Mon profil couvre Python, Java, C++, les APIs, SQL, le développement full-stack, le machine learning, Git et CI/CD. Je suis particulièrement motivé par l'utilisation de la donnée et de l'IA pour améliorer des opérations ayant un impact environnemental concret.
 
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
-
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
+Basé en Tunisie, je suis ouvert à la mobilité en France.
 
 Bien cordialement,
 Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
 
 **Invitation LinkedIn**
 
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez TELECOM SudParis. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
+Bonjour M. Barreau, jeune diplômé ingénieur ENSI, mon PFE Linedata concernait des agents IA intégrés à un produit existant. Je recherche un poste junior Data/IA ou logiciel et les activités Digital Solutions de SUEZ m'intéressent. Ravi d'échanger.
 
 **Message après acceptation**
 
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez TELECOM SudParis autour de développement logiciel, IA/Data, automatisation, systèmes ou transformation digitale. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
-
----
-
-### Télécom SudParis (Évry/Palaiseau, France), SAMOVAR Lab
-
-- **Pays :** France
-- **Adresse(s) source :** 9 rue Charles Fourier -91011 EVERY Cedex - France
-- **Domaine :** Télécom / Électronique / Industrie
-- **Correspondance :** 7.0/10 — Correspondance technique réelle, à confirmer selon les besoins logiciels
-- **Potentiel :** 39/100 — C — À tenter
-- **Métiers ciblés :** développement logiciel, IA/Data, automatisation, systèmes ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Bonjour,
-
-Je souhaite proposer ma candidature à Télécom SudParis (Évry/Palaiseau, France), SAMOVAR Lab pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de développement logiciel, IA/Data, automatisation, systèmes ou transformation digitale.
-
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
-
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
-
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
-
-Bien cordialement,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez Télécom SudParis (Évry/Palaiseau, France), SAMOVAR Lab. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
-
-**Message après acceptation**
-
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez Télécom SudParis (Évry/Palaiseau, France), SAMOVAR Lab autour de développement logiciel, IA/Data, automatisation, systèmes ou transformation digitale. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
+Bonjour M. Barreau, merci pour la connexion. Je ne vois pas actuellement d'offre junior IT exacte. Pourriez-vous m'indiquer si SUEZ prévoit des besoins débutants en Data, IA, logiciel ou transformation digitale ?
 
 ---
 
@@ -3204,145 +2848,223 @@ Hi Brad, thank you for connecting. I have sent a brief expression of interest to
 
 ---
 
-### Macquarie University Cyber Security Hub
+### Meddevo
 
-- **Pays :** Australie
-- **Adresse(s) source :** Wallumattagal Campus Macquarie Park NSW 2109
-- **Domaine :** Recherche universitaire en cybersécurité, confidentialité, IA, NLP et détection de menaces
-- **Correspondance :** 8.0/10 — Les travaux du Hub sur les agents conversationnels malveillants, le NLP, le machine learning et la sécurité correspondent à l'IA agentique, Python et au développement logiciel du candidat. En revanche, les emplois visibles sont surtout académiques et le poste cyber actuellement affiché exige une solide carrière de recherche et d'enseignement.
-- **Potentiel :** 37/100 — C — À tenter
-- **Métiers ciblés :** Research Software Engineer; Research Assistant en IA/cybersécurité; ingénieur ML/NLP; doctorant
-- **Ouverture aux juniors :** Oui, ponctuellement par stages et postes d'assistant de recherche — Le Hub a publié un stage rémunéré pour étudiants en informatique/ingénierie/mathématiques, avec des sujets IA, NLP et cyber. La page officielle précise désormais que la date limite est passée. Aucun poste junior actuel correspondant n'est confirmé.
-- **Candidats étrangers/visa/relocation :** Oui, sous conditions et selon le poste — La politique officielle actuelle prévoit qu'en circonstances approuvées Macquarie peut sponsoriser des travailleurs internationaux qualifiés, à la discrétion de l'université et selon le métier/contrat. Les stages étudiants et certaines annonces peuvent toutefois exiger des droits de travail locaux; aucune promesse n'existe pour un poste junior précis.
-- **Offres actives :** Aucun poste junior adapté confirmé ouvert le 2026-09-25. Le stage IA/cyber du Hub indique explicitement que la date limite est passée — https://www.mq.edu.au/partner/access-business-opportunities/innovation-entrepreneurship-and-it/cyber-security-hub/news/news/internship-opportunity!. Un poste Lecturer/Senior Lecturer in Cyber Security est ouvert, mais exige un excellent parcours de recherche et d'enseignement et ne correspond pas à un jeune diplômé — https://mq.wd3.myworkdayjobs.com/en-US/CareersatMQ/job/Senior-Lecturer-in-Cyber-Security_R000022247.
-- **Contact :** Dali Kaafar — Professor et Executive Director — Macquarie University Cyber Security Hub
-- **LinkedIn :** https://au.linkedin.com/in/dali-kaafar-12b5b85
-- **Email :** dali.kaafar@mq.edu.au (Adresse institutionnelle publiée sur le profil officiel de Macquarie. À utiliser uniquement pour une demande scientifique ciblée et non comme boîte RH générale.)
-- **Canal officiel :** https://mq.wd3.myworkdayjobs.com/CareersatMQ | mailto:dali.kaafar@mq.edu.au
+- **Pays :** Allemagne
+- **Adresse(s) source :** ‍dytab GmbH Zum Fellengarten 19 36166, Haunetal
+- **Domaine :** MedTech regulatory-documentation software, APIs and digital workflows
+- **Correspondance :** 6.9/10 — Mohamed's API, database, full-stack and software-engineering skills are relevant. The visible backend role requires several years, TypeScript/NestJS, German B2 and work from Germany.
+- **Potentiel :** 38/100 — C — À tenter
+- **Métiers ciblés :** Junior Backend Developer; Python/TypeScript Developer; API/Software Engineer; Data/Automation Engineer
+- **Ouverture aux juniors :** Spontaneous applications accepted; no matching junior vacancy confirmed — The current official career page explicitly accepts general applications and emphasizes growth opportunities, but the available backend description asks for several years of experience.
+- **Candidats étrangers/visa/relocation :** Non — The official careers page states 100% remote from anywhere in Germany, not international remote. The backend description asks for German and English at B2 or above; no sponsorship promise was found.
+- **Offres actives :** General Application — https://meddevo.com/de/jobs/bewerben ; the published Backend Developer page asks for several years of experience and German B2.
+- **Contact :** Markus Falk — Current meddevo team member and named contact on the backend vacancy
+- **LinkedIn :** https://de.linkedin.com/in/markus-falk-69b195109
+- **Email :** Aucun email public vérifié (Aucun email public vérifié)
+- **Canal officiel :** https://meddevo.com/de/jobs/bewerben
 - **CV conseillé :** `CV_ATS_EN.pdf`
-- **Sources :** https://researchers.mq.edu.au/en/persons/dali-kaafar | https://au.linkedin.com/in/dali-kaafar-12b5b85 | https://www.mq.edu.au/partner/access-business-opportunities/innovation-entrepreneurship-and-it/cyber-security-hub/news/news/internship-opportunity! | https://mq.wd3.myworkdayjobs.com/en-US/CareersatMQ/job/Senior-Lecturer-in-Cyber-Security_R000022247 | https://policies.mq.edu.au/document/view.php?id=404
-- **Vérifié le :** 2026-09-25 — Vérifié — bon alignement scientifique, aucune ouverture junior actuelle
+- **Sources :** https://meddevo.com/de/jobs | https://www.meddevo.com/jobs/back-end-entwickler-m-w-d | https://de.linkedin.com/in/markus-falk-69b195109
+- **Vérifié le :** 2026-09-25 — Vérifié — candidature spontanée ouverte, mais travail limité à l’Allemagne et exigence linguistique défavorable
 
-**Objet :** Prospective Junior AI/Cybersecurity Research Engineer — ENSI Graduate
+**Objet :** Spontaneous Application – Junior Software Engineer
 
 **Email prêt à envoyer**
 
-Dear Professor Kaafar,
+Dear meddevo Team,
 
-I am a recent Computer Engineering graduate from ENSI in Tunisia, with a specialisation in Financial Engineering, and I am writing to express my interest in future junior research engineering opportunities at the Macquarie University Cyber Security Hub.
+I am a recent Computer Engineering graduate from ENSI, with experience in software development, APIs, databases, AI and full-stack applications. My final-year project at Linedata involved integrating AI agents into an existing financial product and taught me how to connect technical implementation with a regulated business context.
 
-My final-year project at Linedata focused on modernising a financial software product with AI agents. It strengthened my ability to connect an operational need with Python-based intelligent workflows and their integration into an existing application. My background also includes machine learning, LLM/RAG systems, APIs, databases, Java and C++.
+I am interested in meddevo's mission of improving regulatory documentation through practical software. I would be glad to be considered for a future junior backend, API, automation or data-oriented position.
 
-I was particularly interested in the Hub's work on malicious conversational agents, information leakage in NLP models and AI-enabled cyber-threat analysis. I understand that the internship page is closed and that the current Lecturer position is not suited to an early-career engineer. I am therefore not applying to an expired or unsuitable vacancy.
-
-Could you please advise whether the Hub expects future Research Assistant or Research Software Engineer opportunities open to a recent international graduate, and whether visa sponsorship could be considered for such a position? I have attached my English CV for context.
+I am currently based in Tunisia and open to relocation. I also understand that your current remote policy is limited to Germany and that some roles require German; I would therefore appreciate confirmation before any formal application.
 
 Kind regards,
 Mohamed Oussema Bahloul
 
 **Invitation LinkedIn**
 
-Hello Professor Kaafar, I am a recent ENSI Computer Engineering graduate whose Linedata project used AI agents in financial software. Your Hub's work on conversational AI, NLP privacy and cyber-threat analysis strongly interests me. I would be glad to follow future junior research roles.
+Hello Mr Falk, I’m a recent ENSI Computer Engineering graduate with software, API and AI experience gained notably through my Linedata PFE. meddevo’s product work in a regulated field interests me, and I’d be glad to connect.
 
 **Message après acceptation**
 
-Thank you for connecting, Professor Kaafar. I found no currently open junior role at the Hub, so I have not treated the closed internship as active. I sent a concise enquiry about future Research Assistant or Research Software Engineer opportunities and international eligibility. My profile combines AI agents, Python and product integration.
+Hello Mr Falk, thank you for connecting. I am exploring junior software/API opportunities and am open to relocation from Tunisia. I saw that meddevo accepts general applications but works remotely within Germany. Could an international junior profile be considered in the future?
 
 ---
 
-### Ministère de la justice français
+### Meta
 
-- **Pays :** France
-- **Adresse(s) source :** 35 Rue de la gare, Paris 75019
-- **Domaine :** Secteur public / Institution
-- **Correspondance :** 5.5/10 — Correspondance possible selon les concours et projets numériques
-- **Potentiel :** 36/100 — C — À tenter
-- **Métiers ciblés :** ingénieur informatique, Data/IA, audit IT ou systèmes d’information
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
+- **Pays :** Royaume-Uni
+- **Adresse(s) source :** 1 Rathbone Square, London
+- **Domaine :** Large-scale software, AI/ML, infrastructure, AR/VR and product engineering
+- **Correspondance :** 7.2/10 — Compétences générales pertinentes, mais concurrence extrême et aucune offre London University Graduate officiellement confirmée accessible aujourd'hui.
+- **Potentiel :** 37/100 — C — À tenter
+- **Métiers ciblés :** University Graduate Software Engineer; Junior ML Engineer; Production Engineer
+- **Ouverture aux juniors :** Oui historiquement; aucune offre graduate London confirmée — Meta recrute régulièrement des university graduates, mais les résultats officiels actuels accessibles ne permettent pas de confirmer une ouverture londonienne adaptée.
+- **Candidats étrangers/visa/relocation :** Non vérifiable — Meta peut sponsoriser certains profils spécialisés, mais aucune preuve de sponsoring n'est attachée à une offre junior actuellement confirmée.
+- **Offres actives :** Aucune offre London University Graduate confirmée active — vérifier https://www.metacareers.com/jobs/
+- **Contact :** Meta Careers — Canal officiel
+- **LinkedIn :** https://www.linkedin.com/company/meta/jobs/
+- **Email :** Aucun email public vérifié (Candidature via le portail officiel uniquement)
+- **Canal officiel :** https://www.metacareers.com/jobs/
+- **CV conseillé :** `CV_ATS_EN.pdf`
+- **Sources :** https://www.metacareers.com/jobs/ | https://www.linkedin.com/company/meta/jobs/
+- **Vérifié le :** 2026-09-25 — Vérifié — employeur possible mais aucune offre graduate London confirmée
 
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
+**Objet :** Future University Graduate Software Engineering Opportunities
+
+**Email prêt à envoyer**
+
+Dear Meta Recruitment Team,
+
+I am a recent Computer Engineering graduate from ENSI with experience in Python, Java, C++, full-stack development, APIs, databases, machine learning, testing and CI/CD. My final-year project at Linedata focused on integrating AI agents into an existing financial software product.
+
+I am interested in future university-graduate software or AI engineering opportunities in London. I am based in Tunisia and would require confirmation of Skilled Worker sponsorship before applying to a location-restricted role.
+
+Kind regards,
+Mohamed Oussema Bahloul
+
+**Invitation LinkedIn**
+
+Hello, I am a recent ENSI Computer Engineering graduate with Python/Java/C++, full-stack and AI-agent product experience. I would be glad to follow future Meta university-graduate software or AI opportunities in London.
+
+**Message après acceptation**
+
+Thank you for connecting. I have not found a currently confirmed London graduate role. Could you advise when suitable university-graduate software openings may reopen and whether sponsorship is assessed per vacancy?
+
+---
+
+### Responsible Cyber
+
+- **Pays :** Singapour
+- **Adresse(s) source :** Singapore, 56A Boat Quay, 049845
+- **Domaine :** Cybersécurité, gouvernance des risques tiers, conformité et plateforme IA IMMUNE X-TPRM
+- **Correspondance :** 7.6/10 — Développement, IA et ingénierie financière sont utiles à une plateforme combinant risques financiers, ESG et cyber. Le candidat n’a pas encore de spécialisation cyber/GRC profonde.
+- **Potentiel :** 37/100 — C — À tenter
+- **Métiers ciblés :** Junior Cybersecurity/AI Engineer; Risk Data Analyst; Software Engineer; GRC Technology Analyst
+- **Ouverture aux juniors :** Oui historiquement, situation actuelle non vérifiable — D’anciens recrutements montrent des juniors et reconversions accompagnées, mais aucune campagne récente n’a été trouvée. Ces preuves ne valent pas offre actuelle.
+- **Candidats étrangers/visa/relocation :** Non vérifiable — Entreprise historiquement à Singapour et équipe internationale, mais aucune offre actuelle ne précise visa, relocation, remote international ou B2B depuis la Tunisie.
+- **Offres actives :** Aucune offre active confirmée le 2026-09-25.
+- **Contact :** Dr Magda Chelly — Fondatrice de Responsible Cyber; experte cyber et risque
+- **LinkedIn :** https://www.linkedin.com/in/magda-chelly
+- **Email :** Aucun email public vérifié (info@responsible-cyber.com figure dans le CSV, mais le domaine officiel est inaccessible et l’adresse n’a pas été retrouvée sur une page carrière actuelle; ne pas automatiser.)
+- **Canal officiel :** https://riskimmune.com/ | https://www.linkedin.com/in/magda-chelly — suivre et surveiller
+- **CV conseillé :** `CV_ATS_Fintech_EN.pdf`
+- **Sources :** https://riskimmune.com/ | https://www.linkedin.com/in/magda-chelly | https://www.linkedin.com/posts/cybersecurityworldasia_responsiblecyber-riskmanagement-operationalresilience-activity-7090587743155597312-JQJV
+- **Vérifié le :** 2026-09-25 — Vérifié — bonne piste cyber/risque, recrutement et mobilité non vérifiables
+
+**Objet :** Future Junior AI / Cyber Risk Opportunities — ENSI Graduate
+
+**Email prêt à envoyer**
+
+Dear Responsible Cyber team,
+
+I am a recent Computer Engineering graduate from ENSI in Tunisia, specialised in Financial Engineering, and I am interested in a future junior opportunity connecting AI, software and cyber-risk management.
+
+My Linedata final-year project modernised a financial product with AI agents. It strengthened my ability to understand regulated processes, work with data and integrate intelligent workflows into a product. My background includes Python, software development, APIs, databases, ML and LLM/RAG systems.
+
+IMMUNE X-TPRM is meaningful to me because it connects technology with financial, compliance and cybersecurity risk. I have found no current opening or verified international policy, so this is only an expression of interest for a future junior or internationally remote role.
+
+Kind regards,
+Mohamed Oussema Bahloul
+
+**Invitation LinkedIn**
+
+Dr Chelly’s profile has reached its connection limit; follow the profile rather than sending an invitation.
+
+**Message après acceptation**
+
+Hello Dr Chelly, I’m a recent ENSI graduate from Tunisia specialised in Financial Engineering. My Linedata project applied AI agents to a regulated product. I’m following your work on cyber and third-party risk and would value guidance on future junior roles at Responsible Cyber/RiskImmune.
+
+---
+
+### Ixias  (BE 0767.498.939)
+
+- **Pays :** Belgique
+- **Adresse(s) source :** Avenue des lilas 28 1070 Bruxelles Belgique | Avenue des lilas 28, 1070 Anderlecht Belgique
+- **Domaine :** Micro IT consultancy focused on Java software, design and testing
+- **Correspondance :** 6.8/10 — Stack Java pertinente, mais micro-structure d'environ 1 ETP sans offre ni fonction RH identifiée.
+- **Potentiel :** 35/100 — C — À tenter
+- **Métiers ciblés :** Junior Java Developer; Full-stack Developer; Software Engineer
+- **Ouverture aux juniors :** Non vérifiable — Aucune offre ou programme junior public trouvé.
+- **Candidats étrangers/visa/relocation :** Non vérifiable — Aucun engagement public de sponsoring de visa trouvé.
+- **Offres actives :** Aucune offre active confirmée
+- **Contact :** Akrem Ayadi — Seul collaborateur public listé — Ixias
+- **LinkedIn :** https://www.linkedin.com/company/ixias-srl
+- **Email :** Aucun email public vérifié (Portail ou LinkedIn officiel privilégié)
+- **Canal officiel :** http://ixias.be
+- **CV conseillé :** `CV_ATS_EN.pdf`
+- **Sources :** https://www.linkedin.com/company/ixias-srl | https://www.companyweb.be/en/0767498939/ixias
+- **Vérifié le :** 2026-09-25 — Vérifié — micro-entreprise active, potentiel de recrutement faible
+
+**Objet :** Spontaneous Application – Junior AI / Software Engineer – Ixias
+
+**Email prêt à envoyer**
+
+Dear Ixias Team,
+
+I am a recent Computer Engineering graduate from ENSI seeking a junior AI or software engineering opportunity. My final-year project at Linedata focused on modernizing a financial software product through AI agents, from business analysis to integration into an existing application.
+
+I bring skills in Python, Java, C++, machine learning, APIs, databases, full-stack development, Git and CI/CD. Ixias' focus on Java and elegant, well-tested software is relevant to my Java/C++/Python and full-stack foundation.
+
+I am based in Tunisia and open to relocation, subject to work-authorization feasibility. I would be grateful to be considered for a suitable graduate or junior opportunity.
+
+Kind regards,
+Mohamed Oussema Bahloul
+
+**Invitation LinkedIn**
+
+Bonjour M. Ayadi, jeune diplômé ingénieur ENSI, je maîtrise Java, C++, Python et le full-stack. L'accent mis par Ixias sur le code propre, le design et les tests m'intéresse. Ravi d'échanger autour d'éventuels besoins juniors.
+
+**Message après acceptation**
+
+Bonjour M. Ayadi, merci pour la connexion. Ixias étant une petite structure, je souhaitais simplement savoir si vous envisagez à moyen terme un renfort junior Java/full-stack. Je peux vous transmettre mon CV si utile.
+
+---
+
+### Azertysoft
+
+- **Pays :** Canada
+- **Adresse(s) source :** 7425 chemin canora, Montréal
+- **Domaine :** IT services and software consulting
+- **Correspondance :** 6.5/10 — Le secteur logiciel est pertinent, mais la page ne présente ni activités détaillées, ni emplois, ni canal de recrutement fiable.
+- **Potentiel :** 34/100 — D — Faible priorité
+- **Métiers ciblés :** Junior Software Engineer; Full-stack Developer
+- **Ouverture aux juniors :** Non vérifiable — Aucune offre active confirmée; présence publique limitée à une petite page LinkedIn.
+- **Candidats étrangers/visa/relocation :** Non vérifiable — Aucun visa sponsorisé confirmé; la présence ou collaboration tunisienne est indiquée lorsqu’elle est sourcée.
+- **Offres actives :** Aucune offre active confirmée; présence publique limitée à une petite page LinkedIn.
+- **Contact :** Walid Aloui — Membre affiché de l’équipe
+- **LinkedIn :** https://www.linkedin.com/in/walid-aloui/
+- **Email :** Aucun email public vérifié (Aucun email public vérifié)
+- **Canal officiel :** https://www.linkedin.com/company/azertysoft
+- **CV conseillé :** `CV_ATS_EN.pdf`
+- **Sources :** https://www.linkedin.com/company/azertysoft
+- **Vérifié le :** 2026-09-25 — Vérifié — screening manuel ciblé
+
+**Objet :** Candidature — Junior Software Engineer junior
 
 **Email prêt à envoyer**
 
 Bonjour,
 
-Je souhaite proposer ma candidature à Ministère de la justice français pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de ingénieur informatique, Data/IA, audit IT ou systèmes d’information.
+Récemment diplômé ingénieur en informatique de l’ENSI, spécialisé en ingénierie financière, je souhaite proposer ma candidature à AzertySoft pour une première opportunité en junior software engineer; full-stack developer.
 
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
+Mon PFE chez Linedata portait sur la modernisation d’un produit financier à l’aide d’agents IA. Je maîtrise Python, Java, C++, le développement full-stack, les API, les bases de données, le machine learning, Git et les principes CI/CD.
 
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
+Le secteur logiciel est pertinent, mais la page ne présente ni activités détaillées, ni emplois, ni canal de recrutement fiable. Basé en Tunisie, je suis ouvert au télétravail ou à une mobilité réalisable.
 
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
+Je serais ravi d’échanger et joins mon CV à cette candidature.
 
 Bien cordialement,
 Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
 
 **Invitation LinkedIn**
 
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez Ministère de la justice français. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
+Bonjour, diplômé ingénieur ENSI, mon PFE Linedata combinait agents IA et logiciel financier. AzertySoft correspond à mes compétences en Python, Data/IA et développement. Ravi d’échanger sur vos besoins juniors.
 
 **Message après acceptation**
 
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez Ministère de la justice français autour de ingénieur informatique, Data/IA, audit IT ou systèmes d’information. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
-
----
-
-### WSK Medical
-
-- **Pays :** Pays-Bas
-- **Adresse(s) source :** Science Park 608 unit K09, 1098 XH Amsterdam
-- **Domaine :** Santé
-- **Correspondance :** 5.5/10 — Correspondance indirecte via la transformation numérique
-- **Potentiel :** 36/100 — C — À tenter
-- **Métiers ciblés :** IA/Data appliquée, développement de solutions numériques ou systèmes d’information
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS_EN.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Junior AI, Data & Software Engineering Application – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Dear Hiring Team,
-
-I would like to apply to WSK Medical for an entry-level opportunity aligned with my computer engineering background, particularly in IA/Data appliquée, développement de solutions numériques ou systèmes d’information.
-
-I recently graduated as a Computer Engineer from ENSI, specializing in Financial Engineering. My background includes Python, Java, C++, full-stack development, databases, machine learning, and generative AI. During my final-year project at Linedata, I built an agentic AI solution to modernize a complex software product, combining business analysis, development, and automation.
-
-I am looking for a first full-time opportunity where I can learn quickly, take ownership, and turn real business needs into useful solutions. I am open to roles consistent with my degree and would welcome a conversation about your current or upcoming needs. I am based in Tunisia and open to relocation or an international remote arrangement where available.
-
-My CV is attached for your consideration. Thank you for your time.
-
-Kind regards,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Hello, I am an ENSI Computer Engineering graduate interested in junior opportunities at WSK Medical. I would be glad to connect and learn which profiles your team is currently seeking.
-
-**Message après acceptation**
-
-Hello, thank you for accepting my invitation. I am seeking an entry-level opportunity at WSK Medical in IA/Data appliquée, développement de solutions numériques ou systèmes d’information. My final-year project at Linedata focused on modernizing a financial product with AI agents. May I share my CV or ask who the right contact would be?
+Merci pour la connexion. Je viens de proposer mon profil junior à AzertySoft. Pourriez-vous m’orienter vers la personne qui suit les besoins Data, IA ou développement logiciel ?
 
 ---
 
@@ -3392,6 +3114,50 @@ Hello Ms Hodgkinson, thank you for connecting. I sent a targeted inquiry to jobs
 
 ---
 
+### Vilmorin-Mikado, LIMAGRAIN Group
+
+- **Pays :** France
+- **Adresse(s) source :** La Ménitré (49250), FRANCE
+- **Domaine :** AgriTech, seed research, industrial operations, Data, cybersecurity and digital transformation
+- **Correspondance :** 5.9/10 — Des activités IT/Data existent, mais le cœur métier est agricole et aucune offre junior informatique exacte n'a été isolée.
+- **Potentiel :** 34/100 — D — Faible priorité
+- **Métiers ciblés :** Junior Data Analyst; IT Project Engineer; Software/Data Engineer; Cybersecurity junior
+- **Ouverture aux juniors :** Oui — stages et alternances réguliers — Limagrain met publiquement en avant ses alternants/stagiaires et un nouveau portail regroupe ces contrats; aucune ouverture CDI junior cible confirmée.
+- **Candidats étrangers/visa/relocation :** Non vérifiable — Aucun sponsoring de visa confirmé pour une offre junior correspondante.
+- **Offres actives :** Aucune offre CDI junior informatique exacte confirmée — portail officiel https://jobs.limagrain.com/?locale=fr_FR
+- **Contact :** LIMAGRAIN Careers — Canal officiel
+- **LinkedIn :** https://www.linkedin.com/company/limagrain/jobs/
+- **Email :** Aucun email public vérifié (Candidature via le portail officiel uniquement)
+- **Canal officiel :** https://jobs.limagrain.com/?locale=fr_FR
+- **CV conseillé :** `CV_ATS_EN.pdf`
+- **Sources :** https://jobs.limagrain.com/?locale=fr_FR | https://talent.limagrain.com/ | https://fr.linkedin.com/in/fabienne-lauret-blachon-gestiondeprojet
+- **Vérifié le :** 2026-09-25 — Vérifié — junior-friendly, aucune cible IT exacte aujourd'hui
+
+**Objet :** Candidature spontanée — Ingénieur informatique / Data junior
+
+**Email prêt à envoyer**
+
+Bonjour,
+
+Récemment diplômé ingénieur en informatique de l'ENSI, je souhaite proposer ma candidature pour une future opportunité junior en Data, développement logiciel, cybersécurité ou transformation digitale au sein du Groupe Limagrain.
+
+Mon PFE chez Linedata a porté sur la modernisation d'un produit financier avec des agents IA. Je maîtrise Python, Java, C++, les APIs, SQL, le développement full-stack, Git et les principes de CI/CD. Je serais motivé par l'application de ces compétences à la digitalisation de processus industriels et agricoles.
+
+Basé en Tunisie, je suis ouvert à une mobilité en France si elle est envisageable.
+
+Bien cordialement,
+Mohamed Oussema Bahloul
+
+**Invitation LinkedIn**
+
+Bonjour, jeune diplômé ingénieur ENSI, mon profil couvre Python, Java/C++, Data/IA et full-stack. Je souhaite suivre les futures opportunités junior IT/Data/cybersécurité du Groupe Limagrain. Ravi de rejoindre votre réseau.
+
+**Message après acceptation**
+
+Bonjour, merci pour la connexion. Pourriez-vous m'orienter vers les futures opportunités CDI junior en IT, Data ou digitalisation, accessibles à un candidat tunisien ouvert à la mobilité ?
+
+---
+
 ### Adias
 
 - **Pays :** Mauritanie
@@ -3400,43 +3166,41 @@ Hello Ms Hodgkinson, thank you for connecting. I sent a targeted inquiry to jobs
 - **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
 - **Potentiel :** 33/100 — D — Faible priorité
 - **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
+- **Ouverture aux juniors :** Non vérifiable — Aucune preuve publique suffisamment récente d’un recrutement junior n’a été identifiée dans les résultats consultés.
+- **Candidats étrangers/visa/relocation :** Non vérifiable — Aucune preuve publique suffisamment précise de visa, relocation ou embauche internationale n’a été confirmée pour un poste junior adapté.
+- **Offres actives :** Aucune offre correspondant au profil n’a pu être confirmée active le 2026-09-25; utiliser la candidature spontanée et revérifier le canal officiel avant envoi.
+- **Contact :** Non trouvé/non vérifiable — Aucun recruteur ou responsable actuel suffisamment fiable identifié
 - **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
+- **Email :** Aucun email public vérifié (Les adresses du CSV n’ont pas été considérées comme vérifiées sans publication publique correspondante)
 - **Canal officiel :** Non trouvé/non vérifiable
 - **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
+- **Sources :** Recherches web ciblées du 2026-09-25 — aucun résultat suffisamment pertinent conservé
+- **Vérifié le :** 2026-09-25 — Recherche publique effectuée — candidature spontanée; canal/contact à confirmer avant envoi
 
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
+**Objet :** Candidature spontanée — Ingénieur informatique junior — Mohamed Oussema Bahloul
 
 **Email prêt à envoyer**
 
 Bonjour,
 
-Je souhaite proposer ma candidature à Adias pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de informatique, automatisation, Data/IA ou transformation digitale.
+Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je souhaite proposer ma candidature spontanée à Adias pour une première opportunité correspondant à mon profil.
 
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
+Mon PFE chez Linedata a porté sur la modernisation d’un produit financier à l’aide d’agents IA. Cette expérience m’a appris à comprendre un besoin métier, le traduire en workflows intelligents puis contribuer à son intégration dans un produit existant. Je maîtrise Python, Java, C++, le développement full-stack, les APIs, SQL et les bases de données, le machine learning, les LLM et les architectures RAG.
 
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
+Je m’intéresse à Adias pour ses activités autour de le développement logiciel, la Data et l’intelligence artificielle appliquée. Je recherche un environnement où je pourrai apprendre rapidement, prendre progressivement des responsabilités et utiliser la technologie pour créer une valeur concrète.
 
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
+N’ayant pas trouvé d’offre junior actuellement ouverte que je puisse confirmer, je vous contacte en toute transparence dans le cadre d’une candidature spontanée pour un besoin présent ou futur. Je joins mon CV et serais ravi d’échanger avec vous.
 
 Bien cordialement,
 Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
 
 **Invitation LinkedIn**
 
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez Adias. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
+Bonjour, récemment diplômé ingénieur ENSI et spécialisé en ingénierie financière, j’ai réalisé chez Linedata un PFE sur des agents IA. Je m’intéresse aux futurs besoins junior en IA, Data ou logiciel chez Adias. Ravi de rejoindre votre réseau.
 
 **Message après acceptation**
 
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez Adias autour de informatique, automatisation, Data/IA ou transformation digitale. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
+Bonjour, merci pour la connexion. Je m’intéresse aux opportunités junior en IA, Data et logiciel chez Adias. Je n’ai présenté aucune ancienne annonce comme active; ma candidature spontanée met en avant mon PFE Linedata, mon socle logiciel et ma capacité à relier technologie et valeur métier. Pourriez-vous m’orienter vers le bon interlocuteur ?
 
 ---
 
@@ -3448,283 +3212,41 @@ Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opp
 - **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
 - **Potentiel :** 33/100 — D — Faible priorité
 - **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
+- **Ouverture aux juniors :** Non vérifiable — Aucune preuve publique suffisamment récente d’un recrutement junior n’a été identifiée dans les résultats consultés.
+- **Candidats étrangers/visa/relocation :** Non vérifiable — Aucune preuve publique suffisamment précise de visa, relocation ou embauche internationale n’a été confirmée pour un poste junior adapté.
+- **Offres actives :** Aucune offre correspondant au profil n’a pu être confirmée active le 2026-09-25; utiliser la candidature spontanée et revérifier le canal officiel avant envoi.
+- **Contact :** Non trouvé/non vérifiable — Aucun recruteur ou responsable actuel suffisamment fiable identifié
 - **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
+- **Email :** Aucun email public vérifié (Les adresses du CSV n’ont pas été considérées comme vérifiées sans publication publique correspondante)
 - **Canal officiel :** Non trouvé/non vérifiable
 - **CV conseillé :** `CV_ATS_EN.pdf`
-- **Sources :** https://advensia.de/career/working-at-advensia/
-- **Vérifié le :** 2026-09-25 — Localisation vérifiée — recrutement à rechercher
+- **Sources :** Recherches web ciblées du 2026-09-25 — aucun résultat suffisamment pertinent conservé
+- **Vérifié le :** 2026-09-25 — Recherche publique effectuée — candidature spontanée; canal/contact à confirmer avant envoi
 
-**Objet :** Junior AI, Data & Software Engineering Application – Mohamed Oussema Bahloul
+**Objet :** Spontaneous Application — Junior AI / Software Engineer — Mohamed Oussema Bahloul
 
 **Email prêt à envoyer**
 
-Dear Hiring Team,
+Dear Advensia GmbH Recruitment Team,
 
-I would like to apply to Advensia GmbH for an entry-level opportunity aligned with my computer engineering background, particularly in informatique, automatisation, Data/IA ou transformation digitale.
+I am a recent Computer Engineering graduate from ENSI in Tunisia, specialised in Financial Engineering, and I would like to submit a spontaneous application for a junior opportunity aligned with my background.
 
-I recently graduated as a Computer Engineer from ENSI, specializing in Financial Engineering. My background includes Python, Java, C++, full-stack development, databases, machine learning, and generative AI. During my final-year project at Linedata, I built an agentic AI solution to modernize a complex software product, combining business analysis, development, and automation.
+During my final-year project at Linedata, I helped modernise a financial software product using AI agents. This experience taught me how to understand a business need, turn it into an intelligent workflow and integrate it into an existing product. My background includes Python, Java, C++, full-stack development, APIs, SQL and databases, machine learning, LLMs and RAG.
 
-I am looking for a first full-time opportunity where I can learn quickly, take ownership, and turn real business needs into useful solutions. I am open to roles consistent with my degree and would welcome a conversation about your current or upcoming needs. I am based in Tunisia and open to relocation or an international remote arrangement where available.
+I am interested in Advensia GmbH because of its work in software engineering, data and applied AI. I am looking for a team where I can learn quickly, take ownership progressively and use technology to create measurable value for users and the business.
 
-My CV is attached for your consideration. Thank you for your time.
+I have not found a currently open junior vacancy that I can confirm, so I am contacting you transparently as a spontaneous candidate for a present or future need. My CV is attached, and I would be pleased to discuss any suitable opportunity.
 
 Kind regards,
 Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
 
 **Invitation LinkedIn**
 
-Hello, I am an ENSI Computer Engineering graduate interested in junior opportunities at Advensia GmbH. I would be glad to connect and learn which profiles your team is currently seeking.
+Hello, I am a recent ENSI Computer Engineering graduate specialised in Financial Engineering. My Linedata project combined AI agents and product modernisation. I am interested in future junior AI, Data or Software opportunities at Advensia GmbH. Glad to connect.
 
 **Message après acceptation**
 
-Hello, thank you for accepting my invitation. I am seeking an entry-level opportunity at Advensia GmbH in informatique, automatisation, Data/IA ou transformation digitale. My final-year project at Linedata focused on modernizing a financial product with AI agents. May I share my CV or ask who the right contact would be?
-
----
-
-### AGIIR NETWORK
-
-- **Pays :** France
-- **Adresse(s) source :** 22 allée du lieutenant vagneron 42153 riorges | 27, rue Lucien Langenieux - 42300 ROANNE
-- **Domaine :** Autre / à vérifier
-- **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
-- **Potentiel :** 33/100 — D — Faible priorité
-- **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** https://agiir-network.com/contact/
-- **Vérifié le :** 2026-09-25 — Localisation vérifiée — recrutement à rechercher
-
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Bonjour,
-
-Je souhaite proposer ma candidature à AGIIR NETWORK pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de informatique, automatisation, Data/IA ou transformation digitale.
-
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
-
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
-
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
-
-Bien cordialement,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez AGIIR NETWORK. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
-
-**Message après acceptation**
-
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez AGIIR NETWORK autour de informatique, automatisation, Data/IA ou transformation digitale. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
-
----
-
-### Aicentive GmbH
-
-- **Pays :** Allemagne
-- **Adresse(s) source :** Berliner Strasse 7, Germany
-- **Domaine :** Autre / à vérifier
-- **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
-- **Potentiel :** 33/100 — D — Faible priorité
-- **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS_EN.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Junior AI, Data & Software Engineering Application – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Dear Hiring Team,
-
-I would like to apply to Aicentive GmbH for an entry-level opportunity aligned with my computer engineering background, particularly in informatique, automatisation, Data/IA ou transformation digitale.
-
-I recently graduated as a Computer Engineer from ENSI, specializing in Financial Engineering. My background includes Python, Java, C++, full-stack development, databases, machine learning, and generative AI. During my final-year project at Linedata, I built an agentic AI solution to modernize a complex software product, combining business analysis, development, and automation.
-
-I am looking for a first full-time opportunity where I can learn quickly, take ownership, and turn real business needs into useful solutions. I am open to roles consistent with my degree and would welcome a conversation about your current or upcoming needs. I am based in Tunisia and open to relocation or an international remote arrangement where available.
-
-My CV is attached for your consideration. Thank you for your time.
-
-Kind regards,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Hello, I am an ENSI Computer Engineering graduate interested in junior opportunities at Aicentive GmbH. I would be glad to connect and learn which profiles your team is currently seeking.
-
-**Message après acceptation**
-
-Hello, thank you for accepting my invitation. I am seeking an entry-level opportunity at Aicentive GmbH in informatique, automatisation, Data/IA ou transformation digitale. My final-year project at Linedata focused on modernizing a financial product with AI agents. May I share my CV or ask who the right contact would be?
-
----
-
-### AIMIGO SAS
-
-- **Pays :** France
-- **Adresse(s) source :** 65 rue de Reuilly, 75012 Paris
-- **Domaine :** Autre / à vérifier
-- **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
-- **Potentiel :** 33/100 — D — Faible priorité
-- **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Bonjour,
-
-Je souhaite proposer ma candidature à AIMIGO SAS pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de informatique, automatisation, Data/IA ou transformation digitale.
-
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
-
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
-
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
-
-Bien cordialement,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez AIMIGO SAS. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
-
-**Message après acceptation**
-
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez AIMIGO SAS autour de informatique, automatisation, Data/IA ou transformation digitale. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
-
----
-
-### Airbus
-
-- **Pays :** France
-- **Adresse(s) source :** 2 Rond Point EMILE DEWOITINE – 31707 BLAGNAC
-- **Domaine :** Autre / à vérifier
-- **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
-- **Potentiel :** 33/100 — D — Faible priorité
-- **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Bonjour,
-
-Je souhaite proposer ma candidature à Airbus pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de informatique, automatisation, Data/IA ou transformation digitale.
-
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
-
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
-
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
-
-Bien cordialement,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez Airbus. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
-
-**Message après acceptation**
-
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez Airbus autour de informatique, automatisation, Data/IA ou transformation digitale. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
-
----
-
-### Airbus Commercial SAS
-
-- **Pays :** France
-- **Adresse(s) source :** 316 Route de Bayonne 31060 Toulouse France
-- **Domaine :** Autre / à vérifier
-- **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
-- **Potentiel :** 33/100 — D — Faible priorité
-- **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Bonjour,
-
-Je souhaite proposer ma candidature à Airbus Commercial SAS pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de informatique, automatisation, Data/IA ou transformation digitale.
-
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
-
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
-
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
-
-Bien cordialement,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez Airbus Commercial SAS. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
-
-**Message après acceptation**
-
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez Airbus Commercial SAS autour de informatique, automatisation, Data/IA ou transformation digitale. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
+Thank you for connecting. I am exploring junior AI, Data and Software opportunities at Advensia GmbH. I have not treated any old vacancy as active; my spontaneous application highlights my Linedata AI-agent project, software skills and ability to connect technology with business value. Could you please direct me to the appropriate hiring contact?
 
 ---
 
@@ -3736,331 +3258,41 @@ Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opp
 - **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
 - **Potentiel :** 33/100 — D — Faible priorité
 - **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
+- **Ouverture aux juniors :** Non vérifiable — Aucune preuve publique suffisamment récente d’un recrutement junior n’a été identifiée dans les résultats consultés.
+- **Candidats étrangers/visa/relocation :** Non vérifiable — Aucune preuve publique suffisamment précise de visa, relocation ou embauche internationale n’a été confirmée pour un poste junior adapté.
+- **Offres actives :** Aucune offre correspondant au profil n’a pu être confirmée active le 2026-09-25; utiliser la candidature spontanée et revérifier le canal officiel avant envoi.
+- **Contact :** Non trouvé/non vérifiable — Aucun recruteur ou responsable actuel suffisamment fiable identifié
 - **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
+- **Email :** Aucun email public vérifié (Les adresses du CSV n’ont pas été considérées comme vérifiées sans publication publique correspondante)
 - **Canal officiel :** Non trouvé/non vérifiable
 - **CV conseillé :** `CV_ATS_EN.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
+- **Sources :** Recherches web ciblées du 2026-09-25 — aucun résultat suffisamment pertinent conservé
+- **Vérifié le :** 2026-09-25 — Recherche publique effectuée — candidature spontanée; canal/contact à confirmer avant envoi
 
-**Objet :** Junior AI, Data & Software Engineering Application – Mohamed Oussema Bahloul
+**Objet :** Spontaneous Application — Junior AI / Software Engineer — Mohamed Oussema Bahloul
 
 **Email prêt à envoyer**
 
-Dear Hiring Team,
+Dear Alta Via Consulting GmbH Recruitment Team,
 
-I would like to apply to Alta Via Consulting GmbH for an entry-level opportunity aligned with my computer engineering background, particularly in informatique, automatisation, Data/IA ou transformation digitale.
+I am a recent Computer Engineering graduate from ENSI in Tunisia, specialised in Financial Engineering, and I would like to submit a spontaneous application for a junior opportunity aligned with my background.
 
-I recently graduated as a Computer Engineer from ENSI, specializing in Financial Engineering. My background includes Python, Java, C++, full-stack development, databases, machine learning, and generative AI. During my final-year project at Linedata, I built an agentic AI solution to modernize a complex software product, combining business analysis, development, and automation.
+During my final-year project at Linedata, I helped modernise a financial software product using AI agents. This experience taught me how to understand a business need, turn it into an intelligent workflow and integrate it into an existing product. My background includes Python, Java, C++, full-stack development, APIs, SQL and databases, machine learning, LLMs and RAG.
 
-I am looking for a first full-time opportunity where I can learn quickly, take ownership, and turn real business needs into useful solutions. I am open to roles consistent with my degree and would welcome a conversation about your current or upcoming needs. I am based in Tunisia and open to relocation or an international remote arrangement where available.
+I am interested in Alta Via Consulting GmbH because of its work in software engineering, data and applied AI. I am looking for a team where I can learn quickly, take ownership progressively and use technology to create measurable value for users and the business.
 
-My CV is attached for your consideration. Thank you for your time.
+I have not found a currently open junior vacancy that I can confirm, so I am contacting you transparently as a spontaneous candidate for a present or future need. My CV is attached, and I would be pleased to discuss any suitable opportunity.
 
 Kind regards,
 Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
 
 **Invitation LinkedIn**
 
-Hello, I am an ENSI Computer Engineering graduate interested in junior opportunities at Alta Via Consulting GmbH. I would be glad to connect and learn which profiles your team is currently seeking.
+Hello, I am a recent ENSI Computer Engineering graduate specialised in Financial Engineering. My Linedata project combined AI agents and product modernisation. I am interested in future junior AI, Data or Software opportunities at Alta Via Consulting GmbH. Glad to connect.
 
 **Message après acceptation**
 
-Hello, thank you for accepting my invitation. I am seeking an entry-level opportunity at Alta Via Consulting GmbH in informatique, automatisation, Data/IA ou transformation digitale. My final-year project at Linedata focused on modernizing a financial product with AI agents. May I share my CV or ask who the right contact would be?
-
----
-
-### Amalytics
-
-- **Pays :** France
-- **Adresse(s) source :** AMALYTICS, 61 RUE DE LYON 75012 PARIS
-- **Domaine :** Autre / à vérifier
-- **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
-- **Potentiel :** 33/100 — D — Faible priorité
-- **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Bonjour,
-
-Je souhaite proposer ma candidature à Amalytics pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de informatique, automatisation, Data/IA ou transformation digitale.
-
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
-
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
-
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
-
-Bien cordialement,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez Amalytics. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
-
-**Message après acceptation**
-
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez Amalytics autour de informatique, automatisation, Data/IA ou transformation digitale. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
-
----
-
-### ARHS Group
-
-- **Pays :** Luxembourg
-- **Adresse(s) source :** 13 Bd du Jazz, 4370 Esch-Belval Esch-sur-Alzette, Luxembourg
-- **Domaine :** Autre / à vérifier
-- **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
-- **Potentiel :** 33/100 — D — Faible priorité
-- **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Bonjour,
-
-Je souhaite proposer ma candidature à ARHS Group pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de informatique, automatisation, Data/IA ou transformation digitale.
-
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
-
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
-
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
-
-Bien cordialement,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez ARHS Group. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
-
-**Message après acceptation**
-
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez ARHS Group autour de informatique, automatisation, Data/IA ou transformation digitale. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
-
----
-
-### ARHS GROUP - Part of Accenture
-
-- **Pays :** Luxembourg
-- **Adresse(s) source :** 13 Bd du Jazz, 4370 Esch-Belval Esch-sur-Alzette, Luxembourg
-- **Domaine :** Autre / à vérifier
-- **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
-- **Potentiel :** 33/100 — D — Faible priorité
-- **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Bonjour,
-
-Je souhaite proposer ma candidature à ARHS GROUP - Part of Accenture pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de informatique, automatisation, Data/IA ou transformation digitale.
-
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
-
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
-
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
-
-Bien cordialement,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez ARHS GROUP - Part of Accenture. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
-
-**Message après acceptation**
-
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez ARHS GROUP - Part of Accenture autour de informatique, automatisation, Data/IA ou transformation digitale. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
-
----
-
-### AUTRIS
-
-- **Pays :** France
-- **Adresse(s) source :** RUE DE SILLY 92100 BOULOGNE-BILLANCOURT
-- **Domaine :** Autre / à vérifier
-- **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
-- **Potentiel :** 33/100 — D — Faible priorité
-- **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Bonjour,
-
-Je souhaite proposer ma candidature à AUTRIS pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de informatique, automatisation, Data/IA ou transformation digitale.
-
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
-
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
-
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
-
-Bien cordialement,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez AUTRIS. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
-
-**Message après acceptation**
-
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez AUTRIS autour de informatique, automatisation, Data/IA ou transformation digitale. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
-
----
-
-### Azertysoft
-
-- **Pays :** Canada
-- **Adresse(s) source :** 7425 chemin canora, Montréal
-- **Domaine :** Autre / à vérifier
-- **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
-- **Potentiel :** 33/100 — D — Faible priorité
-- **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Bonjour,
-
-Je souhaite proposer ma candidature à Azertysoft pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de informatique, automatisation, Data/IA ou transformation digitale.
-
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
-
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
-
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
-
-Bien cordialement,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez Azertysoft. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
-
-**Message après acceptation**
-
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez Azertysoft autour de informatique, automatisation, Data/IA ou transformation digitale. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
-
----
-
-### AzertyUI
-
-- **Pays :** France
-- **Adresse(s) source :** 29 Rue des écoles, 26120 Mallisard
-- **Domaine :** Autre / à vérifier
-- **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
-- **Potentiel :** 33/100 — D — Faible priorité
-- **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Bonjour,
-
-Je souhaite proposer ma candidature à AzertyUI pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de informatique, automatisation, Data/IA ou transformation digitale.
-
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
-
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
-
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
-
-Bien cordialement,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez AzertyUI. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
-
-**Message après acceptation**
-
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez AzertyUI autour de informatique, automatisation, Data/IA ou transformation digitale. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
+Thank you for connecting. I am exploring junior AI, Data and Software opportunities at Alta Via Consulting GmbH. I have not treated any old vacancy as active; my spontaneous application highlights my Linedata AI-agent project, software skills and ability to connect technology with business value. Could you please direct me to the appropriate hiring contact?
 
 ---
 
@@ -4072,139 +3304,41 @@ Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opp
 - **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
 - **Potentiel :** 33/100 — D — Faible priorité
 - **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
+- **Ouverture aux juniors :** Non vérifiable — Aucune preuve publique suffisamment récente d’un recrutement junior n’a été identifiée dans les résultats consultés.
+- **Candidats étrangers/visa/relocation :** Non vérifiable — Aucune preuve publique suffisamment précise de visa, relocation ou embauche internationale n’a été confirmée pour un poste junior adapté.
+- **Offres actives :** Aucune offre correspondant au profil n’a pu être confirmée active le 2026-09-25; utiliser la candidature spontanée et revérifier le canal officiel avant envoi.
+- **Contact :** Non trouvé/non vérifiable — Aucun recruteur ou responsable actuel suffisamment fiable identifié
 - **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
+- **Email :** Aucun email public vérifié (Les adresses du CSV n’ont pas été considérées comme vérifiées sans publication publique correspondante)
 - **Canal officiel :** Non trouvé/non vérifiable
 - **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
+- **Sources :** Recherches web ciblées du 2026-09-25 — aucun résultat suffisamment pertinent conservé
+- **Vérifié le :** 2026-09-25 — Recherche publique effectuée — candidature spontanée; canal/contact à confirmer avant envoi
 
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
+**Objet :** Candidature spontanée — Ingénieur informatique junior — Mohamed Oussema Bahloul
 
 **Email prêt à envoyer**
 
 Bonjour,
 
-Je souhaite proposer ma candidature à BA-CONSULTING pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de informatique, automatisation, Data/IA ou transformation digitale.
+Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je souhaite proposer ma candidature spontanée à BA-CONSULTING pour une première opportunité correspondant à mon profil.
 
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
+Mon PFE chez Linedata a porté sur la modernisation d’un produit financier à l’aide d’agents IA. Cette expérience m’a appris à comprendre un besoin métier, le traduire en workflows intelligents puis contribuer à son intégration dans un produit existant. Je maîtrise Python, Java, C++, le développement full-stack, les APIs, SQL et les bases de données, le machine learning, les LLM et les architectures RAG.
 
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
+Je m’intéresse à BA-CONSULTING pour ses activités autour de le développement logiciel, la Data et l’intelligence artificielle appliquée. Je recherche un environnement où je pourrai apprendre rapidement, prendre progressivement des responsabilités et utiliser la technologie pour créer une valeur concrète.
 
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
-
-Bien cordialement,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez BA-CONSULTING. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
-
-**Message après acceptation**
-
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez BA-CONSULTING autour de informatique, automatisation, Data/IA ou transformation digitale. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
-
----
-
-### BMCI
-
-- **Pays :** Mauritanie
-- **Adresse(s) source :** Avenue Gamal Abdel Nasser BP 622, Nouakchott, Mauritanie.
-- **Domaine :** Autre / à vérifier
-- **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
-- **Potentiel :** 33/100 — D — Faible priorité
-- **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Bonjour,
-
-Je souhaite proposer ma candidature à BMCI pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de informatique, automatisation, Data/IA ou transformation digitale.
-
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
-
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
-
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
+N’ayant pas trouvé d’offre junior actuellement ouverte que je puisse confirmer, je vous contacte en toute transparence dans le cadre d’une candidature spontanée pour un besoin présent ou futur. Je joins mon CV et serais ravi d’échanger avec vous.
 
 Bien cordialement,
 Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
 
 **Invitation LinkedIn**
 
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez BMCI. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
+Bonjour, récemment diplômé ingénieur ENSI et spécialisé en ingénierie financière, j’ai réalisé chez Linedata un PFE sur des agents IA. Je m’intéresse aux futurs besoins junior en IA, Data ou logiciel chez BA-CONSULTING. Ravi de rejoindre votre réseau.
 
 **Message après acceptation**
 
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez BMCI autour de informatique, automatisation, Data/IA ou transformation digitale. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
-
----
-
-### BMW Group
-
-- **Pays :** Allemagne
-- **Adresse(s) source :** Knorrstraße 147 Munich 80937
-- **Domaine :** Autre / à vérifier
-- **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
-- **Potentiel :** 33/100 — D — Faible priorité
-- **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS_EN.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Junior AI, Data & Software Engineering Application – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Dear Hiring Team,
-
-I would like to apply to BMW Group for an entry-level opportunity aligned with my computer engineering background, particularly in informatique, automatisation, Data/IA ou transformation digitale.
-
-I recently graduated as a Computer Engineer from ENSI, specializing in Financial Engineering. My background includes Python, Java, C++, full-stack development, databases, machine learning, and generative AI. During my final-year project at Linedata, I built an agentic AI solution to modernize a complex software product, combining business analysis, development, and automation.
-
-I am looking for a first full-time opportunity where I can learn quickly, take ownership, and turn real business needs into useful solutions. I am open to roles consistent with my degree and would welcome a conversation about your current or upcoming needs. I am based in Tunisia and open to relocation or an international remote arrangement where available.
-
-My CV is attached for your consideration. Thank you for your time.
-
-Kind regards,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Hello, I am an ENSI Computer Engineering graduate interested in junior opportunities at BMW Group. I would be glad to connect and learn which profiles your team is currently seeking.
-
-**Message après acceptation**
-
-Hello, thank you for accepting my invitation. I am seeking an entry-level opportunity at BMW Group in informatique, automatisation, Data/IA ou transformation digitale. My final-year project at Linedata focused on modernizing a financial product with AI agents. May I share my CV or ask who the right contact would be?
+Bonjour, merci pour la connexion. Je m’intéresse aux opportunités junior en IA, Data et logiciel chez BA-CONSULTING. Je n’ai présenté aucune ancienne annonce comme active; ma candidature spontanée met en avant mon PFE Linedata, mon socle logiciel et ma capacité à relier technologie et valeur métier. Pourriez-vous m’orienter vers le bon interlocuteur ?
 
 ---
 
@@ -4216,331 +3350,41 @@ Hello, thank you for accepting my invitation. I am seeking an entry-level opport
 - **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
 - **Potentiel :** 33/100 — D — Faible priorité
 - **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
+- **Ouverture aux juniors :** Non vérifiable — Aucune preuve publique suffisamment récente d’un recrutement junior n’a été identifiée dans les résultats consultés.
+- **Candidats étrangers/visa/relocation :** Non vérifiable — Aucune preuve publique suffisamment précise de visa, relocation ou embauche internationale n’a été confirmée pour un poste junior adapté.
+- **Offres actives :** Aucune offre correspondant au profil n’a pu être confirmée active le 2026-09-25; utiliser la candidature spontanée et revérifier le canal officiel avant envoi.
+- **Contact :** Non trouvé/non vérifiable — Aucun recruteur ou responsable actuel suffisamment fiable identifié
 - **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
+- **Email :** Aucun email public vérifié (Les adresses du CSV n’ont pas été considérées comme vérifiées sans publication publique correspondante)
 - **Canal officiel :** Non trouvé/non vérifiable
 - **CV conseillé :** `CV_ATS_EN.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
+- **Sources :** Recherches web ciblées du 2026-09-25 — aucun résultat suffisamment pertinent conservé
+- **Vérifié le :** 2026-09-25 — Recherche publique effectuée — candidature spontanée; canal/contact à confirmer avant envoi
 
-**Objet :** Junior AI, Data & Software Engineering Application – Mohamed Oussema Bahloul
+**Objet :** Spontaneous Application — Junior AI / Software Engineer — Mohamed Oussema Bahloul
 
 **Email prêt à envoyer**
 
-Dear Hiring Team,
+Dear calgra group Recruitment Team,
 
-I would like to apply to calgra group for an entry-level opportunity aligned with my computer engineering background, particularly in informatique, automatisation, Data/IA ou transformation digitale.
+I am a recent Computer Engineering graduate from ENSI in Tunisia, specialised in Financial Engineering, and I would like to submit a spontaneous application for a junior opportunity aligned with my background.
 
-I recently graduated as a Computer Engineer from ENSI, specializing in Financial Engineering. My background includes Python, Java, C++, full-stack development, databases, machine learning, and generative AI. During my final-year project at Linedata, I built an agentic AI solution to modernize a complex software product, combining business analysis, development, and automation.
+During my final-year project at Linedata, I helped modernise a financial software product using AI agents. This experience taught me how to understand a business need, turn it into an intelligent workflow and integrate it into an existing product. My background includes Python, Java, C++, full-stack development, APIs, SQL and databases, machine learning, LLMs and RAG.
 
-I am looking for a first full-time opportunity where I can learn quickly, take ownership, and turn real business needs into useful solutions. I am open to roles consistent with my degree and would welcome a conversation about your current or upcoming needs. I am based in Tunisia and open to relocation or an international remote arrangement where available.
+I am interested in calgra group because of its work in software engineering, data and applied AI. I am looking for a team where I can learn quickly, take ownership progressively and use technology to create measurable value for users and the business.
 
-My CV is attached for your consideration. Thank you for your time.
+I have not found a currently open junior vacancy that I can confirm, so I am contacting you transparently as a spontaneous candidate for a present or future need. My CV is attached, and I would be pleased to discuss any suitable opportunity.
 
 Kind regards,
 Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
 
 **Invitation LinkedIn**
 
-Hello, I am an ENSI Computer Engineering graduate interested in junior opportunities at calgra group. I would be glad to connect and learn which profiles your team is currently seeking.
+Hello, I am a recent ENSI Computer Engineering graduate specialised in Financial Engineering. My Linedata project combined AI agents and product modernisation. I am interested in future junior AI, Data or Software opportunities at calgra group. Glad to connect.
 
 **Message après acceptation**
 
-Hello, thank you for accepting my invitation. I am seeking an entry-level opportunity at calgra group in informatique, automatisation, Data/IA ou transformation digitale. My final-year project at Linedata focused on modernizing a financial product with AI agents. May I share my CV or ask who the right contact would be?
-
----
-
-### CEDE Labs
-
-- **Pays :** France
-- **Adresse(s) source :** 229 rue Saint-Honoré, 75001, France
-- **Domaine :** Autre / à vérifier
-- **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
-- **Potentiel :** 33/100 — D — Faible priorité
-- **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Bonjour,
-
-Je souhaite proposer ma candidature à CEDE Labs pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de informatique, automatisation, Data/IA ou transformation digitale.
-
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
-
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
-
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
-
-Bien cordialement,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez CEDE Labs. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
-
-**Message après acceptation**
-
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez CEDE Labs autour de informatique, automatisation, Data/IA ou transformation digitale. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
-
----
-
-### CITADEL
-
-- **Pays :** Burkina Faso
-- **Adresse(s) source :** BP : 64 Ouagadougou Cité AN II - Burkina Faso
-- **Domaine :** Autre / à vérifier
-- **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
-- **Potentiel :** 33/100 — D — Faible priorité
-- **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS_EN.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Junior AI, Data & Software Engineering Application – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Dear Hiring Team,
-
-I would like to apply to CITADEL for an entry-level opportunity aligned with my computer engineering background, particularly in informatique, automatisation, Data/IA ou transformation digitale.
-
-I recently graduated as a Computer Engineer from ENSI, specializing in Financial Engineering. My background includes Python, Java, C++, full-stack development, databases, machine learning, and generative AI. During my final-year project at Linedata, I built an agentic AI solution to modernize a complex software product, combining business analysis, development, and automation.
-
-I am looking for a first full-time opportunity where I can learn quickly, take ownership, and turn real business needs into useful solutions. I am open to roles consistent with my degree and would welcome a conversation about your current or upcoming needs. I am based in Tunisia and open to relocation or an international remote arrangement where available.
-
-My CV is attached for your consideration. Thank you for your time.
-
-Kind regards,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Hello, I am an ENSI Computer Engineering graduate interested in junior opportunities at CITADEL. I would be glad to connect and learn which profiles your team is currently seeking.
-
-**Message après acceptation**
-
-Hello, thank you for accepting my invitation. I am seeking an entry-level opportunity at CITADEL in informatique, automatisation, Data/IA ou transformation digitale. My final-year project at Linedata focused on modernizing a financial product with AI agents. May I share my CV or ask who the right contact would be?
-
----
-
-### CloudSquid
-
-- **Pays :** Allemagne
-- **Adresse(s) source :** Berlin, Germany
-- **Domaine :** Autre / à vérifier
-- **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
-- **Potentiel :** 33/100 — D — Faible priorité
-- **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS_EN.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Junior AI, Data & Software Engineering Application – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Dear Hiring Team,
-
-I would like to apply to CloudSquid for an entry-level opportunity aligned with my computer engineering background, particularly in informatique, automatisation, Data/IA ou transformation digitale.
-
-I recently graduated as a Computer Engineer from ENSI, specializing in Financial Engineering. My background includes Python, Java, C++, full-stack development, databases, machine learning, and generative AI. During my final-year project at Linedata, I built an agentic AI solution to modernize a complex software product, combining business analysis, development, and automation.
-
-I am looking for a first full-time opportunity where I can learn quickly, take ownership, and turn real business needs into useful solutions. I am open to roles consistent with my degree and would welcome a conversation about your current or upcoming needs. I am based in Tunisia and open to relocation or an international remote arrangement where available.
-
-My CV is attached for your consideration. Thank you for your time.
-
-Kind regards,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Hello, I am an ENSI Computer Engineering graduate interested in junior opportunities at CloudSquid. I would be glad to connect and learn which profiles your team is currently seeking.
-
-**Message après acceptation**
-
-Hello, thank you for accepting my invitation. I am seeking an entry-level opportunity at CloudSquid in informatique, automatisation, Data/IA ou transformation digitale. My final-year project at Linedata focused on modernizing a financial product with AI agents. May I share my CV or ask who the right contact would be?
-
----
-
-### CODOC
-
-- **Pays :** France
-- **Adresse(s) source :** 16 rue du caire 75002 paris
-- **Domaine :** Autre / à vérifier
-- **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
-- **Potentiel :** 33/100 — D — Faible priorité
-- **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Bonjour,
-
-Je souhaite proposer ma candidature à CODOC pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de informatique, automatisation, Data/IA ou transformation digitale.
-
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
-
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
-
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
-
-Bien cordialement,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez CODOC. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
-
-**Message après acceptation**
-
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez CODOC autour de informatique, automatisation, Data/IA ou transformation digitale. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
-
----
-
-### Commissariat à l’énergie atomique et aux énergies alternatives-CEA
-
-- **Pays :** France
-- **Adresse(s) source :** 2 Bd Thomas GOBERT 91120 PALAISEAU France | Point Courrier 174 F-91191 Gif-sur-Yvette Cedex,ile de france , France
-- **Domaine :** Autre / à vérifier
-- **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
-- **Potentiel :** 33/100 — D — Faible priorité
-- **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Bonjour,
-
-Je souhaite proposer ma candidature à Commissariat à l’énergie atomique et aux énergies alternatives-CEA pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de informatique, automatisation, Data/IA ou transformation digitale.
-
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
-
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
-
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
-
-Bien cordialement,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez Commissariat à l’énergie atomique et aux énergies alternatives-CEA. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
-
-**Message après acceptation**
-
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez Commissariat à l’énergie atomique et aux énergies alternatives-CEA autour de informatique, automatisation, Data/IA ou transformation digitale. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
-
----
-
-### Coopérathon Canada
-
-- **Pays :** Canada
-- **Adresse(s) source :** Montreal, Quebec, Canada
-- **Domaine :** Autre / à vérifier
-- **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
-- **Potentiel :** 33/100 — D — Faible priorité
-- **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Bonjour,
-
-Je souhaite proposer ma candidature à Coopérathon Canada pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de informatique, automatisation, Data/IA ou transformation digitale.
-
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
-
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
-
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
-
-Bien cordialement,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez Coopérathon Canada. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
-
-**Message après acceptation**
-
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez Coopérathon Canada autour de informatique, automatisation, Data/IA ou transformation digitale. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
+Thank you for connecting. I am exploring junior AI, Data and Software opportunities at calgra group. I have not treated any old vacancy as active; my spontaneous application highlights my Linedata AI-agent project, software skills and ability to connect technology with business value. Could you please direct me to the appropriate hiring contact?
 
 ---
 
@@ -4552,43 +3396,41 @@ Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opp
 - **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
 - **Potentiel :** 33/100 — D — Faible priorité
 - **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
+- **Ouverture aux juniors :** Non vérifiable — Aucune preuve publique suffisamment récente d’un recrutement junior n’a été identifiée dans les résultats consultés.
+- **Candidats étrangers/visa/relocation :** Non vérifiable — Aucune preuve publique suffisamment précise de visa, relocation ou embauche internationale n’a été confirmée pour un poste junior adapté.
+- **Offres actives :** Aucune offre correspondant au profil n’a pu être confirmée active le 2026-09-25; utiliser la candidature spontanée et revérifier le canal officiel avant envoi.
+- **Contact :** Non trouvé/non vérifiable — Aucun recruteur ou responsable actuel suffisamment fiable identifié
 - **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
+- **Email :** Aucun email public vérifié (Les adresses du CSV n’ont pas été considérées comme vérifiées sans publication publique correspondante)
 - **Canal officiel :** Non trouvé/non vérifiable
 - **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
+- **Sources :** Recherches web ciblées du 2026-09-25 — aucun résultat suffisamment pertinent conservé
+- **Vérifié le :** 2026-09-25 — Recherche publique effectuée — candidature spontanée; canal/contact à confirmer avant envoi
 
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
+**Objet :** Candidature spontanée — Ingénieur informatique junior — Mohamed Oussema Bahloul
 
 **Email prêt à envoyer**
 
 Bonjour,
 
-Je souhaite proposer ma candidature à cordya pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de informatique, automatisation, Data/IA ou transformation digitale.
+Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je souhaite proposer ma candidature spontanée à cordya pour une première opportunité correspondant à mon profil.
 
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
+Mon PFE chez Linedata a porté sur la modernisation d’un produit financier à l’aide d’agents IA. Cette expérience m’a appris à comprendre un besoin métier, le traduire en workflows intelligents puis contribuer à son intégration dans un produit existant. Je maîtrise Python, Java, C++, le développement full-stack, les APIs, SQL et les bases de données, le machine learning, les LLM et les architectures RAG.
 
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
+Je m’intéresse à cordya pour ses activités autour de le développement logiciel, la Data et l’intelligence artificielle appliquée. Je recherche un environnement où je pourrai apprendre rapidement, prendre progressivement des responsabilités et utiliser la technologie pour créer une valeur concrète.
 
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
+N’ayant pas trouvé d’offre junior actuellement ouverte que je puisse confirmer, je vous contacte en toute transparence dans le cadre d’une candidature spontanée pour un besoin présent ou futur. Je joins mon CV et serais ravi d’échanger avec vous.
 
 Bien cordialement,
 Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
 
 **Invitation LinkedIn**
 
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez cordya. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
+Bonjour, récemment diplômé ingénieur ENSI et spécialisé en ingénierie financière, j’ai réalisé chez Linedata un PFE sur des agents IA. Je m’intéresse aux futurs besoins junior en IA, Data ou logiciel chez cordya. Ravi de rejoindre votre réseau.
 
 **Message après acceptation**
 
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez cordya autour de informatique, automatisation, Data/IA ou transformation digitale. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
+Bonjour, merci pour la connexion. Je m’intéresse aux opportunités junior en IA, Data et logiciel chez cordya. Je n’ai présenté aucune ancienne annonce comme active; ma candidature spontanée met en avant mon PFE Linedata, mon socle logiciel et ma capacité à relier technologie et valeur métier. Pourriez-vous m’orienter vers le bon interlocuteur ?
 
 ---
 
@@ -4600,283 +3442,41 @@ Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opp
 - **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
 - **Potentiel :** 33/100 — D — Faible priorité
 - **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
+- **Ouverture aux juniors :** Non vérifiable — Aucune preuve publique suffisamment récente d’un recrutement junior n’a été identifiée dans les résultats consultés.
+- **Candidats étrangers/visa/relocation :** Non vérifiable — Aucune preuve publique suffisamment précise de visa, relocation ou embauche internationale n’a été confirmée pour un poste junior adapté.
+- **Offres actives :** Aucune offre correspondant au profil n’a pu être confirmée active le 2026-09-25; utiliser la candidature spontanée et revérifier le canal officiel avant envoi.
+- **Contact :** Non trouvé/non vérifiable — Aucun recruteur ou responsable actuel suffisamment fiable identifié
 - **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
+- **Email :** Aucun email public vérifié (Les adresses du CSV n’ont pas été considérées comme vérifiées sans publication publique correspondante)
 - **Canal officiel :** Non trouvé/non vérifiable
 - **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
+- **Sources :** Recherches web ciblées du 2026-09-25 — aucun résultat suffisamment pertinent conservé
+- **Vérifié le :** 2026-09-25 — Recherche publique effectuée — candidature spontanée; canal/contact à confirmer avant envoi
 
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
+**Objet :** Candidature spontanée — Ingénieur informatique junior — Mohamed Oussema Bahloul
 
 **Email prêt à envoyer**
 
 Bonjour,
 
-Je souhaite proposer ma candidature à Cosider canalisation pôle H31 pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de informatique, automatisation, Data/IA ou transformation digitale.
+Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je souhaite proposer ma candidature spontanée à Cosider canalisation pôle H31 pour une première opportunité correspondant à mon profil.
 
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
+Mon PFE chez Linedata a porté sur la modernisation d’un produit financier à l’aide d’agents IA. Cette expérience m’a appris à comprendre un besoin métier, le traduire en workflows intelligents puis contribuer à son intégration dans un produit existant. Je maîtrise Python, Java, C++, le développement full-stack, les APIs, SQL et les bases de données, le machine learning, les LLM et les architectures RAG.
 
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
+Je m’intéresse à Cosider canalisation pôle H31 pour ses activités autour de le développement logiciel, la Data et l’intelligence artificielle appliquée. Je recherche un environnement où je pourrai apprendre rapidement, prendre progressivement des responsabilités et utiliser la technologie pour créer une valeur concrète.
 
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
-
-Bien cordialement,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez Cosider canalisation pôle H31. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
-
-**Message après acceptation**
-
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez Cosider canalisation pôle H31 autour de informatique, automatisation, Data/IA ou transformation digitale. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
-
----
-
-### CRAB Traceability Systems
-
-- **Pays :** Luxembourg
-- **Adresse(s) source :** 6A, avenue des hauts-fourneaux, L-4362 Esch-sur-Alzette / en ligne | : 6A, avenue des hauts-fourneaux, L-4362 Esch-sur-Alzette / en ligne
-- **Domaine :** Autre / à vérifier
-- **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
-- **Potentiel :** 33/100 — D — Faible priorité
-- **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Bonjour,
-
-Je souhaite proposer ma candidature à CRAB Traceability Systems pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de informatique, automatisation, Data/IA ou transformation digitale.
-
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
-
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
-
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
+N’ayant pas trouvé d’offre junior actuellement ouverte que je puisse confirmer, je vous contacte en toute transparence dans le cadre d’une candidature spontanée pour un besoin présent ou futur. Je joins mon CV et serais ravi d’échanger avec vous.
 
 Bien cordialement,
 Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
 
 **Invitation LinkedIn**
 
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez CRAB Traceability Systems. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
+Bonjour, récemment diplômé ingénieur ENSI et spécialisé en ingénierie financière, j’ai réalisé chez Linedata un PFE sur des agents IA. Je m’intéresse aux futurs besoins junior en IA, Data ou logiciel chez Cosider canalisation pôle H31. Ravi de rejoindre votre réseau.
 
 **Message après acceptation**
 
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez CRAB Traceability Systems autour de informatique, automatisation, Data/IA ou transformation digitale. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
-
----
-
-### Dassault Systèmes
-
-- **Pays :** France
-- **Adresse(s) source :** 10, rue Marcel Dassault —78140 VELIZY VILLACOUBLAY CEDEX France | 1O rue marcel dassault Vélizy Villacoublay France
-- **Domaine :** Autre / à vérifier
-- **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
-- **Potentiel :** 33/100 — D — Faible priorité
-- **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Bonjour,
-
-Je souhaite proposer ma candidature à Dassault Systèmes pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de informatique, automatisation, Data/IA ou transformation digitale.
-
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
-
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
-
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
-
-Bien cordialement,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez Dassault Systèmes. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
-
-**Message après acceptation**
-
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez Dassault Systèmes autour de informatique, automatisation, Data/IA ou transformation digitale. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
-
----
-
-### Deep Learn Strategies Limited
-
-- **Pays :** Royaume-Uni
-- **Adresse(s) source :** Ground Floor, 2 Woodberry Grove, London, England, N12 0DR
-- **Domaine :** Autre / à vérifier
-- **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
-- **Potentiel :** 33/100 — D — Faible priorité
-- **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS_EN.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Junior AI, Data & Software Engineering Application – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Dear Hiring Team,
-
-I would like to apply to Deep Learn Strategies Limited for an entry-level opportunity aligned with my computer engineering background, particularly in informatique, automatisation, Data/IA ou transformation digitale.
-
-I recently graduated as a Computer Engineer from ENSI, specializing in Financial Engineering. My background includes Python, Java, C++, full-stack development, databases, machine learning, and generative AI. During my final-year project at Linedata, I built an agentic AI solution to modernize a complex software product, combining business analysis, development, and automation.
-
-I am looking for a first full-time opportunity where I can learn quickly, take ownership, and turn real business needs into useful solutions. I am open to roles consistent with my degree and would welcome a conversation about your current or upcoming needs. I am based in Tunisia and open to relocation or an international remote arrangement where available.
-
-My CV is attached for your consideration. Thank you for your time.
-
-Kind regards,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Hello, I am an ENSI Computer Engineering graduate interested in junior opportunities at Deep Learn Strategies Limited. I would be glad to connect and learn which profiles your team is currently seeking.
-
-**Message après acceptation**
-
-Hello, thank you for accepting my invitation. I am seeking an entry-level opportunity at Deep Learn Strategies Limited in informatique, automatisation, Data/IA ou transformation digitale. My final-year project at Linedata focused on modernizing a financial product with AI agents. May I share my CV or ask who the right contact would be?
-
----
-
-### DISP
-
-- **Pays :** France
-- **Adresse(s) source :** 18 Quai Claude Bernard 69007 Lyon
-- **Domaine :** Autre / à vérifier
-- **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
-- **Potentiel :** 33/100 — D — Faible priorité
-- **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Bonjour,
-
-Je souhaite proposer ma candidature à DISP pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de informatique, automatisation, Data/IA ou transformation digitale.
-
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
-
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
-
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
-
-Bien cordialement,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez DISP. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
-
-**Message après acceptation**
-
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez DISP autour de informatique, automatisation, Data/IA ou transformation digitale. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
-
----
-
-### ENSTA Bretagne
-
-- **Pays :** France
-- **Adresse(s) source :** ENSTA Bretagne, 2 rue François Verny, 29806 BREST Cedex 9
-- **Domaine :** Autre / à vérifier
-- **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
-- **Potentiel :** 33/100 — D — Faible priorité
-- **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** https://lannuaire.service-public.gouv.fr/gouvernement/e789f321-05a2-4dc2-9367-c7d7228334a7
-- **Vérifié le :** 2026-09-25 — Localisation vérifiée — recrutement à rechercher
-
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Bonjour,
-
-Je souhaite proposer ma candidature à ENSTA Bretagne pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de informatique, automatisation, Data/IA ou transformation digitale.
-
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
-
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
-
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
-
-Bien cordialement,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez ENSTA Bretagne. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
-
-**Message après acceptation**
-
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez ENSTA Bretagne autour de informatique, automatisation, Data/IA ou transformation digitale. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
+Bonjour, merci pour la connexion. Je m’intéresse aux opportunités junior en IA, Data et logiciel chez Cosider canalisation pôle H31. Je n’ai présenté aucune ancienne annonce comme active; ma candidature spontanée met en avant mon PFE Linedata, mon socle logiciel et ma capacité à relier technologie et valeur métier. Pourriez-vous m’orienter vers le bon interlocuteur ?
 
 ---
 
@@ -4888,91 +3488,41 @@ Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opp
 - **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
 - **Potentiel :** 33/100 — D — Faible priorité
 - **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
+- **Ouverture aux juniors :** Non vérifiable — Aucune preuve publique suffisamment récente d’un recrutement junior n’a été identifiée dans les résultats consultés.
+- **Candidats étrangers/visa/relocation :** Non vérifiable — Aucune preuve publique suffisamment précise de visa, relocation ou embauche internationale n’a été confirmée pour un poste junior adapté.
+- **Offres actives :** Aucune offre correspondant au profil n’a pu être confirmée active le 2026-09-25; utiliser la candidature spontanée et revérifier le canal officiel avant envoi.
+- **Contact :** Non trouvé/non vérifiable — Aucun recruteur ou responsable actuel suffisamment fiable identifié
 - **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
+- **Email :** Aucun email public vérifié (Les adresses du CSV n’ont pas été considérées comme vérifiées sans publication publique correspondante)
 - **Canal officiel :** Non trouvé/non vérifiable
 - **CV conseillé :** `CV_ATS_EN.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
+- **Sources :** Recherches web ciblées du 2026-09-25 — aucun résultat suffisamment pertinent conservé
+- **Vérifié le :** 2026-09-25 — Recherche publique effectuée — candidature spontanée; canal/contact à confirmer avant envoi
 
-**Objet :** Junior AI, Data & Software Engineering Application – Mohamed Oussema Bahloul
+**Objet :** Spontaneous Application — Junior AI / Software Engineer — Mohamed Oussema Bahloul
 
 **Email prêt à envoyer**
 
-Dear Hiring Team,
+Dear Envite Consulting GmbH Recruitment Team,
 
-I would like to apply to Envite Consulting GmbH for an entry-level opportunity aligned with my computer engineering background, particularly in informatique, automatisation, Data/IA ou transformation digitale.
+I am a recent Computer Engineering graduate from ENSI in Tunisia, specialised in Financial Engineering, and I would like to submit a spontaneous application for a junior opportunity aligned with my background.
 
-I recently graduated as a Computer Engineer from ENSI, specializing in Financial Engineering. My background includes Python, Java, C++, full-stack development, databases, machine learning, and generative AI. During my final-year project at Linedata, I built an agentic AI solution to modernize a complex software product, combining business analysis, development, and automation.
+During my final-year project at Linedata, I helped modernise a financial software product using AI agents. This experience taught me how to understand a business need, turn it into an intelligent workflow and integrate it into an existing product. My background includes Python, Java, C++, full-stack development, APIs, SQL and databases, machine learning, LLMs and RAG.
 
-I am looking for a first full-time opportunity where I can learn quickly, take ownership, and turn real business needs into useful solutions. I am open to roles consistent with my degree and would welcome a conversation about your current or upcoming needs. I am based in Tunisia and open to relocation or an international remote arrangement where available.
+I am interested in Envite Consulting GmbH because of its work in software engineering, data and applied AI. I am looking for a team where I can learn quickly, take ownership progressively and use technology to create measurable value for users and the business.
 
-My CV is attached for your consideration. Thank you for your time.
+I have not found a currently open junior vacancy that I can confirm, so I am contacting you transparently as a spontaneous candidate for a present or future need. My CV is attached, and I would be pleased to discuss any suitable opportunity.
 
 Kind regards,
 Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
 
 **Invitation LinkedIn**
 
-Hello, I am an ENSI Computer Engineering graduate interested in junior opportunities at Envite Consulting GmbH. I would be glad to connect and learn which profiles your team is currently seeking.
+Hello, I am a recent ENSI Computer Engineering graduate specialised in Financial Engineering. My Linedata project combined AI agents and product modernisation. I am interested in future junior AI, Data or Software opportunities at Envite Consulting GmbH. Glad to connect.
 
 **Message après acceptation**
 
-Hello, thank you for accepting my invitation. I am seeking an entry-level opportunity at Envite Consulting GmbH in informatique, automatisation, Data/IA ou transformation digitale. My final-year project at Linedata focused on modernizing a financial product with AI agents. May I share my CV or ask who the right contact would be?
-
----
-
-### ESIGELEC
-
-- **Pays :** France
-- **Adresse(s) source :** ESIGELEC  Technopole du Madrillet  Avenue Galilée – 76800 Saint Etienne du Rouvray
-- **Domaine :** Autre / à vérifier
-- **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
-- **Potentiel :** 33/100 — D — Faible priorité
-- **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** https://esigelec.fr/fr/nous-contacter
-- **Vérifié le :** 2026-09-25 — Localisation vérifiée — recrutement à rechercher
-
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Bonjour,
-
-Je souhaite proposer ma candidature à ESIGELEC pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de informatique, automatisation, Data/IA ou transformation digitale.
-
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
-
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
-
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
-
-Bien cordialement,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez ESIGELEC. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
-
-**Message après acceptation**
-
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez ESIGELEC autour de informatique, automatisation, Data/IA ou transformation digitale. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
+Thank you for connecting. I am exploring junior AI, Data and Software opportunities at Envite Consulting GmbH. I have not treated any old vacancy as active; my spontaneous application highlights my Linedata AI-agent project, software skills and ability to connect technology with business value. Could you please direct me to the appropriate hiring contact?
 
 ---
 
@@ -4984,91 +3534,41 @@ Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opp
 - **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
 - **Potentiel :** 33/100 — D — Faible priorité
 - **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
+- **Ouverture aux juniors :** Non vérifiable — Aucune preuve publique suffisamment récente d’un recrutement junior n’a été identifiée dans les résultats consultés.
+- **Candidats étrangers/visa/relocation :** Non vérifiable — Aucune preuve publique suffisamment précise de visa, relocation ou embauche internationale n’a été confirmée pour un poste junior adapté.
+- **Offres actives :** Aucune offre correspondant au profil n’a pu être confirmée active le 2026-09-25; utiliser la candidature spontanée et revérifier le canal officiel avant envoi.
+- **Contact :** Non trouvé/non vérifiable — Aucun recruteur ou responsable actuel suffisamment fiable identifié
 - **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
+- **Email :** Aucun email public vérifié (Les adresses du CSV n’ont pas été considérées comme vérifiées sans publication publique correspondante)
 - **Canal officiel :** Non trouvé/non vérifiable
 - **CV conseillé :** `CV_ATS_EN.pdf`
-- **Sources :** https://ess-mondial.de/de/unternehmen
-- **Vérifié le :** 2026-09-25 — Localisation vérifiée — recrutement à rechercher
+- **Sources :** Recherches web ciblées du 2026-09-25 — aucun résultat suffisamment pertinent conservé
+- **Vérifié le :** 2026-09-25 — Recherche publique effectuée — candidature spontanée; canal/contact à confirmer avant envoi
 
-**Objet :** Junior AI, Data & Software Engineering Application – Mohamed Oussema Bahloul
+**Objet :** Spontaneous Application — Junior AI / Software Engineer — Mohamed Oussema Bahloul
 
 **Email prêt à envoyer**
 
-Dear Hiring Team,
+Dear ESS-Mondial GmbH Recruitment Team,
 
-I would like to apply to ESS-Mondial GmbH for an entry-level opportunity aligned with my computer engineering background, particularly in informatique, automatisation, Data/IA ou transformation digitale.
+I am a recent Computer Engineering graduate from ENSI in Tunisia, specialised in Financial Engineering, and I would like to submit a spontaneous application for a junior opportunity aligned with my background.
 
-I recently graduated as a Computer Engineer from ENSI, specializing in Financial Engineering. My background includes Python, Java, C++, full-stack development, databases, machine learning, and generative AI. During my final-year project at Linedata, I built an agentic AI solution to modernize a complex software product, combining business analysis, development, and automation.
+During my final-year project at Linedata, I helped modernise a financial software product using AI agents. This experience taught me how to understand a business need, turn it into an intelligent workflow and integrate it into an existing product. My background includes Python, Java, C++, full-stack development, APIs, SQL and databases, machine learning, LLMs and RAG.
 
-I am looking for a first full-time opportunity where I can learn quickly, take ownership, and turn real business needs into useful solutions. I am open to roles consistent with my degree and would welcome a conversation about your current or upcoming needs. I am based in Tunisia and open to relocation or an international remote arrangement where available.
+I am interested in ESS-Mondial GmbH because of its work in software engineering, data and applied AI. I am looking for a team where I can learn quickly, take ownership progressively and use technology to create measurable value for users and the business.
 
-My CV is attached for your consideration. Thank you for your time.
-
-Kind regards,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Hello, I am an ENSI Computer Engineering graduate interested in junior opportunities at ESS-Mondial GmbH. I would be glad to connect and learn which profiles your team is currently seeking.
-
-**Message après acceptation**
-
-Hello, thank you for accepting my invitation. I am seeking an entry-level opportunity at ESS-Mondial GmbH in informatique, automatisation, Data/IA ou transformation digitale. My final-year project at Linedata focused on modernizing a financial product with AI agents. May I share my CV or ask who the right contact would be?
-
----
-
-### Estarta Solutions
-
-- **Pays :** Jordanie
-- **Adresse(s) source :** Queen Rania Street ,Amman Jordan
-- **Domaine :** Autre / à vérifier
-- **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
-- **Potentiel :** 33/100 — D — Faible priorité
-- **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS_EN.pdf`
-- **Sources :** https://www.estarta.com/privacy-policy/
-- **Vérifié le :** 2026-09-25 — Localisation vérifiée — recrutement à rechercher
-
-**Objet :** Junior AI, Data & Software Engineering Application – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Dear Hiring Team,
-
-I would like to apply to Estarta Solutions for an entry-level opportunity aligned with my computer engineering background, particularly in informatique, automatisation, Data/IA ou transformation digitale.
-
-I recently graduated as a Computer Engineer from ENSI, specializing in Financial Engineering. My background includes Python, Java, C++, full-stack development, databases, machine learning, and generative AI. During my final-year project at Linedata, I built an agentic AI solution to modernize a complex software product, combining business analysis, development, and automation.
-
-I am looking for a first full-time opportunity where I can learn quickly, take ownership, and turn real business needs into useful solutions. I am open to roles consistent with my degree and would welcome a conversation about your current or upcoming needs. I am based in Tunisia and open to relocation or an international remote arrangement where available.
-
-My CV is attached for your consideration. Thank you for your time.
+I have not found a currently open junior vacancy that I can confirm, so I am contacting you transparently as a spontaneous candidate for a present or future need. My CV is attached, and I would be pleased to discuss any suitable opportunity.
 
 Kind regards,
 Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
 
 **Invitation LinkedIn**
 
-Hello, I am an ENSI Computer Engineering graduate interested in junior opportunities at Estarta Solutions. I would be glad to connect and learn which profiles your team is currently seeking.
+Hello, I am a recent ENSI Computer Engineering graduate specialised in Financial Engineering. My Linedata project combined AI agents and product modernisation. I am interested in future junior AI, Data or Software opportunities at ESS-Mondial GmbH. Glad to connect.
 
 **Message après acceptation**
 
-Hello, thank you for accepting my invitation. I am seeking an entry-level opportunity at Estarta Solutions in informatique, automatisation, Data/IA ou transformation digitale. My final-year project at Linedata focused on modernizing a financial product with AI agents. May I share my CV or ask who the right contact would be?
+Thank you for connecting. I am exploring junior AI, Data and Software opportunities at ESS-Mondial GmbH. I have not treated any old vacancy as active; my spontaneous application highlights my Linedata AI-agent project, software skills and ability to connect technology with business value. Could you please direct me to the appropriate hiring contact?
 
 ---
 
@@ -5080,43 +3580,41 @@ Hello, thank you for accepting my invitation. I am seeking an entry-level opport
 - **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
 - **Potentiel :** 33/100 — D — Faible priorité
 - **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
+- **Ouverture aux juniors :** Non vérifiable — Aucune preuve publique suffisamment récente d’un recrutement junior n’a été identifiée dans les résultats consultés.
+- **Candidats étrangers/visa/relocation :** Non vérifiable — Aucune preuve publique suffisamment précise de visa, relocation ou embauche internationale n’a été confirmée pour un poste junior adapté.
+- **Offres actives :** Aucune offre correspondant au profil n’a pu être confirmée active le 2026-09-25; utiliser la candidature spontanée et revérifier le canal officiel avant envoi.
+- **Contact :** Non trouvé/non vérifiable — Aucun recruteur ou responsable actuel suffisamment fiable identifié
 - **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
+- **Email :** Aucun email public vérifié (Les adresses du CSV n’ont pas été considérées comme vérifiées sans publication publique correspondante)
 - **Canal officiel :** Non trouvé/non vérifiable
 - **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
+- **Sources :** Recherches web ciblées du 2026-09-25 — aucun résultat suffisamment pertinent conservé
+- **Vérifié le :** 2026-09-25 — Recherche publique effectuée — candidature spontanée; canal/contact à confirmer avant envoi
 
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
+**Objet :** Candidature spontanée — Ingénieur informatique junior — Mohamed Oussema Bahloul
 
 **Email prêt à envoyer**
 
 Bonjour,
 
-Je souhaite proposer ma candidature à Eurocom pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de informatique, automatisation, Data/IA ou transformation digitale.
+Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je souhaite proposer ma candidature spontanée à Eurocom pour une première opportunité correspondant à mon profil.
 
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
+Mon PFE chez Linedata a porté sur la modernisation d’un produit financier à l’aide d’agents IA. Cette expérience m’a appris à comprendre un besoin métier, le traduire en workflows intelligents puis contribuer à son intégration dans un produit existant. Je maîtrise Python, Java, C++, le développement full-stack, les APIs, SQL et les bases de données, le machine learning, les LLM et les architectures RAG.
 
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
+Je m’intéresse à Eurocom pour ses activités autour de le développement logiciel, la Data et l’intelligence artificielle appliquée. Je recherche un environnement où je pourrai apprendre rapidement, prendre progressivement des responsabilités et utiliser la technologie pour créer une valeur concrète.
 
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
+N’ayant pas trouvé d’offre junior actuellement ouverte que je puisse confirmer, je vous contacte en toute transparence dans le cadre d’une candidature spontanée pour un besoin présent ou futur. Je joins mon CV et serais ravi d’échanger avec vous.
 
 Bien cordialement,
 Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
 
 **Invitation LinkedIn**
 
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez Eurocom. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
+Bonjour, récemment diplômé ingénieur ENSI et spécialisé en ingénierie financière, j’ai réalisé chez Linedata un PFE sur des agents IA. Je m’intéresse aux futurs besoins junior en IA, Data ou logiciel chez Eurocom. Ravi de rejoindre votre réseau.
 
 **Message après acceptation**
 
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez Eurocom autour de informatique, automatisation, Data/IA ou transformation digitale. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
+Bonjour, merci pour la connexion. Je m’intéresse aux opportunités junior en IA, Data et logiciel chez Eurocom. Je n’ai présenté aucune ancienne annonce comme active; ma candidature spontanée met en avant mon PFE Linedata, mon socle logiciel et ma capacité à relier technologie et valeur métier. Pourriez-vous m’orienter vers le bon interlocuteur ?
 
 ---
 
@@ -5128,283 +3626,41 @@ Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opp
 - **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
 - **Potentiel :** 33/100 — D — Faible priorité
 - **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
+- **Ouverture aux juniors :** Non vérifiable — Aucune preuve publique suffisamment récente d’un recrutement junior n’a été identifiée dans les résultats consultés.
+- **Candidats étrangers/visa/relocation :** Non vérifiable — Aucune preuve publique suffisamment précise de visa, relocation ou embauche internationale n’a été confirmée pour un poste junior adapté.
+- **Offres actives :** Aucune offre correspondant au profil n’a pu être confirmée active le 2026-09-25; utiliser la candidature spontanée et revérifier le canal officiel avant envoi.
+- **Contact :** Non trouvé/non vérifiable — Aucun recruteur ou responsable actuel suffisamment fiable identifié
 - **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
+- **Email :** Aucun email public vérifié (Les adresses du CSV n’ont pas été considérées comme vérifiées sans publication publique correspondante)
 - **Canal officiel :** Non trouvé/non vérifiable
 - **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
+- **Sources :** Recherches web ciblées du 2026-09-25 — aucun résultat suffisamment pertinent conservé
+- **Vérifié le :** 2026-09-25 — Recherche publique effectuée — candidature spontanée; canal/contact à confirmer avant envoi
 
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
+**Objet :** Candidature spontanée — Ingénieur informatique junior — Mohamed Oussema Bahloul
 
 **Email prêt à envoyer**
 
 Bonjour,
 
-Je souhaite proposer ma candidature à EUROPEA CONSULTING pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de informatique, automatisation, Data/IA ou transformation digitale.
+Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je souhaite proposer ma candidature spontanée à EUROPEA CONSULTING pour une première opportunité correspondant à mon profil.
 
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
+Mon PFE chez Linedata a porté sur la modernisation d’un produit financier à l’aide d’agents IA. Cette expérience m’a appris à comprendre un besoin métier, le traduire en workflows intelligents puis contribuer à son intégration dans un produit existant. Je maîtrise Python, Java, C++, le développement full-stack, les APIs, SQL et les bases de données, le machine learning, les LLM et les architectures RAG.
 
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
+Je m’intéresse à EUROPEA CONSULTING pour ses activités autour de le développement logiciel, la Data et l’intelligence artificielle appliquée. Je recherche un environnement où je pourrai apprendre rapidement, prendre progressivement des responsabilités et utiliser la technologie pour créer une valeur concrète.
 
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
-
-Bien cordialement,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez EUROPEA CONSULTING. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
-
-**Message après acceptation**
-
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez EUROPEA CONSULTING autour de informatique, automatisation, Data/IA ou transformation digitale. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
-
----
-
-### Feat Way
-
-- **Pays :** France
-- **Adresse(s) source :** TOUR CB 21, 16 PLACE DE L IRIS, 92400 COURBEVOIE
-- **Domaine :** Autre / à vérifier
-- **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
-- **Potentiel :** 33/100 — D — Faible priorité
-- **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Bonjour,
-
-Je souhaite proposer ma candidature à Feat Way pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de informatique, automatisation, Data/IA ou transformation digitale.
-
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
-
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
-
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
+N’ayant pas trouvé d’offre junior actuellement ouverte que je puisse confirmer, je vous contacte en toute transparence dans le cadre d’une candidature spontanée pour un besoin présent ou futur. Je joins mon CV et serais ravi d’échanger avec vous.
 
 Bien cordialement,
 Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
 
 **Invitation LinkedIn**
 
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez Feat Way. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
+Bonjour, récemment diplômé ingénieur ENSI et spécialisé en ingénierie financière, j’ai réalisé chez Linedata un PFE sur des agents IA. Je m’intéresse aux futurs besoins junior en IA, Data ou logiciel chez EUROPEA CONSULTING. Ravi de rejoindre votre réseau.
 
 **Message après acceptation**
 
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez Feat Way autour de informatique, automatisation, Data/IA ou transformation digitale. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
-
----
-
-### FEATWAY
-
-- **Pays :** France
-- **Adresse(s) source :** TOUR CB 21, 16 PLACE DE L IRIS, 92400 COURBEVOIE
-- **Domaine :** Autre / à vérifier
-- **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
-- **Potentiel :** 33/100 — D — Faible priorité
-- **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Bonjour,
-
-Je souhaite proposer ma candidature à FEATWAY pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de informatique, automatisation, Data/IA ou transformation digitale.
-
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
-
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
-
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
-
-Bien cordialement,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez FEATWAY. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
-
-**Message après acceptation**
-
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez FEATWAY autour de informatique, automatisation, Data/IA ou transformation digitale. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
-
----
-
-### FinData, LtD
-
-- **Pays :** Mauritanie
-- **Adresse(s) source :** Immeuble Prime Market, 5eme, Avenue Nelson Mandela, Tafragh Zeyna, Nouakchott
-- **Domaine :** Autre / à vérifier
-- **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
-- **Potentiel :** 33/100 — D — Faible priorité
-- **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Bonjour,
-
-Je souhaite proposer ma candidature à FinData, LtD pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de informatique, automatisation, Data/IA ou transformation digitale.
-
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
-
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
-
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
-
-Bien cordialement,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez FinData, LtD. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
-
-**Message après acceptation**
-
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez FinData, LtD autour de informatique, automatisation, Data/IA ou transformation digitale. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
-
----
-
-### Fourity
-
-- **Pays :** Serbie
-- **Adresse(s) source :** Narodnog fronta 21c, Novi Sad 21000
-- **Domaine :** Autre / à vérifier
-- **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
-- **Potentiel :** 33/100 — D — Faible priorité
-- **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS_EN.pdf`
-- **Sources :** https://www.fourity.com/contact-us/
-- **Vérifié le :** 2026-09-25 — Localisation vérifiée — recrutement à rechercher
-
-**Objet :** Junior AI, Data & Software Engineering Application – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Dear Hiring Team,
-
-I would like to apply to Fourity for an entry-level opportunity aligned with my computer engineering background, particularly in informatique, automatisation, Data/IA ou transformation digitale.
-
-I recently graduated as a Computer Engineer from ENSI, specializing in Financial Engineering. My background includes Python, Java, C++, full-stack development, databases, machine learning, and generative AI. During my final-year project at Linedata, I built an agentic AI solution to modernize a complex software product, combining business analysis, development, and automation.
-
-I am looking for a first full-time opportunity where I can learn quickly, take ownership, and turn real business needs into useful solutions. I am open to roles consistent with my degree and would welcome a conversation about your current or upcoming needs. I am based in Tunisia and open to relocation or an international remote arrangement where available.
-
-My CV is attached for your consideration. Thank you for your time.
-
-Kind regards,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Hello, I am an ENSI Computer Engineering graduate interested in junior opportunities at Fourity. I would be glad to connect and learn which profiles your team is currently seeking.
-
-**Message après acceptation**
-
-Hello, thank you for accepting my invitation. I am seeking an entry-level opportunity at Fourity in informatique, automatisation, Data/IA ou transformation digitale. My final-year project at Linedata focused on modernizing a financial product with AI agents. May I share my CV or ask who the right contact would be?
-
----
-
-### Fysali SAS
-
-- **Pays :** France
-- **Adresse(s) source :** 70 rue du Docteur Yersin Bio-Incubateur | 70 rue du Docteur Yersin, Bio-incubateur 59120 Loos | 70 rue du Docteur Yersin, Bio-incubateur 59120 loos | 70 rue du docteur Yersin, Bio-incubateur 59120 Loos
-- **Domaine :** Autre / à vérifier
-- **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
-- **Potentiel :** 33/100 — D — Faible priorité
-- **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Bonjour,
-
-Je souhaite proposer ma candidature à Fysali SAS pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de informatique, automatisation, Data/IA ou transformation digitale.
-
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
-
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
-
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
-
-Bien cordialement,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez Fysali SAS. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
-
-**Message après acceptation**
-
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez Fysali SAS autour de informatique, automatisation, Data/IA ou transformation digitale. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
+Bonjour, merci pour la connexion. Je m’intéresse aux opportunités junior en IA, Data et logiciel chez EUROPEA CONSULTING. Je n’ai présenté aucune ancienne annonce comme active; ma candidature spontanée met en avant mon PFE Linedata, mon socle logiciel et ma capacité à relier technologie et valeur métier. Pourriez-vous m’orienter vers le bon interlocuteur ?
 
 ---
 
@@ -5416,43 +3672,41 @@ Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opp
 - **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
 - **Potentiel :** 33/100 — D — Faible priorité
 - **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
+- **Ouverture aux juniors :** Non vérifiable — Aucune preuve publique suffisamment récente d’un recrutement junior n’a été identifiée dans les résultats consultés.
+- **Candidats étrangers/visa/relocation :** Non vérifiable — Aucune preuve publique suffisamment précise de visa, relocation ou embauche internationale n’a été confirmée pour un poste junior adapté.
+- **Offres actives :** Aucune offre correspondant au profil n’a pu être confirmée active le 2026-09-25; utiliser la candidature spontanée et revérifier le canal officiel avant envoi.
+- **Contact :** Non trouvé/non vérifiable — Aucun recruteur ou responsable actuel suffisamment fiable identifié
 - **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
+- **Email :** Aucun email public vérifié (Les adresses du CSV n’ont pas été considérées comme vérifiées sans publication publique correspondante)
 - **Canal officiel :** Non trouvé/non vérifiable
 - **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
+- **Sources :** Recherches web ciblées du 2026-09-25 — aucun résultat suffisamment pertinent conservé
+- **Vérifié le :** 2026-09-25 — Recherche publique effectuée — candidature spontanée; canal/contact à confirmer avant envoi
 
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
+**Objet :** Candidature spontanée — Ingénieur informatique junior — Mohamed Oussema Bahloul
 
 **Email prêt à envoyer**
 
 Bonjour,
 
-Je souhaite proposer ma candidature à GetBrandee pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de informatique, automatisation, Data/IA ou transformation digitale.
+Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je souhaite proposer ma candidature spontanée à GetBrandee pour une première opportunité correspondant à mon profil.
 
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
+Mon PFE chez Linedata a porté sur la modernisation d’un produit financier à l’aide d’agents IA. Cette expérience m’a appris à comprendre un besoin métier, le traduire en workflows intelligents puis contribuer à son intégration dans un produit existant. Je maîtrise Python, Java, C++, le développement full-stack, les APIs, SQL et les bases de données, le machine learning, les LLM et les architectures RAG.
 
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
+Je m’intéresse à GetBrandee pour ses activités autour de le développement logiciel, la Data et l’intelligence artificielle appliquée. Je recherche un environnement où je pourrai apprendre rapidement, prendre progressivement des responsabilités et utiliser la technologie pour créer une valeur concrète.
 
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
+N’ayant pas trouvé d’offre junior actuellement ouverte que je puisse confirmer, je vous contacte en toute transparence dans le cadre d’une candidature spontanée pour un besoin présent ou futur. Je joins mon CV et serais ravi d’échanger avec vous.
 
 Bien cordialement,
 Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
 
 **Invitation LinkedIn**
 
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez GetBrandee. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
+Bonjour, récemment diplômé ingénieur ENSI et spécialisé en ingénierie financière, j’ai réalisé chez Linedata un PFE sur des agents IA. Je m’intéresse aux futurs besoins junior en IA, Data ou logiciel chez GetBrandee. Ravi de rejoindre votre réseau.
 
 **Message après acceptation**
 
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez GetBrandee autour de informatique, automatisation, Data/IA ou transformation digitale. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
+Bonjour, merci pour la connexion. Je m’intéresse aux opportunités junior en IA, Data et logiciel chez GetBrandee. Je n’ai présenté aucune ancienne annonce comme active; ma candidature spontanée met en avant mon PFE Linedata, mon socle logiciel et ma capacité à relier technologie et valeur métier. Pourriez-vous m’orienter vers le bon interlocuteur ?
 
 ---
 
@@ -5464,91 +3718,41 @@ Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opp
 - **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
 - **Potentiel :** 33/100 — D — Faible priorité
 - **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
+- **Ouverture aux juniors :** Non vérifiable — Aucune preuve publique suffisamment récente d’un recrutement junior n’a été identifiée dans les résultats consultés.
+- **Candidats étrangers/visa/relocation :** Non vérifiable — Aucune preuve publique suffisamment précise de visa, relocation ou embauche internationale n’a été confirmée pour un poste junior adapté.
+- **Offres actives :** Aucune offre correspondant au profil n’a pu être confirmée active le 2026-09-25; utiliser la candidature spontanée et revérifier le canal officiel avant envoi.
+- **Contact :** Non trouvé/non vérifiable — Aucun recruteur ou responsable actuel suffisamment fiable identifié
 - **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
+- **Email :** Aucun email public vérifié (Les adresses du CSV n’ont pas été considérées comme vérifiées sans publication publique correspondante)
 - **Canal officiel :** Non trouvé/non vérifiable
 - **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
+- **Sources :** Recherches web ciblées du 2026-09-25 — aucun résultat suffisamment pertinent conservé
+- **Vérifié le :** 2026-09-25 — Recherche publique effectuée — candidature spontanée; canal/contact à confirmer avant envoi
 
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
+**Objet :** Candidature spontanée — Ingénieur informatique junior — Mohamed Oussema Bahloul
 
 **Email prêt à envoyer**
 
 Bonjour,
 
-Je souhaite proposer ma candidature à Groupe ELAN pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de informatique, automatisation, Data/IA ou transformation digitale.
+Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je souhaite proposer ma candidature spontanée à Groupe ELAN pour une première opportunité correspondant à mon profil.
 
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
+Mon PFE chez Linedata a porté sur la modernisation d’un produit financier à l’aide d’agents IA. Cette expérience m’a appris à comprendre un besoin métier, le traduire en workflows intelligents puis contribuer à son intégration dans un produit existant. Je maîtrise Python, Java, C++, le développement full-stack, les APIs, SQL et les bases de données, le machine learning, les LLM et les architectures RAG.
 
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
+Je m’intéresse à Groupe ELAN pour ses activités autour de le développement logiciel, la Data et l’intelligence artificielle appliquée. Je recherche un environnement où je pourrai apprendre rapidement, prendre progressivement des responsabilités et utiliser la technologie pour créer une valeur concrète.
 
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
+N’ayant pas trouvé d’offre junior actuellement ouverte que je puisse confirmer, je vous contacte en toute transparence dans le cadre d’une candidature spontanée pour un besoin présent ou futur. Je joins mon CV et serais ravi d’échanger avec vous.
 
 Bien cordialement,
 Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
 
 **Invitation LinkedIn**
 
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez Groupe ELAN. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
+Bonjour, récemment diplômé ingénieur ENSI et spécialisé en ingénierie financière, j’ai réalisé chez Linedata un PFE sur des agents IA. Je m’intéresse aux futurs besoins junior en IA, Data ou logiciel chez Groupe ELAN. Ravi de rejoindre votre réseau.
 
 **Message après acceptation**
 
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez Groupe ELAN autour de informatique, automatisation, Data/IA ou transformation digitale. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
-
----
-
-### Helmholtz-Zentrum Hereon
-
-- **Pays :** Allemagne
-- **Adresse(s) source :** Max Planck Strasse 1 21502 Geesthacht
-- **Domaine :** Autre / à vérifier
-- **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
-- **Potentiel :** 33/100 — D — Faible priorité
-- **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS_EN.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Junior AI, Data & Software Engineering Application – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Dear Hiring Team,
-
-I would like to apply to Helmholtz-Zentrum Hereon for an entry-level opportunity aligned with my computer engineering background, particularly in informatique, automatisation, Data/IA ou transformation digitale.
-
-I recently graduated as a Computer Engineer from ENSI, specializing in Financial Engineering. My background includes Python, Java, C++, full-stack development, databases, machine learning, and generative AI. During my final-year project at Linedata, I built an agentic AI solution to modernize a complex software product, combining business analysis, development, and automation.
-
-I am looking for a first full-time opportunity where I can learn quickly, take ownership, and turn real business needs into useful solutions. I am open to roles consistent with my degree and would welcome a conversation about your current or upcoming needs. I am based in Tunisia and open to relocation or an international remote arrangement where available.
-
-My CV is attached for your consideration. Thank you for your time.
-
-Kind regards,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Hello, I am an ENSI Computer Engineering graduate interested in junior opportunities at Helmholtz-Zentrum Hereon. I would be glad to connect and learn which profiles your team is currently seeking.
-
-**Message après acceptation**
-
-Hello, thank you for accepting my invitation. I am seeking an entry-level opportunity at Helmholtz-Zentrum Hereon in informatique, automatisation, Data/IA ou transformation digitale. My final-year project at Linedata focused on modernizing a financial product with AI agents. May I share my CV or ask who the right contact would be?
+Bonjour, merci pour la connexion. Je m’intéresse aux opportunités junior en IA, Data et logiciel chez Groupe ELAN. Je n’ai présenté aucune ancienne annonce comme active; ma candidature spontanée met en avant mon PFE Linedata, mon socle logiciel et ma capacité à relier technologie et valeur métier. Pourriez-vous m’orienter vers le bon interlocuteur ?
 
 ---
 
@@ -5560,283 +3764,41 @@ Hello, thank you for accepting my invitation. I am seeking an entry-level opport
 - **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
 - **Potentiel :** 33/100 — D — Faible priorité
 - **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
+- **Ouverture aux juniors :** Non vérifiable — Aucune preuve publique suffisamment récente d’un recrutement junior n’a été identifiée dans les résultats consultés.
+- **Candidats étrangers/visa/relocation :** Non vérifiable — Aucune preuve publique suffisamment précise de visa, relocation ou embauche internationale n’a été confirmée pour un poste junior adapté.
+- **Offres actives :** Aucune offre correspondant au profil n’a pu être confirmée active le 2026-09-25; utiliser la candidature spontanée et revérifier le canal officiel avant envoi.
+- **Contact :** Non trouvé/non vérifiable — Aucun recruteur ou responsable actuel suffisamment fiable identifié
 - **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
+- **Email :** Aucun email public vérifié (Les adresses du CSV n’ont pas été considérées comme vérifiées sans publication publique correspondante)
 - **Canal officiel :** Non trouvé/non vérifiable
 - **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
+- **Sources :** Recherches web ciblées du 2026-09-25 — aucun résultat suffisamment pertinent conservé
+- **Vérifié le :** 2026-09-25 — Recherche publique effectuée — candidature spontanée; canal/contact à confirmer avant envoi
 
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
+**Objet :** Candidature spontanée — Ingénieur informatique junior — Mohamed Oussema Bahloul
 
 **Email prêt à envoyer**
 
 Bonjour,
 
-Je souhaite proposer ma candidature à Hendrik Thurau Enterprises pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de informatique, automatisation, Data/IA ou transformation digitale.
+Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je souhaite proposer ma candidature spontanée à Hendrik Thurau Enterprises pour une première opportunité correspondant à mon profil.
 
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
+Mon PFE chez Linedata a porté sur la modernisation d’un produit financier à l’aide d’agents IA. Cette expérience m’a appris à comprendre un besoin métier, le traduire en workflows intelligents puis contribuer à son intégration dans un produit existant. Je maîtrise Python, Java, C++, le développement full-stack, les APIs, SQL et les bases de données, le machine learning, les LLM et les architectures RAG.
 
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
+Je m’intéresse à Hendrik Thurau Enterprises pour ses activités autour de le développement logiciel, la Data et l’intelligence artificielle appliquée. Je recherche un environnement où je pourrai apprendre rapidement, prendre progressivement des responsabilités et utiliser la technologie pour créer une valeur concrète.
 
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
-
-Bien cordialement,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez Hendrik Thurau Enterprises. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
-
-**Message après acceptation**
-
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez Hendrik Thurau Enterprises autour de informatique, automatisation, Data/IA ou transformation digitale. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
-
----
-
-### Hochschule Offenburg
-
-- **Pays :** Allemagne
-- **Adresse(s) source :** Badstraße 24 | D-77652 Offenburg
-- **Domaine :** Autre / à vérifier
-- **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
-- **Potentiel :** 33/100 — D — Faible priorité
-- **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS_EN.pdf`
-- **Sources :** https://www.hs-offenburg.de/impressum
-- **Vérifié le :** 2026-09-25 — Localisation vérifiée — recrutement à rechercher
-
-**Objet :** Junior AI, Data & Software Engineering Application – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Dear Hiring Team,
-
-I would like to apply to Hochschule Offenburg for an entry-level opportunity aligned with my computer engineering background, particularly in informatique, automatisation, Data/IA ou transformation digitale.
-
-I recently graduated as a Computer Engineer from ENSI, specializing in Financial Engineering. My background includes Python, Java, C++, full-stack development, databases, machine learning, and generative AI. During my final-year project at Linedata, I built an agentic AI solution to modernize a complex software product, combining business analysis, development, and automation.
-
-I am looking for a first full-time opportunity where I can learn quickly, take ownership, and turn real business needs into useful solutions. I am open to roles consistent with my degree and would welcome a conversation about your current or upcoming needs. I am based in Tunisia and open to relocation or an international remote arrangement where available.
-
-My CV is attached for your consideration. Thank you for your time.
-
-Kind regards,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Hello, I am an ENSI Computer Engineering graduate interested in junior opportunities at Hochschule Offenburg. I would be glad to connect and learn which profiles your team is currently seeking.
-
-**Message après acceptation**
-
-Hello, thank you for accepting my invitation. I am seeking an entry-level opportunity at Hochschule Offenburg in informatique, automatisation, Data/IA ou transformation digitale. My final-year project at Linedata focused on modernizing a financial product with AI agents. May I share my CV or ask who the right contact would be?
-
----
-
-### IMT Nord Europe
-
-- **Pays :** France
-- **Adresse(s) source :** Rue Guglielmo Marconi ,Cité Scientifique 59650 Villeneuve d´Ascq
-- **Domaine :** Autre / à vérifier
-- **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
-- **Potentiel :** 33/100 — D — Faible priorité
-- **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Bonjour,
-
-Je souhaite proposer ma candidature à IMT Nord Europe pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de informatique, automatisation, Data/IA ou transformation digitale.
-
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
-
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
-
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
+N’ayant pas trouvé d’offre junior actuellement ouverte que je puisse confirmer, je vous contacte en toute transparence dans le cadre d’une candidature spontanée pour un besoin présent ou futur. Je joins mon CV et serais ravi d’échanger avec vous.
 
 Bien cordialement,
 Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
 
 **Invitation LinkedIn**
 
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez IMT Nord Europe. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
+Bonjour, récemment diplômé ingénieur ENSI et spécialisé en ingénierie financière, j’ai réalisé chez Linedata un PFE sur des agents IA. Je m’intéresse aux futurs besoins junior en IA, Data ou logiciel chez Hendrik Thurau Enterprises. Ravi de rejoindre votre réseau.
 
 **Message après acceptation**
 
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez IMT Nord Europe autour de informatique, automatisation, Data/IA ou transformation digitale. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
-
----
-
-### INRAE-Labo DYNAFOR
-
-- **Pays :** France
-- **Adresse(s) source :** 24 Chemin de Borde Rouge - Auzeville
-- **Domaine :** Autre / à vérifier
-- **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
-- **Potentiel :** 33/100 — D — Faible priorité
-- **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Bonjour,
-
-Je souhaite proposer ma candidature à INRAE-Labo DYNAFOR pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de informatique, automatisation, Data/IA ou transformation digitale.
-
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
-
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
-
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
-
-Bien cordialement,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez INRAE-Labo DYNAFOR. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
-
-**Message après acceptation**
-
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez INRAE-Labo DYNAFOR autour de informatique, automatisation, Data/IA ou transformation digitale. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
-
----
-
-### Insider
-
-- **Pays :** Turquie
-- **Adresse(s) source :** Insider, Libadiye Sok. No:3, 34415 Kâğıthane/İstanbul, Türkiye
-- **Domaine :** Autre / à vérifier
-- **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
-- **Potentiel :** 33/100 — D — Faible priorité
-- **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS_EN.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Junior AI, Data & Software Engineering Application – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Dear Hiring Team,
-
-I would like to apply to Insider for an entry-level opportunity aligned with my computer engineering background, particularly in informatique, automatisation, Data/IA ou transformation digitale.
-
-I recently graduated as a Computer Engineer from ENSI, specializing in Financial Engineering. My background includes Python, Java, C++, full-stack development, databases, machine learning, and generative AI. During my final-year project at Linedata, I built an agentic AI solution to modernize a complex software product, combining business analysis, development, and automation.
-
-I am looking for a first full-time opportunity where I can learn quickly, take ownership, and turn real business needs into useful solutions. I am open to roles consistent with my degree and would welcome a conversation about your current or upcoming needs. I am based in Tunisia and open to relocation or an international remote arrangement where available.
-
-My CV is attached for your consideration. Thank you for your time.
-
-Kind regards,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Hello, I am an ENSI Computer Engineering graduate interested in junior opportunities at Insider. I would be glad to connect and learn which profiles your team is currently seeking.
-
-**Message après acceptation**
-
-Hello, thank you for accepting my invitation. I am seeking an entry-level opportunity at Insider in informatique, automatisation, Data/IA ou transformation digitale. My final-year project at Linedata focused on modernizing a financial product with AI agents. May I share my CV or ask who the right contact would be?
-
----
-
-### Institute of Reliable Embedded Systems and Communication Electronics (ivESK)
-
-- **Pays :** Allemagne
-- **Adresse(s) source :** Badstraße 24 77652 Offenburg
-- **Domaine :** Autre / à vérifier
-- **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
-- **Potentiel :** 33/100 — D — Faible priorité
-- **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS_EN.pdf`
-- **Sources :** https://ivesk.hs-offenburg.de/en/page-3
-- **Vérifié le :** 2026-09-25 — Localisation vérifiée — recrutement à rechercher
-
-**Objet :** Junior AI, Data & Software Engineering Application – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Dear Hiring Team,
-
-I would like to apply to Institute of Reliable Embedded Systems and Communication Electronics (ivESK) for an entry-level opportunity aligned with my computer engineering background, particularly in informatique, automatisation, Data/IA ou transformation digitale.
-
-I recently graduated as a Computer Engineer from ENSI, specializing in Financial Engineering. My background includes Python, Java, C++, full-stack development, databases, machine learning, and generative AI. During my final-year project at Linedata, I built an agentic AI solution to modernize a complex software product, combining business analysis, development, and automation.
-
-I am looking for a first full-time opportunity where I can learn quickly, take ownership, and turn real business needs into useful solutions. I am open to roles consistent with my degree and would welcome a conversation about your current or upcoming needs. I am based in Tunisia and open to relocation or an international remote arrangement where available.
-
-My CV is attached for your consideration. Thank you for your time.
-
-Kind regards,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Hello, I am an ENSI Computer Engineering graduate interested in junior opportunities at Institute of Reliable Embedded Systems and Communication Electronics (ivESK). I would be glad to connect and learn which profiles your team is currently seeking.
-
-**Message après acceptation**
-
-Hello, thank you for accepting my invitation. I am seeking an entry-level opportunity at Institute of Reliable Embedded Systems and Communication Electronics (ivESK) in informatique, automatisation, Data/IA ou transformation digitale. My final-year project at Linedata focused on modernizing a financial product with AI agents. May I share my CV or ask who the right contact would be?
+Bonjour, merci pour la connexion. Je m’intéresse aux opportunités junior en IA, Data et logiciel chez Hendrik Thurau Enterprises. Je n’ai présenté aucune ancienne annonce comme active; ma candidature spontanée met en avant mon PFE Linedata, mon socle logiciel et ma capacité à relier technologie et valeur métier. Pourriez-vous m’orienter vers le bon interlocuteur ?
 
 ---
 
@@ -5848,331 +3810,41 @@ Hello, thank you for accepting my invitation. I am seeking an entry-level opport
 - **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
 - **Potentiel :** 33/100 — D — Faible priorité
 - **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
+- **Ouverture aux juniors :** Non vérifiable — Aucune preuve publique suffisamment récente d’un recrutement junior n’a été identifiée dans les résultats consultés.
+- **Candidats étrangers/visa/relocation :** Non vérifiable — Aucune preuve publique suffisamment précise de visa, relocation ou embauche internationale n’a été confirmée pour un poste junior adapté.
+- **Offres actives :** Aucune offre correspondant au profil n’a pu être confirmée active le 2026-09-25; utiliser la candidature spontanée et revérifier le canal officiel avant envoi.
+- **Contact :** Non trouvé/non vérifiable — Aucun recruteur ou responsable actuel suffisamment fiable identifié
 - **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
+- **Email :** Aucun email public vérifié (Les adresses du CSV n’ont pas été considérées comme vérifiées sans publication publique correspondante)
 - **Canal officiel :** Non trouvé/non vérifiable
 - **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
+- **Sources :** Recherches web ciblées du 2026-09-25 — aucun résultat suffisamment pertinent conservé
+- **Vérifié le :** 2026-09-25 — Recherche publique effectuée — candidature spontanée; canal/contact à confirmer avant envoi
 
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
+**Objet :** Candidature spontanée — Ingénieur informatique junior — Mohamed Oussema Bahloul
 
 **Email prêt à envoyer**
 
 Bonjour,
 
-Je souhaite proposer ma candidature à INTELLIGENT CONEPTS pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de informatique, automatisation, Data/IA ou transformation digitale.
+Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je souhaite proposer ma candidature spontanée à INTELLIGENT CONEPTS pour une première opportunité correspondant à mon profil.
 
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
+Mon PFE chez Linedata a porté sur la modernisation d’un produit financier à l’aide d’agents IA. Cette expérience m’a appris à comprendre un besoin métier, le traduire en workflows intelligents puis contribuer à son intégration dans un produit existant. Je maîtrise Python, Java, C++, le développement full-stack, les APIs, SQL et les bases de données, le machine learning, les LLM et les architectures RAG.
 
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
+Je m’intéresse à INTELLIGENT CONEPTS pour ses activités autour de le développement logiciel, la Data et l’intelligence artificielle appliquée. Je recherche un environnement où je pourrai apprendre rapidement, prendre progressivement des responsabilités et utiliser la technologie pour créer une valeur concrète.
 
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
-
-Bien cordialement,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez INTELLIGENT CONEPTS. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
-
-**Message après acceptation**
-
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez INTELLIGENT CONEPTS autour de informatique, automatisation, Data/IA ou transformation digitale. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
-
----
-
-### ITGate
-
-- **Pays :** Algérie
-- **Adresse(s) source :** 2éme étage B1، Résidence El Hamd, Rue d'Algérie, Sousse 4011
-- **Domaine :** Autre / à vérifier
-- **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
-- **Potentiel :** 33/100 — D — Faible priorité
-- **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Bonjour,
-
-Je souhaite proposer ma candidature à ITGate pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de informatique, automatisation, Data/IA ou transformation digitale.
-
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
-
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
-
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
+N’ayant pas trouvé d’offre junior actuellement ouverte que je puisse confirmer, je vous contacte en toute transparence dans le cadre d’une candidature spontanée pour un besoin présent ou futur. Je joins mon CV et serais ravi d’échanger avec vous.
 
 Bien cordialement,
 Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
 
 **Invitation LinkedIn**
 
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez ITGate. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
+Bonjour, récemment diplômé ingénieur ENSI et spécialisé en ingénierie financière, j’ai réalisé chez Linedata un PFE sur des agents IA. Je m’intéresse aux futurs besoins junior en IA, Data ou logiciel chez INTELLIGENT CONEPTS. Ravi de rejoindre votre réseau.
 
 **Message après acceptation**
 
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez ITGate autour de informatique, automatisation, Data/IA ou transformation digitale. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
-
----
-
-### Ixias  (BE 0767.498.939)
-
-- **Pays :** Belgique
-- **Adresse(s) source :** Avenue des lilas 28 1070 Bruxelles Belgique
-- **Domaine :** Autre / à vérifier
-- **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
-- **Potentiel :** 33/100 — D — Faible priorité
-- **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Bonjour,
-
-Je souhaite proposer ma candidature à Ixias  (BE 0767.498.939) pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de informatique, automatisation, Data/IA ou transformation digitale.
-
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
-
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
-
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
-
-Bien cordialement,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez Ixias  (BE 0767.498.939). Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
-
-**Message après acceptation**
-
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez Ixias  (BE 0767.498.939) autour de informatique, automatisation, Data/IA ou transformation digitale. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
-
----
-
-### Ixias SRL
-
-- **Pays :** Belgique
-- **Adresse(s) source :** Avenue des lilas 28, 1070 Anderlecht Belgique
-- **Domaine :** Autre / à vérifier
-- **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
-- **Potentiel :** 33/100 — D — Faible priorité
-- **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Bonjour,
-
-Je souhaite proposer ma candidature à Ixias SRL pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de informatique, automatisation, Data/IA ou transformation digitale.
-
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
-
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
-
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
-
-Bien cordialement,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez Ixias SRL. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
-
-**Message après acceptation**
-
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez Ixias SRL autour de informatique, automatisation, Data/IA ou transformation digitale. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
-
----
-
-### JAWAKER
-
-- **Pays :** Émirats arabes unis
-- **Adresse(s) source :** , Sweifieh Amman Jordan
-- **Domaine :** Autre / à vérifier
-- **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
-- **Potentiel :** 33/100 — D — Faible priorité
-- **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS_EN.pdf`
-- **Sources :** https://www.jawaker.com/en/contact
-- **Vérifié le :** 2026-09-25 — Localisation vérifiée — recrutement à rechercher
-
-**Objet :** Junior AI, Data & Software Engineering Application – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Dear Hiring Team,
-
-I would like to apply to JAWAKER for an entry-level opportunity aligned with my computer engineering background, particularly in informatique, automatisation, Data/IA ou transformation digitale.
-
-I recently graduated as a Computer Engineer from ENSI, specializing in Financial Engineering. My background includes Python, Java, C++, full-stack development, databases, machine learning, and generative AI. During my final-year project at Linedata, I built an agentic AI solution to modernize a complex software product, combining business analysis, development, and automation.
-
-I am looking for a first full-time opportunity where I can learn quickly, take ownership, and turn real business needs into useful solutions. I am open to roles consistent with my degree and would welcome a conversation about your current or upcoming needs. I am based in Tunisia and open to relocation or an international remote arrangement where available.
-
-My CV is attached for your consideration. Thank you for your time.
-
-Kind regards,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Hello, I am an ENSI Computer Engineering graduate interested in junior opportunities at JAWAKER. I would be glad to connect and learn which profiles your team is currently seeking.
-
-**Message après acceptation**
-
-Hello, thank you for accepting my invitation. I am seeking an entry-level opportunity at JAWAKER in informatique, automatisation, Data/IA ou transformation digitale. My final-year project at Linedata focused on modernizing a financial product with AI agents. May I share my CV or ask who the right contact would be?
-
----
-
-### Jeremy Panouillat
-
-- **Pays :** France
-- **Adresse(s) source :** 39230 Champrougier France
-- **Domaine :** Autre / à vérifier
-- **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
-- **Potentiel :** 33/100 — D — Faible priorité
-- **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Bonjour,
-
-Je souhaite proposer ma candidature à Jeremy Panouillat pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de informatique, automatisation, Data/IA ou transformation digitale.
-
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
-
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
-
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
-
-Bien cordialement,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez Jeremy Panouillat. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
-
-**Message après acceptation**
-
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez Jeremy Panouillat autour de informatique, automatisation, Data/IA ou transformation digitale. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
-
----
-
-### Jérémy Panouillot
-
-- **Pays :** France
-- **Adresse(s) source :** 39230 Champrougier France / Skanes Monastir
-- **Domaine :** Autre / à vérifier
-- **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
-- **Potentiel :** 33/100 — D — Faible priorité
-- **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Bonjour,
-
-Je souhaite proposer ma candidature à Jérémy Panouillot pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de informatique, automatisation, Data/IA ou transformation digitale.
-
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
-
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
-
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
-
-Bien cordialement,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez Jérémy Panouillot. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
-
-**Message après acceptation**
-
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez Jérémy Panouillot autour de informatique, automatisation, Data/IA ou transformation digitale. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
+Bonjour, merci pour la connexion. Je m’intéresse aux opportunités junior en IA, Data et logiciel chez INTELLIGENT CONEPTS. Je n’ai présenté aucune ancienne annonce comme active; ma candidature spontanée met en avant mon PFE Linedata, mon socle logiciel et ma capacité à relier technologie et valeur métier. Pourriez-vous m’orienter vers le bon interlocuteur ?
 
 ---
 
@@ -6184,139 +3856,41 @@ Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opp
 - **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
 - **Potentiel :** 33/100 — D — Faible priorité
 - **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
+- **Ouverture aux juniors :** Non vérifiable — Aucune preuve publique suffisamment récente d’un recrutement junior n’a été identifiée dans les résultats consultés.
+- **Candidats étrangers/visa/relocation :** Non vérifiable — Aucune preuve publique suffisamment précise de visa, relocation ou embauche internationale n’a été confirmée pour un poste junior adapté.
+- **Offres actives :** Aucune offre correspondant au profil n’a pu être confirmée active le 2026-09-25; utiliser la candidature spontanée et revérifier le canal officiel avant envoi.
+- **Contact :** Non trouvé/non vérifiable — Aucun recruteur ou responsable actuel suffisamment fiable identifié
 - **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
+- **Email :** Aucun email public vérifié (Les adresses du CSV n’ont pas été considérées comme vérifiées sans publication publique correspondante)
 - **Canal officiel :** Non trouvé/non vérifiable
 - **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
+- **Sources :** Recherches web ciblées du 2026-09-25 — aucun résultat suffisamment pertinent conservé
+- **Vérifié le :** 2026-09-25 — Recherche publique effectuée — candidature spontanée; canal/contact à confirmer avant envoi
 
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
+**Objet :** Candidature spontanée — Ingénieur informatique junior — Mohamed Oussema Bahloul
 
 **Email prêt à envoyer**
 
 Bonjour,
 
-Je souhaite proposer ma candidature à Karwisoft inc. pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de informatique, automatisation, Data/IA ou transformation digitale.
+Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je souhaite proposer ma candidature spontanée à Karwisoft inc. pour une première opportunité correspondant à mon profil.
 
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
+Mon PFE chez Linedata a porté sur la modernisation d’un produit financier à l’aide d’agents IA. Cette expérience m’a appris à comprendre un besoin métier, le traduire en workflows intelligents puis contribuer à son intégration dans un produit existant. Je maîtrise Python, Java, C++, le développement full-stack, les APIs, SQL et les bases de données, le machine learning, les LLM et les architectures RAG.
 
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
+Je m’intéresse à Karwisoft inc. pour ses activités autour de le développement logiciel, la Data et l’intelligence artificielle appliquée. Je recherche un environnement où je pourrai apprendre rapidement, prendre progressivement des responsabilités et utiliser la technologie pour créer une valeur concrète.
 
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
-
-Bien cordialement,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez Karwisoft inc.. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
-
-**Message après acceptation**
-
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez Karwisoft inc. autour de informatique, automatisation, Data/IA ou transformation digitale. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
-
----
-
-### Knowlepsy Investment
-
-- **Pays :** France
-- **Adresse(s) source :** 96 rue Paradis 13006 Marseille | 96 rue paradis | Knowlepsy Investment, 96 rue paradis 13006 Marseille, France
-- **Domaine :** Autre / à vérifier
-- **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
-- **Potentiel :** 33/100 — D — Faible priorité
-- **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Bonjour,
-
-Je souhaite proposer ma candidature à Knowlepsy Investment pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de informatique, automatisation, Data/IA ou transformation digitale.
-
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
-
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
-
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
+N’ayant pas trouvé d’offre junior actuellement ouverte que je puisse confirmer, je vous contacte en toute transparence dans le cadre d’une candidature spontanée pour un besoin présent ou futur. Je joins mon CV et serais ravi d’échanger avec vous.
 
 Bien cordialement,
 Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
 
 **Invitation LinkedIn**
 
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez Knowlepsy Investment. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
+Bonjour, récemment diplômé ingénieur ENSI et spécialisé en ingénierie financière, j’ai réalisé chez Linedata un PFE sur des agents IA. Je m’intéresse aux futurs besoins junior en IA, Data ou logiciel chez Karwisoft inc.. Ravi de rejoindre votre réseau.
 
 **Message après acceptation**
 
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez Knowlepsy Investment autour de informatique, automatisation, Data/IA ou transformation digitale. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
-
----
-
-### kshuttle
-
-- **Pays :** France
-- **Adresse(s) source :** 3 Rue Jules Guesde 92300 Levallois-Perret | 3 Rue Jules Guesde, 92300 Levallois-Perret, France | 3 Rue jules guesde - 92300 levallois perret
-- **Domaine :** Autre / à vérifier
-- **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
-- **Potentiel :** 33/100 — D — Faible priorité
-- **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Bonjour,
-
-Je souhaite proposer ma candidature à kshuttle pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de informatique, automatisation, Data/IA ou transformation digitale.
-
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
-
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
-
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
-
-Bien cordialement,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez kshuttle. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
-
-**Message après acceptation**
-
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez kshuttle autour de informatique, automatisation, Data/IA ou transformation digitale. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
+Bonjour, merci pour la connexion. Je m’intéresse aux opportunités junior en IA, Data et logiciel chez Karwisoft inc.. Je n’ai présenté aucune ancienne annonce comme active; ma candidature spontanée met en avant mon PFE Linedata, mon socle logiciel et ma capacité à relier technologie et valeur métier. Pourriez-vous m’orienter vers le bon interlocuteur ?
 
 ---
 
@@ -6328,43 +3902,41 @@ Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opp
 - **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
 - **Potentiel :** 33/100 — D — Faible priorité
 - **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
+- **Ouverture aux juniors :** Non vérifiable — Aucune preuve publique suffisamment récente d’un recrutement junior n’a été identifiée dans les résultats consultés.
+- **Candidats étrangers/visa/relocation :** Non vérifiable — Aucune preuve publique suffisamment précise de visa, relocation ou embauche internationale n’a été confirmée pour un poste junior adapté.
+- **Offres actives :** Aucune offre correspondant au profil n’a pu être confirmée active le 2026-09-25; utiliser la candidature spontanée et revérifier le canal officiel avant envoi.
+- **Contact :** Non trouvé/non vérifiable — Aucun recruteur ou responsable actuel suffisamment fiable identifié
 - **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
+- **Email :** Aucun email public vérifié (Les adresses du CSV n’ont pas été considérées comme vérifiées sans publication publique correspondante)
 - **Canal officiel :** Non trouvé/non vérifiable
 - **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
+- **Sources :** Recherches web ciblées du 2026-09-25 — aucun résultat suffisamment pertinent conservé
+- **Vérifié le :** 2026-09-25 — Recherche publique effectuée — candidature spontanée; canal/contact à confirmer avant envoi
 
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
+**Objet :** Candidature spontanée — Ingénieur informatique junior — Mohamed Oussema Bahloul
 
 **Email prêt à envoyer**
 
 Bonjour,
 
-Je souhaite proposer ma candidature à LeadAi pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de informatique, automatisation, Data/IA ou transformation digitale.
+Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je souhaite proposer ma candidature spontanée à LeadAi pour une première opportunité correspondant à mon profil.
 
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
+Mon PFE chez Linedata a porté sur la modernisation d’un produit financier à l’aide d’agents IA. Cette expérience m’a appris à comprendre un besoin métier, le traduire en workflows intelligents puis contribuer à son intégration dans un produit existant. Je maîtrise Python, Java, C++, le développement full-stack, les APIs, SQL et les bases de données, le machine learning, les LLM et les architectures RAG.
 
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
+Je m’intéresse à LeadAi pour ses activités autour de le développement logiciel, la Data et l’intelligence artificielle appliquée. Je recherche un environnement où je pourrai apprendre rapidement, prendre progressivement des responsabilités et utiliser la technologie pour créer une valeur concrète.
 
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
+N’ayant pas trouvé d’offre junior actuellement ouverte que je puisse confirmer, je vous contacte en toute transparence dans le cadre d’une candidature spontanée pour un besoin présent ou futur. Je joins mon CV et serais ravi d’échanger avec vous.
 
 Bien cordialement,
 Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
 
 **Invitation LinkedIn**
 
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez LeadAi. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
+Bonjour, récemment diplômé ingénieur ENSI et spécialisé en ingénierie financière, j’ai réalisé chez Linedata un PFE sur des agents IA. Je m’intéresse aux futurs besoins junior en IA, Data ou logiciel chez LeadAi. Ravi de rejoindre votre réseau.
 
 **Message après acceptation**
 
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez LeadAi autour de informatique, automatisation, Data/IA ou transformation digitale. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
+Bonjour, merci pour la connexion. Je m’intéresse aux opportunités junior en IA, Data et logiciel chez LeadAi. Je n’ai présenté aucune ancienne annonce comme active; ma candidature spontanée met en avant mon PFE Linedata, mon socle logiciel et ma capacité à relier technologie et valeur métier. Pourriez-vous m’orienter vers le bon interlocuteur ?
 
 ---
 
@@ -6376,715 +3948,41 @@ Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opp
 - **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
 - **Potentiel :** 33/100 — D — Faible priorité
 - **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
+- **Ouverture aux juniors :** Non vérifiable — Aucune preuve publique suffisamment récente d’un recrutement junior n’a été identifiée dans les résultats consultés.
+- **Candidats étrangers/visa/relocation :** Non vérifiable — Aucune preuve publique suffisamment précise de visa, relocation ou embauche internationale n’a été confirmée pour un poste junior adapté.
+- **Offres actives :** Aucune offre correspondant au profil n’a pu être confirmée active le 2026-09-25; utiliser la candidature spontanée et revérifier le canal officiel avant envoi.
+- **Contact :** Non trouvé/non vérifiable — Aucun recruteur ou responsable actuel suffisamment fiable identifié
 - **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
+- **Email :** Aucun email public vérifié (Les adresses du CSV n’ont pas été considérées comme vérifiées sans publication publique correspondante)
 - **Canal officiel :** Non trouvé/non vérifiable
 - **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
+- **Sources :** Recherches web ciblées du 2026-09-25 — aucun résultat suffisamment pertinent conservé
+- **Vérifié le :** 2026-09-25 — Recherche publique effectuée — candidature spontanée; canal/contact à confirmer avant envoi
 
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
+**Objet :** Candidature spontanée — Ingénieur informatique junior — Mohamed Oussema Bahloul
 
 **Email prêt à envoyer**
 
 Bonjour,
 
-Je souhaite proposer ma candidature à Les solutions de vente XSALE pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de informatique, automatisation, Data/IA ou transformation digitale.
+Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je souhaite proposer ma candidature spontanée à Les solutions de vente XSALE pour une première opportunité correspondant à mon profil.
 
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
+Mon PFE chez Linedata a porté sur la modernisation d’un produit financier à l’aide d’agents IA. Cette expérience m’a appris à comprendre un besoin métier, le traduire en workflows intelligents puis contribuer à son intégration dans un produit existant. Je maîtrise Python, Java, C++, le développement full-stack, les APIs, SQL et les bases de données, le machine learning, les LLM et les architectures RAG.
 
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
+Je m’intéresse à Les solutions de vente XSALE pour ses activités autour de le développement logiciel, la Data et l’intelligence artificielle appliquée. Je recherche un environnement où je pourrai apprendre rapidement, prendre progressivement des responsabilités et utiliser la technologie pour créer une valeur concrète.
 
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
-
-Bien cordialement,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez Les solutions de vente XSALE. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
-
-**Message après acceptation**
-
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez Les solutions de vente XSALE autour de informatique, automatisation, Data/IA ou transformation digitale. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
-
----
-
-### L’Université du Québec en Abitibi-Témiscamingue
-
-- **Pays :** Canada
-- **Adresse(s) source :** 445 Bd de l'Université, Rouyn-Noranda, QC J9X 5E4, CANADA
-- **Domaine :** Autre / à vérifier
-- **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
-- **Potentiel :** 33/100 — D — Faible priorité
-- **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Bonjour,
-
-Je souhaite proposer ma candidature à L’Université du Québec en Abitibi-Témiscamingue pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de informatique, automatisation, Data/IA ou transformation digitale.
-
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
-
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
-
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
+N’ayant pas trouvé d’offre junior actuellement ouverte que je puisse confirmer, je vous contacte en toute transparence dans le cadre d’une candidature spontanée pour un besoin présent ou futur. Je joins mon CV et serais ravi d’échanger avec vous.
 
 Bien cordialement,
 Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
 
 **Invitation LinkedIn**
 
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez L’Université du Québec en Abitibi-Témiscamingue. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
+Bonjour, récemment diplômé ingénieur ENSI et spécialisé en ingénierie financière, j’ai réalisé chez Linedata un PFE sur des agents IA. Je m’intéresse aux futurs besoins junior en IA, Data ou logiciel chez Les solutions de vente XSALE. Ravi de rejoindre votre réseau.
 
 **Message après acceptation**
 
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez L’Université du Québec en Abitibi-Témiscamingue autour de informatique, automatisation, Data/IA ou transformation digitale. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
-
----
-
-### M-TECH
-
-- **Pays :** France
-- **Adresse(s) source :** 15 Route des gardes 92190 MEUDON
-- **Domaine :** Autre / à vérifier
-- **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
-- **Potentiel :** 33/100 — D — Faible priorité
-- **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Bonjour,
-
-Je souhaite proposer ma candidature à M-TECH pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de informatique, automatisation, Data/IA ou transformation digitale.
-
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
-
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
-
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
-
-Bien cordialement,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez M-TECH. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
-
-**Message après acceptation**
-
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez M-TECH autour de informatique, automatisation, Data/IA ou transformation digitale. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
-
----
-
-### Manipal Institute of Technology (MIT), MAHE
-
-- **Pays :** Inde
-- **Adresse(s) source :** Manipal Institute of Technology, Manipal, Karnataka 576104, India
-- **Domaine :** Autre / à vérifier
-- **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
-- **Potentiel :** 33/100 — D — Faible priorité
-- **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS_EN.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Junior AI, Data & Software Engineering Application – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Dear Hiring Team,
-
-I would like to apply to Manipal Institute of Technology (MIT), MAHE for an entry-level opportunity aligned with my computer engineering background, particularly in informatique, automatisation, Data/IA ou transformation digitale.
-
-I recently graduated as a Computer Engineer from ENSI, specializing in Financial Engineering. My background includes Python, Java, C++, full-stack development, databases, machine learning, and generative AI. During my final-year project at Linedata, I built an agentic AI solution to modernize a complex software product, combining business analysis, development, and automation.
-
-I am looking for a first full-time opportunity where I can learn quickly, take ownership, and turn real business needs into useful solutions. I am open to roles consistent with my degree and would welcome a conversation about your current or upcoming needs. I am based in Tunisia and open to relocation or an international remote arrangement where available.
-
-My CV is attached for your consideration. Thank you for your time.
-
-Kind regards,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Hello, I am an ENSI Computer Engineering graduate interested in junior opportunities at Manipal Institute of Technology (MIT), MAHE. I would be glad to connect and learn which profiles your team is currently seeking.
-
-**Message après acceptation**
-
-Hello, thank you for accepting my invitation. I am seeking an entry-level opportunity at Manipal Institute of Technology (MIT), MAHE in informatique, automatisation, Data/IA ou transformation digitale. My final-year project at Linedata focused on modernizing a financial product with AI agents. May I share my CV or ask who the right contact would be?
-
----
-
-### Meddevo
-
-- **Pays :** Allemagne
-- **Adresse(s) source :** ‍dytab GmbH Zum Fellengarten 19 36166, Haunetal
-- **Domaine :** Autre / à vérifier
-- **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
-- **Potentiel :** 33/100 — D — Faible priorité
-- **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS_EN.pdf`
-- **Sources :** https://www.meddevo.com/de/de/pharma/impressum
-- **Vérifié le :** 2026-09-25 — Localisation vérifiée — recrutement à rechercher
-
-**Objet :** Junior AI, Data & Software Engineering Application – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Dear Hiring Team,
-
-I would like to apply to Meddevo for an entry-level opportunity aligned with my computer engineering background, particularly in informatique, automatisation, Data/IA ou transformation digitale.
-
-I recently graduated as a Computer Engineer from ENSI, specializing in Financial Engineering. My background includes Python, Java, C++, full-stack development, databases, machine learning, and generative AI. During my final-year project at Linedata, I built an agentic AI solution to modernize a complex software product, combining business analysis, development, and automation.
-
-I am looking for a first full-time opportunity where I can learn quickly, take ownership, and turn real business needs into useful solutions. I am open to roles consistent with my degree and would welcome a conversation about your current or upcoming needs. I am based in Tunisia and open to relocation or an international remote arrangement where available.
-
-My CV is attached for your consideration. Thank you for your time.
-
-Kind regards,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Hello, I am an ENSI Computer Engineering graduate interested in junior opportunities at Meddevo. I would be glad to connect and learn which profiles your team is currently seeking.
-
-**Message après acceptation**
-
-Hello, thank you for accepting my invitation. I am seeking an entry-level opportunity at Meddevo in informatique, automatisation, Data/IA ou transformation digitale. My final-year project at Linedata focused on modernizing a financial product with AI agents. May I share my CV or ask who the right contact would be?
-
----
-
-### MedicusClinic
-
-- **Pays :** États-Unis
-- **Adresse(s) source :** 651N St Broad, Suite 206, Middletown, Delaware. Postcode 19709, USA | 651N St Broad, suite 206 Middletown Delaware, CP19709, USA | 651N St Broad, suite 206 Middletown Delaware. Zip Code 19709, USA
-- **Domaine :** Autre / à vérifier
-- **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
-- **Potentiel :** 33/100 — D — Faible priorité
-- **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS_EN.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Junior AI, Data & Software Engineering Application – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Dear Hiring Team,
-
-I would like to apply to MedicusClinic for an entry-level opportunity aligned with my computer engineering background, particularly in informatique, automatisation, Data/IA ou transformation digitale.
-
-I recently graduated as a Computer Engineer from ENSI, specializing in Financial Engineering. My background includes Python, Java, C++, full-stack development, databases, machine learning, and generative AI. During my final-year project at Linedata, I built an agentic AI solution to modernize a complex software product, combining business analysis, development, and automation.
-
-I am looking for a first full-time opportunity where I can learn quickly, take ownership, and turn real business needs into useful solutions. I am open to roles consistent with my degree and would welcome a conversation about your current or upcoming needs. I am based in Tunisia and open to relocation or an international remote arrangement where available.
-
-My CV is attached for your consideration. Thank you for your time.
-
-Kind regards,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Hello, I am an ENSI Computer Engineering graduate interested in junior opportunities at MedicusClinic. I would be glad to connect and learn which profiles your team is currently seeking.
-
-**Message après acceptation**
-
-Hello, thank you for accepting my invitation. I am seeking an entry-level opportunity at MedicusClinic in informatique, automatisation, Data/IA ou transformation digitale. My final-year project at Linedata focused on modernizing a financial product with AI agents. May I share my CV or ask who the right contact would be?
-
----
-
-### Memoways
-
-- **Pays :** Suisse
-- **Adresse(s) source :** Rue de Montbrillant 24, 1201 Genève, Suisse
-- **Domaine :** Autre / à vérifier
-- **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
-- **Potentiel :** 33/100 — D — Faible priorité
-- **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Bonjour,
-
-Je souhaite proposer ma candidature à Memoways pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de informatique, automatisation, Data/IA ou transformation digitale.
-
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
-
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
-
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
-
-Bien cordialement,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez Memoways. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
-
-**Message après acceptation**
-
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez Memoways autour de informatique, automatisation, Data/IA ou transformation digitale. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
-
----
-
-### Meta
-
-- **Pays :** Royaume-Uni
-- **Adresse(s) source :** 1 Rathbone Square, London
-- **Domaine :** Autre / à vérifier
-- **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
-- **Potentiel :** 33/100 — D — Faible priorité
-- **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS_EN.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Junior AI, Data & Software Engineering Application – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Dear Hiring Team,
-
-I would like to apply to Meta for an entry-level opportunity aligned with my computer engineering background, particularly in informatique, automatisation, Data/IA ou transformation digitale.
-
-I recently graduated as a Computer Engineer from ENSI, specializing in Financial Engineering. My background includes Python, Java, C++, full-stack development, databases, machine learning, and generative AI. During my final-year project at Linedata, I built an agentic AI solution to modernize a complex software product, combining business analysis, development, and automation.
-
-I am looking for a first full-time opportunity where I can learn quickly, take ownership, and turn real business needs into useful solutions. I am open to roles consistent with my degree and would welcome a conversation about your current or upcoming needs. I am based in Tunisia and open to relocation or an international remote arrangement where available.
-
-My CV is attached for your consideration. Thank you for your time.
-
-Kind regards,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Hello, I am an ENSI Computer Engineering graduate interested in junior opportunities at Meta. I would be glad to connect and learn which profiles your team is currently seeking.
-
-**Message après acceptation**
-
-Hello, thank you for accepting my invitation. I am seeking an entry-level opportunity at Meta in informatique, automatisation, Data/IA ou transformation digitale. My final-year project at Linedata focused on modernizing a financial product with AI agents. May I share my CV or ask who the right contact would be?
-
----
-
-### MFBF Technologies
-
-- **Pays :** Émirats arabes unis
-- **Adresse(s) source :** Dubai, UAE
-- **Domaine :** Autre / à vérifier
-- **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
-- **Potentiel :** 33/100 — D — Faible priorité
-- **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS_EN.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Junior AI, Data & Software Engineering Application – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Dear Hiring Team,
-
-I would like to apply to MFBF Technologies for an entry-level opportunity aligned with my computer engineering background, particularly in informatique, automatisation, Data/IA ou transformation digitale.
-
-I recently graduated as a Computer Engineer from ENSI, specializing in Financial Engineering. My background includes Python, Java, C++, full-stack development, databases, machine learning, and generative AI. During my final-year project at Linedata, I built an agentic AI solution to modernize a complex software product, combining business analysis, development, and automation.
-
-I am looking for a first full-time opportunity where I can learn quickly, take ownership, and turn real business needs into useful solutions. I am open to roles consistent with my degree and would welcome a conversation about your current or upcoming needs. I am based in Tunisia and open to relocation or an international remote arrangement where available.
-
-My CV is attached for your consideration. Thank you for your time.
-
-Kind regards,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Hello, I am an ENSI Computer Engineering graduate interested in junior opportunities at MFBF Technologies. I would be glad to connect and learn which profiles your team is currently seeking.
-
-**Message après acceptation**
-
-Hello, thank you for accepting my invitation. I am seeking an entry-level opportunity at MFBF Technologies in informatique, automatisation, Data/IA ou transformation digitale. My final-year project at Linedata focused on modernizing a financial product with AI agents. May I share my CV or ask who the right contact would be?
-
----
-
-### Mosofty
-
-- **Pays :** France
-- **Adresse(s) source :** 37 avenue de colmar, 92500 Reuil Malmaison, France
-- **Domaine :** Autre / à vérifier
-- **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
-- **Potentiel :** 33/100 — D — Faible priorité
-- **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Bonjour,
-
-Je souhaite proposer ma candidature à Mosofty pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de informatique, automatisation, Data/IA ou transformation digitale.
-
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
-
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
-
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
-
-Bien cordialement,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez Mosofty. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
-
-**Message après acceptation**
-
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez Mosofty autour de informatique, automatisation, Data/IA ou transformation digitale. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
-
----
-
-### Move Logic
-
-- **Pays :** France
-- **Adresse(s) source :** 26 RUE BOSQUET 75007 PARIS
-- **Domaine :** Autre / à vérifier
-- **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
-- **Potentiel :** 33/100 — D — Faible priorité
-- **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Bonjour,
-
-Je souhaite proposer ma candidature à Move Logic pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de informatique, automatisation, Data/IA ou transformation digitale.
-
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
-
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
-
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
-
-Bien cordialement,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez Move Logic. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
-
-**Message après acceptation**
-
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez Move Logic autour de informatique, automatisation, Data/IA ou transformation digitale. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
-
----
-
-### Move2cloud SAS
-
-- **Pays :** France
-- **Adresse(s) source :** Paris, Region - Ile de France
-- **Domaine :** Autre / à vérifier
-- **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
-- **Potentiel :** 33/100 — D — Faible priorité
-- **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Bonjour,
-
-Je souhaite proposer ma candidature à Move2cloud SAS pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de informatique, automatisation, Data/IA ou transformation digitale.
-
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
-
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
-
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
-
-Bien cordialement,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez Move2cloud SAS. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
-
-**Message après acceptation**
-
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez Move2cloud SAS autour de informatique, automatisation, Data/IA ou transformation digitale. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
-
----
-
-### Murex S.A.S
-
-- **Pays :** France
-- **Adresse(s) source :** 15-25 boulevard de l’Amiral Bruix – 75116 Paris
-- **Domaine :** Autre / à vérifier
-- **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
-- **Potentiel :** 33/100 — D — Faible priorité
-- **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Bonjour,
-
-Je souhaite proposer ma candidature à Murex S.A.S pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de informatique, automatisation, Data/IA ou transformation digitale.
-
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
-
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
-
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
-
-Bien cordialement,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez Murex S.A.S. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
-
-**Message après acceptation**
-
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez Murex S.A.S autour de informatique, automatisation, Data/IA ou transformation digitale. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
-
----
-
-### Neofacto
-
-- **Pays :** Luxembourg
-- **Adresse(s) source :** 12 avenu du Rockn'roll Luxembourg
-- **Domaine :** Autre / à vérifier
-- **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
-- **Potentiel :** 33/100 — D — Faible priorité
-- **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Bonjour,
-
-Je souhaite proposer ma candidature à Neofacto pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de informatique, automatisation, Data/IA ou transformation digitale.
-
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
-
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
-
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
-
-Bien cordialement,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez Neofacto. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
-
-**Message après acceptation**
-
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez Neofacto autour de informatique, automatisation, Data/IA ou transformation digitale. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
-
----
-
-### neusta inspire GmbH
-
-- **Pays :** Allemagne
-- **Adresse(s) source :** Konsul-Smidt-Straße 24 28217 Bremen
-- **Domaine :** Autre / à vérifier
-- **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
-- **Potentiel :** 33/100 — D — Faible priorité
-- **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS_EN.pdf`
-- **Sources :** https://www.neusta-inspire.de/impressum/
-- **Vérifié le :** 2026-09-25 — Localisation vérifiée — recrutement à rechercher
-
-**Objet :** Junior AI, Data & Software Engineering Application – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Dear Hiring Team,
-
-I would like to apply to neusta inspire GmbH for an entry-level opportunity aligned with my computer engineering background, particularly in informatique, automatisation, Data/IA ou transformation digitale.
-
-I recently graduated as a Computer Engineer from ENSI, specializing in Financial Engineering. My background includes Python, Java, C++, full-stack development, databases, machine learning, and generative AI. During my final-year project at Linedata, I built an agentic AI solution to modernize a complex software product, combining business analysis, development, and automation.
-
-I am looking for a first full-time opportunity where I can learn quickly, take ownership, and turn real business needs into useful solutions. I am open to roles consistent with my degree and would welcome a conversation about your current or upcoming needs. I am based in Tunisia and open to relocation or an international remote arrangement where available.
-
-My CV is attached for your consideration. Thank you for your time.
-
-Kind regards,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Hello, I am an ENSI Computer Engineering graduate interested in junior opportunities at neusta inspire GmbH. I would be glad to connect and learn which profiles your team is currently seeking.
-
-**Message après acceptation**
-
-Hello, thank you for accepting my invitation. I am seeking an entry-level opportunity at neusta inspire GmbH in informatique, automatisation, Data/IA ou transformation digitale. My final-year project at Linedata focused on modernizing a financial product with AI agents. May I share my CV or ask who the right contact would be?
+Bonjour, merci pour la connexion. Je m’intéresse aux opportunités junior en IA, Data et logiciel chez Les solutions de vente XSALE. Je n’ai présenté aucune ancienne annonce comme active; ma candidature spontanée met en avant mon PFE Linedata, mon socle logiciel et ma capacité à relier technologie et valeur métier. Pourriez-vous m’orienter vers le bon interlocuteur ?
 
 ---
 
@@ -7096,43 +3994,41 @@ Hello, thank you for accepting my invitation. I am seeking an entry-level opport
 - **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
 - **Potentiel :** 33/100 — D — Faible priorité
 - **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
+- **Ouverture aux juniors :** Non vérifiable — Aucune preuve publique suffisamment récente d’un recrutement junior n’a été identifiée dans les résultats consultés.
+- **Candidats étrangers/visa/relocation :** Non vérifiable — Aucune preuve publique suffisamment précise de visa, relocation ou embauche internationale n’a été confirmée pour un poste junior adapté.
+- **Offres actives :** Aucune offre correspondant au profil n’a pu être confirmée active le 2026-09-25; utiliser la candidature spontanée et revérifier le canal officiel avant envoi.
+- **Contact :** Non trouvé/non vérifiable — Aucun recruteur ou responsable actuel suffisamment fiable identifié
 - **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
+- **Email :** Aucun email public vérifié (Les adresses du CSV n’ont pas été considérées comme vérifiées sans publication publique correspondante)
 - **Canal officiel :** Non trouvé/non vérifiable
 - **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
+- **Sources :** Recherches web ciblées du 2026-09-25 — aucun résultat suffisamment pertinent conservé
+- **Vérifié le :** 2026-09-25 — Recherche publique effectuée — candidature spontanée; canal/contact à confirmer avant envoi
 
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
+**Objet :** Candidature spontanée — Ingénieur informatique junior — Mohamed Oussema Bahloul
 
 **Email prêt à envoyer**
 
 Bonjour,
 
-Je souhaite proposer ma candidature à NEXUS TARGET SASU pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de informatique, automatisation, Data/IA ou transformation digitale.
+Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je souhaite proposer ma candidature spontanée à NEXUS TARGET SASU pour une première opportunité correspondant à mon profil.
 
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
+Mon PFE chez Linedata a porté sur la modernisation d’un produit financier à l’aide d’agents IA. Cette expérience m’a appris à comprendre un besoin métier, le traduire en workflows intelligents puis contribuer à son intégration dans un produit existant. Je maîtrise Python, Java, C++, le développement full-stack, les APIs, SQL et les bases de données, le machine learning, les LLM et les architectures RAG.
 
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
+Je m’intéresse à NEXUS TARGET SASU pour ses activités autour de le développement logiciel, la Data et l’intelligence artificielle appliquée. Je recherche un environnement où je pourrai apprendre rapidement, prendre progressivement des responsabilités et utiliser la technologie pour créer une valeur concrète.
 
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
+N’ayant pas trouvé d’offre junior actuellement ouverte que je puisse confirmer, je vous contacte en toute transparence dans le cadre d’une candidature spontanée pour un besoin présent ou futur. Je joins mon CV et serais ravi d’échanger avec vous.
 
 Bien cordialement,
 Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
 
 **Invitation LinkedIn**
 
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez NEXUS TARGET SASU. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
+Bonjour, récemment diplômé ingénieur ENSI et spécialisé en ingénierie financière, j’ai réalisé chez Linedata un PFE sur des agents IA. Je m’intéresse aux futurs besoins junior en IA, Data ou logiciel chez NEXUS TARGET SASU. Ravi de rejoindre votre réseau.
 
 **Message après acceptation**
 
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez NEXUS TARGET SASU autour de informatique, automatisation, Data/IA ou transformation digitale. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
+Bonjour, merci pour la connexion. Je m’intéresse aux opportunités junior en IA, Data et logiciel chez NEXUS TARGET SASU. Je n’ai présenté aucune ancienne annonce comme active; ma candidature spontanée met en avant mon PFE Linedata, mon socle logiciel et ma capacité à relier technologie et valeur métier. Pourriez-vous m’orienter vers le bon interlocuteur ?
 
 ---
 
@@ -7144,139 +4040,41 @@ Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opp
 - **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
 - **Potentiel :** 33/100 — D — Faible priorité
 - **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
+- **Ouverture aux juniors :** Non vérifiable — Aucune preuve publique suffisamment récente d’un recrutement junior n’a été identifiée dans les résultats consultés.
+- **Candidats étrangers/visa/relocation :** Non vérifiable — Aucune preuve publique suffisamment précise de visa, relocation ou embauche internationale n’a été confirmée pour un poste junior adapté.
+- **Offres actives :** Aucune offre correspondant au profil n’a pu être confirmée active le 2026-09-25; utiliser la candidature spontanée et revérifier le canal officiel avant envoi.
+- **Contact :** Non trouvé/non vérifiable — Aucun recruteur ou responsable actuel suffisamment fiable identifié
 - **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
+- **Email :** Aucun email public vérifié (Les adresses du CSV n’ont pas été considérées comme vérifiées sans publication publique correspondante)
 - **Canal officiel :** Non trouvé/non vérifiable
 - **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
+- **Sources :** Recherches web ciblées du 2026-09-25 — aucun résultat suffisamment pertinent conservé
+- **Vérifié le :** 2026-09-25 — Recherche publique effectuée — candidature spontanée; canal/contact à confirmer avant envoi
 
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
+**Objet :** Candidature spontanée — Ingénieur informatique junior — Mohamed Oussema Bahloul
 
 **Email prêt à envoyer**
 
 Bonjour,
 
-Je souhaite proposer ma candidature à NODX-PARTNER pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de informatique, automatisation, Data/IA ou transformation digitale.
+Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je souhaite proposer ma candidature spontanée à NODX-PARTNER pour une première opportunité correspondant à mon profil.
 
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
+Mon PFE chez Linedata a porté sur la modernisation d’un produit financier à l’aide d’agents IA. Cette expérience m’a appris à comprendre un besoin métier, le traduire en workflows intelligents puis contribuer à son intégration dans un produit existant. Je maîtrise Python, Java, C++, le développement full-stack, les APIs, SQL et les bases de données, le machine learning, les LLM et les architectures RAG.
 
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
+Je m’intéresse à NODX-PARTNER pour ses activités autour de le développement logiciel, la Data et l’intelligence artificielle appliquée. Je recherche un environnement où je pourrai apprendre rapidement, prendre progressivement des responsabilités et utiliser la technologie pour créer une valeur concrète.
 
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
+N’ayant pas trouvé d’offre junior actuellement ouverte que je puisse confirmer, je vous contacte en toute transparence dans le cadre d’une candidature spontanée pour un besoin présent ou futur. Je joins mon CV et serais ravi d’échanger avec vous.
 
 Bien cordialement,
 Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
 
 **Invitation LinkedIn**
 
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez NODX-PARTNER. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
+Bonjour, récemment diplômé ingénieur ENSI et spécialisé en ingénierie financière, j’ai réalisé chez Linedata un PFE sur des agents IA. Je m’intéresse aux futurs besoins junior en IA, Data ou logiciel chez NODX-PARTNER. Ravi de rejoindre votre réseau.
 
 **Message après acceptation**
 
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez NODX-PARTNER autour de informatique, automatisation, Data/IA ou transformation digitale. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
-
----
-
-### NovinoAI
-
-- **Pays :** États-Unis
-- **Adresse(s) source :** 1443 NE 4th Ave  Fort Lauderdale, FL 33304
-- **Domaine :** Autre / à vérifier
-- **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
-- **Potentiel :** 33/100 — D — Faible priorité
-- **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS_EN.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Junior AI, Data & Software Engineering Application – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Dear Hiring Team,
-
-I would like to apply to NovinoAI for an entry-level opportunity aligned with my computer engineering background, particularly in informatique, automatisation, Data/IA ou transformation digitale.
-
-I recently graduated as a Computer Engineer from ENSI, specializing in Financial Engineering. My background includes Python, Java, C++, full-stack development, databases, machine learning, and generative AI. During my final-year project at Linedata, I built an agentic AI solution to modernize a complex software product, combining business analysis, development, and automation.
-
-I am looking for a first full-time opportunity where I can learn quickly, take ownership, and turn real business needs into useful solutions. I am open to roles consistent with my degree and would welcome a conversation about your current or upcoming needs. I am based in Tunisia and open to relocation or an international remote arrangement where available.
-
-My CV is attached for your consideration. Thank you for your time.
-
-Kind regards,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Hello, I am an ENSI Computer Engineering graduate interested in junior opportunities at NovinoAI. I would be glad to connect and learn which profiles your team is currently seeking.
-
-**Message après acceptation**
-
-Hello, thank you for accepting my invitation. I am seeking an entry-level opportunity at NovinoAI in informatique, automatisation, Data/IA ou transformation digitale. My final-year project at Linedata focused on modernizing a financial product with AI agents. May I share my CV or ask who the right contact would be?
-
----
-
-### NovinoPath
-
-- **Pays :** États-Unis
-- **Adresse(s) source :** 1443 NE 4th Ave  Fort Lauderdale, FL 33304
-- **Domaine :** Autre / à vérifier
-- **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
-- **Potentiel :** 33/100 — D — Faible priorité
-- **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS_EN.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Junior AI, Data & Software Engineering Application – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Dear Hiring Team,
-
-I would like to apply to NovinoPath for an entry-level opportunity aligned with my computer engineering background, particularly in informatique, automatisation, Data/IA ou transformation digitale.
-
-I recently graduated as a Computer Engineer from ENSI, specializing in Financial Engineering. My background includes Python, Java, C++, full-stack development, databases, machine learning, and generative AI. During my final-year project at Linedata, I built an agentic AI solution to modernize a complex software product, combining business analysis, development, and automation.
-
-I am looking for a first full-time opportunity where I can learn quickly, take ownership, and turn real business needs into useful solutions. I am open to roles consistent with my degree and would welcome a conversation about your current or upcoming needs. I am based in Tunisia and open to relocation or an international remote arrangement where available.
-
-My CV is attached for your consideration. Thank you for your time.
-
-Kind regards,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Hello, I am an ENSI Computer Engineering graduate interested in junior opportunities at NovinoPath. I would be glad to connect and learn which profiles your team is currently seeking.
-
-**Message après acceptation**
-
-Hello, thank you for accepting my invitation. I am seeking an entry-level opportunity at NovinoPath in informatique, automatisation, Data/IA ou transformation digitale. My final-year project at Linedata focused on modernizing a financial product with AI agents. May I share my CV or ask who the right contact would be?
+Bonjour, merci pour la connexion. Je m’intéresse aux opportunités junior en IA, Data et logiciel chez NODX-PARTNER. Je n’ai présenté aucune ancienne annonce comme active; ma candidature spontanée met en avant mon PFE Linedata, mon socle logiciel et ma capacité à relier technologie et valeur métier. Pourriez-vous m’orienter vers le bon interlocuteur ?
 
 ---
 
@@ -7288,139 +4086,41 @@ Hello, thank you for accepting my invitation. I am seeking an entry-level opport
 - **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
 - **Potentiel :** 33/100 — D — Faible priorité
 - **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
+- **Ouverture aux juniors :** Non vérifiable — Aucune preuve publique suffisamment récente d’un recrutement junior n’a été identifiée dans les résultats consultés.
+- **Candidats étrangers/visa/relocation :** Non vérifiable — Aucune preuve publique suffisamment précise de visa, relocation ou embauche internationale n’a été confirmée pour un poste junior adapté.
+- **Offres actives :** Aucune offre correspondant au profil n’a pu être confirmée active le 2026-09-25; utiliser la candidature spontanée et revérifier le canal officiel avant envoi.
+- **Contact :** Non trouvé/non vérifiable — Aucun recruteur ou responsable actuel suffisamment fiable identifié
 - **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
+- **Email :** Aucun email public vérifié (Les adresses du CSV n’ont pas été considérées comme vérifiées sans publication publique correspondante)
 - **Canal officiel :** Non trouvé/non vérifiable
 - **CV conseillé :** `CV_ATS_EN.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
+- **Sources :** Recherches web ciblées du 2026-09-25 — aucun résultat suffisamment pertinent conservé
+- **Vérifié le :** 2026-09-25 — Recherche publique effectuée — candidature spontanée; canal/contact à confirmer avant envoi
 
-**Objet :** Junior AI, Data & Software Engineering Application – Mohamed Oussema Bahloul
+**Objet :** Spontaneous Application — Junior AI / Software Engineer — Mohamed Oussema Bahloul
 
 **Email prêt à envoyer**
 
-Dear Hiring Team,
+Dear Novobit Group GmbH Recruitment Team,
 
-I would like to apply to Novobit Group GmbH for an entry-level opportunity aligned with my computer engineering background, particularly in informatique, automatisation, Data/IA ou transformation digitale.
+I am a recent Computer Engineering graduate from ENSI in Tunisia, specialised in Financial Engineering, and I would like to submit a spontaneous application for a junior opportunity aligned with my background.
 
-I recently graduated as a Computer Engineer from ENSI, specializing in Financial Engineering. My background includes Python, Java, C++, full-stack development, databases, machine learning, and generative AI. During my final-year project at Linedata, I built an agentic AI solution to modernize a complex software product, combining business analysis, development, and automation.
+During my final-year project at Linedata, I helped modernise a financial software product using AI agents. This experience taught me how to understand a business need, turn it into an intelligent workflow and integrate it into an existing product. My background includes Python, Java, C++, full-stack development, APIs, SQL and databases, machine learning, LLMs and RAG.
 
-I am looking for a first full-time opportunity where I can learn quickly, take ownership, and turn real business needs into useful solutions. I am open to roles consistent with my degree and would welcome a conversation about your current or upcoming needs. I am based in Tunisia and open to relocation or an international remote arrangement where available.
+I am interested in Novobit Group GmbH because of its work in software engineering, data and applied AI. I am looking for a team where I can learn quickly, take ownership progressively and use technology to create measurable value for users and the business.
 
-My CV is attached for your consideration. Thank you for your time.
+I have not found a currently open junior vacancy that I can confirm, so I am contacting you transparently as a spontaneous candidate for a present or future need. My CV is attached, and I would be pleased to discuss any suitable opportunity.
 
 Kind regards,
 Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
 
 **Invitation LinkedIn**
 
-Hello, I am an ENSI Computer Engineering graduate interested in junior opportunities at Novobit Group GmbH. I would be glad to connect and learn which profiles your team is currently seeking.
+Hello, I am a recent ENSI Computer Engineering graduate specialised in Financial Engineering. My Linedata project combined AI agents and product modernisation. I am interested in future junior AI, Data or Software opportunities at Novobit Group GmbH. Glad to connect.
 
 **Message après acceptation**
 
-Hello, thank you for accepting my invitation. I am seeking an entry-level opportunity at Novobit Group GmbH in informatique, automatisation, Data/IA ou transformation digitale. My final-year project at Linedata focused on modernizing a financial product with AI agents. May I share my CV or ask who the right contact would be?
-
----
-
-### NST Groupe
-
-- **Pays :** France
-- **Adresse(s) source :** 13 avenue du general leclerc, 92340 bourg la reine , FRANCE
-- **Domaine :** Autre / à vérifier
-- **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
-- **Potentiel :** 33/100 — D — Faible priorité
-- **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Bonjour,
-
-Je souhaite proposer ma candidature à NST Groupe pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de informatique, automatisation, Data/IA ou transformation digitale.
-
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
-
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
-
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
-
-Bien cordialement,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez NST Groupe. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
-
-**Message après acceptation**
-
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez NST Groupe autour de informatique, automatisation, Data/IA ou transformation digitale. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
-
----
-
-### NXP
-
-- **Pays :** France
-- **Adresse(s) source :** 45 All. des Ormes Bâtiment D, 06250 Mougins, France | E-Space Park 45 alles des Ormes 06250 Mougins
-- **Domaine :** Autre / à vérifier
-- **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
-- **Potentiel :** 33/100 — D — Faible priorité
-- **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Bonjour,
-
-Je souhaite proposer ma candidature à NXP pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de informatique, automatisation, Data/IA ou transformation digitale.
-
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
-
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
-
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
-
-Bien cordialement,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez NXP. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
-
-**Message après acceptation**
-
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez NXP autour de informatique, automatisation, Data/IA ou transformation digitale. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
+Thank you for connecting. I am exploring junior AI, Data and Software opportunities at Novobit Group GmbH. I have not treated any old vacancy as active; my spontaneous application highlights my Linedata AI-agent project, software skills and ability to connect technology with business value. Could you please direct me to the appropriate hiring contact?
 
 ---
 
@@ -7432,331 +4132,41 @@ Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opp
 - **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
 - **Potentiel :** 33/100 — D — Faible priorité
 - **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
+- **Ouverture aux juniors :** Non vérifiable — Aucune preuve publique suffisamment récente d’un recrutement junior n’a été identifiée dans les résultats consultés.
+- **Candidats étrangers/visa/relocation :** Non vérifiable — Aucune preuve publique suffisamment précise de visa, relocation ou embauche internationale n’a été confirmée pour un poste junior adapté.
+- **Offres actives :** Aucune offre correspondant au profil n’a pu être confirmée active le 2026-09-25; utiliser la candidature spontanée et revérifier le canal officiel avant envoi.
+- **Contact :** Non trouvé/non vérifiable — Aucun recruteur ou responsable actuel suffisamment fiable identifié
 - **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
+- **Email :** Aucun email public vérifié (Les adresses du CSV n’ont pas été considérées comme vérifiées sans publication publique correspondante)
 - **Canal officiel :** Non trouvé/non vérifiable
 - **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
+- **Sources :** Recherches web ciblées du 2026-09-25 — aucun résultat suffisamment pertinent conservé
+- **Vérifié le :** 2026-09-25 — Recherche publique effectuée — candidature spontanée; canal/contact à confirmer avant envoi
 
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
+**Objet :** Candidature spontanée — Ingénieur informatique junior — Mohamed Oussema Bahloul
 
 **Email prêt à envoyer**
 
 Bonjour,
 
-Je souhaite proposer ma candidature à Olab Dynamics pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de informatique, automatisation, Data/IA ou transformation digitale.
+Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je souhaite proposer ma candidature spontanée à Olab Dynamics pour une première opportunité correspondant à mon profil.
 
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
+Mon PFE chez Linedata a porté sur la modernisation d’un produit financier à l’aide d’agents IA. Cette expérience m’a appris à comprendre un besoin métier, le traduire en workflows intelligents puis contribuer à son intégration dans un produit existant. Je maîtrise Python, Java, C++, le développement full-stack, les APIs, SQL et les bases de données, le machine learning, les LLM et les architectures RAG.
 
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
+Je m’intéresse à Olab Dynamics pour ses activités autour de le développement logiciel, la Data et l’intelligence artificielle appliquée. Je recherche un environnement où je pourrai apprendre rapidement, prendre progressivement des responsabilités et utiliser la technologie pour créer une valeur concrète.
 
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
-
-Bien cordialement,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez Olab Dynamics. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
-
-**Message après acceptation**
-
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez Olab Dynamics autour de informatique, automatisation, Data/IA ou transformation digitale. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
-
----
-
-### OliveSoft
-
-- **Pays :** France
-- **Adresse(s) source :** Paris, France  /  Sfax, Tunisie
-- **Domaine :** Autre / à vérifier
-- **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
-- **Potentiel :** 33/100 — D — Faible priorité
-- **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Bonjour,
-
-Je souhaite proposer ma candidature à OliveSoft pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de informatique, automatisation, Data/IA ou transformation digitale.
-
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
-
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
-
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
+N’ayant pas trouvé d’offre junior actuellement ouverte que je puisse confirmer, je vous contacte en toute transparence dans le cadre d’une candidature spontanée pour un besoin présent ou futur. Je joins mon CV et serais ravi d’échanger avec vous.
 
 Bien cordialement,
 Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
 
 **Invitation LinkedIn**
 
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez OliveSoft. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
+Bonjour, récemment diplômé ingénieur ENSI et spécialisé en ingénierie financière, j’ai réalisé chez Linedata un PFE sur des agents IA. Je m’intéresse aux futurs besoins junior en IA, Data ou logiciel chez Olab Dynamics. Ravi de rejoindre votre réseau.
 
 **Message après acceptation**
 
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez OliveSoft autour de informatique, automatisation, Data/IA ou transformation digitale. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
-
----
-
-### Omnidata
-
-- **Pays :** Maroc
-- **Adresse(s) source :** 74 Bd Abdelmoumen, Casablanca 20100
-- **Domaine :** Autre / à vérifier
-- **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
-- **Potentiel :** 33/100 — D — Faible priorité
-- **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Bonjour,
-
-Je souhaite proposer ma candidature à Omnidata pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de informatique, automatisation, Data/IA ou transformation digitale.
-
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
-
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
-
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
-
-Bien cordialement,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez Omnidata. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
-
-**Message après acceptation**
-
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez Omnidata autour de informatique, automatisation, Data/IA ou transformation digitale. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
-
----
-
-### Onertech
-
-- **Pays :** France
-- **Adresse(s) source :** 32, Rue de Perroquets 94350 Villiers sur marne, France
-- **Domaine :** Autre / à vérifier
-- **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
-- **Potentiel :** 33/100 — D — Faible priorité
-- **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Bonjour,
-
-Je souhaite proposer ma candidature à Onertech pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de informatique, automatisation, Data/IA ou transformation digitale.
-
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
-
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
-
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
-
-Bien cordialement,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez Onertech. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
-
-**Message après acceptation**
-
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez Onertech autour de informatique, automatisation, Data/IA ou transformation digitale. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
-
----
-
-### Oniris
-
-- **Pays :** France
-- **Adresse(s) source :** L’École nationale vétérinaire, agroalimentaire et de l'alimentation de Nantes-Atlantique (Oniris), site de la Géraudière, Rue de la Géraudière, CS 82225 44322, NANTES CEDEX
-- **Domaine :** Autre / à vérifier
-- **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
-- **Potentiel :** 33/100 — D — Faible priorité
-- **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Bonjour,
-
-Je souhaite proposer ma candidature à Oniris pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de informatique, automatisation, Data/IA ou transformation digitale.
-
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
-
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
-
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
-
-Bien cordialement,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez Oniris. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
-
-**Message après acceptation**
-
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez Oniris autour de informatique, automatisation, Data/IA ou transformation digitale. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
-
----
-
-### ONRTECH
-
-- **Pays :** France
-- **Adresse(s) source :** 2, rue des perroquets, 94350, villiers sur marne, France | 2,rue des perroquets, 94350, villiers sur marne, France | 32, Rue De Perroquets 94350  Villiers Sur Marne, France
-- **Domaine :** Autre / à vérifier
-- **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
-- **Potentiel :** 33/100 — D — Faible priorité
-- **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Bonjour,
-
-Je souhaite proposer ma candidature à ONRTECH pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de informatique, automatisation, Data/IA ou transformation digitale.
-
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
-
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
-
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
-
-Bien cordialement,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez ONRTECH. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
-
-**Message après acceptation**
-
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez ONRTECH autour de informatique, automatisation, Data/IA ou transformation digitale. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
-
----
-
-### Orange Gardens
-
-- **Pays :** France
-- **Adresse(s) source :** 46 Av. de la République, 92320 Châtillon, France
-- **Domaine :** Autre / à vérifier
-- **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
-- **Potentiel :** 33/100 — D — Faible priorité
-- **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Bonjour,
-
-Je souhaite proposer ma candidature à Orange Gardens pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de informatique, automatisation, Data/IA ou transformation digitale.
-
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
-
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
-
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
-
-Bien cordialement,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez Orange Gardens. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
-
-**Message après acceptation**
-
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez Orange Gardens autour de informatique, automatisation, Data/IA ou transformation digitale. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
+Bonjour, merci pour la connexion. Je m’intéresse aux opportunités junior en IA, Data et logiciel chez Olab Dynamics. Je n’ai présenté aucune ancienne annonce comme active; ma candidature spontanée met en avant mon PFE Linedata, mon socle logiciel et ma capacité à relier technologie et valeur métier. Pourriez-vous m’orienter vers le bon interlocuteur ?
 
 ---
 
@@ -7768,43 +4178,41 @@ Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opp
 - **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
 - **Potentiel :** 33/100 — D — Faible priorité
 - **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
+- **Ouverture aux juniors :** Non vérifiable — Aucune preuve publique suffisamment récente d’un recrutement junior n’a été identifiée dans les résultats consultés.
+- **Candidats étrangers/visa/relocation :** Non vérifiable — Aucune preuve publique suffisamment précise de visa, relocation ou embauche internationale n’a été confirmée pour un poste junior adapté.
+- **Offres actives :** Aucune offre correspondant au profil n’a pu être confirmée active le 2026-09-25; utiliser la candidature spontanée et revérifier le canal officiel avant envoi.
+- **Contact :** Non trouvé/non vérifiable — Aucun recruteur ou responsable actuel suffisamment fiable identifié
 - **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
+- **Email :** Aucun email public vérifié (Les adresses du CSV n’ont pas été considérées comme vérifiées sans publication publique correspondante)
 - **Canal officiel :** Non trouvé/non vérifiable
 - **CV conseillé :** `CV_ATS_EN.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
+- **Sources :** Recherches web ciblées du 2026-09-25 — aucun résultat suffisamment pertinent conservé
+- **Vérifié le :** 2026-09-25 — Recherche publique effectuée — candidature spontanée; canal/contact à confirmer avant envoi
 
-**Objet :** Junior AI, Data & Software Engineering Application – Mohamed Oussema Bahloul
+**Objet :** Spontaneous Application — Junior AI / Software Engineer — Mohamed Oussema Bahloul
 
 **Email prêt à envoyer**
 
-Dear Hiring Team,
+Dear Papritech Ltd Recruitment Team,
 
-I would like to apply to Papritech Ltd for an entry-level opportunity aligned with my computer engineering background, particularly in informatique, automatisation, Data/IA ou transformation digitale.
+I am a recent Computer Engineering graduate from ENSI in Tunisia, specialised in Financial Engineering, and I would like to submit a spontaneous application for a junior opportunity aligned with my background.
 
-I recently graduated as a Computer Engineer from ENSI, specializing in Financial Engineering. My background includes Python, Java, C++, full-stack development, databases, machine learning, and generative AI. During my final-year project at Linedata, I built an agentic AI solution to modernize a complex software product, combining business analysis, development, and automation.
+During my final-year project at Linedata, I helped modernise a financial software product using AI agents. This experience taught me how to understand a business need, turn it into an intelligent workflow and integrate it into an existing product. My background includes Python, Java, C++, full-stack development, APIs, SQL and databases, machine learning, LLMs and RAG.
 
-I am looking for a first full-time opportunity where I can learn quickly, take ownership, and turn real business needs into useful solutions. I am open to roles consistent with my degree and would welcome a conversation about your current or upcoming needs. I am based in Tunisia and open to relocation or an international remote arrangement where available.
+I am interested in Papritech Ltd because of its work in software engineering, data and applied AI. I am looking for a team where I can learn quickly, take ownership progressively and use technology to create measurable value for users and the business.
 
-My CV is attached for your consideration. Thank you for your time.
+I have not found a currently open junior vacancy that I can confirm, so I am contacting you transparently as a spontaneous candidate for a present or future need. My CV is attached, and I would be pleased to discuss any suitable opportunity.
 
 Kind regards,
 Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
 
 **Invitation LinkedIn**
 
-Hello, I am an ENSI Computer Engineering graduate interested in junior opportunities at Papritech Ltd. I would be glad to connect and learn which profiles your team is currently seeking.
+Hello, I am a recent ENSI Computer Engineering graduate specialised in Financial Engineering. My Linedata project combined AI agents and product modernisation. I am interested in future junior AI, Data or Software opportunities at Papritech Ltd. Glad to connect.
 
 **Message après acceptation**
 
-Hello, thank you for accepting my invitation. I am seeking an entry-level opportunity at Papritech Ltd in informatique, automatisation, Data/IA ou transformation digitale. My final-year project at Linedata focused on modernizing a financial product with AI agents. May I share my CV or ask who the right contact would be?
+Thank you for connecting. I am exploring junior AI, Data and Software opportunities at Papritech Ltd. I have not treated any old vacancy as active; my spontaneous application highlights my Linedata AI-agent project, software skills and ability to connect technology with business value. Could you please direct me to the appropriate hiring contact?
 
 ---
 
@@ -7816,235 +4224,41 @@ Hello, thank you for accepting my invitation. I am seeking an entry-level opport
 - **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
 - **Potentiel :** 33/100 — D — Faible priorité
 - **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
+- **Ouverture aux juniors :** Non vérifiable — Aucune preuve publique suffisamment récente d’un recrutement junior n’a été identifiée dans les résultats consultés.
+- **Candidats étrangers/visa/relocation :** Non vérifiable — Aucune preuve publique suffisamment précise de visa, relocation ou embauche internationale n’a été confirmée pour un poste junior adapté.
+- **Offres actives :** Aucune offre correspondant au profil n’a pu être confirmée active le 2026-09-25; utiliser la candidature spontanée et revérifier le canal officiel avant envoi.
+- **Contact :** Non trouvé/non vérifiable — Aucun recruteur ou responsable actuel suffisamment fiable identifié
 - **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
+- **Email :** Aucun email public vérifié (Les adresses du CSV n’ont pas été considérées comme vérifiées sans publication publique correspondante)
 - **Canal officiel :** Non trouvé/non vérifiable
 - **CV conseillé :** `CV_ATS_EN.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
+- **Sources :** Recherches web ciblées du 2026-09-25 — aucun résultat suffisamment pertinent conservé
+- **Vérifié le :** 2026-09-25 — Recherche publique effectuée — candidature spontanée; canal/contact à confirmer avant envoi
 
-**Objet :** Junior AI, Data & Software Engineering Application – Mohamed Oussema Bahloul
+**Objet :** Spontaneous Application — Junior AI / Software Engineer — Mohamed Oussema Bahloul
 
 **Email prêt à envoyer**
 
-Dear Hiring Team,
+Dear PIGE INU LTD Recruitment Team,
 
-I would like to apply to PIGE INU LTD for an entry-level opportunity aligned with my computer engineering background, particularly in informatique, automatisation, Data/IA ou transformation digitale.
+I am a recent Computer Engineering graduate from ENSI in Tunisia, specialised in Financial Engineering, and I would like to submit a spontaneous application for a junior opportunity aligned with my background.
 
-I recently graduated as a Computer Engineer from ENSI, specializing in Financial Engineering. My background includes Python, Java, C++, full-stack development, databases, machine learning, and generative AI. During my final-year project at Linedata, I built an agentic AI solution to modernize a complex software product, combining business analysis, development, and automation.
+During my final-year project at Linedata, I helped modernise a financial software product using AI agents. This experience taught me how to understand a business need, turn it into an intelligent workflow and integrate it into an existing product. My background includes Python, Java, C++, full-stack development, APIs, SQL and databases, machine learning, LLMs and RAG.
 
-I am looking for a first full-time opportunity where I can learn quickly, take ownership, and turn real business needs into useful solutions. I am open to roles consistent with my degree and would welcome a conversation about your current or upcoming needs. I am based in Tunisia and open to relocation or an international remote arrangement where available.
+I am interested in PIGE INU LTD because of its work in software engineering, data and applied AI. I am looking for a team where I can learn quickly, take ownership progressively and use technology to create measurable value for users and the business.
 
-My CV is attached for your consideration. Thank you for your time.
+I have not found a currently open junior vacancy that I can confirm, so I am contacting you transparently as a spontaneous candidate for a present or future need. My CV is attached, and I would be pleased to discuss any suitable opportunity.
 
 Kind regards,
 Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
 
 **Invitation LinkedIn**
 
-Hello, I am an ENSI Computer Engineering graduate interested in junior opportunities at PIGE INU LTD. I would be glad to connect and learn which profiles your team is currently seeking.
+Hello, I am a recent ENSI Computer Engineering graduate specialised in Financial Engineering. My Linedata project combined AI agents and product modernisation. I am interested in future junior AI, Data or Software opportunities at PIGE INU LTD. Glad to connect.
 
 **Message après acceptation**
 
-Hello, thank you for accepting my invitation. I am seeking an entry-level opportunity at PIGE INU LTD in informatique, automatisation, Data/IA ou transformation digitale. My final-year project at Linedata focused on modernizing a financial product with AI agents. May I share my CV or ask who the right contact would be?
-
----
-
-### PINGME
-
-- **Pays :** France
-- **Adresse(s) source :** 4 rue Aspasie Jules Caron, 94110 Arcueil, France
-- **Domaine :** Autre / à vérifier
-- **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
-- **Potentiel :** 33/100 — D — Faible priorité
-- **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Bonjour,
-
-Je souhaite proposer ma candidature à PINGME pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de informatique, automatisation, Data/IA ou transformation digitale.
-
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
-
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
-
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
-
-Bien cordialement,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez PINGME. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
-
-**Message après acceptation**
-
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez PINGME autour de informatique, automatisation, Data/IA ou transformation digitale. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
-
----
-
-### PlanBlue Gmbh
-
-- **Pays :** Allemagne
-- **Adresse(s) source :** BITZ Bremen Innovation and Technology Center
-- **Domaine :** Autre / à vérifier
-- **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
-- **Potentiel :** 33/100 — D — Faible priorité
-- **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS_EN.pdf`
-- **Sources :** https://sdgs.un.org/sites/default/files/2025-06/PlanBlue.pdf
-- **Vérifié le :** 2026-09-25 — Localisation vérifiée — recrutement à rechercher
-
-**Objet :** Junior AI, Data & Software Engineering Application – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Dear Hiring Team,
-
-I would like to apply to PlanBlue Gmbh for an entry-level opportunity aligned with my computer engineering background, particularly in informatique, automatisation, Data/IA ou transformation digitale.
-
-I recently graduated as a Computer Engineer from ENSI, specializing in Financial Engineering. My background includes Python, Java, C++, full-stack development, databases, machine learning, and generative AI. During my final-year project at Linedata, I built an agentic AI solution to modernize a complex software product, combining business analysis, development, and automation.
-
-I am looking for a first full-time opportunity where I can learn quickly, take ownership, and turn real business needs into useful solutions. I am open to roles consistent with my degree and would welcome a conversation about your current or upcoming needs. I am based in Tunisia and open to relocation or an international remote arrangement where available.
-
-My CV is attached for your consideration. Thank you for your time.
-
-Kind regards,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Hello, I am an ENSI Computer Engineering graduate interested in junior opportunities at PlanBlue Gmbh. I would be glad to connect and learn which profiles your team is currently seeking.
-
-**Message après acceptation**
-
-Hello, thank you for accepting my invitation. I am seeking an entry-level opportunity at PlanBlue Gmbh in informatique, automatisation, Data/IA ou transformation digitale. My final-year project at Linedata focused on modernizing a financial product with AI agents. May I share my CV or ask who the right contact would be?
-
----
-
-### PLATANA
-
-- **Pays :** France
-- **Adresse(s) source :** Residence Rayahine Av. Majida Boulila, 3027, Sfax / france paris 2 Bd Van Gogh, 59650 Villeneuve-d'Ascq
-- **Domaine :** Autre / à vérifier
-- **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
-- **Potentiel :** 33/100 — D — Faible priorité
-- **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Bonjour,
-
-Je souhaite proposer ma candidature à PLATANA pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de informatique, automatisation, Data/IA ou transformation digitale.
-
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
-
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
-
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
-
-Bien cordialement,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez PLATANA. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
-
-**Message après acceptation**
-
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez PLATANA autour de informatique, automatisation, Data/IA ou transformation digitale. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
-
----
-
-### Polytech Annecy-Chambéry
-
-- **Pays :** France
-- **Adresse(s) source :** 5 Chem. de Bellevue, 74940 Annecy, France | 5, chemin de Bellevue, Annecy le vieux 74940 Annecy
-- **Domaine :** Autre / à vérifier
-- **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
-- **Potentiel :** 33/100 — D — Faible priorité
-- **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Bonjour,
-
-Je souhaite proposer ma candidature à Polytech Annecy-Chambéry pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de informatique, automatisation, Data/IA ou transformation digitale.
-
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
-
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
-
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
-
-Bien cordialement,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez Polytech Annecy-Chambéry. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
-
-**Message après acceptation**
-
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez Polytech Annecy-Chambéry autour de informatique, automatisation, Data/IA ou transformation digitale. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
+Thank you for connecting. I am exploring junior AI, Data and Software opportunities at PIGE INU LTD. I have not treated any old vacancy as active; my spontaneous application highlights my Linedata AI-agent project, software skills and ability to connect technology with business value. Could you please direct me to the appropriate hiring contact?
 
 ---
 
@@ -8056,139 +4270,41 @@ Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opp
 - **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
 - **Potentiel :** 33/100 — D — Faible priorité
 - **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
+- **Ouverture aux juniors :** Non vérifiable — Aucune preuve publique suffisamment récente d’un recrutement junior n’a été identifiée dans les résultats consultés.
+- **Candidats étrangers/visa/relocation :** Non vérifiable — Aucune preuve publique suffisamment précise de visa, relocation ou embauche internationale n’a été confirmée pour un poste junior adapté.
+- **Offres actives :** Aucune offre correspondant au profil n’a pu être confirmée active le 2026-09-25; utiliser la candidature spontanée et revérifier le canal officiel avant envoi.
+- **Contact :** Non trouvé/non vérifiable — Aucun recruteur ou responsable actuel suffisamment fiable identifié
 - **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
+- **Email :** Aucun email public vérifié (Les adresses du CSV n’ont pas été considérées comme vérifiées sans publication publique correspondante)
 - **Canal officiel :** Non trouvé/non vérifiable
 - **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
+- **Sources :** Recherches web ciblées du 2026-09-25 — aucun résultat suffisamment pertinent conservé
+- **Vérifié le :** 2026-09-25 — Recherche publique effectuée — candidature spontanée; canal/contact à confirmer avant envoi
 
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
+**Objet :** Candidature spontanée — Ingénieur informatique junior — Mohamed Oussema Bahloul
 
 **Email prêt à envoyer**
 
 Bonjour,
 
-Je souhaite proposer ma candidature à PPR Technologies inc. pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de informatique, automatisation, Data/IA ou transformation digitale.
+Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je souhaite proposer ma candidature spontanée à PPR Technologies inc. pour une première opportunité correspondant à mon profil.
 
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
+Mon PFE chez Linedata a porté sur la modernisation d’un produit financier à l’aide d’agents IA. Cette expérience m’a appris à comprendre un besoin métier, le traduire en workflows intelligents puis contribuer à son intégration dans un produit existant. Je maîtrise Python, Java, C++, le développement full-stack, les APIs, SQL et les bases de données, le machine learning, les LLM et les architectures RAG.
 
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
+Je m’intéresse à PPR Technologies inc. pour ses activités autour de le développement logiciel, la Data et l’intelligence artificielle appliquée. Je recherche un environnement où je pourrai apprendre rapidement, prendre progressivement des responsabilités et utiliser la technologie pour créer une valeur concrète.
 
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
-
-Bien cordialement,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez PPR Technologies inc.. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
-
-**Message après acceptation**
-
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez PPR Technologies inc. autour de informatique, automatisation, Data/IA ou transformation digitale. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
-
----
-
-### ProgressSoft Corporation
-
-- **Pays :** Jordanie
-- **Adresse(s) source :** 51 Saad Bin Abi Waqqas St، Amman, Jordan
-- **Domaine :** Autre / à vérifier
-- **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
-- **Potentiel :** 33/100 — D — Faible priorité
-- **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS_EN.pdf`
-- **Sources :** https://www.progressoft.com/cn/company/contactus
-- **Vérifié le :** 2026-09-25 — Localisation vérifiée — recrutement à rechercher
-
-**Objet :** Junior AI, Data & Software Engineering Application – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Dear Hiring Team,
-
-I would like to apply to ProgressSoft Corporation for an entry-level opportunity aligned with my computer engineering background, particularly in informatique, automatisation, Data/IA ou transformation digitale.
-
-I recently graduated as a Computer Engineer from ENSI, specializing in Financial Engineering. My background includes Python, Java, C++, full-stack development, databases, machine learning, and generative AI. During my final-year project at Linedata, I built an agentic AI solution to modernize a complex software product, combining business analysis, development, and automation.
-
-I am looking for a first full-time opportunity where I can learn quickly, take ownership, and turn real business needs into useful solutions. I am open to roles consistent with my degree and would welcome a conversation about your current or upcoming needs. I am based in Tunisia and open to relocation or an international remote arrangement where available.
-
-My CV is attached for your consideration. Thank you for your time.
-
-Kind regards,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Hello, I am an ENSI Computer Engineering graduate interested in junior opportunities at ProgressSoft Corporation. I would be glad to connect and learn which profiles your team is currently seeking.
-
-**Message après acceptation**
-
-Hello, thank you for accepting my invitation. I am seeking an entry-level opportunity at ProgressSoft Corporation in informatique, automatisation, Data/IA ou transformation digitale. My final-year project at Linedata focused on modernizing a financial product with AI agents. May I share my CV or ask who the right contact would be?
-
----
-
-### Royal Military College of Canada
-
-- **Pays :** Canada
-- **Adresse(s) source :** 13 General Crerar Cres., Kingston, ON, K7K 7B4, Canada | Canada
-- **Domaine :** Autre / à vérifier
-- **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
-- **Potentiel :** 33/100 — D — Faible priorité
-- **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Bonjour,
-
-Je souhaite proposer ma candidature à Royal Military College of Canada pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de informatique, automatisation, Data/IA ou transformation digitale.
-
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
-
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
-
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
+N’ayant pas trouvé d’offre junior actuellement ouverte que je puisse confirmer, je vous contacte en toute transparence dans le cadre d’une candidature spontanée pour un besoin présent ou futur. Je joins mon CV et serais ravi d’échanger avec vous.
 
 Bien cordialement,
 Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
 
 **Invitation LinkedIn**
 
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez Royal Military College of Canada. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
+Bonjour, récemment diplômé ingénieur ENSI et spécialisé en ingénierie financière, j’ai réalisé chez Linedata un PFE sur des agents IA. Je m’intéresse aux futurs besoins junior en IA, Data ou logiciel chez PPR Technologies inc.. Ravi de rejoindre votre réseau.
 
 **Message après acceptation**
 
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez Royal Military College of Canada autour de informatique, automatisation, Data/IA ou transformation digitale. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
+Bonjour, merci pour la connexion. Je m’intéresse aux opportunités junior en IA, Data et logiciel chez PPR Technologies inc.. Je n’ai présenté aucune ancienne annonce comme active; ma candidature spontanée met en avant mon PFE Linedata, mon socle logiciel et ma capacité à relier technologie et valeur métier. Pourriez-vous m’orienter vers le bon interlocuteur ?
 
 ---
 
@@ -8200,43 +4316,41 @@ Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opp
 - **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
 - **Potentiel :** 33/100 — D — Faible priorité
 - **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
+- **Ouverture aux juniors :** Non vérifiable — Aucune preuve publique suffisamment récente d’un recrutement junior n’a été identifiée dans les résultats consultés.
+- **Candidats étrangers/visa/relocation :** Non vérifiable — Aucune preuve publique suffisamment précise de visa, relocation ou embauche internationale n’a été confirmée pour un poste junior adapté.
+- **Offres actives :** Aucune offre correspondant au profil n’a pu être confirmée active le 2026-09-25; utiliser la candidature spontanée et revérifier le canal officiel avant envoi.
+- **Contact :** Non trouvé/non vérifiable — Aucun recruteur ou responsable actuel suffisamment fiable identifié
 - **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
+- **Email :** Aucun email public vérifié (Les adresses du CSV n’ont pas été considérées comme vérifiées sans publication publique correspondante)
 - **Canal officiel :** Non trouvé/non vérifiable
 - **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
+- **Sources :** Recherches web ciblées du 2026-09-25 — aucun résultat suffisamment pertinent conservé
+- **Vérifié le :** 2026-09-25 — Recherche publique effectuée — candidature spontanée; canal/contact à confirmer avant envoi
 
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
+**Objet :** Candidature spontanée — Ingénieur informatique junior — Mohamed Oussema Bahloul
 
 **Email prêt à envoyer**
 
 Bonjour,
 
-Je souhaite proposer ma candidature à SAS ARKIANE pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de informatique, automatisation, Data/IA ou transformation digitale.
+Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je souhaite proposer ma candidature spontanée à SAS ARKIANE pour une première opportunité correspondant à mon profil.
 
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
+Mon PFE chez Linedata a porté sur la modernisation d’un produit financier à l’aide d’agents IA. Cette expérience m’a appris à comprendre un besoin métier, le traduire en workflows intelligents puis contribuer à son intégration dans un produit existant. Je maîtrise Python, Java, C++, le développement full-stack, les APIs, SQL et les bases de données, le machine learning, les LLM et les architectures RAG.
 
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
+Je m’intéresse à SAS ARKIANE pour ses activités autour de le développement logiciel, la Data et l’intelligence artificielle appliquée. Je recherche un environnement où je pourrai apprendre rapidement, prendre progressivement des responsabilités et utiliser la technologie pour créer une valeur concrète.
 
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
+N’ayant pas trouvé d’offre junior actuellement ouverte que je puisse confirmer, je vous contacte en toute transparence dans le cadre d’une candidature spontanée pour un besoin présent ou futur. Je joins mon CV et serais ravi d’échanger avec vous.
 
 Bien cordialement,
 Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
 
 **Invitation LinkedIn**
 
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez SAS ARKIANE. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
+Bonjour, récemment diplômé ingénieur ENSI et spécialisé en ingénierie financière, j’ai réalisé chez Linedata un PFE sur des agents IA. Je m’intéresse aux futurs besoins junior en IA, Data ou logiciel chez SAS ARKIANE. Ravi de rejoindre votre réseau.
 
 **Message après acceptation**
 
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez SAS ARKIANE autour de informatique, automatisation, Data/IA ou transformation digitale. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
+Bonjour, merci pour la connexion. Je m’intéresse aux opportunités junior en IA, Data et logiciel chez SAS ARKIANE. Je n’ai présenté aucune ancienne annonce comme active; ma candidature spontanée met en avant mon PFE Linedata, mon socle logiciel et ma capacité à relier technologie et valeur métier. Pourriez-vous m’orienter vers le bon interlocuteur ?
 
 ---
 
@@ -8248,43 +4362,41 @@ Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opp
 - **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
 - **Potentiel :** 33/100 — D — Faible priorité
 - **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
+- **Ouverture aux juniors :** Non vérifiable — Aucune preuve publique suffisamment récente d’un recrutement junior n’a été identifiée dans les résultats consultés.
+- **Candidats étrangers/visa/relocation :** Non vérifiable — Aucune preuve publique suffisamment précise de visa, relocation ou embauche internationale n’a été confirmée pour un poste junior adapté.
+- **Offres actives :** Aucune offre correspondant au profil n’a pu être confirmée active le 2026-09-25; utiliser la candidature spontanée et revérifier le canal officiel avant envoi.
+- **Contact :** Non trouvé/non vérifiable — Aucun recruteur ou responsable actuel suffisamment fiable identifié
 - **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
+- **Email :** Aucun email public vérifié (Les adresses du CSV n’ont pas été considérées comme vérifiées sans publication publique correspondante)
 - **Canal officiel :** Non trouvé/non vérifiable
 - **CV conseillé :** `CV_ATS_EN.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
+- **Sources :** Recherches web ciblées du 2026-09-25 — aucun résultat suffisamment pertinent conservé
+- **Vérifié le :** 2026-09-25 — Recherche publique effectuée — candidature spontanée; canal/contact à confirmer avant envoi
 
-**Objet :** Junior AI, Data & Software Engineering Application – Mohamed Oussema Bahloul
+**Objet :** Spontaneous Application — Junior AI / Software Engineer — Mohamed Oussema Bahloul
 
 **Email prêt à envoyer**
 
-Dear Hiring Team,
+Dear Saudi Naval Support Co. (SNS) Recruitment Team,
 
-I would like to apply to Saudi Naval Support Co. (SNS) for an entry-level opportunity aligned with my computer engineering background, particularly in informatique, automatisation, Data/IA ou transformation digitale.
+I am a recent Computer Engineering graduate from ENSI in Tunisia, specialised in Financial Engineering, and I would like to submit a spontaneous application for a junior opportunity aligned with my background.
 
-I recently graduated as a Computer Engineer from ENSI, specializing in Financial Engineering. My background includes Python, Java, C++, full-stack development, databases, machine learning, and generative AI. During my final-year project at Linedata, I built an agentic AI solution to modernize a complex software product, combining business analysis, development, and automation.
+During my final-year project at Linedata, I helped modernise a financial software product using AI agents. This experience taught me how to understand a business need, turn it into an intelligent workflow and integrate it into an existing product. My background includes Python, Java, C++, full-stack development, APIs, SQL and databases, machine learning, LLMs and RAG.
 
-I am looking for a first full-time opportunity where I can learn quickly, take ownership, and turn real business needs into useful solutions. I am open to roles consistent with my degree and would welcome a conversation about your current or upcoming needs. I am based in Tunisia and open to relocation or an international remote arrangement where available.
+I am interested in Saudi Naval Support Co. (SNS) because of its work in software engineering, data and applied AI. I am looking for a team where I can learn quickly, take ownership progressively and use technology to create measurable value for users and the business.
 
-My CV is attached for your consideration. Thank you for your time.
+I have not found a currently open junior vacancy that I can confirm, so I am contacting you transparently as a spontaneous candidate for a present or future need. My CV is attached, and I would be pleased to discuss any suitable opportunity.
 
 Kind regards,
 Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
 
 **Invitation LinkedIn**
 
-Hello, I am an ENSI Computer Engineering graduate interested in junior opportunities at Saudi Naval Support Co. (SNS). I would be glad to connect and learn which profiles your team is currently seeking.
+Hello, I am a recent ENSI Computer Engineering graduate specialised in Financial Engineering. My Linedata project combined AI agents and product modernisation. I am interested in future junior AI, Data or Software opportunities at Saudi Naval Support Co. (SNS). Glad to connect.
 
 **Message après acceptation**
 
-Hello, thank you for accepting my invitation. I am seeking an entry-level opportunity at Saudi Naval Support Co. (SNS) in informatique, automatisation, Data/IA ou transformation digitale. My final-year project at Linedata focused on modernizing a financial product with AI agents. May I share my CV or ask who the right contact would be?
+Thank you for connecting. I am exploring junior AI, Data and Software opportunities at Saudi Naval Support Co. (SNS). I have not treated any old vacancy as active; my spontaneous application highlights my Linedata AI-agent project, software skills and ability to connect technology with business value. Could you please direct me to the appropriate hiring contact?
 
 ---
 
@@ -8296,379 +4408,41 @@ Hello, thank you for accepting my invitation. I am seeking an entry-level opport
 - **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
 - **Potentiel :** 33/100 — D — Faible priorité
 - **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
+- **Ouverture aux juniors :** Non vérifiable — Aucune preuve publique suffisamment récente d’un recrutement junior n’a été identifiée dans les résultats consultés.
+- **Candidats étrangers/visa/relocation :** Non vérifiable — Aucune preuve publique suffisamment précise de visa, relocation ou embauche internationale n’a été confirmée pour un poste junior adapté.
+- **Offres actives :** Aucune offre correspondant au profil n’a pu être confirmée active le 2026-09-25; utiliser la candidature spontanée et revérifier le canal officiel avant envoi.
+- **Contact :** Non trouvé/non vérifiable — Aucun recruteur ou responsable actuel suffisamment fiable identifié
 - **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
+- **Email :** Aucun email public vérifié (Les adresses du CSV n’ont pas été considérées comme vérifiées sans publication publique correspondante)
 - **Canal officiel :** Non trouvé/non vérifiable
 - **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
+- **Sources :** Recherches web ciblées du 2026-09-25 — aucun résultat suffisamment pertinent conservé
+- **Vérifié le :** 2026-09-25 — Recherche publique effectuée — candidature spontanée; canal/contact à confirmer avant envoi
 
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
+**Objet :** Candidature spontanée — Ingénieur informatique junior — Mohamed Oussema Bahloul
 
 **Email prêt à envoyer**
 
 Bonjour,
 
-Je souhaite proposer ma candidature à SB CONSTRUCTIONS pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de informatique, automatisation, Data/IA ou transformation digitale.
+Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je souhaite proposer ma candidature spontanée à SB CONSTRUCTIONS pour une première opportunité correspondant à mon profil.
 
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
+Mon PFE chez Linedata a porté sur la modernisation d’un produit financier à l’aide d’agents IA. Cette expérience m’a appris à comprendre un besoin métier, le traduire en workflows intelligents puis contribuer à son intégration dans un produit existant. Je maîtrise Python, Java, C++, le développement full-stack, les APIs, SQL et les bases de données, le machine learning, les LLM et les architectures RAG.
 
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
+Je m’intéresse à SB CONSTRUCTIONS pour ses activités autour de le développement logiciel, la Data et l’intelligence artificielle appliquée. Je recherche un environnement où je pourrai apprendre rapidement, prendre progressivement des responsabilités et utiliser la technologie pour créer une valeur concrète.
 
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
-
-Bien cordialement,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez SB CONSTRUCTIONS. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
-
-**Message après acceptation**
-
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez SB CONSTRUCTIONS autour de informatique, automatisation, Data/IA ou transformation digitale. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
-
----
-
-### Scorechain SA
-
-- **Pays :** Luxembourg
-- **Adresse(s) source :** 11 Bd du Jazz, Esch-Belval Belvaux Sanem, Luxembourg
-- **Domaine :** Autre / à vérifier
-- **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
-- **Potentiel :** 33/100 — D — Faible priorité
-- **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Bonjour,
-
-Je souhaite proposer ma candidature à Scorechain SA pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de informatique, automatisation, Data/IA ou transformation digitale.
-
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
-
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
-
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
+N’ayant pas trouvé d’offre junior actuellement ouverte que je puisse confirmer, je vous contacte en toute transparence dans le cadre d’une candidature spontanée pour un besoin présent ou futur. Je joins mon CV et serais ravi d’échanger avec vous.
 
 Bien cordialement,
 Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
 
 **Invitation LinkedIn**
 
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez Scorechain SA. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
+Bonjour, récemment diplômé ingénieur ENSI et spécialisé en ingénierie financière, j’ai réalisé chez Linedata un PFE sur des agents IA. Je m’intéresse aux futurs besoins junior en IA, Data ou logiciel chez SB CONSTRUCTIONS. Ravi de rejoindre votre réseau.
 
 **Message après acceptation**
 
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez Scorechain SA autour de informatique, automatisation, Data/IA ou transformation digitale. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
-
----
-
-### Shanon Technologies
-
-- **Pays :** France
-- **Adresse(s) source :** Woodrow Wilson 6 Place du Président Thomas Wilson, Toulouse, Nanterre 78600, FR
-- **Domaine :** Autre / à vérifier
-- **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
-- **Potentiel :** 33/100 — D — Faible priorité
-- **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Bonjour,
-
-Je souhaite proposer ma candidature à Shanon Technologies pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de informatique, automatisation, Data/IA ou transformation digitale.
-
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
-
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
-
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
-
-Bien cordialement,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez Shanon Technologies. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
-
-**Message après acceptation**
-
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez Shanon Technologies autour de informatique, automatisation, Data/IA ou transformation digitale. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
-
----
-
-### SMARTOVATE LTD
-
-- **Pays :** Royaume-Uni
-- **Adresse(s) source :** 71-75 Shelton Street, Covent Garden, London, UK (WC2H 9JQ) | 71-75 Shelton Street, Covent Garden, London, United Kingdom, WC2H 9JQ
-- **Domaine :** Autre / à vérifier
-- **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
-- **Potentiel :** 33/100 — D — Faible priorité
-- **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS_EN.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Junior AI, Data & Software Engineering Application – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Dear Hiring Team,
-
-I would like to apply to SMARTOVATE LTD for an entry-level opportunity aligned with my computer engineering background, particularly in informatique, automatisation, Data/IA ou transformation digitale.
-
-I recently graduated as a Computer Engineer from ENSI, specializing in Financial Engineering. My background includes Python, Java, C++, full-stack development, databases, machine learning, and generative AI. During my final-year project at Linedata, I built an agentic AI solution to modernize a complex software product, combining business analysis, development, and automation.
-
-I am looking for a first full-time opportunity where I can learn quickly, take ownership, and turn real business needs into useful solutions. I am open to roles consistent with my degree and would welcome a conversation about your current or upcoming needs. I am based in Tunisia and open to relocation or an international remote arrangement where available.
-
-My CV is attached for your consideration. Thank you for your time.
-
-Kind regards,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Hello, I am an ENSI Computer Engineering graduate interested in junior opportunities at SMARTOVATE LTD. I would be glad to connect and learn which profiles your team is currently seeking.
-
-**Message après acceptation**
-
-Hello, thank you for accepting my invitation. I am seeking an entry-level opportunity at SMARTOVATE LTD in informatique, automatisation, Data/IA ou transformation digitale. My final-year project at Linedata focused on modernizing a financial product with AI agents. May I share my CV or ask who the right contact would be?
-
----
-
-### SNCF RESEAU
-
-- **Pays :** France
-- **Adresse(s) source :** 6  Av François Mitterrand  93574 LA PLAINE ST DENIS CEDEX
-- **Domaine :** Autre / à vérifier
-- **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
-- **Potentiel :** 33/100 — D — Faible priorité
-- **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Bonjour,
-
-Je souhaite proposer ma candidature à SNCF RESEAU pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de informatique, automatisation, Data/IA ou transformation digitale.
-
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
-
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
-
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
-
-Bien cordialement,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez SNCF RESEAU. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
-
-**Message après acceptation**
-
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez SNCF RESEAU autour de informatique, automatisation, Data/IA ou transformation digitale. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
-
----
-
-### SOCIETE GENERALE
-
-- **Pays :** France
-- **Adresse(s) source :** 189 rue d'Aubervilliers 75886 Paris Cedex 18
-- **Domaine :** Autre / à vérifier
-- **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
-- **Potentiel :** 33/100 — D — Faible priorité
-- **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Bonjour,
-
-Je souhaite proposer ma candidature à SOCIETE GENERALE pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de informatique, automatisation, Data/IA ou transformation digitale.
-
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
-
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
-
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
-
-Bien cordialement,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez SOCIETE GENERALE. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
-
-**Message après acceptation**
-
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez SOCIETE GENERALE autour de informatique, automatisation, Data/IA ou transformation digitale. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
-
----
-
-### Sosyo Plus Bilgi Bil. Tekn. Dan. Hiz. Tic. A.Ş.
-
-- **Pays :** Turquie
-- **Adresse(s) source :** Istanbul, Turkey
-- **Domaine :** Autre / à vérifier
-- **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
-- **Potentiel :** 33/100 — D — Faible priorité
-- **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS_EN.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Junior AI, Data & Software Engineering Application – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Dear Hiring Team,
-
-I would like to apply to Sosyo Plus Bilgi Bil. Tekn. Dan. Hiz. Tic. A.Ş. for an entry-level opportunity aligned with my computer engineering background, particularly in informatique, automatisation, Data/IA ou transformation digitale.
-
-I recently graduated as a Computer Engineer from ENSI, specializing in Financial Engineering. My background includes Python, Java, C++, full-stack development, databases, machine learning, and generative AI. During my final-year project at Linedata, I built an agentic AI solution to modernize a complex software product, combining business analysis, development, and automation.
-
-I am looking for a first full-time opportunity where I can learn quickly, take ownership, and turn real business needs into useful solutions. I am open to roles consistent with my degree and would welcome a conversation about your current or upcoming needs. I am based in Tunisia and open to relocation or an international remote arrangement where available.
-
-My CV is attached for your consideration. Thank you for your time.
-
-Kind regards,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Hello, I am an ENSI Computer Engineering graduate interested in junior opportunities at Sosyo Plus Bilgi Bil. Tekn. Dan. Hiz. Tic. A.Ş.. I would be glad to connect and learn which profiles your team is currently seeking.
-
-**Message après acceptation**
-
-Hello, thank you for accepting my invitation. I am seeking an entry-level opportunity at Sosyo Plus Bilgi Bil. Tekn. Dan. Hiz. Tic. A.Ş. in informatique, automatisation, Data/IA ou transformation digitale. My final-year project at Linedata focused on modernizing a financial product with AI agents. May I share my CV or ask who the right contact would be?
-
----
-
-### SOWISO BV
-
-- **Pays :** Pays-Bas
-- **Adresse(s) source :** Science Park 301,1098 XH, Amsterdam
-- **Domaine :** Autre / à vérifier
-- **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
-- **Potentiel :** 33/100 — D — Faible priorité
-- **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS_EN.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Junior AI, Data & Software Engineering Application – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Dear Hiring Team,
-
-I would like to apply to SOWISO BV for an entry-level opportunity aligned with my computer engineering background, particularly in informatique, automatisation, Data/IA ou transformation digitale.
-
-I recently graduated as a Computer Engineer from ENSI, specializing in Financial Engineering. My background includes Python, Java, C++, full-stack development, databases, machine learning, and generative AI. During my final-year project at Linedata, I built an agentic AI solution to modernize a complex software product, combining business analysis, development, and automation.
-
-I am looking for a first full-time opportunity where I can learn quickly, take ownership, and turn real business needs into useful solutions. I am open to roles consistent with my degree and would welcome a conversation about your current or upcoming needs. I am based in Tunisia and open to relocation or an international remote arrangement where available.
-
-My CV is attached for your consideration. Thank you for your time.
-
-Kind regards,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Hello, I am an ENSI Computer Engineering graduate interested in junior opportunities at SOWISO BV. I would be glad to connect and learn which profiles your team is currently seeking.
-
-**Message après acceptation**
-
-Hello, thank you for accepting my invitation. I am seeking an entry-level opportunity at SOWISO BV in informatique, automatisation, Data/IA ou transformation digitale. My final-year project at Linedata focused on modernizing a financial product with AI agents. May I share my CV or ask who the right contact would be?
+Bonjour, merci pour la connexion. Je m’intéresse aux opportunités junior en IA, Data et logiciel chez SB CONSTRUCTIONS. Je n’ai présenté aucune ancienne annonce comme active; ma candidature spontanée met en avant mon PFE Linedata, mon socle logiciel et ma capacité à relier technologie et valeur métier. Pourriez-vous m’orienter vers le bon interlocuteur ?
 
 ---
 
@@ -8680,283 +4454,41 @@ Hello, thank you for accepting my invitation. I am seeking an entry-level opport
 - **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
 - **Potentiel :** 33/100 — D — Faible priorité
 - **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
+- **Ouverture aux juniors :** Non vérifiable — Aucune preuve publique suffisamment récente d’un recrutement junior n’a été identifiée dans les résultats consultés.
+- **Candidats étrangers/visa/relocation :** Non vérifiable — Aucune preuve publique suffisamment précise de visa, relocation ou embauche internationale n’a été confirmée pour un poste junior adapté.
+- **Offres actives :** Aucune offre correspondant au profil n’a pu être confirmée active le 2026-09-25; utiliser la candidature spontanée et revérifier le canal officiel avant envoi.
+- **Contact :** Non trouvé/non vérifiable — Aucun recruteur ou responsable actuel suffisamment fiable identifié
 - **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
+- **Email :** Aucun email public vérifié (Les adresses du CSV n’ont pas été considérées comme vérifiées sans publication publique correspondante)
 - **Canal officiel :** Non trouvé/non vérifiable
 - **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
+- **Sources :** Recherches web ciblées du 2026-09-25 — aucun résultat suffisamment pertinent conservé
+- **Vérifié le :** 2026-09-25 — Recherche publique effectuée — candidature spontanée; canal/contact à confirmer avant envoi
 
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
+**Objet :** Candidature spontanée — Ingénieur informatique junior — Mohamed Oussema Bahloul
 
 **Email prêt à envoyer**
 
 Bonjour,
 
-Je souhaite proposer ma candidature à STARTEC pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de informatique, automatisation, Data/IA ou transformation digitale.
+Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je souhaite proposer ma candidature spontanée à STARTEC pour une première opportunité correspondant à mon profil.
 
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
+Mon PFE chez Linedata a porté sur la modernisation d’un produit financier à l’aide d’agents IA. Cette expérience m’a appris à comprendre un besoin métier, le traduire en workflows intelligents puis contribuer à son intégration dans un produit existant. Je maîtrise Python, Java, C++, le développement full-stack, les APIs, SQL et les bases de données, le machine learning, les LLM et les architectures RAG.
 
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
+Je m’intéresse à STARTEC pour ses activités autour de le développement logiciel, la Data et l’intelligence artificielle appliquée. Je recherche un environnement où je pourrai apprendre rapidement, prendre progressivement des responsabilités et utiliser la technologie pour créer une valeur concrète.
 
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
-
-Bien cordialement,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez STARTEC. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
-
-**Message après acceptation**
-
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez STARTEC autour de informatique, automatisation, Data/IA ou transformation digitale. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
-
----
-
-### SUEZ Eau France
-
-- **Pays :** France
-- **Adresse(s) source :** Tour CB21,16 Place De L'Iris  92040 Paris La Défense, France
-- **Domaine :** Autre / à vérifier
-- **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
-- **Potentiel :** 33/100 — D — Faible priorité
-- **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Bonjour,
-
-Je souhaite proposer ma candidature à SUEZ Eau France pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de informatique, automatisation, Data/IA ou transformation digitale.
-
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
-
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
-
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
+N’ayant pas trouvé d’offre junior actuellement ouverte que je puisse confirmer, je vous contacte en toute transparence dans le cadre d’une candidature spontanée pour un besoin présent ou futur. Je joins mon CV et serais ravi d’échanger avec vous.
 
 Bien cordialement,
 Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
 
 **Invitation LinkedIn**
 
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez SUEZ Eau France. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
+Bonjour, récemment diplômé ingénieur ENSI et spécialisé en ingénierie financière, j’ai réalisé chez Linedata un PFE sur des agents IA. Je m’intéresse aux futurs besoins junior en IA, Data ou logiciel chez STARTEC. Ravi de rejoindre votre réseau.
 
 **Message après acceptation**
 
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez SUEZ Eau France autour de informatique, automatisation, Data/IA ou transformation digitale. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
-
----
-
-### SUEZ R&V France
-
-- **Pays :** France
-- **Adresse(s) source :** Tour CB21,16 Place De L'Iris  92040 Paris La Défense, France
-- **Domaine :** Autre / à vérifier
-- **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
-- **Potentiel :** 33/100 — D — Faible priorité
-- **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Bonjour,
-
-Je souhaite proposer ma candidature à SUEZ R&V France pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de informatique, automatisation, Data/IA ou transformation digitale.
-
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
-
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
-
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
-
-Bien cordialement,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez SUEZ R&V France. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
-
-**Message après acceptation**
-
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez SUEZ R&V France autour de informatique, automatisation, Data/IA ou transformation digitale. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
-
----
-
-### Synapse DX
-
-- **Pays :** Portugal
-- **Adresse(s) source :** Alameda Conde Oeiras, 2780-193 Oeiras, Portugal
-- **Domaine :** Autre / à vérifier
-- **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
-- **Potentiel :** 33/100 — D — Faible priorité
-- **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS_EN.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Junior AI, Data & Software Engineering Application – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Dear Hiring Team,
-
-I would like to apply to Synapse DX for an entry-level opportunity aligned with my computer engineering background, particularly in informatique, automatisation, Data/IA ou transformation digitale.
-
-I recently graduated as a Computer Engineer from ENSI, specializing in Financial Engineering. My background includes Python, Java, C++, full-stack development, databases, machine learning, and generative AI. During my final-year project at Linedata, I built an agentic AI solution to modernize a complex software product, combining business analysis, development, and automation.
-
-I am looking for a first full-time opportunity where I can learn quickly, take ownership, and turn real business needs into useful solutions. I am open to roles consistent with my degree and would welcome a conversation about your current or upcoming needs. I am based in Tunisia and open to relocation or an international remote arrangement where available.
-
-My CV is attached for your consideration. Thank you for your time.
-
-Kind regards,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Hello, I am an ENSI Computer Engineering graduate interested in junior opportunities at Synapse DX. I would be glad to connect and learn which profiles your team is currently seeking.
-
-**Message après acceptation**
-
-Hello, thank you for accepting my invitation. I am seeking an entry-level opportunity at Synapse DX in informatique, automatisation, Data/IA ou transformation digitale. My final-year project at Linedata focused on modernizing a financial product with AI agents. May I share my CV or ask who the right contact would be?
-
----
-
-### Syslearn
-
-- **Pays :** France
-- **Adresse(s) source :** 2 esplanade Ferdinand Magellan, 93160 Noisy-le-Grand,�France
-- **Domaine :** Autre / à vérifier
-- **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
-- **Potentiel :** 33/100 — D — Faible priorité
-- **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Bonjour,
-
-Je souhaite proposer ma candidature à Syslearn pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de informatique, automatisation, Data/IA ou transformation digitale.
-
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
-
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
-
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
-
-Bien cordialement,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez Syslearn. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
-
-**Message après acceptation**
-
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez Syslearn autour de informatique, automatisation, Data/IA ou transformation digitale. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
-
----
-
-### Système de recommandation de nourriture pour cuisine robotisée
-
-- **Pays :** Canada
-- **Adresse(s) source :** 445 Bd de l'Université, Rouyn-Noranda, QC J9X 5E4, CANADA
-- **Domaine :** Autre / à vérifier
-- **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
-- **Potentiel :** 33/100 — D — Faible priorité
-- **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Bonjour,
-
-Je souhaite proposer ma candidature à Système de recommandation de nourriture pour cuisine robotisée pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de informatique, automatisation, Data/IA ou transformation digitale.
-
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
-
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
-
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
-
-Bien cordialement,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez Système de recommandation de nourriture pour cuisine robotisée. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
-
-**Message après acceptation**
-
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez Système de recommandation de nourriture pour cuisine robotisée autour de informatique, automatisation, Data/IA ou transformation digitale. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
+Bonjour, merci pour la connexion. Je m’intéresse aux opportunités junior en IA, Data et logiciel chez STARTEC. Je n’ai présenté aucune ancienne annonce comme active; ma candidature spontanée met en avant mon PFE Linedata, mon socle logiciel et ma capacité à relier technologie et valeur métier. Pourriez-vous m’orienter vers le bon interlocuteur ?
 
 ---
 
@@ -8968,43 +4500,41 @@ Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opp
 - **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
 - **Potentiel :** 33/100 — D — Faible priorité
 - **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
+- **Ouverture aux juniors :** Non vérifiable — Aucune preuve publique suffisamment récente d’un recrutement junior n’a été identifiée dans les résultats consultés.
+- **Candidats étrangers/visa/relocation :** Non vérifiable — Aucune preuve publique suffisamment précise de visa, relocation ou embauche internationale n’a été confirmée pour un poste junior adapté.
+- **Offres actives :** Aucune offre correspondant au profil n’a pu être confirmée active le 2026-09-25; utiliser la candidature spontanée et revérifier le canal officiel avant envoi.
+- **Contact :** Non trouvé/non vérifiable — Aucun recruteur ou responsable actuel suffisamment fiable identifié
 - **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
+- **Email :** Aucun email public vérifié (Les adresses du CSV n’ont pas été considérées comme vérifiées sans publication publique correspondante)
 - **Canal officiel :** Non trouvé/non vérifiable
 - **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
+- **Sources :** Recherches web ciblées du 2026-09-25 — aucun résultat suffisamment pertinent conservé
+- **Vérifié le :** 2026-09-25 — Recherche publique effectuée — candidature spontanée; canal/contact à confirmer avant envoi
 
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
+**Objet :** Candidature spontanée — Ingénieur informatique junior — Mohamed Oussema Bahloul
 
 **Email prêt à envoyer**
 
 Bonjour,
 
-Je souhaite proposer ma candidature à Tabreed Thermal Control Ltd pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de informatique, automatisation, Data/IA ou transformation digitale.
+Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je souhaite proposer ma candidature spontanée à Tabreed Thermal Control Ltd pour une première opportunité correspondant à mon profil.
 
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
+Mon PFE chez Linedata a porté sur la modernisation d’un produit financier à l’aide d’agents IA. Cette expérience m’a appris à comprendre un besoin métier, le traduire en workflows intelligents puis contribuer à son intégration dans un produit existant. Je maîtrise Python, Java, C++, le développement full-stack, les APIs, SQL et les bases de données, le machine learning, les LLM et les architectures RAG.
 
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
+Je m’intéresse à Tabreed Thermal Control Ltd pour ses activités autour de le développement logiciel, la Data et l’intelligence artificielle appliquée. Je recherche un environnement où je pourrai apprendre rapidement, prendre progressivement des responsabilités et utiliser la technologie pour créer une valeur concrète.
 
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
+N’ayant pas trouvé d’offre junior actuellement ouverte que je puisse confirmer, je vous contacte en toute transparence dans le cadre d’une candidature spontanée pour un besoin présent ou futur. Je joins mon CV et serais ravi d’échanger avec vous.
 
 Bien cordialement,
 Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
 
 **Invitation LinkedIn**
 
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez Tabreed Thermal Control Ltd. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
+Bonjour, récemment diplômé ingénieur ENSI et spécialisé en ingénierie financière, j’ai réalisé chez Linedata un PFE sur des agents IA. Je m’intéresse aux futurs besoins junior en IA, Data ou logiciel chez Tabreed Thermal Control Ltd. Ravi de rejoindre votre réseau.
 
 **Message après acceptation**
 
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez Tabreed Thermal Control Ltd autour de informatique, automatisation, Data/IA ou transformation digitale. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
+Bonjour, merci pour la connexion. Je m’intéresse aux opportunités junior en IA, Data et logiciel chez Tabreed Thermal Control Ltd. Je n’ai présenté aucune ancienne annonce comme active; ma candidature spontanée met en avant mon PFE Linedata, mon socle logiciel et ma capacité à relier technologie et valeur métier. Pourriez-vous m’orienter vers le bon interlocuteur ?
 
 ---
 
@@ -9016,91 +4546,41 @@ Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opp
 - **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
 - **Potentiel :** 33/100 — D — Faible priorité
 - **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
+- **Ouverture aux juniors :** Non vérifiable — Aucune preuve publique suffisamment récente d’un recrutement junior n’a été identifiée dans les résultats consultés.
+- **Candidats étrangers/visa/relocation :** Non vérifiable — Aucune preuve publique suffisamment précise de visa, relocation ou embauche internationale n’a été confirmée pour un poste junior adapté.
+- **Offres actives :** Aucune offre correspondant au profil n’a pu être confirmée active le 2026-09-25; utiliser la candidature spontanée et revérifier le canal officiel avant envoi.
+- **Contact :** Non trouvé/non vérifiable — Aucun recruteur ou responsable actuel suffisamment fiable identifié
 - **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
+- **Email :** Aucun email public vérifié (Les adresses du CSV n’ont pas été considérées comme vérifiées sans publication publique correspondante)
 - **Canal officiel :** Non trouvé/non vérifiable
 - **CV conseillé :** `CV_ATS_EN.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
+- **Sources :** Recherches web ciblées du 2026-09-25 — aucun résultat suffisamment pertinent conservé
+- **Vérifié le :** 2026-09-25 — Recherche publique effectuée — candidature spontanée; canal/contact à confirmer avant envoi
 
-**Objet :** Junior AI, Data & Software Engineering Application – Mohamed Oussema Bahloul
+**Objet :** Spontaneous Application — Junior AI / Software Engineer — Mohamed Oussema Bahloul
 
 **Email prêt à envoyer**
 
-Dear Hiring Team,
+Dear Viaflex Inc Recruitment Team,
 
-I would like to apply to Viaflex Inc for an entry-level opportunity aligned with my computer engineering background, particularly in informatique, automatisation, Data/IA ou transformation digitale.
+I am a recent Computer Engineering graduate from ENSI in Tunisia, specialised in Financial Engineering, and I would like to submit a spontaneous application for a junior opportunity aligned with my background.
 
-I recently graduated as a Computer Engineer from ENSI, specializing in Financial Engineering. My background includes Python, Java, C++, full-stack development, databases, machine learning, and generative AI. During my final-year project at Linedata, I built an agentic AI solution to modernize a complex software product, combining business analysis, development, and automation.
+During my final-year project at Linedata, I helped modernise a financial software product using AI agents. This experience taught me how to understand a business need, turn it into an intelligent workflow and integrate it into an existing product. My background includes Python, Java, C++, full-stack development, APIs, SQL and databases, machine learning, LLMs and RAG.
 
-I am looking for a first full-time opportunity where I can learn quickly, take ownership, and turn real business needs into useful solutions. I am open to roles consistent with my degree and would welcome a conversation about your current or upcoming needs. I am based in Tunisia and open to relocation or an international remote arrangement where available.
+I am interested in Viaflex Inc because of its work in software engineering, data and applied AI. I am looking for a team where I can learn quickly, take ownership progressively and use technology to create measurable value for users and the business.
 
-My CV is attached for your consideration. Thank you for your time.
+I have not found a currently open junior vacancy that I can confirm, so I am contacting you transparently as a spontaneous candidate for a present or future need. My CV is attached, and I would be pleased to discuss any suitable opportunity.
 
 Kind regards,
 Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
 
 **Invitation LinkedIn**
 
-Hello, I am an ENSI Computer Engineering graduate interested in junior opportunities at Viaflex Inc. I would be glad to connect and learn which profiles your team is currently seeking.
+Hello, I am a recent ENSI Computer Engineering graduate specialised in Financial Engineering. My Linedata project combined AI agents and product modernisation. I am interested in future junior AI, Data or Software opportunities at Viaflex Inc. Glad to connect.
 
 **Message après acceptation**
 
-Hello, thank you for accepting my invitation. I am seeking an entry-level opportunity at Viaflex Inc in informatique, automatisation, Data/IA ou transformation digitale. My final-year project at Linedata focused on modernizing a financial product with AI agents. May I share my CV or ask who the right contact would be?
-
----
-
-### Vilmorin-Mikado, LIMAGRAIN Group
-
-- **Pays :** France
-- **Adresse(s) source :** La Ménitré (49250), FRANCE
-- **Domaine :** Autre / à vérifier
-- **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
-- **Potentiel :** 33/100 — D — Faible priorité
-- **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Bonjour,
-
-Je souhaite proposer ma candidature à Vilmorin-Mikado, LIMAGRAIN Group pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de informatique, automatisation, Data/IA ou transformation digitale.
-
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
-
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
-
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
-
-Bien cordialement,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez Vilmorin-Mikado, LIMAGRAIN Group. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
-
-**Message après acceptation**
-
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez Vilmorin-Mikado, LIMAGRAIN Group autour de informatique, automatisation, Data/IA ou transformation digitale. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
+Thank you for connecting. I am exploring junior AI, Data and Software opportunities at Viaflex Inc. I have not treated any old vacancy as active; my spontaneous application highlights my Linedata AI-agent project, software skills and ability to connect technology with business value. Could you please direct me to the appropriate hiring contact?
 
 ---
 
@@ -9112,277 +4592,87 @@ Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opp
 - **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
 - **Potentiel :** 33/100 — D — Faible priorité
 - **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
+- **Ouverture aux juniors :** Non vérifiable — Aucune preuve publique suffisamment récente d’un recrutement junior n’a été identifiée dans les résultats consultés.
+- **Candidats étrangers/visa/relocation :** Non vérifiable — Aucune preuve publique suffisamment précise de visa, relocation ou embauche internationale n’a été confirmée pour un poste junior adapté.
+- **Offres actives :** Aucune offre correspondant au profil n’a pu être confirmée active le 2026-09-25; utiliser la candidature spontanée et revérifier le canal officiel avant envoi.
+- **Contact :** Non trouvé/non vérifiable — Aucun recruteur ou responsable actuel suffisamment fiable identifié
 - **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
+- **Email :** Aucun email public vérifié (Les adresses du CSV n’ont pas été considérées comme vérifiées sans publication publique correspondante)
 - **Canal officiel :** Non trouvé/non vérifiable
 - **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
+- **Sources :** Recherches web ciblées du 2026-09-25 — aucun résultat suffisamment pertinent conservé
+- **Vérifié le :** 2026-09-25 — Recherche publique effectuée — candidature spontanée; canal/contact à confirmer avant envoi
 
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Bonjour,
-
-Je souhaite proposer ma candidature à Vocomed pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de informatique, automatisation, Data/IA ou transformation digitale.
-
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
-
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
-
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
-
-Bien cordialement,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez Vocomed. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
-
-**Message après acceptation**
-
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez Vocomed autour de informatique, automatisation, Data/IA ou transformation digitale. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
-
----
-
-### Yonnov'IA
-
-- **Pays :** France
-- **Adresse(s) source :** 37 Rue Guibal, Marseille Innovation, CS 20038, Marseille, Box No.7 France | 37 Rue Guibal, Pôle Media Belle de mai, Bureau N°7, 13356 Marseille Cedex 03, France | Marseille Cedex 03 | Marseille Innovation, Pôle Media Belle de mai | Bureau N°7  37 Rue Guibal, 13003 Marseille, France | Marseille, France  37 Rue Guibal, Pôle Média, office No.7, Marseille Innovation – 13003
-- **Domaine :** Autre / à vérifier
-- **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
-- **Potentiel :** 33/100 — D — Faible priorité
-- **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
+**Objet :** Candidature spontanée — Ingénieur informatique junior — Mohamed Oussema Bahloul
 
 **Email prêt à envoyer**
 
 Bonjour,
 
-Je souhaite proposer ma candidature à Yonnov'IA pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de informatique, automatisation, Data/IA ou transformation digitale.
+Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je souhaite proposer ma candidature spontanée à Vocomed pour une première opportunité correspondant à mon profil.
 
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
+Mon PFE chez Linedata a porté sur la modernisation d’un produit financier à l’aide d’agents IA. Cette expérience m’a appris à comprendre un besoin métier, le traduire en workflows intelligents puis contribuer à son intégration dans un produit existant. Je maîtrise Python, Java, C++, le développement full-stack, les APIs, SQL et les bases de données, le machine learning, les LLM et les architectures RAG.
 
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
+Je m’intéresse à Vocomed pour ses activités autour de le développement logiciel, la Data et l’intelligence artificielle appliquée. Je recherche un environnement où je pourrai apprendre rapidement, prendre progressivement des responsabilités et utiliser la technologie pour créer une valeur concrète.
 
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
-
-Bien cordialement,
-Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
-
-**Invitation LinkedIn**
-
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez Yonnov'IA. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
-
-**Message après acceptation**
-
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez Yonnov'IA autour de informatique, automatisation, Data/IA ou transformation digitale. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
-
----
-
-### YONNOV’IA SAS
-
-- **Pays :** France
-- **Adresse(s) source :** 37 Rue Guibal, Marseille Innovation, CS 20038, Marseille, Box No.7 France | Marseille Innovation Pôle Media Belle de Mai 37 Rue Guibal Bureau No. 07 13003 Marseille France
-- **Domaine :** Autre / à vérifier
-- **Correspondance :** 4.0/10 — Activité insuffisamment précise dans le fichier source
-- **Potentiel :** 33/100 — D — Faible priorité
-- **Métiers ciblés :** informatique, automatisation, Data/IA ou transformation digitale
-- **Ouverture aux juniors :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **Candidats étrangers/visa/relocation :** Non vérifiable — Non trouvé/non vérifiable
-- **Offres actives :** Non trouvé/non vérifiable
-- **Contact :** Non trouvé/non vérifiable — Non trouvé/non vérifiable
-- **LinkedIn :** Non trouvé/non vérifiable
-- **Email :** Aucun email public vérifié (Présent dans le CSV — à vérifier)
-- **Canal officiel :** Non trouvé/non vérifiable
-- **CV conseillé :** `CV_ATS.pdf`
-- **Sources :** Non trouvé/non vérifiable
-- **Vérifié le :** 2026-09-25 — À rechercher
-
-**Objet :** Candidature junior – IA, Data et développement logiciel – Mohamed Oussema Bahloul
-
-**Email prêt à envoyer**
-
-Bonjour,
-
-Je souhaite proposer ma candidature à YONNOV’IA SAS pour une première opportunité correspondant à mon profil d’ingénieur informatique, notamment autour de informatique, automatisation, Data/IA ou transformation digitale.
-
-Récemment diplômé ingénieur en informatique de l’ENSI, avec une spécialisation en ingénierie financière, je maîtrise Python, Java, C++, le développement full-stack, les bases de données, le machine learning et l’IA générative. Lors de mon PFE chez Linedata, j’ai conçu une solution d’IA agentique destinée à moderniser un produit logiciel complexe, en reliant analyse métier, développement et automatisation.
-
-Je recherche une première expérience dans laquelle je pourrai apprendre rapidement, prendre des responsabilités et transformer des besoins concrets en solutions utiles. Je reste ouvert aux différents métiers cohérents avec mon diplôme et serais heureux d’échanger sur vos besoins actuels ou futurs.
-
-Vous trouverez mon CV en pièce jointe. Je vous remercie pour votre attention.
+N’ayant pas trouvé d’offre junior actuellement ouverte que je puisse confirmer, je vous contacte en toute transparence dans le cadre d’une candidature spontanée pour un besoin présent ou futur. Je joins mon CV et serais ravi d’échanger avec vous.
 
 Bien cordialement,
 Mohamed Oussema Bahloul
-mohamedoussema.bahloul@ensi-uma.tn | +216 50 606 692
-linkedin.com/in/mohamedoussemabahloul
 
 **Invitation LinkedIn**
 
-Bonjour, jeune ingénieur ENSI en informatique et IA, je m’intéresse aux opportunités chez YONNOV’IA SAS. Je serais ravi de rejoindre votre réseau et d’échanger sur les profils juniors recherchés.
+Bonjour, récemment diplômé ingénieur ENSI et spécialisé en ingénierie financière, j’ai réalisé chez Linedata un PFE sur des agents IA. Je m’intéresse aux futurs besoins junior en IA, Data ou logiciel chez Vocomed. Ravi de rejoindre votre réseau.
 
 **Message après acceptation**
 
-Bonjour, merci d’avoir accepté mon invitation. Je recherche une première opportunité chez YONNOV’IA SAS autour de informatique, automatisation, Data/IA ou transformation digitale. Mon PFE chez Linedata portait sur la modernisation d’un produit financier avec des agents IA. Pourrais-je vous transmettre mon CV ou connaître le bon interlocuteur ?
+Bonjour, merci pour la connexion. Je m’intéresse aux opportunités junior en IA, Data et logiciel chez Vocomed. Je n’ai présenté aucune ancienne annonce comme active; ma candidature spontanée met en avant mon PFE Linedata, mon socle logiciel et ma capacité à relier technologie et valeur métier. Pourriez-vous m’orienter vers le bon interlocuteur ?
 
 ---
 
-### LISTIC - Laboratoire d'Informatique, Systèmes, Traitement de l'Information et de la Connaissance
+### M-TECH
 
 - **Pays :** France
-- **Adresse(s) source :** 5 Chem. de Bellevue, 74940 Annecy, France
-- **Domaine :** Recherche en machine learning, fusion d'information, IA distribuée, systèmes, réseaux et traitement des connaissances
-- **Correspondance :** 8.0/10 — Les sujets LLM, confidentialité, IA distribuée et traitement de connaissances correspondent à l'IA/logiciel et au contexte finance sensible du PFE. Les offres disponibles sont toutefois des stages étudiants ou des postdoctorats exigeant un doctorat, pas un premier emploi d'ingénieur généraliste.
-- **Potentiel :** 32/100 — D — Faible priorité
-- **Métiers ciblés :** Ingénieur de recherche IA/Data; Research Software Engineer; doctorant; stage Master 2 en LLM, confidentialité ou IA distribuée
-- **Ouverture aux juniors :** Oui, par stages et doctorats — Le LISTIC a publié plusieurs stages 2025/2026 de niveau Master 2/5e année, dont un sujet LLM sur la protection des informations sensibles. Un postdoctorat 2026 exige, par définition, un doctorat.
-- **Candidats étrangers/visa/relocation :** Non vérifiable — L'école doctorale USMB accueille une proportion importante d'étrangers, mais cela concerne des doctorants et ne prouve pas le sponsoring d'un emploi junior. Les offres consultées ne mentionnent pas la relocation.
-- **Offres actives :** Aucun emploi d'ingénieur junior adapté confirmé ouvert le 2026-09-25. Le stage LLM/confidentialité était prévu entre février et juillet 2026 et est expiré — https://projects.listic.univ-smb.fr/emploi/stage/offre_stage_2026_faiza.pdf. Le postdoctorat « Energy-Aware Distributed AI » exige un doctorat et ne correspond pas au candidat — https://projects.listic.univ-smb.fr/emploi/post-doc/2026_PostDoc_LISTIC.pdf.
-- **Contact :** LISTIC — Page officielle actuelle du laboratoire
-- **LinkedIn :** https://fr.linkedin.com/company/listic-lab
-- **Email :** Aucun email de recrutement junior actuellement vérifié (directeur-listic@univ-smb.fr du CSV est une adresse institutionnelle, mais aucun appel junior actuel ne la désigne comme canal. L'ancienne adresse Recrutement.Listic@univ-smb.fr provenait d'une offre 2023 et ne doit pas être utilisée comme campagne actuelle.)
-- **Canal officiel :** https://projects.listic.univ-smb.fr/emploi/ | https://www.univ-smb.fr/listic/
+- **Adresse(s) source :** 15 Route des gardes 92190 MEUDON
+- **Domaine :** Computer programming
+- **Correspondance :** 4.8/10 — La société est enregistrée en programmation informatique mais le registre indique zéro salarié et aucune présence de recrutement; le potentiel réel est très faible.
+- **Potentiel :** 15/100 — D — Faible priorité
+- **Métiers ciblés :** Junior Software Engineer
+- **Ouverture aux juniors :** Non — aucune preuve d’embauche et unité non employeuse — Aucune offre active; aucune candidature prioritaire recommandée.
+- **Candidats étrangers/visa/relocation :** Non — aucun effectif déclaré ni voie de recrutement — Le statut international est limité aux éléments explicitement visibles; aucun visa n’est supposé.
+- **Offres actives :** Aucune offre active; aucune candidature prioritaire recommandée.
+- **Contact :** Canal officiel — Contact actuel pertinent
+- **LinkedIn :** https://annuaire-entreprises.data.gouv.fr/entreprise/902843366
+- **Email :** Aucun email public vérifié (Aucun email public vérifié)
+- **Canal officiel :** https://annuaire-entreprises.data.gouv.fr/entreprise/902843366
 - **CV conseillé :** `CV_ATS_EN.pdf`
-- **Sources :** https://fr.linkedin.com/company/listic-lab | https://projects.listic.univ-smb.fr/emploi/stage/offre_stage_2026_faiza.pdf | https://projects.listic.univ-smb.fr/emploi/post-doc/2026_PostDoc_LISTIC.pdf | https://www.univ-smb.fr/listic/en/informations/actualites/
-- **Vérifié le :** 2026-09-25 — Vérifié — sujets IA pertinents, mais stages expirés et postdoctorat hors niveau
+- **Sources :** https://annuaire-entreprises.data.gouv.fr/entreprise/902843366
+- **Vérifié le :** 2026-09-25 — Vérifié — screening manuel ciblé
 
-**Objet :** Intérêt pour de futurs contrats d'ingénieur de recherche junior en IA
+**Objet :** Candidature spontanée — Junior Software Engineer junior
 
 **Email prêt à envoyer**
 
 Bonjour,
 
-Récemment diplômé ingénieur en informatique de l'ENSI en Tunisie, je m'intéresse aux travaux du LISTIC en apprentissage automatique, traitement des connaissances et IA distribuée.
+Récemment diplômé ingénieur en informatique de l’ENSI, spécialisé en ingénierie financière, je souhaite proposer ma candidature à M-TECH pour une première opportunité en junior software engineer.
 
-Mon PFE chez Linedata a porté sur la modernisation d'un produit financier à l'aide d'agents IA. J'ai travaillé sur la conception de workflows intelligents, les LLM/RAG et leur intégration dans un environnement logiciel, avec une attention particulière à la fiabilité d'un produit manipulant des informations financières. Je maîtrise également Python, Java, C++, les APIs, les bases de données et le développement full-stack.
+Mon PFE chez Linedata portait sur la modernisation d’un produit financier grâce à des agents IA. Je maîtrise Python, Java, C++, le développement full-stack, les bases de données, les API, le machine learning, Git et les principes CI/CD.
 
-Le sujet 2026 sur les LLM et la préservation des informations sensibles est particulièrement proche de mes intérêts. Je comprends néanmoins qu'il s'agissait d'un stage étudiant désormais terminé, tandis que le poste en IA distribuée est de niveau postdoctoral.
+La société est enregistrée en programmation informatique mais le registre indique zéro salarié et aucune présence de recrutement; le potentiel réel est très faible. Je suis basé en Tunisie et ouvert au travail à distance ou à la mobilité si le cadre le permet.
 
-Je souhaiterais simplement savoir si le LISTIC prévoit à l'avenir des contrats d'ingénieur de recherche junior accessibles à un jeune diplômé international déjà sorti de l'école. Je suivrai le portail officiel et ne candidaterai qu'à une ouverture adaptée.
+Je joins mon CV et serais ravi d’échanger sur un besoin junior actuel ou futur.
 
 Bien cordialement,
 Mohamed Oussema Bahloul
 
 **Invitation LinkedIn**
 
-Bonjour, jeune diplômé ingénieur ENSI, mon PFE portait sur les agents IA dans un produit financier. Les travaux du LISTIC sur les LLM, la confidentialité et l'IA distribuée correspondent fortement à mes intérêts. Je serais ravi de suivre vos futures opportunités junior.
+Bonjour, jeune diplômé ingénieur ENSI, mon PFE chez Linedata combinait agents IA et logiciel financier. L’activité de M-TECH correspond à mon profil Python, IA/Data et développement. Ravi d’échanger sur vos besoins juniors.
 
 **Message après acceptation**
 
-Bonjour, merci pour la connexion. Les stages 2026 du LISTIC étant terminés et le poste actuel étant postdoctoral, je ne candidate pas à tort. Je cherche plutôt un futur contrat d'ingénieur de recherche junior en IA/logiciel ouvert aux diplômés internationaux. Pourriez-vous m'indiquer la page ou l'équipe à suivre ?
-
----
-
-### LGIPM : Laboratoire de Génie Informatique, de Production et de Maintenance : université de lorraine france
-
-- **Pays :** France
-- **Adresse(s) source :** UFR MIM  Bâtiment A - 1er étage  3 rue Augustin Fresnel  57070 METZ Cedex
-- **Domaine :** Recherche en génie industriel, IA, optimisation, Data Science, systèmes de production et maintenance
-- **Correspondance :** 7.6/10 — Le laboratoire travaille sur l'IA, les sciences des données, l'optimisation et les systèmes de production; un stage récent y a utilisé LLM, LangChain, FastAPI et Streamlit. Le candidat possède une base pertinente, mais la plupart des voies sont académiques, étudiantes ou doctorales et aucune ouverture junior professionnelle actuelle n'est confirmée.
-- **Potentiel :** 31/100 — D — Faible priorité
-- **Métiers ciblés :** Ingénieur de recherche en IA/Data; Research Software Engineer; doctorant en IA/optimisation; stage Master 2 en LLM ou machine learning
-- **Ouverture aux juniors :** Oui, principalement stages et doctorats — Des étudiants tunisiens effectuent actuellement des stages IA/LLM au LGIPM. Les recrutements permanents/enseignants visibles exigent généralement un doctorat ou un statut académique avancé.
-- **Candidats étrangers/visa/relocation :** Non vérifiable — La présence d'étudiants internationaux démontre l'accès académique, pas le sponsoring d'un emploi. Aucune offre correspondante ne précise visa ou relocation.
-- **Offres actives :** Aucune offre d'ingénieur IA/logiciel junior au LGIPM confirmée ouverte le 2026-09-25. Les campagnes universitaires trouvées concernent des postes enseignants-chercheurs/doctoraux et ne correspondent pas à un jeune ingénieur recherchant un emploi logiciel immédiat — https://www.univ-lorraine.fr/travailler-a-l-ul/en/job-offers/.
-- **Contact :** Ons Rekik — Stagiaire/chercheuse actuelle au LGIPM sur un projet IA/LLM — contact de terrain, pas recruteuse
-- **LinkedIn :** https://fr.linkedin.com/in/ons-rekik
-- **Email :** Aucun email public de recrutement junior vérifié (josette.linder@univ-lorraine.fr figure dans le CSV mais son rôle actuel de recrutement n'a pas été confirmé. Utiliser le portail Université de Lorraine ou le formulaire officiel du laboratoire; ne pas envoyer automatiquement à cette adresse.)
-- **Canal officiel :** https://www.univ-lorraine.fr/travailler-a-l-ul/en/job-offers/ | https://lgipm.univ-lorraine.fr/contact/localisation
-- **CV conseillé :** `CV_ATS_EN.pdf`
-- **Sources :** https://lgipm.univ-lorraine.fr/contact/localisation | https://www.univ-lorraine.fr/travailler-a-l-ul/en/job-offers/ | https://doctorat.univ-lorraine.fr/fr/les-ecoles-doctorales/iaem/recrutement | https://fr.linkedin.com/in/ons-rekik
-- **Vérifié le :** 2026-09-25 — Vérifié — accueil de profils internationaux en stage, aucune ouverture d'ingénieur junior confirmée
-
-**Objet :** Candidature d'intérêt – futur contrat junior IA / logiciel de recherche
-
-**Email prêt à envoyer**
-
-Bonjour,
-
-Je suis récemment diplômé ingénieur en informatique de l'ENSI en Tunisie et souhaite manifester mon intérêt pour un futur contrat d'ingénieur de recherche junior au LGIPM autour de l'IA, des LLM, de la Data Science ou du développement logiciel scientifique.
-
-Mon PFE chez Linedata a porté sur la modernisation d'un produit financier à l'aide d'agents IA. J'ai acquis une expérience pratique de la traduction d'un besoin en workflows intelligents puis de leur intégration dans un produit existant. Je maîtrise Python, Java, C++, les APIs, les bases de données, le full-stack, le machine learning et les concepts LLM/RAG.
-
-Les projets du LGIPM associant intelligence artificielle, optimisation et systèmes réels correspondent à mon souhait de travailler sur des problèmes appliqués et mesurables. Je n'ai toutefois trouvé aucune offre junior actuellement ouverte et ne souhaite pas envoyer une candidature pour un poste inexistant.
-
-Je serais reconnaissant de savoir quel portail ou quelle équipe suivre pour un futur contrat accessible à un jeune ingénieur international, distinct d'un stage nécessitant encore le statut étudiant. Mon CV peut être transmis sur demande.
-
-Bien cordialement,
-Mohamed Oussema Bahloul
-
-**Invitation LinkedIn**
-
-Bonjour Ons, jeune diplômé ingénieur ENSI, mon PFE Linedata portait sur des agents IA. Votre expérience au LGIPM avec LLM, LangChain et FastAPI m'intéresse beaucoup. Je souhaiterais comprendre les voies d'accès du laboratoire pour un diplômé tunisien. Ravi de rejoindre votre réseau.
-
-**Message après acceptation**
-
-Bonjour Ons, merci pour la connexion. Je recherche un premier rôle IA/software et le LGIPM m'intéresse, mais je n'ai trouvé que des voies académiques. Pourriez-vous me dire si le laboratoire accueille parfois des ingénieurs de recherche juniors déjà diplômés, et quel encadrant ou portail suivre ? Je ne souhaite pas vous demander une recommandation RH inappropriée.
-
----
-
-### Gina Cody School of Engineering and Computer Science
-
-- **Pays :** Canada
-- **Adresse(s) source :** 1455 De Maisonneuve Blvd. W. EV-5.139 Montreal, QC  H3G 1M8 CANADA
-- **Domaine :** Université, recherche et enseignement en informatique, génie logiciel, cybersécurité et IA
-- **Correspondance :** 5.8/10 — Les domaines scientifiques correspondent à l'informatique, l'IA et la cybersécurité, mais l'organisme recrute surtout des enseignants-chercheurs, postdoctorants et étudiants déjà inscrits. Le candidat recherche un premier emploi d'ingénieur et ne possède pas encore le doctorat ou le statut étudiant Concordia requis pour la majorité des rôles.
-- **Potentiel :** 24/100 — D — Faible priorité
-- **Métiers ciblés :** Research Assistant en IA/logiciel; Research Associate; développeur de recherche; candidat Master/PhD financé en informatique ou cybersécurité
-- **Ouverture aux juniors :** Oui, principalement pour ses propres étudiants — Les assistantships et rôles TA sont réservés aux étudiants inscrits; la page CSSE indique qu'aucun Research Assistantship n'est ouvert. Les postes académiques exigent généralement un profil de recherche avancé.
-- **Candidats étrangers/visa/relocation :** Oui, sous conditions strictes — Concordia détaille une procédure de permis de travail pour certains recrutements internationaux, mais donne priorité aux citoyens/résidents permanents pour les postes académiques. Les postes à temps partiel exigent déjà la citoyenneté, la résidence permanente ou un permis ouvert; les assistantships exigent l'inscription comme étudiant.
-- **Offres actives :** Aucun Research Assistantship CSSE ouvert le 2026-09-25 — https://www.concordia.ca/ginacody/computer-science-software-eng/about/jobs.html. La page générale liste des opportunités de recherche dans d'autres disciplines et des admissions PhD/MASc en sécurité, mais pas un emploi junior logiciel/IA adapté — https://www.concordia.ca/ginacody/about/jobs.html.
-- **Contact :** Aucun contact RH LinkedIn actuel suffisamment fiable identifié — Utiliser l'équipe Talent de Concordia et le portail officiel
-- **LinkedIn :** https://www.linkedin.com/school/concordia-university/
-- **Email :** hr-employment@concordia.ca (Adresse de l'équipe Talent publiée sur la page officielle destinée aux candidats externes. reception@ece.concordia.ca du CSV est un accueil départemental et non un canal de recrutement.)
-- **Canal officiel :** https://www.concordia.ca/hr/jobs/openings/external-candidates.html
-- **CV conseillé :** `CV_ATS_EN.pdf`
-- **Sources :** https://www.concordia.ca/ginacody/about/jobs.html | https://www.concordia.ca/ginacody/computer-science-software-eng/about/jobs.html | https://www.concordia.ca/hr/jobs/openings/external-candidates.html | https://www.concordia.ca/provost/resources/new-hires/work-permits.html
-- **Vérifié le :** 2026-09-25 — Vérifié — aucune ouverture junior professionnelle adaptée; restrictions académiques et permis documentées
-
-**Objet :** Inquiry – Early-Career AI/Software Research Opportunities
-
-**Email prêt à envoyer**
-
-Dear Concordia Talent Team,
-
-I am a recent Computer Engineering graduate from ENSI in Tunisia with a specialisation in Financial Engineering. My final-year project at Linedata focused on modernising a financial software product with AI agents, and my background includes Python, Java, C++, full-stack development, databases, machine learning and generative AI.
-
-I reviewed the current Gina Cody School opportunities and understand that research assistantships are not presently open and that many teaching roles require current Concordia student status or an existing Canadian work permit. I am therefore not submitting an application for a role for which I am ineligible.
-
-Could you please advise whether externally recruited early-career research software, AI or cybersecurity positions are sometimes published through the Concordia Careers portal, and whether such positions may consider an international applicant requiring a work permit? I will continue monitoring the official portal and apply only to a matching opening.
-
-Thank you for your guidance.
-
-Kind regards,
-Mohamed Oussema Bahloul
-
-**Invitation LinkedIn**
-
-Hello, I am a recent ENSI Computer Engineering graduate interested in future AI/software research opportunities at Concordia's Gina Cody School. I understand current assistantships are mainly student roles and will follow the official portal for eligible openings. I would be glad to follow your network.
-
-**Message après acceptation**
-
-Hello, thank you for connecting. My background combines software engineering, AI agents and financial engineering. I am monitoring Concordia's official careers portal for an early-career research software/AI role open to external international candidates. If you know the appropriate team or alert to follow, I would appreciate your guidance.
+Merci pour la connexion. Je souhaite proposer mon profil junior à M-TECH. Pourriez-vous m’orienter vers l’équipe qui suit les besoins IA, Data ou développement logiciel ?
 
 ---
 
